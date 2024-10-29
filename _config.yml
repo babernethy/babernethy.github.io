@@ -164,7 +164,7 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 safe: true
-source: /Users/babernethy/repos/babernethy.github.io/
+#source: /
 excerpt_separator: "\n\n"
 incremental: false
 gist:
@@ -187,7 +187,7 @@ kramdown:
 
 # Sass/SCSS
 sass:
-  sass_dir: _sass
+  # sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
   quiet_deps: true
 
