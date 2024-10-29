@@ -1,0 +1,8 @@
+---
+title: 'Someone had to do it!'
+date: '2008-10-09T07:01:00+00:00'
+et_enqueued_post_fonts:
+    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
+---
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="304" width="384"><param name="width" value="384"></param><param name="height" value="304"></param><param name="flashvars" value="firstname=Bruce&lastname=Abernethy&urlfin=http%3A%2F%2Fwww.tsgnet.com%2Fpres.php?id=46832%26altf=Lfjui%26altl=Hjmmjpo%26lap=2"></param><param name="bgcolor" value="#000000"></param><param name="allowscriptaccess" value="always"></param><param name="src" value="http://www.paltalk.com/marketing/media/vanksen/main.swf"></param><embed allowscriptaccess="always" bgcolor="#000000" flashvars="firstname=Bruce&lastname=Abernethy&urlfin=http%3A%2F%2Fwww.tsgnet.com%2Fpres.php?id=46832%26altf=Lfjui%26altl=Hjmmjpo%26lap=2" height="304" src="http://www.paltalk.com/marketing/media/vanksen/main.swf" type="application/x-shockwave-flash" width="384"></embed></object>

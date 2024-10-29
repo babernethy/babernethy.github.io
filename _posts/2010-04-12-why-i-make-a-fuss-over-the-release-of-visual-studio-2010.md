@@ -1,0 +1,23 @@
+---
+title: 'Why I make a fuss over the release of Visual Studio 2010'
+date: '2010-04-12T00:33:17+00:00'
+dsq_thread_id:
+    - '369385244'
+et_enqueued_post_fonts:
+    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
+image: /wp-content/uploads/2011/07/vs2010.png
+---
+
+It is no secret that most of my friends and family are non-programmers. When a group of us get together “in real life” and I do find someone to talk technology with, we usually get the look of “oh they’ve gone off into the fantasy world of acronyms again, give them some space.” I even slipped with my kids this weekend and mentioned something like “oooh, this week Visual Studio 2010 and Silverlight 4 come out!!”, and they politely asked what that was and why I was acting something like a kid at Christmas. So here is the short answer.
+
+Every so often, programmers get an update of either their programming language, or their programming tools, or in this case BOTH. While programming can be quite technical, it is still largely a creative process. When writing new code you are creating something that did not exist before. Usually you are creating this new thing for a customer or a group of people who need it or want it to improve their business or organization. Software people sometimes use roles and titles from other crafts to describe what they do; some of us are “architects” or “engineers”. When working with Silverlight we use all kinds of terms from artists like Canvas, Pens, Brushes, Strokes, etc.
+
+So imagine you were in another creative craft such as painting. And every so often you not only got a fresh set of brushes, but you also got some new brushes that you never had before, that enabled new strokes and techniques on your new canvases. And a little less often you actually get new paints and even new colors that you never had before. When the perfect storm happens and you get new tools, canvases, paint, colors, and more, this is a very exciting time. This is a bit dramatic, but close to how I feel, especially when I am involved with a new project that actually needs some of these new tools and colors for what we are trying to do.
+
+### What are some of the new “tools and colors” in VS2010?
+
+Well two big things are the ability to develop custom applications for both Windows 7 and Windows Phone 7 – Windows 7 has been out for a while and now programmers can take full advantage of a lot of the new features of Windows 7. Windows Phone 7 will be out this fall and it basically a re-launch of the mobile phone platform for Microsoft. No one knows how well Windows Phone 7 will compete with the iPhone and the Android phones, but the new features are very compelling and it should be fun to see what we can build for the new phones.
+
+![silverlight-logo](http://www.bruceabernethy.com/wp-content/uploads/silverlight-logo.jpg "silverlight-logo") But the main thing that I’ve been looking forward to is Silverlight 4 and its integration with VS2010. Developing in Silverlight with Visual Studio 2008 has been possible and productive, but going along with the painting analogy here, it has kind of been like “fingerpainting” compared to other kinds of development. Now in VS2010, there is a full designer built in so you can preview and edit how Silverlight applications look and function right in the tool – this is nice. It is also now much easier to change the style of an entire application so all the text, graphics, data input, etc. all look and work the same. A big thing for me is enhancements to how animations and digital video can be streamed and manipulated in Silverlight. Far beyond a simple video player with “VCR” controls, we can now do things with video that could never be done before. There are a ton more new features and possibilities coming out, but you get the picture.
+
+So, in a nutshell, by Wednesday I will be actively using a bunch of new tools, brushes, and colors that I don’t have today (for production use) and be able to release applications that anyone on the Internet can use, which is why I am a little excited right now.

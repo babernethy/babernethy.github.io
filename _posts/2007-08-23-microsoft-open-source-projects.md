@@ -1,0 +1,35 @@
+---
+title: 'Microsoft Open Source Projects'
+date: '2007-08-23T06:43:04+00:00'
+et_enqueued_post_fonts:
+    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
+---
+
+*Some say that Open Source != Microsoft, and that they are even polar opposites. I disagree and this nice recap from the “Programming Resources’ blog basically proves that Microsoft Open Source Projects are alive and well. Below are nine of the projects I have used (on projects or at home – including my current Blog using BlogEngine.NET) and some that I need to check out. Find many more and the details at the original post. – Bruce*
+
+[\[Link – Most Active Open Source Projects in Codeplex – bayarsaikhan / Programming Resources, News and Ideas\]](http://www.plentyofcode.com/2007/08/most-active-open-source-projects-in.html)
+
+Ones I have used ….
+
+1. [AJAX Control Toolkit](http://www.codeplex.com/AtlasControlToolkit) – a collection of samples and components which make it easier than ever to build and consume rich client-side controls and extenders built on the Microsoft AJAX Library and ASP.NET 2.0 AJAX Extensions. The Toolkit provides both ready to go samples and a powerful SDK to simplify the creation and re-use of your own custom controls and extenders.
+2. [BlogEngine.NET](http://www.codeplex.com/blogengine) – a full featured blog engine targeted at .NET developers. It is light weight and very simple to modify and extend.
+3. [DocProject for Sandcastle](http://www.codeplex.com/DocProject) – drives the Sandcastle help generation tools using the power of Visual Studio 2005/2008 and MSBuild. Choose from various project templates that build compiled help 1.x or 2.x for all project references. DocProject facilitates the administration and development of project documentation with Sandcastle, allowing you to use the integrated tools of Visual Studio to customize Sandcastle’s output.
+4. [Coding4Fun Developer Kit](http://www.codeplex.com/C4FDevKit) – a collection of components, controls and samples in both Visual Basic and Visual C#. The features of the kit include a single installation file that provides users easy access off the Windows Start Menu to the documentation, sample executables and source code; a toolbox entry within Visual Studio for all components and controls for easy drag ‘n drop experience.
+5. [Facebook Developer Toolkit](http://www.codeplex.com/FacebookToolkit) – the original Facebook Developer Toolkit for the Microsoft Visual Studio Express Team. This project contains .NET wrappers to the Facebook API. Also, includes sample projects and controls. We are going to start by trying to maintain both the vb.net and C# code bases.
+6. [Ajax.NET Professional](http://www.codeplex.com/AjaxPro) – one of the first AJAX frameworks for Microsoft ASP.NET and is working with .NET 1.1 and 2.0. The framework will create proxy classes on client-side JavaScript to invoke methods on the web server with full data type support working on all common web browsers including mobile devices.
+7. [Power Toys Pack Installer](http://www.codeplex.com/PackInstaller) – one-stop download utility for all things power toys. Get latest releases and updates from just a single executable.
+8. [Facebook.NET](http://www.codeplex.com/FacebookNET) – a framework for creating Facebook applications in .NET. It is optimized for creating ASP.NET-based Facebook applications.
+9. [ASP.NET RSS Toolkit](http://www.codeplex.com/ASPNETRSSToolkit) – gives ASP.Net applications the ability to consume and publish to RSS feeds.
+
+Ones I need to check out ….
+
+1. [SharpMap](http://www.codeplex.com/SharpMap) – an easy-to-use map rendering and display engine, including AJAX-powered ASP.Net UserControl and a WinForm 2.0 control. You supply it with GIS data for use in web and desktop applications, and it generates eye-catching, useful maps. Written in C# 2.0.
+2. [IronPython](http://www.codeplex.com/IronPython) – a new implementation of the Python programming language on the .NET Framework. It supports an interactive interpreter with fully dynamic compilation. It is well integrated with the rest of the framework and makes all .NET libraries easily available to Python programmers.
+3. [umbraco](http://www.codeplex.com/umbraco) – a Content Management Platform (CMS) written in c# on the Microsoft .NET platform. It’s fast, flexible and with a user interface that makes it a charm to use.
+4. [TheBeerHouse](http://www.codeplex.com/TheBeerHouse) – CMS &amp; e-commerce StarterKit, an ASP.NET 2.0 website which features a layout with user-selectable themes, a membership system, a content management system for publishing and syndicating articles and photos, polls, mailing lists, forums, an e-commerce store with support for real-time credit card processing, homepage personalization, localization and more.
+5. [Vista Battery Saver](http://www.codeplex.com/vistabattery) – tinny program will save up to 70% of your battery by disabling those nice, but greedy Vista features. Running in task bar with private workset of 5.5M and 0% CPU it will do all work for you, by enabling and disabling customizable features when power source changed or battery power fall under certain percent.
+6. [Vista Virtual Desktop Manager](http://www.codeplex.com/vdm) – A virtual desktop manager made for Windows Vista using the new thumbnail APIs to create a live preview of all of your desktops.
+7. [DinnerNow.net](http://www.codeplex.com/DinnerNow) – a fictitious marketplace where customers can order food from local restaurants for delivery to their home or office. This sample application is designed to demonstrate how you can develop a connected application using several new Microsoft technologies, including: IIS7, ASP.NET Ajax Extensions, Linq, Windows Communication Foundation, Windows Workflow Foundation, Windows Presentation Foundation, Windows Powershell, and the .NET Compact Framework.
+8. [QuickGraph 2.0](http://www.codeplex.com/quickgraph) – provides generic directed graph datastructures and algorithms for them. It also comes with algorithms such as depth first seach, breath first search, shortest path, network flow etc…
+9. [iTunes 2.0 ](http://www.codeplex.com/iTunes2)– an online rich internet application. Using ajax.asp.net and silverlight im going to bring the iTunes experience completely online.
+10. [Blind Shark](http://www.codeplex.com/blindshark) – a musical game, where you have to find the music being played before your opponents.

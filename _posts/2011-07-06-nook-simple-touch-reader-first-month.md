@@ -1,0 +1,105 @@
+---
+title: 'Nook Simple Touch Reader &#8211; First Month'
+date: '2011-07-06T15:51:33+00:00'
+dsq_thread_id:
+    - '357996666'
+et_enqueued_post_fonts:
+    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
+image: /wp-content/uploads/2011/07/nooktouch.jpg
+---
+
+[  ](http://www.bruceabernethy.com/wp-content/uploads/2011/07/nooktouch.jpg)For Father’s Day this year I got a new Nook “Simple Touch Reader” so I have had it for about a month – time for a review. I figure it was time when the “battery warning” came on yesterday and it told me I was down to 20% of capacity, so I decided to charge it up. Going for a little over a month on the original 9 hour charge is one of the best aspects of this device.
+
+Getting right to the point, I am very happy with the overall performance and features of the Nook – the size, screen, user experience, format, battery life, price and storage capacity create a great package for casual and serious reading.
+
+## Books on my Nook
+
+[![](http://www.bruceabernethy.com/wp-content/uploads/2011/07/cooking-for-geeks-260x300.jpg "cooking-for-geeks")](http://www.bruceabernethy.com/wp-content/uploads/2011/07/cooking-for-geeks.jpg)In the month I have had the Nook, I have read several complete books on the device. A typical “Nook day” for me will start at 7:00am with some devotions and current events with the family (more on the news feeds and features a little later). Our summer “book club” has taken us through ***Penrod*** by Booth Tarkington, and now mid-way through ***The Princess and the Goblin*** by George MacDonald. After hearing a lot of chatter online, I “checked out” ***A Game of Thrones*** by George R.R Martin from the Kent District Library (KDL) / Midwest Collaborative for Library Services (MCLS). I also got ***How I Killed Pluto and Why It Had It Coming*** by Mike Brown, and ***SEAL Team Six*** by Howard E. Wasdin, mainly because I liked the titles, but also because I was curious about more background of recent events. I added some PDF study guides made from Word files for some Microsoft certification tests I am studying for as well (more on the lackluster PDF support of the Nook below as well). I added ***Born Standing Up: A Comic’s Life*** by Steve Martin because we were going to see his bluegrass band perform and I thought it would be interesting to go deeper into his life. And I am 27 weeks into a 44-week study of ***Systematic Theology***, so I bought the Nook version of the book (don’t have to carry the 1,200+ page tome around any more). Of the 10-12 books on my Nook, I have completed two, skimmed seven or eight, and am in process (and plan to finish) another three – two or three are just pretty book covers on my “Library” screen – so overall pretty typical for me.
+
+## Nook Features
+
+I have avoided this round of eReaders like the Kindle and previous Nooks because I thought they lacked some important features. Now with the new Nook I am going to try it out and see how well it works for me – can it replace print books for the majority of the reading that I do?
+
+#### Size
+
+The size of the Nook appealed to me, and has served me very well – it is about the size and thickness of a paperback book. I loaded an eBook reader on the iPod Touch and tried to read through a few chapters of a few books. The iPod was too small to really be good for text, and it was so thin that it really didn’t fit well in my hand for extended reading. The Nook has a “rubberized” feel to it, and the back has some ridges in it, that really enable it to be held and read for an extended period of time.
+
+#### Screen
+
+I’ll admit going back to a black and white screen seemed to be a big negative about the reader – especially when one of the Nook’s predecessors is the Nook Color. But now I am sold. The black and white contrast ratios (“distance” from black to white) on my old Apple Newton or Palm Pilot (which I brought out for comparison) are about what you’d find on some old dot-matrix printer on newsprint. These new “Pearl E Ink” displays are much more like a laser printer on nice white bond paper – as good, or better than most paperbacks and close to some hardcovers. I’m told the screen is “only” 167 pixels-per-inch (ppi), and laser printers are more in the 300-1200 dpi, but the resolution is really great to read as it is for an extended period of time, and the contrast ratio makes the text almost black and the background almost white.
+
+#### User Experience (UX)
+
+By getting rid of the keyboard and bottom button bar on the previous Kindle and Nook and going with a touch screen, the new Nook has maximized the screen for reading and created a very effective user interface. The applications that come with the Nook to help to buy books and read them have big “touchable buttons” and work well with the screen. You can turn a page by swiping/touching on the side of the page that you want to turn. Touching in the middle of the screen brings up an option bar at the bottom for more tools
+
+There are six smartly-placed physical buttons on the unit: the on/off button which is on the rear of the unit in the upper middle (no real risk of shutting things off unintentionally – in fact I don’t remember ever turning it off as it sleeps on its own), the “Nook” button in the bottom middle which brings up the main option bar at the bottom that allows you to go to the top-level pages, and four page turning buttons which aren’t as obvious on first look, but are my favorite and I use them constantly. The four buttons are in two pairs on either side of the unit. There is a slight ridge line for each button – one from the middle of the unit up and the other from the middle of the unit down. These are for page turning and are configurable (i.e. top goes to next page or to bottom page – your choice). For longer reading sessions it is nice to have these buttons there so you can hold the book in one hand and just “squeeze” a bit to turn the page. There is an inaudible “click” but one that you feel to know that the button has been pressed – just enough to know you did it right and keep from accidentally pushing it, but not enough to be annoying. I know some people turn pages with the touch screen, but I am all about the side buttons – very nice.
+
+**Format**
+
+[![](http://www.bruceabernethy.com/wp-content/uploads/2011/07/epub-logo3.png "epub-logo")](http://www.bruceabernethy.com/wp-content/uploads/2011/07/epub-logo3.png)I wanted an eBook reader that I could get access to the host of free eBooks available through the Gutenberg Project and other free eBook services. I also wanted to be able to “check out” books from our local KDL library. The Kindle primarily uses the “ePub” book format – as do the 25+ “other” [E-book Readers](http://wiki.mobileread.com/wiki/E-book_Reader_Matrix) out there – all but the Kindle which uses primarily the “mobi” book format. So, while the Kindle has many/most of the free eBooks available now in the “mobi” format, and some libraries have started carrying some books for the Kindle, the ePub format is still the most widely supported. This gap is closing quickly, but it is something that has been really useful to me so far.
+
+The other thing that is attractive about the ePub format is that it has some nice computer programming APIs available for it. All that means for me is that I can easily create ePub documents by writing computer software, which opens a world of opportunity going forward.
+
+#### Battery
+
+[![](http://www.bruceabernethy.com/wp-content/uploads/2011/07/nookbattery-150x150.jpg "nookbattery")](http://www.techrepublic.com/photos/cracking-open-the-2011-barnes-noble-nook-e-book-reader-wi-fi/6243892?seq=15&tag=thumbnail-view-selector;get-photo-roto)The claim from Barnes &amp; Noble was that you could get up to two months of battery life with the new Nook. I did the initial charge of the Nook with the charger to the wall, and it was only after about a month that it started complaining that it wanted a recharge at 20% capacity. I have, however, plugged the Nook on to the USB cable to load books and news feeds and I know that it does charge while connected, so I am sure it got some non-trivial electrons that way. I have also left the WiFi radio on continuously since I got the device so I know that drains the battery as well. My gut feel is that 2 months would really be a stretch, but that 3-4 weeks may be the reality – which is really a huge improvement over tablet and phone type devices.
+
+My one beef about the battery is that it has followed the Apple model of being not easily end-user maintainable. All batteries lose power and capacity over time so it’d be nice to be able to change the battery fairly easily. There are kits available online for $15-30 with videos and the tools necessary to complete the “operation” – but it can be uncomfortable for end-users to have to “crack” the case, remove ribbon cables, and see circuit boards/screen in order to change the battery.
+
+#### Memory / Expansion
+
+The Nook comes with 2 Gb of internal storage, which (ironically) doesn’t sound like much, until you realize that the average ePub book is about 200-400kb so that is thousands of books on the device. But, just in case there are new and different things to do with the Nook that are an order of magnitude bigger than current eBooks, the Nook also has a mini-SD slot that will take up to 32Gb of additional storage. This is more books than you have ever read, and ever will read. The base memory is nice, and the user-enabled expansion is overkill.
+
+#### Price
+
+The base price of the new reader came out at $139, which had the nice side-effect of sending the smaller Kindle down to this price point as well. They are still probably marking up this device 50%-75% from the production cost. I know “value” as perceived by consumers is largely price-based. So while they could probably sell the Nook at $99 and still make a nice profit, people might perceive it as being a “cheap” eBook and buy a more expensive competitor (strange but true). If they can get the Nook down to $99 using some deal, or rebate, or coupon for Christmas, I think they could be a run-away bestseller.
+
+## Needs To Improve
+
+#### PDF
+
+[![](http://www.bruceabernethy.com/wp-content/uploads/2011/07/pdf-file-logo-icon-150x150.jpg "pdf-file-logo-icon")](http://www.bruceabernethy.com/wp-content/uploads/2011/07/pdf-file-logo-icon.jpg)I want/need good PDF support on the Nook if I ever hope for it to replace some of the things I do with self-published documents (e.g. agendas, reports, reference materials), and PDF is the dominant formatted document format on the web. The current rev of the Nook software (1.0.0) has very underwhelming support for PDF. If the PDF is just basic text, the built-in reader does a fair job of scaling and paging through the content. If there are full-screen pages with a mixture of text and images it either renders them too small to see (with no easy zoom) or fails to render them completely. I tried loading some schedules for local art and music festivals onto the device, which I could read fine on my computer at home, and they would not even render on the Nook.
+
+The good news here is that there are better PDF-readers already working on the Nook, but you have to “root’ the device and install an alternative version of Android (the base operating system of the Nook) on the Nook to add other native Android applications (several of which are more full-powered PDF readers). So this is something that Barnes &amp; Noble could (and should) fix if enough people remind them that they need to do this soon. The Nook has plenty of horsepower to do a much better job of PDF rendering.
+
+#### Search Speed
+
+I tried a few times to search for a key word or phrase in the *Penrod* book during a book club discussion – thinking it would search “close” to the page I was on and show me where the word was used. Instead the reader took 30+ seconds to search the entire text of the book and show me every usage of the word(s) throughout the entire book. Not only did this take way too long (having written search algorithms on far bigger sets of data on lesser-powered machines) but it ended up not being helpful at all as I lost the context of the page that I was on and had to page through the search results. With the extra space on the device, it could index the contents and store the results to provide a “nearest found” search result, much faster, with the option for the complete search as well.
+
+#### Annotations
+
+Using the touch screen you can put-and-hold your finger on any word to select the word. Then you have the option to get a quick dictionary definition (works very nice), leave a “highlight” on the word, or add a note (with a surprisingly responsive pop-up keyboard). But selecting a phrase or sentence is quite difficult. You are supposed to grab one of the “handles” at the end of the highlight and drag it to the end of the content, which inevitably end up with extra letters at the end or too few selected. It would be nice if there was a way to “draw” on the page and circle and annotate the book for future review and reference. They could even sell a stylus that would react to the touch-screen technology (like they have for the iPad) that serious markup/annotators could use when reading.
+
+#### Screen Refresh
+
+The upside of the Nook E Ink screen is that it only really uses battery/energy when the screen is updated – otherwise the image stays put. To fully update the screen, it looks like the screen is blacked out, and then whited out, and then redrawn with the new text (kind of like erasing an Etch-a-Sketch). The downside of this is a lot of flicker (which I am told is much better than previous versions, but it is still noticeable and takes away from the experience). They try to get around this flicker by only fully redrawing the screen every 5-6 screen draws. What this does is leave a faint “ghosting” of the previous content on the screen – barely noticeable unless the previous page was significantly different, but still there. This speeds things up but can cause “artifacts” on the screen. I thought it was more like “burn in” when I saw the faint image of a button from the home screen on some subsequent pages. But then it went away when I had gone far enough ahead.
+
+#### Battery
+
+As before, I want to be able to have a spare/charged battery and/or be able to change the battery myself. My iPod Touch is down to about 3 hours of battery life now and Apple wants $75 to have them change the battery – techno-extortion is not nice.
+
+#### “In Store Experience”
+
+[![](http://www.bruceabernethy.com/wp-content/uploads/2011/07/bnstore-150x150.jpg "bnstore")](http://www.bruceabernethy.com/wp-content/uploads/2011/07/bnstore.jpg)One of the selling points of the Nook is supposed to be that you can bring it into one of their “brick &amp; mortar” stores and read books for free and get a bunch of incentives. Another benefit to the store experience is the idea that there would always be someone at the store at the “Nook desk” to help people, give advice, and answer questions. I must have hit a bad day last week when I swung by the Woodland Barnes &amp; Noble store. The Nook wouldn’t connect to the in-store network – it would connect to the bar next store, but then the Nook would immediately drop that network because it saw the Barnes &amp; Noble network (I guess the store wireless network gets top priority when it appears – which is unfortunate because the bar network was working but the B&amp;N one was not). So I went and talked to the “Nook Lady”. Turns out that they haven’t had any of the new Nooks in stock at the store so she hadn’t really had time to use the new ones (even though there were some demo units on the front of the counter). She didn’t really know much about the new unit and couldn’t help me get connected. So this aspect was a bit disappointing, but I will try again if I am in the area.
+
+## Missing Features
+
+#### Text-To-Speech / Audio?
+
+One of the thing my old Newton did with text/books/formatted text was a basic text-to-speech (TTS) (and that was 18 years ago). Sure it sounded like the[![](http://www.bruceabernethy.com/wp-content/uploads/2011/07/talking_moose1.jpg "talking_moose")](http://en.wikipedia.org/wiki/Talking_Moose)[ Talking Moose](http://en.wikipedia.org/wiki/Talking_Moose) but that was OK. The Kindle has a basic “read a book to you” ability, which is a nearly common set of functionality nowadays. The Nook has no headphone jack or speaker, and will not play audio books (though it certainly has enough space, enough power, and an operating system that would support it. So to leave audio and TTS off of the Nook is a design choice – to focus on the readability of books and really very little else. This is a “missing feature” but I am not sure that I miss it that much. I have an iPod and a phone that plays MP3s, and I like to read books (which is why I got the Nook).
+
+#### Color?
+
+If you had a TV that “went back” to black and white that would be quite silly – same with just about any other technology. The iPad screen and iPhone screens are very nice, and the Nook Color is a great and inexpensive tablet. They can play games and people do read books on the iPad (even if the eye strain is measurably more intense over a period of time). I think the problem here is two things: (1) glare/outdoor reading and (2) battery life. I have read my Nook in direct sunlight with sunglasses on and it works like a charm – other people who stopped to look were really amazed. Many people couldn’t even see their cell phones in the direct sun. It is a great screen in all lighting conditions (except dark in bed) and from just about any angle. Also a backlit and full-color screen uses a great deal of power and causes such devices to need daily recharges – a fact I really appreciate about the Nook. There are some great E Ink Color Screen like the [Mirasol screen](http://www.mirasoldisplays.com/demo), but they aren’t in real production yet. Maybe when those screens hit prime time we’ll see a nice color E-book Reader.
+
+#### RSS / News Reader / Browser
+
+There is a “hidden” browser on the nook – just type in something that looks like a web address (e.g. bn.com) and it will open in a browser that works via the wifi connection. The browser is really bad. There is a reason it isn’t obvious. If a web site has a functional mobile-formatted web site, then it has a chance of working. If not, most of the time you get a blank white screen. I read daily news in the morning and it would sure be nice to have a set of web sites that were set up to work with the Nook browser. I know the main “point” of the Nook for B&amp;N is to sell books, and even subscriptions, and “free online news” goes against this goal. But it’d be nice. In the same vein as the better PDF reader available if you hack/root your Nook. There are several much better browsers available for Android that could be adapted for the Nook. I am going to leave the Nook “stock” for a while, but if there isn’t progress on the PDF and Browser / Reader front then I might be tempted to try out some of the alternate operating systems.
+
+#### Calibre
+
+[![](http://www.bruceabernethy.com/wp-content/uploads/2011/07/calibre-logo.png "calibre-logo")](http://calibre-ebook.com/)This will probably be another post entirely – as this review is already 2-3x too long. But I have to mention the[ Calibre software](http://calibre-ebook.com/) for your personal computer. Calibre handles a bunch of the issues I mentioned in this review and adds an entire new dimension to the Nook (and other E-book Readers). It will help you to find free books, download them, catalog them, transfer them to your Nook. It will also subscribe to any syndicated news feed or blog on the internet and will automatically grab them on a scheduled basis (and move them to your Nook). This has really be a lifesaver for me in the news area and I am using it to catalog the literally hundreds of public domain books that are available online.
+
+## Final Thoughts
+
+It is still early to be able to give it a full recommendation, but the first month with the Nook has been really positive. I want to do some experiments with the ePub library and create some online reports and materials that work well with the Nook. The Nook has replaced many of my book needs and has great potential. I look forward to news and updates from Barnes &amp; Noble that might fill in some of the gaps that the 1.0.0 version has. I’ll keep you updated.

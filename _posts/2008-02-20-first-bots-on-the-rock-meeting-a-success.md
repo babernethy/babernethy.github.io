@@ -1,0 +1,16 @@
+---
+title: 'First &quot;&#8217;Bots on the Rock&quot; Meeting a Success!'
+date: '2008-02-20T01:24:57+00:00'
+et_enqueued_post_fonts:
+    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
+---
+
+[![botrfirstmeeting](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/FirstBotsontheRockMeetingaSuccess_8468/botrfirstmeeting_thumb.png)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/FirstBotsontheRockMeetingaSuccess_8468/botrfirstmeeting_2.png) Well we had our first [‘Bots on the Rock](http://www.botsontherock.org/) (LEGO Robotics club) meeting last night and things seemed to go really well, all things considered. We didn’t advertise or promote the first meeting in any way, and fought some pretty nasty weather, and still ended up with 11 kids and assorted parents (who seemed to get into it as much as the kids).
+
+We got through [everything we planned](http://www.botsontherock.org/Meeting%20Plan%2020080219.ashx) which included some organizational information and general welcome, a few individual and group exercises to get in the mood/mindset of robotics programming and then got on to our first “mission” which was the rescue of some stranded LEGO people across an expanse, without hitting the mines in the minefield (of course). The kids worked in groups of two with parents getting into it as well. We had 6 robots sharing 3 laptops, but everyone was able to go through several revisions of their robots and programs and complete the mission successfully before we ended for the night.
+
+Ron came through with a great room with a projector and space to set up, and also got two LEGO NXT kits for those to use who don’t have a robot of their own. Dan did a great quick assembly of an FLL regulation LEGO table. I collected some activities and ideas to get started. It all came together, and even ended on time (started 15 minutes late, but we were assembling things until the last minute).
+
+We’ll start promoting a little now and have our next meeting March 4th. I expect there to be perhaps double the people next time. We’re talking about having two rooms instead of one. That way we can have one room to kickoff the meeting and then instruct and give more help to those who need it, and let the experienced folks get right to work in the other room. We may end up needing a second table-top, but those are the good kinds of problems to have.
+
+The real trick will be to keep things going now and always have the possibility of having brand new people who are starting from scratch combined with those who have been programming and competing with robots for years.

@@ -1,0 +1,24 @@
+---
+title: 'Silverlight IRL &#8211; Requests'
+date: '2008-10-15T23:00:19+00:00'
+et_enqueued_post_fonts:
+    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
+---
+
+This is the first in a series of posts that I promised to do after my presentation to the User Group on Tuesday. These will be details, link and some sample code. I am in the process of making sure my code samples are functional under the release version of Silverlight 2.0 RTW – this should be done by Monday (getting the paying/work projects moved over first, and it is going really well).
+
+Since the Microsoft Professional Developers Conference is getting underway in about 10 days, and Silverlight released well in advance of that, I figured it would be a good time to get some requests in for the next version(s) of Silverlight. To put this in context for those not in attendance, most of the work I’ve been doing in Silverlight is in the health care and medical fields, with a side project of some Bible quiz games, a jukebox and flashcards.
+
+\#1) **Microphone and WebCam Support:** Doctors don’t like to type, and while this is a generalization, dictation services are still doing very well in the market. To support "digital dictation" I really need an ability to record and transfer digital audio files from Silverlight down to the server. Add in web cam support as well and the kids can upload an avatar picture to personalize their account a bit as well.
+
+\#2) **Cross-device as well as cross-browser:** several of the doctors and company owners that we deal with regularly are proud iPhone owners. Kids have their iPods, Zunes, and XBOXes. Doctors are moving to pen-based tablet-based devices (sometimes PCs, sometimes not) to carry from room to room. Less and less people are sitting down at a computer to do their work or entertainment. We need to be able to target portable devices and game consoles with Silverlight applications.
+
+\#3) **Full keyboard support for full-screen applications:** Come on! Do you really have to disable all but a handful of "popular gaming keys" when the application goes to full-screen mode. Isn’t there another way to keep people "safe" from deceptive Silverlight apps? This takes away the ability for data-entry and full-screen apps for educational purposes.
+
+\#4) **Improve the tools and error messages:** This is evolutionary, but to develop now you really need both Blend and Visual Studio 2008 (neither has critical features of the other (e.g. Intellisense, template support)). And some of the error messages are so cryptic, and can mean so many different things, that they mine as well just be "Syntax Error" (actually that is even more useful in some cases). I am sure these are things that will come with time, but they do point to an immature system.
+
+\#5) **More native controls:** But I hear that there may be announcements to this effect even in the next few weeks. The native (i.e. available in the plug-in or Microsoft-supplied .dll) controls for Silverlight have gone from literally nothing (i.e. make your own textbox) up to a respectable starter set of common controls (better than ASP.NET at launch). But I always want more. Some of my top requests (e.g. autocomplete, tree, expander, etc.) have already been announced as controls to be released coming weeks. These will allow for some really great user experiences without a lot of expensive and lengthy time being spent on low-level user-interface work.
+
+***\[Updated – forgot one\]*** #6) **Offline and/or out-of-browser execution:** This goes away from the traditional use of a "browser plug-in", but it would be great if the Silverlight code could be used while offline (yes there are places without wireless connectivity). Also, the ability to (optionally) "install" the application so it can run in its own window with a shortcut, icon, etc. would be really useful- ala Chrome application settings and Adobe AIR. I guess you could get this functionality today by using Chrome to view the Silverlight page and saving it as an application with settings, but it would be best if Silverlight could do this natively without a particular browser.
+
+More coming soon, and I’ll post the PowerPoint stack as well – [here is a link to the pptPlex site with downloads](http://www.officelabs.com/projects/pptPlex/Pages/default.aspx) for those who were interested in trying out that cool PowerPoint plug-in.
