@@ -264,7 +264,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-
+  category:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -309,3 +311,8 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  - scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
