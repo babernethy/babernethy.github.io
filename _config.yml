@@ -15,9 +15,9 @@ title_separator          : "-"
 subtitle                 : "Thoughts on software development, leadership, and life."
 name                     : "Bruce Abernethy"
 description              : "Blog of Bruce Abernethy - Software developer, director, dad, and husband.  Ocassional writer, speaker, and teacher."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.bruceabernethy.com
 baseurl                  : "/"
-repository               : https://www.bruceabernethy.com
+repository               : 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/cropped-square_icon-1.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Bruce's Blog" # overrides the website title displayed in the masthead, use " " for no title
