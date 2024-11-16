@@ -3,11 +3,8 @@ title: Mueller “Netyksho” Indictment — an InfoSec Perspective
 description: >-
   This isn’t a political post — I think you can find enough of those online from
   whatever perspective you like the best. But the most recent…
-date: '2018-07-18T01:23:32.389Z'
 categories: []
 keywords: []
-slug: >-
-  /@bruce-abernethy/mueller-netyksho-indictment-an-infosec-perspective-98e7cc287818
 ---
 
 ![Image](/assets/images/1__fp6Vp2qS3RnJCH7ElLrSqQ.png)

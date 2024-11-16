@@ -1,11 +1,8 @@
 ---
 title: The Case for Flutter — Mobile-Oriented Architecture
 description: This is the second post in a series on “The Case for Flutter”
-date: '2018-07-12T01:16:12.608Z'
 categories: []
 keywords: []
-slug: >-
-  /@bruce-abernethy/the-case-for-flutter-mobile-oriented-architecture-adbafa8a18f1
 ---
 
 ![Image](/assets/images/1__8Vnv9__PqjUdC5jGiDh8ghQ.png)

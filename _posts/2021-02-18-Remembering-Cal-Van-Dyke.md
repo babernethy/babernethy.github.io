@@ -1,10 +1,8 @@
 ---
 title: Remembering Cal Van Dyke
 description: “Not Cal”
-date: '2021-02-18T11:08:10.391Z'
 categories: []
 keywords: []
-slug: /@bruce-abernethy/remembering-cal-van-dyke-65b033791139
 ---
 
 ### “Not Cal”

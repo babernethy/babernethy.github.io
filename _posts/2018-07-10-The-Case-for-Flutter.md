@@ -3,10 +3,8 @@ title: The Case for Flutter
 description: >-
   I am really encouraged by the feedback and ongoing questions and conversations
   after my talk a few weeks ago on my investigations into…
-date: '2018-07-10T15:49:56.842Z'
 categories: []
 keywords: []
-slug: /@bruce-abernethy/the-case-for-flutter-72af3f2df8bb
 ---
 
 ![Image](/assets/images/1__s3sUODGF4kYwbMUbgulPPA.png)

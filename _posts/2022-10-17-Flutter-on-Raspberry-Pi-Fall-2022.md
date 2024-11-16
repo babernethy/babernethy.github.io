@@ -3,10 +3,8 @@ title: Flutter on Raspberry Pi — Fall 2022
 description: >-
   I didn’t see this all together in one place elsewhere, so wanted to compile
   and share.
-date: '2022-10-17T16:28:19.709Z'
 categories: []
 keywords: []
-slug: /@bruce-abernethy/flutter-on-raspberry-pi-fall-2022-ac0766839b92
 ---
 
 I didn’t see this all together in one place elsewhere, so wanted to compile and share.

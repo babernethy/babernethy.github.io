@@ -1,11 +1,8 @@
 ---
 title: The Case for Flutter — Mobile Meta Apps
 description: This is the third post in a series on “The Case for Flutter”
-date: '2018-07-16T20:33:49.614Z'
 categories: []
 keywords: []
-slug: >-
-  /@bruce-abernethy/this-is-the-third-post-in-a-series-on-the-case-for-flutter-1ab6849a8802
 ---
 
 ![Image](/assets/images/1__8Vnv9__PqjUdC5jGiDh8ghQ.png)

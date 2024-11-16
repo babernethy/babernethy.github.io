@@ -3,10 +3,8 @@ title: “Knob and Tube”
 description: >-
   The first adventure comes from the world of electricity. In the olden days,
   well at least before World War II, electricity had less of the…
-date: '2020-09-22T23:03:21.927Z'
 categories: []
 keywords: []
-slug: /@bruce-abernethy/knob-and-tube-383246a0a051
 ---
 
 ![Image](/assets/images/1__I7IPsNDw9x__tIdBknkGc1g__2x.jpeg)

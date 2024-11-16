@@ -1,10 +1,8 @@
 ---
 title: 'Laborer, Craftsman, and Artist'
 description: 'What does it mean to be a Software Laborer, Craftsman, or even Artist?'
-date: '2023-09-13T20:51:41.231Z'
 categories: []
 keywords: []
-slug: /@bruce-abernethy/laborer-craftsman-and-artist-d1f213e01cad
 ---
 
 ![Image](/assets/images/1__NBwDVOGPR0bxnBJmYncV4w.png)

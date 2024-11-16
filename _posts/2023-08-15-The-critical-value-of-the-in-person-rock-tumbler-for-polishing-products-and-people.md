@@ -5,11 +5,6 @@ title: >-
 description: >-
   One of the ongoing debates of our time is remote work versus in-person versus
   a hybrid approach.
-date: '2023-08-15T20:41:15.842Z'
-categories: []
-keywords: []
-slug: >-
-  /@bruce-abernethy/the-critical-value-of-the-in-person-rock-tumbler-for-polishing-products-and-people-d29122d1663a
 ---
 
 ![Image](/assets/images/1__bC2j8o1WTJauxaK7kgzIqw.png)
