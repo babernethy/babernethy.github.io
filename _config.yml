@@ -82,11 +82,13 @@ social:
     - https://twitter.com/
     - https://github.com/
 
-# Analytics
+
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider: "google-gtag"
   google:
-    tracking_id          :
+    tracking_id: "G-LBTWEP7R6Z"
+    anonymize_ip: false # default
+ 
 
 
 # Site Author
