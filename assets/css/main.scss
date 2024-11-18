@@ -46,7 +46,11 @@ a {
 }
 .link-image {
     max-height: 100px;
-    margin: 0px 20px 0px 0px;
+    width:100px;
+    height:100px;
+    margin: 12px 20px 0px 0px;
+    border-radius: 4px;
+    background-size: cover
 }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
