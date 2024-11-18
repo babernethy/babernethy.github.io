@@ -72,7 +72,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/bio-photo.jpg"
+og_image                 : "/assets/images/bio-photo.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -92,7 +92,7 @@ analytics:
 # Site Author
 author:
   name             : "Bruce Abernethy"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.png"
   bio              : "Software developer, director, dad, and husband.  Ocassional writer, speaker, and teacher."
   location         : "Grand Rapids, MI, USA"
   links:
