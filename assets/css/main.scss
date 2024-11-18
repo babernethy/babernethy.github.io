@@ -5,7 +5,30 @@ search: false
 
 @charset "utf-8";
 
-$link-color: red;
+// $link-color: red;
+$info-color                 : #03a9f4 !default;
+$link-color: mix(#000, $info-color, 20%) !default;
+$link-color-hover: mix(#000, $link-color, 25%) !default;
+$link-color-visited: mix(#fff, $link-color, 15%) !default;
+
+
+a {
+    &:focus {
+      @extend %tab-focus;
+    }
+  
+    &:visited {
+      color: $link-color-visited;
+    }
+  
+    &:hover {
+      color: $link-color-hover;
+     // outline: 0;
+    }
+
+    text-decoration: none; padding-bottom: 1px; border-bottom: 1px solid #8d8df3;
+    text-decoration-color: var(--vivid-vivid-02, #207DE9);
+  }
 
 
 .link-content {
