@@ -3,10 +3,8 @@ title: The Seven Stages of Job Satisfaction
 description: >-
   The mental stages job seekers go through over time, and the main factors that
   influence movement and decisions.
-date: '2024-11-13T18:28:03.543Z'
 categories: []
 keywords: []
-slug: /@bruce-abernethy/the-seven-stages-of-job-satisfaction-391c99a68862
 ---
 
 At times in my career, I have been blessed to be “In The Zone” and seemingly working in my sweet spot — my “dream job.” Doing exciting and fulfilling things with other amazing people, having success, and meeting my personal and professional goals. But seasons change, challenges come, and I develop a “Wandering Eye,” or in a few cases, had to change as the job was changing or ending.
