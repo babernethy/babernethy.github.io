@@ -1,5 +1,5 @@
 ---
-title:  "Interesting Links for the Week of Monday, November 11, 2024"
+title:  "Crack the Code"
 date: 2024-11-18
 categories: links
 header:
