@@ -1,10 +1,15 @@
 ---
 title: 'M4 Mac, Ollama, and Mandelbrot Sets'
-description: Local AI/LLM goodness for Developers
-date: '2024-11-13T15:08:47.997Z'
-categories: []
-keywords: []
+description: 'Local AI/LLM goodness for Developers'
+excerpt: 'Local AI/LLM goodness for Developers'
+category: 'development'
+keywords: ['AI', 'development', 'fun', 'tech']
+comments: true
+header:
+  teaser: /assets/images/1__GEQyrbALYNw8S6ioVsJsMQ.png
+  tagline: 'Local AI/LLM goodness for Developers'
 ---
+
 
 I was trying to think of how to put a new home machine through some stress testing to see how fast the processors really are, and what types of features are enabled by that power. My mind immediately went to two things.
 

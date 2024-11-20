@@ -1,17 +1,25 @@
 ---
 title: 'The Dreyfus Model of Skills Acquisition'
-date: '2007-08-18T07:29:00+00:00'
 dsq_thread_id:
     - '360364531'
-et_enqueued_post_fonts:
-    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
+excerpt: 'The skill levels people go through - from Advanced Beginner, to Competent, to Expert, and Master.'
+description: 'The skill levels people go through - from Advanced Beginner, to Competent, to Expert, and Master.'
+category: 'jobs'
+tags: [ 'popular', 'jobs', 'thinking']
+comments: true
+toc: true
+header:
+  teaser: /assets/images/dreyfus-model-cover.png
+  tagline: 'The skill levels people go through - from Advanced Beginner, to Competent, to Expert, and Master.'
 ---
 
 OK, this post will be a little “heady” for a Saturday morning but I want to reference this topic for some other work I am going to do this fall. I am planning to do some non-trivial work to get some resources and links online to help kids get into doing projects and learning about things like physics, space science, and robotics/electronics – things if you know me, you know I’ve been into for a long time. The problem with the way kids learn about these topics nowadays is that it is mostly abstract, in theories, reading, or just “on paper.” To really learn more than trivia and facts about these topics you really need to “do” things with the science, not just learn things “about” them.
 
 There are several articles or models from people that really affect the way I am going to approach things, and have impacted my thinking about the approach to learning things. I’ll hit each of them separately and then pull them all together later as kind of an approach for what I am going to try. None of these articles or their ideas should really come as a surprise to anyone – they make sense when you read them. But the authors do a great job of describing things in a depth and detail that I never could.
 
-The first article and model is the Dreyfus Model – which is based originally on a report by Hubert Dreyfus and Stuart Dreyfus in the early 80s called “*A Five-Stage Model of the Mental Activities Involved in Directed Skill Acquisition*.” I’ll try to link to the study itself which is in a [doc=GetTRDoc.pdf” target=”\_blank”&gt;PDF file](<http://stinet.dtic.mil/cgi-bin/GetTRDoc?AD=ADA084551&Location=U2&<script type=>) (scanned in [mirror 783k](/mirror/dreyfusdoc.pdf)) – don’t read it yet, just follow along here for a minute.
+![Image](/assets/images/dreyfus-model-cover.png)
+
+The first article and model is the Dreyfus Model – which is based originally on a report by Hubert Dreyfus and Stuart Dreyfus in the early 80s called “*A Five-Stage Model of the Mental Activities Involved in Directed Skill Acquisition*.” I’ll try to link to the study itself which is in a (scanned in [mirror 783k](/assets/mirror/dreyfus-model.pdf)) – don’t read it yet, just follow along here for a minute.
 
 This study was prepared initially for the Air Force Office of Scientific Research for the training of pilots, but its model and purpose has been used effectively for training everyone from pilots, to nurses, to chess players, foreign language learners, and even computer programmers (Google “Dreyfus Model” <http://www.google.com/search?q=dreyfus+model> and will see lots of different results of people using it (and some people arguing against it)). I like it, so I am going to use it.
 

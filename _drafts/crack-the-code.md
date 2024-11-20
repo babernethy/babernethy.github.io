@@ -1,4 +1,18 @@
+---
+title:  "Interesting Links for the Week of Monday, November 11, 2024"
+date: 2024-11-18
+categories: links
+header:
+  teaser: /assets/images/crack-the-code-original.png
+categories: ["development", "flutter"]
+keywords: []
+toc: true
+comments: true
+---
+
 Inspired by a Brain Teaser from a few weeks ago … got a brain-worm to “sove this in code” …
+
+![Image](/assets/images/crack-the-code-original.png)
 
 # Donald Knuth Algorithm (1977) - the “5 guess” algorithm
 
