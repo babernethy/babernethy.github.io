@@ -5,6 +5,7 @@ description: >-
   influence movement and decisions
 categories: []
 keywords: []
+comments: true
 ---
 
 ![Image](/assets/images/dark-eyed-junco.jpg)
