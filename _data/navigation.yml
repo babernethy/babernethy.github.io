@@ -1,12 +1,12 @@
 main:
   - title: "Popular"
-    url: /popular/
+    url: /popular
   - title: "Posts"
     url: /year-archive/
   - title: "Links"
-    url: /links/
+    url: /links
   - title: "Categories"
-    url: /categories/
+    url: /categories
   - title: "Tags"
     url: /tags/
   # - title: "Pages"
