@@ -1,6 +1,6 @@
 main:
   - title: "Popular"
-    url: /popular
+    url: /popular.html
   - title: "Posts"
     url: /year-archive/
   - title: "Links"
