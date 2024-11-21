@@ -1,6 +1,6 @@
 ---
 title: Links
 layout: category
-permalink: /links/
+permalink: /categories/links/
 taxonomy: links
 ---

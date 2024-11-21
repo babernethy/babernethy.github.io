@@ -4,7 +4,7 @@ main:
   - title: "Posts"
     url: /year-archive/
   - title: "Links"
-    url: /links
+    url: /categories/links
   - title: "Categories"
     url: /categories
   - title: "Tags"

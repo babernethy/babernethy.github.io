@@ -6,9 +6,11 @@ category: 'jobs'
 tags: [ 'popular', 'jobs', 'thinking']
 comments: true
 header:
+  overlay_color: "#333"
   teaser: /assets/images/1__yhN__HoiuXBt2ir27AYSb1Q.png
   tagline: 'The mental stages job seekers go through over time, and the main factors that influence movement and decisions.'
 toc: true
+breadcrumbs: true
 ---
 
 At times in my career, I have been blessed to be “In The Zone” and seemingly working in my sweet spot — my “dream job.” Doing exciting and fulfilling things with other amazing people, having success, and meeting my personal and professional goals. But seasons change, challenges come, and I develop a “Wandering Eye,” or in a few cases, had to change as the job was changing or ending.

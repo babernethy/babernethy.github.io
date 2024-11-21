@@ -15,6 +15,8 @@ After doing some research on things that are available today, I decided to move 
     * meta tagging for different social media and community sites
     * robust RSS feeds built with rich support data
 * Build posts in Markdown format which is very compatible with other simply styled documents I'm alerady writing
+* Comments are nice - to enable conversations
+* Basic post analytics - what to write more about 
 
 # Static Rendered Content
 
