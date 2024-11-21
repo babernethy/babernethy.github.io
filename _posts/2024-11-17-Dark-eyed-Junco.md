@@ -5,6 +5,7 @@ description: "A new bird visitor that winters in Michigan - the Junco"
 category: "nature"
 tags: ["nature", "birds"]
 comments: true
+toc: true
 header:
   teaser: /assets/images/dark-eyed-junco.jpg
   tagline: "A new bird visitor that winters in Michigan - the Junco"

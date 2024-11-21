@@ -1,7 +1,8 @@
 ---
 title: 'Post from the Road'
 date: '2007-08-03T02:04:00+00:00'
-categories: [blog]
+category: blog
+tags: ["blog", "mobile"]
 header:
   teaser: /assets/images/jottlogo.jpg
 ---

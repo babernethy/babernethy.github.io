@@ -3,7 +3,8 @@ title: 'Wii Physics &#8211; Measure your 0-60 time with a Wiimote'
 date: '2007-07-30T08:53:00+00:00'
 dsq_thread_id:
     - '372502883'
-categories: ["science", "physics"]
+category: "physics"
+tags: ["science", "physics", "fun"]
 header:
   teaser: /assets/images/wii-acceleration.png
 ---

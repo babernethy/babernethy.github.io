@@ -1,10 +1,13 @@
 ---
 title: 'Genealogy made easy'
-date: '2007-07-24T18:54:00+00:00'
-categories: ["WPF", "UI"]
+excerpt: 'A Genealogy app called Family.Show using WPF'
+description: 'A Genealogy app called Family.Show using WPF'
+category: "ui"
+tags: ["ui", "WPF", "XAML"]
+comments: true
 header:
   teaser: /assets/images/family-show.jpg
-  tagline: "What is new and interesting in the world of tech, design, and leadership?"
+  tagline: 'A Genealogy app called Family.Show using WPF'
 ---
 
 *Sure it is a really neat example of modern development and user interface, but it is also a really nice program. I tried it out for 20 minutes or so and had my entire extended family in (as much as I could remember). Laura got a hold of it and filled in some major data back to the 1700s. Now if it would just to the research for you. – Bruce*
