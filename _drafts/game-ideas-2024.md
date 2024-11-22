@@ -14,142 +14,138 @@ toc: true
 breadcrumbs: true
 ---
 
-# New(er) Games - at least to us
+# Game Ideas - 2024
 
-## Cascadia
+## New(er) Games - at least to us
 
-## SkyJo
+### Cascadia
 
-## Ticket to Ride - Legacy
+### SkyJo
 
-## Quacks of Quedlingberg
+### Ticket to Ride - Legacy
 
----
-
-# Classics - Top 10
-
-## Dominion
-
-## Catan
-
-## Ticket to Ride
-
-## King of Tokyo
-
-## Love Letter
-
-## Sushi Go!
-
-## Century: Golem Edition
-
-## Bohnanza
-
-## Five Tribes
-
-https://www.amigo.games/product/bohnanza/ 
-
-## Clever
+### Quacks of Quedlingberg
 
 ---
 
-# Honorable Mention
+## Classics - Top 10
 
-## Dixit
+### Dominion
 
-## Agricola
+### Catan
 
-## Machi Koro
+### Ticket to Ride
 
-## Codenames
+### King of Tokyo
 
-## 7 Wonders
+### Love Letter
 
-## Azul
+### Sushi Go!
 
-## Isle of Cats
+### Century: Golem Edition
 
-## Takenoko
+### Bohnanza
 
-## Tsuro
+### Five Tribes
 
----
+https://www.amigo.games/product/bohnanza/
 
-# Larger groups
-
-## Codenames
-
-## Ultimate Warewolf
-
-## The Great Dalmuti
-
-## The Resistance / Coup
-
-## Apples to Apples
-
-## Shadows over Camelot
-
-## 7 Wonders
+### Clever
 
 ---
 
-# Love from younger days
+## Honorable Mention
 
-## Stratego
+### Dixit
 
-## Scattergories
+### Agricola
 
-## Backgammon
+### Machi Koro
 
-## Euchre
+### Azul
 
-## Chess
+### Isle of Cats
 
-## Clue
+### Takenoko
 
-## Survive: Escape from Atlantis
-
-## Rack-0
-
-## Rumikub
-
-## Risk
-
-## Axis and Allies
+### Tsuro
 
 ---
 
-# Like, but hard to find
+## Larger groups
 
-## El Grande
+### Codenames
+
+### Ultimate Warewolf
+
+### The Great Dalmuti
+
+### The Resistance / Coup
+
+### Apples to Apples
+
+### Shadows over Camelot
+
+### 7 Wonders
+
+---
+
+## Love from younger days
+
+### Stratego
+
+### Scattergories
+
+### Backgammon
+
+### Euchre
+
+### Chess
+
+### Clue
+
+### Survive: Escape from Atlantis
+
+### Rack-0
+
+### Rumikub
+
+### Risk
+
+### Axis and Allies
+
+---
+
+## Like, but hard to find
+
+### El Grande
 
 Re-released
 
-## Shadows over Camelot
+---
+
+## Want to Try
+
+### Root
+
+### Heat
+
+### Power Grid
 
 ---
 
-# Want to Try
+## Didn't like as well as expected
 
-## Root
-
-## Heat
-
-## Power Grid
-
----
-
-# Didn't like as well as expected
-
-## Dune: Imperium
+### Dune: Imperium
 
 Combat was weird, negotiation was odd
 
-## Pandemic
+### Pandemic
 
-## Forbidden Island
+### Forbidden Island
 
-## Wingspan
+### Wingspan
 
 Eggs
 
-## Carcassonne
+### Carcassonne
