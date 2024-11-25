@@ -20,11 +20,30 @@ breadcrumbs: true
 
 ### Cascadia
 
+https://www.bluehighwaygames.com/cascadia.html 
+
+https://youtu.be/9CDgRa_PYhY?si=MuG-0OFz7gYAcmfV - Dice Tower Review
+
+
 ### SkyJo
+
+https://www.magilano.com/produkt/skyjo/?lang=en&v=1d2a83b3af1f
+
+https://youtu.be/sAc2eC-P6E0?si=h7_GscVmCTXfOltE - How to play SkyJo
+
+
+### Quacks of Quedlinburg
+
+https://boardgamegeek.com/boardgame/244521/the-quacks-of-quedlinburg
+
+https://youtu.be/hcvK6ExuISM?si=yVx5k97S3OCgyVMA 
 
 ### Ticket to Ride - Legacy
 
-### Quacks of Quedlingberg
+https://www.daysofwonder.com/ticket-to-ride/legacy-legends-of-the-west/
+
+https://youtu.be/5DDuDDzMeXY?si=3p0aR6xkvlWGe-YO
+
 
 ---
 
@@ -32,9 +51,21 @@ breadcrumbs: true
 
 ### Dominion
 
+https://www.riograndegames.com/games/dominion/
+
+https://youtu.be/5jNGpgdMums?si=LELT6u3nVmjZy3SL - How to Play Dominion in 3 Minutes - The Rules Girl
+
 ### Catan
 
+https://www.catan.com/
+
+https://youtu.be/oiQ6SgBzfqY?si=1p75BwzE6rpK5mQ1 - How to Play - Watch It Played
+
 ### Ticket to Ride
+
+https://www.daysofwonder.com/ticket-to-ride/usa/
+
+https://youtu.be/4JhFhyvGdik?si=wVbpNRwj7-8xOHBN - How to Play
 
 ### King of Tokyo
 
