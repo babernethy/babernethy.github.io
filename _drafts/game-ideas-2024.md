@@ -77,11 +77,11 @@ https://youtu.be/4JhFhyvGdik?si=wVbpNRwj7-8xOHBN - How to Play
 
 ### Bohnanza
 
-### Five Tribes
-
 https://www.amigo.games/product/bohnanza/
 
 ### Clever
+
+### Takenoko
 
 ---
 
@@ -97,9 +97,11 @@ https://www.amigo.games/product/bohnanza/
 
 ### Isle of Cats
 
-### Takenoko
+
 
 ### Tsuro
+
+### Five Tribes
 
 ---
 
