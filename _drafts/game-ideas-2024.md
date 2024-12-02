@@ -18,12 +18,16 @@ breadcrumbs: true
 
 ## New(er) Games - at least to us
 
+
 ### Cascadia
 
-https://www.bluehighwaygames.com/cascadia.html 
+- [Cascadia - Game Link](https://www.bluehighwaygames.com/cascadia.html) 
+- [Dice Tower Review](https://youtu.be/9CDgRa_PYhY?si=MuG-0OFz7gYAcmfV) 
 
-https://youtu.be/9CDgRa_PYhY?si=MuG-0OFz7gYAcmfV - Dice Tower Review
+### Ticket to Ride - Legacy - Legends of the West
 
+- [Ticket to Ride - Legends of the West - Game Link](https://www.daysofwonder.com/ticket-to-ride/legacy-legends-of-the-west/)
+- [Dice Tower Review](https://youtu.be/5DDuDDzMeXY?si=3p0aR6xkvlWGe-YO)
 
 ### SkyJo
 
@@ -37,12 +41,6 @@ https://youtu.be/sAc2eC-P6E0?si=h7_GscVmCTXfOltE - How to play SkyJo
 https://boardgamegeek.com/boardgame/244521/the-quacks-of-quedlinburg
 
 https://youtu.be/hcvK6ExuISM?si=yVx5k97S3OCgyVMA 
-
-### Ticket to Ride - Legacy
-
-https://www.daysofwonder.com/ticket-to-ride/legacy-legends-of-the-west/
-
-https://youtu.be/5DDuDDzMeXY?si=3p0aR6xkvlWGe-YO
 
 
 ---
@@ -69,19 +67,64 @@ https://youtu.be/4JhFhyvGdik?si=wVbpNRwj7-8xOHBN - How to Play
 
 ### King of Tokyo
 
+https://iellogames.com/jeux/king-of-tokyo/
+
+https://youtu.be/DjfsX847nb0?si=Gly7ivqVYNsSSOxF - How to Play
+
+
 ### Love Letter
+
+https://www.zmangames.com/game/love-letter/
+
+https://youtu.be/RiQ2To5KWJM?si=JDFryqHvbK4CLGKH 
+
+4-6 
+
+Premium 7-8 - but may be out of print, and really took longer to play
 
 ### Sushi Go!
 
+https://gamewright.com/product/Sushi-Go 
+
+2-5
+
+https://youtu.be/OfRgPA1M5Y0?si=RFAacmjY_V2ID7Sc 
+
+https://gamewright.com/product/Sushi-Go-Party 
+
+"Party" version 2-8
+
+
 ### Century: Golem Edition
+
+https://store.asmodee.com/products/century-golem-edition?_pos=2&_sid=b647c555d&_ss=r
+
+Instructions for the "Century: Spice Road" edition, but the rules are the same.
+
+https://youtu.be/MMw3gagk0MI?si=fvc2k0jtY4UdIYbb
+
 
 ### Bohnanza
 
 https://www.amigo.games/product/bohnanza/
 
-### Clever
+https://youtu.be/O_OsVHe5-OE?si=XW7AxpnjI8drOeeH - How to Play in 5 minutes
+
+### That's Pretty Clever (Ganz Schon Clever)
+
+![Image](/assets/images/bg-clever.png)
+
+https://www.cmyk.games/products/thats-pretty-clever
+
+https://youtu.be/QAZFebAYkvc?si=_5iwMzQiFnXUGT0e - How to Play, Game Like a Mother
+
+Twice as Clever, Clever Cubed
 
 ### Takenoko
+
+https://store.asmodee.com/products/takenoko-1 
+
+https://youtu.be/GvXqqsFKNH0?si=udxm12TTRYrQs4vw 
 
 ---
 
@@ -89,96 +132,60 @@ https://www.amigo.games/product/bohnanza/
 
 ### Dixit
 
-### Agricola
+https://www.libellud.com/en/our-games/dixit/
 
-### Machi Koro
 
-### Azul
+https://www.libellud.com/en/dixit-universe/
+
+Disney version, several expansions.
 
 ### Isle of Cats
 
+https://shop.thecityofkings.com/products/the-isle-of-cats
 
-
-### Tsuro
+https://youtu.be/nA5S64rip4M?si=kvlewzvEkh15Dsh8
 
 ### Five Tribes
+
+https://youtu.be/ePhFkmrZ8Gs?si=kuXPINTiAPO_vN-F - Review - Shut Up & Sit Down
+
+- Agricola
+- Machi Koro
+- Azul
+- Tsuro
 
 ---
 
 ## Larger groups
 
-### Codenames
+### The Great Dalmuti
+
+![Image](/assets/images/bg-dalmuti.png)
+
+https://a.co/d/hsXTNfz
+
+https://youtu.be/fr4jaA6ZX3s?si=CjN0CYia_DUUZ4Hz 
 
 ### Ultimate Warewolf
 
-### The Great Dalmuti
+https://youtu.be/XsP6LvZQpLk?si=aorslxu70fVNdpe_ - How to Play in 4 Minutes - The Rules Girl
 
 ### The Resistance / Coup
 
-### Apples to Apples
-
-### Shadows over Camelot
-
-### 7 Wonders
+- Codenames
+- 7 Wonders
+- Apples to Apples
 
 ---
 
-## Love from younger days
+## Classics, or from younger days
 
-### Stratego
-
-### Scattergories
-
-### Backgammon
-
-### Euchre
-
-### Chess
-
-### Clue
-
-### Survive: Escape from Atlantis
-
-### Rack-0
-
-### Rumikub
-
-### Risk
-
-### Axis and Allies
-
----
-
-## Like, but hard to find
-
-### El Grande
-
-Re-released
-
----
-
-## Want to Try
-
-### Root
-
-### Heat
-
-### Power Grid
-
----
-
-## Didn't like as well as expected
-
-### Dune: Imperium
-
-Combat was weird, negotiation was odd
-
-### Pandemic
-
-### Forbidden Island
-
-### Wingspan
-
-Eggs
-
-### Carcassonne
+- Euchre
+- Rumikub
+- Stratego
+- Scattergories
+- Backgammon
+- Chess
+- Clue
+- Survive: Escape from Atlantis
+- Rack-0

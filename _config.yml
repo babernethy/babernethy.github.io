@@ -101,12 +101,16 @@ author:
     - label: "Blog"
       icon: "fas fa-fw fa-link"
       url: "https://bruceabernethy.com"
+    - label: "Bluesky"
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/babernethy.bsky.social"
     - label: "Twitter/X"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/babernethy"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/babernethy"
+
 
 
 # Site Footer
