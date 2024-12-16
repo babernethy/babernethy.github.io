@@ -8,7 +8,7 @@ docker-compose up -d --force-recreate --no-deps db
 https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-docker-compose
 
 
-bundle exec jekyll serve
+bundle exec jekyll serve --drafts
 
 find ./ -type f -regex '.*-[0-9]+x[0-9]+\..*' -exec echo {} \;
 

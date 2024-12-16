@@ -6,3 +6,6 @@ _site/
 .bundle/
 vendor/
 Gemfile.lock
+**/.DS_Store
+**/Thumbs.db
+# Ignore the build folder
