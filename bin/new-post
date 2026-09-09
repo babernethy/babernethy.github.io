@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+# Scaffold a new post from _templates/post.md
+#   bin/new-post "My Post Title"          -> _posts/YYYY-MM-DD-my-post-title.md
+#   bin/new-post --draft "My Post Title"  -> _drafts/my-post-title.md
+set -euo pipefail
+cd "$(dirname "$0")/.."
+
+draft=false
+if [[ "${1:-}" == "--draft" ]]; then draft=true; shift; fi
+title="${1:-}"
+if [[ -z "$title" ]]; then
+  echo "usage: bin/new-post [--draft] \"Post Title\"" >&2
+  exit 1
+fi
+
+slug=$(printf '%s' "$title" \
+  | tr '[:upper:]' '[:lower:]' \
+  | sed -E 's/[^a-z0-9]+/-/g; s/^-+//; s/-+$//')
+
+if $draft; then
+  out="_drafts/${slug}.md"
+else
+  out="_posts/$(date +%F)-${slug}.md"
+fi
+
+if [[ -e "$out" ]]; then
+  echo "refusing to overwrite existing $out" >&2
+  exit 1
+fi
+
+sed "s/^title: .*/title: \"${title//\//\\/}\"/" _templates/post.md > "$out"
+echo "$out"

@@ -130,6 +130,9 @@ include:
   - _pages
   - .well-known/atproto-dtd
 exclude:
+  - CLAUDE.md
+  - bin
+  - _templates
   - wpmigration
   - letsencrypt
   - "*.sublime-project"
