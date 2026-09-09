@@ -1,5 +1,7 @@
 ---
 title: 'Brother Color Laser Printer HL-4040CDN'
+excerpt: 'A color laser for the house at $279, and why that is no longer overkill.'
+description: 'A color laser for the house at $279, and why that is no longer overkill.'
 date: '2009-09-20T23:43:12+00:00'
 category: "tech"
 tags: ["hardware", "home"]

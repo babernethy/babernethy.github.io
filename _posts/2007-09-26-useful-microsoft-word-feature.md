@@ -1,5 +1,7 @@
 ---
 title: 'Useful Microsoft Word Feature'
+excerpt: 'Type =rand(x,y) in Word and get real filler text instead of mashing the keyboard.'
+description: 'Type =rand(x,y) in Word and get real filler text instead of mashing the keyboard.'
 date: '2007-09-26T05:33:28+00:00'
 category: "tech"
 tags: ["microsoft", "tech"]

@@ -1,5 +1,7 @@
 ---
 title: 'QR Codes and URL Shorteners &#8211; Beware'
+excerpt: 'You would never click that URL. So why do you scan the code that hides it?'
+description: 'You would never click that URL. So why do you scan the code that hides it?'
 date: '2017-05-23T08:26:43+00:00'
 header:
   teaser: /assets/images/qrcode_article_graphic.png

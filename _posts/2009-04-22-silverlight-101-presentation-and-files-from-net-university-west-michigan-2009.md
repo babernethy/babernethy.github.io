@@ -1,5 +1,7 @@
 ---
 title: 'Silverlight 101 Presentation and Files from .NET University West Michigan 2009'
+excerpt: 'Slides, code, and references from the Silverlight 101 session at West Michigan .NET University.'
+description: 'Slides, code, and references from the Silverlight 101 session at West Michigan .NET University.'
 date: '2009-04-22T00:20:21+00:00'
 category: "development"
 tags: ["silverlight", "presentations", "development"]

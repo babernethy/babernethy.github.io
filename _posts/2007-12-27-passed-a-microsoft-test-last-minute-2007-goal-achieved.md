@@ -1,5 +1,7 @@
 ---
 title: 'Passed a Microsoft test &#8211; last minute 2007 goal achieved!'
+excerpt: 'Passed 70-536 in the last week of the year, plus ten things on the exam that surprised me.'
+description: 'Passed 70-536 in the last week of the year, plus ten things on the exam that surprised me.'
 date: '2007-12-27T06:02:26+00:00'
 category: "jobs"
 tags: ["microsoft", "jobs", "development"]

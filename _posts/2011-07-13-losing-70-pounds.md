@@ -1,5 +1,7 @@
 ---
 title: 'Losing 70 pounds'
+excerpt: 'Seventy pounds in seventeen weeks - the what, the why, and where we go from here.'
+description: 'Seventy pounds in seventeen weeks - the what, the why, and where we go from here.'
 date: '2011-07-13T22:04:10+00:00'
 dsq_thread_id:
     - '357916058'

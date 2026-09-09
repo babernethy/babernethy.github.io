@@ -1,5 +1,7 @@
 ---
 title: 'Silverlight 2.0'
+excerpt: 'Silverlight 2.0 delivers just about everything people were asking for - starting with real controls.'
+description: 'Silverlight 2.0 delivers just about everything people were asking for - starting with real controls.'
 date: '2007-11-29T07:06:57+00:00'
 category: "development"
 tags: ["microsoft", "silverlight", "ui"]

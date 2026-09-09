@@ -1,5 +1,7 @@
 ---
 title: 'Microsoft Open Source Projects'
+excerpt: 'Open Source and Microsoft are not opposites - nine CodePlex projects I have actually used.'
+description: 'Open Source and Microsoft are not opposites - nine CodePlex projects I have actually used.'
 date: '2007-08-23T06:43:04+00:00'
 category: "development"
 tags: ["microsoft", "development"]

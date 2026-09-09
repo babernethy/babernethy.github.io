@@ -1,5 +1,7 @@
 ---
 title: 'Circle with Disney'
+excerpt: 'A small box that budgets, filters, and enforces screen time. There is no filter for stupid.'
+description: 'A small box that budgets, filters, and enforces screen time. There is no filter for stupid.'
 date: '2015-05-22T20:45:53+00:00'
 header:
   teaser: /assets/images/circle.jpg

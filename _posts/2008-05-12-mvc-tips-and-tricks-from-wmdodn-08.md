@@ -1,5 +1,7 @@
 ---
 title: 'MVC Tips and Tricks from WMDoDN 08'
+excerpt: 'Slides and code from my Day of .NET talk, with detailed posts on the demos to follow.'
+description: 'Slides and code from my Day of .NET talk, with detailed posts on the demos to follow.'
 date: '2008-05-12T00:42:04+00:00'
 category: "development"
 tags: ["microsoft", "development", "presentations"]

@@ -1,5 +1,7 @@
 ---
 title: 'Missing You'
+excerpt: 'A rough trip down, and then a view of the pool that makes it hard to complain.'
+description: 'A rough trip down, and then a view of the pool that makes it hard to complain.'
 date: '2008-01-27T16:49:00+00:00'
 category: "personal"
 tags: ["family"]

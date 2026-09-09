@@ -1,5 +1,7 @@
 ---
 title: 'Show and Tell #1: Life&#8217;s Experiments (1981)'
+excerpt: 'A floppy diskette from 1981, and a story that probably no one remembers but me.'
+description: 'A floppy diskette from 1981, and a story that probably no one remembers but me.'
 date: '2007-09-11T17:49:35+00:00'
 category: "personal"
 tags: ["family", "science"]

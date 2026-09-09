@@ -1,5 +1,7 @@
 ---
 title: 'ImplicitStyleManager &ndash; Hidden Gem in the Silverlight Toolkit November 2008'
+excerpt: 'The Toolkit''s quiet best feature - theming a whole Silverlight app without touching every control.'
+description: 'The Toolkit''s quiet best feature - theming a whole Silverlight app without touching every control.'
 date: '2008-10-28T08:05:34+00:00'
 category: "development"
 tags: ["silverlight", "ui", "design"]

@@ -1,5 +1,7 @@
 ---
 title: 'MapQuest, Google Maps, Virtual Earth, Yahoo?  Anyone?'
+excerpt: 'Every mapping site will route between two points. I want to know how far six hours gets me.'
+description: 'Every mapping site will route between two points. I want to know how far six hours gets me.'
 date: '2007-11-13T00:35:43+00:00'
 category: "tech"
 tags: ["tech", "family"]

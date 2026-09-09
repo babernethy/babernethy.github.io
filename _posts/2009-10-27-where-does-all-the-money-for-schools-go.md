@@ -1,5 +1,7 @@
 ---
 title: 'Where does all the money for schools go?'
+excerpt: 'Everyone says what they would cut first. Nobody explains where the per-student money goes now.'
+description: 'Everyone says what they would cut first. Nobody explains where the per-student money goes now.'
 date: '2009-10-27T05:02:42+00:00'
 category: "personal"
 tags: ["education", "thinking"]

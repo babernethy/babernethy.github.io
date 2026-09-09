@@ -1,5 +1,7 @@
 ---
 title: 'Another reason I love Woot.'
+excerpt: 'A shipping delay notice with an actual sense of humor, which is rare in retail.'
+description: 'A shipping delay notice with an actual sense of humor, which is rare in retail.'
 date: '2008-12-04T23:35:10+00:00'
 category: "personal"
 tags: ["fun"]

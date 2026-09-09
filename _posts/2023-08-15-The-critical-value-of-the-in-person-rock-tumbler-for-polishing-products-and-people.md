@@ -2,6 +2,7 @@
 title: >-
   The critical value of the in-person “rock tumbler” for polishing products and
   people
+excerpt: 'Remote, in-person, or hybrid - what the whiteboard and the napkin still do that cameras cannot.'
 description: >-
   One of the ongoing debates of our time is remote work versus in-person versus
   a hybrid approach.

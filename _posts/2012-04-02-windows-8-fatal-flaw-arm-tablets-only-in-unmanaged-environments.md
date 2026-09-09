@@ -1,5 +1,7 @@
 ---
 title: 'Windows 8 Fatal Flaw &#8211; ARM Tablets only in Unmanaged Environments?'
+excerpt: 'Forget the Start menu argument - ARM tablets that cannot join a domain is the real problem.'
+description: 'Forget the Start menu argument - ARM tablets that cannot join a domain is the real problem.'
 date: '2012-04-02T10:01:52+00:00'
 category: "tech"
 tags: ["microsoft", "mobile", "security"]

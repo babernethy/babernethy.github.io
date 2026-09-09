@@ -1,5 +1,7 @@
 ---
 title: 'Sharpen the Saw for Developers'
+excerpt: 'Scott Hanselman''s ideas for keeping developers current - book libraries, brown bags, and Nerd Dinners.'
+description: 'Scott Hanselman''s ideas for keeping developers current - book libraries, brown bags, and Nerd Dinners.'
 date: '2007-08-22T20:48:00+00:00'
 category: "jobs"
 tags: ["development", "jobs", "thinking"]

@@ -1,5 +1,7 @@
 ---
 title: 'Silverlight IRL #2 &ndash; Fast Data Access w/ NHibernate'
+excerpt: 'Wiring up WCF services and NHibernate models behind a Silverlight app, in five steps.'
+description: 'Wiring up WCF services and NHibernate models behind a Silverlight app, in five steps.'
 date: '2008-10-18T11:54:47+00:00'
 dsq_thread_id:
     - '433581354'

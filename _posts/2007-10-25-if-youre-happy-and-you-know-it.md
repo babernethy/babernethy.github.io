@@ -1,5 +1,7 @@
 ---
 title: 'If You&rsquo;re Happy and You Know It&hellip;'
+excerpt: 'Some days you just need a little laugh, even the geek kind.'
+description: 'Some days you just need a little laugh, even the geek kind.'
 date: '2007-10-25T07:38:12+00:00'
 category: "personal"
 tags: ["fun"]

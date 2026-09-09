@@ -1,5 +1,7 @@
 ---
 title: 'Fun with Application Security - Beer City Code Conference 2017 - RECAP'
+excerpt: 'Slides from my application security session at Beer City Code in Grand Rapids.'
+description: 'Slides from my application security session at Beer City Code in Grand Rapids.'
 date: '2017-06-12T08:34:09+00:00'
 category: "development"
 tags: ["security", "development", "presentations"]

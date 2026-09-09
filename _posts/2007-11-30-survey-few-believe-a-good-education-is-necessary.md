@@ -1,5 +1,7 @@
 ---
 title: 'Survey: Few believe a good education is necessary'
+excerpt: 'Fewer than a third of Michigan residents think a good education is essential. Rant on.'
+description: 'Fewer than a third of Michigan residents think a good education is essential. Rant on.'
 date: '2007-11-30T05:04:29+00:00'
 category: "personal"
 tags: ["education", "thinking"]

@@ -1,5 +1,7 @@
 ---
 title: '2007&#8217;s Resolutions in Review'
+excerpt: 'Looking back at 2007, starting with the year I turned the car radio off.'
+description: 'Looking back at 2007, starting with the year I turned the car radio off.'
 date: '2008-01-03T09:06:07+00:00'
 category: "personal"
 tags: ["thinking", "inspiration"]

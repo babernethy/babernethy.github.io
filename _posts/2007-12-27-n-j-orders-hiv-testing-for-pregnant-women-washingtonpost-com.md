@@ -1,5 +1,7 @@
 ---
 title: 'N.J. Orders HIV Testing For Pregnant Women &#8211; washingtonpost.com'
+excerpt: 'Doing the math on 230,000 mandated tests, and what that money could buy instead.'
+description: 'Doing the math on 230,000 mandated tests, and what that money could buy instead.'
 date: '2007-12-27T23:56:36+00:00'
 category: "personal"
 tags: ["health", "thinking"]

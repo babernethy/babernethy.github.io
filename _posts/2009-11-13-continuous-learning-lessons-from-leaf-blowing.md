@@ -1,5 +1,7 @@
 ---
 title: 'Continuous Learning Lessons from Leaf Blowing'
+excerpt: 'Teaching my daughter to run a leaf blower, and everything corporate training would have done instead.'
+description: 'Teaching my daughter to run a leaf blower, and everything corporate training would have done instead.'
 date: '2009-11-13T08:02:12+00:00'
 category: "jobs"
 tags: ["thinking", "education", "family"]

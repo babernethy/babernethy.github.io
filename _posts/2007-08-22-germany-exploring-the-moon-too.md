@@ -1,5 +1,7 @@
 ---
 title: 'Germany Exploring The Moon Too'
+excerpt: 'NASA, China, and now Germany - the Moon is about to be a very busy place.'
+description: 'NASA, China, and now Germany - the Moon is about to be a very busy place.'
 date: '2007-08-22T17:27:17+00:00'
 category: "science"
 tags: ["space", "science"]

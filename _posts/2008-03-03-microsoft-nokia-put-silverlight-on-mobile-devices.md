@@ -1,5 +1,7 @@
 ---
 title: 'Microsoft, Nokia Put Silverlight On Mobile Devices'
+excerpt: 'Silverlight is coming to Nokia S60 and Series 40 phones. So how do I get started?'
+description: 'Silverlight is coming to Nokia S60 and Series 40 phones. So how do I get started?'
 date: '2008-03-03T23:27:34+00:00'
 category: "development"
 tags: ["microsoft", "silverlight", "mobile"]

@@ -1,5 +1,7 @@
 ---
 title: 'Windows Vista Service Pack 1 Beta'
+excerpt: 'Vista SP1 is coming - so do you upgrade now, wait until spring, or run the beta?'
+description: 'Vista SP1 is coming - so do you upgrade now, wait until spring, or run the beta?'
 date: '2007-08-29T10:48:17+00:00'
 category: "tech"
 tags: ["microsoft"]

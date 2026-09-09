@@ -1,5 +1,7 @@
 ---
 title: 'Vacation Update'
+excerpt: 'Coco Beach, terrible bandwidth, and T-minus two days to a Shuttle launch.'
+description: 'Coco Beach, terrible bandwidth, and T-minus two days to a Shuttle launch.'
 date: '2008-02-05T06:20:32+00:00'
 category: "personal"
 tags: ["family", "space"]

@@ -1,5 +1,7 @@
 ---
 title: 'Bill Gates: The skills you need to succeed'
+excerpt: 'Seven skills from Bill Gates that read a lot like the questions we use to interview new team members.'
+description: 'Seven skills from Bill Gates that read a lot like the questions we use to interview new team members.'
 date: '2007-12-14T03:05:00+00:00'
 category: "jobs"
 tags: ["jobs", "education", "thinking"]

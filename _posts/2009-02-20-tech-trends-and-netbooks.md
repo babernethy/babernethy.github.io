@@ -1,5 +1,7 @@
 ---
 title: 'Tech Trends and Netbooks'
+excerpt: 'Notes from Keith Brophy''s tenth Tech Trends night, starting with the buzzword bingo card.'
+description: 'Notes from Keith Brophy''s tenth Tech Trends night, starting with the buzzword bingo card.'
 date: '2009-02-20T01:24:00+00:00'
 category: "tech"
 tags: ["tech", "hardware", "presentations"]

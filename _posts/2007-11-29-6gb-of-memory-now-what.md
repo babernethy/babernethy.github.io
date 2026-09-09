@@ -1,5 +1,7 @@
 ---
 title: '6Gb of memory &#8211; Now What?!?'
+excerpt: 'Six gigabytes of RAM for $50, and the strange pressure of having more machine than I need.'
+description: 'Six gigabytes of RAM for $50, and the strange pressure of having more machine than I need.'
 date: '2007-11-29T15:11:49+00:00'
 category: "tech"
 tags: ["hardware", "fun"]

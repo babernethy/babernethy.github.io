@@ -1,5 +1,7 @@
 ---
 title: 'Habits of Highly Effective Brains'
+excerpt: 'Ten habits for keeping your brain in working order - and I can testify first-hand that they work.'
+description: 'Ten habits for keeping your brain in working order - and I can testify first-hand that they work.'
 date: '2007-08-23T06:23:25+00:00'
 category: "personal"
 tags: ["thinking", "health", "inspiration"]

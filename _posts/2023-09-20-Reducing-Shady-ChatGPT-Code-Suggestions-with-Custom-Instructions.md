@@ -1,5 +1,6 @@
 ---
 title: Reducing Shady ChatGPT Code Suggestions with Custom Instructions
+excerpt: 'Old frameworks, unsafe ciphers, and code that will not compile - a set of Custom Instructions that helps.'
 description: >-
   Reducing ChatGPT Shady Code Suggestions by using a quality set of Custom
   Instructions

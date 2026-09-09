@@ -1,5 +1,7 @@
 ---
 title: '64-bit Vista Oddness'
+excerpt: 'A few gotchas worth knowing about before you move to a 64-bit version of Vista.'
+description: 'A few gotchas worth knowing about before you move to a 64-bit version of Vista.'
 date: '2007-08-17T06:48:00+00:00'
 category: "tech"
 tags: ["microsoft", "development"]

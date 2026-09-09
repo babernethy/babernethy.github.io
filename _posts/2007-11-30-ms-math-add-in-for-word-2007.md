@@ -1,5 +1,7 @@
 ---
 title: 'MS Math Add-In for Word 2007'
+excerpt: 'You thought spell check was cool - Word 2007 will now simplify, graph, and solve for x.'
+description: 'You thought spell check was cool - Word 2007 will now simplify, graph, and solve for x.'
 date: '2007-11-30T09:14:05+00:00'
 category: "tech"
 tags: ["microsoft", "science", "education"]

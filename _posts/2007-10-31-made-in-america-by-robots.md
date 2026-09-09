@@ -1,5 +1,7 @@
 ---
 title: 'Made in America: By Robots'
+excerpt: 'A t-shirt that says a lot in three words, especially if you grew up near Detroit.'
+description: 'A t-shirt that says a lot in three words, especially if you grew up near Detroit.'
 date: '2007-10-31T07:40:00+00:00'
 dsq_thread_id:
     - '413933266'

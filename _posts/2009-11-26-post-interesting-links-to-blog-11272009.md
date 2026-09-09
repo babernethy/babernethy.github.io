@@ -1,5 +1,7 @@
 ---
 title: 'Post Interesting Links to Blog 11/27/2009'
+excerpt: 'Links saved from Diigo - Catan Portable Edition.'
+description: 'Links saved from Diigo - Catan Portable Edition.'
 date: '2009-11-26T17:30:23+00:00'
 dsq_thread_id:
     - '522362572'

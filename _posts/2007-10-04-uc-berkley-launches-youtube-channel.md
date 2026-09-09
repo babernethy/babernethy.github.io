@@ -1,5 +1,7 @@
 ---
 title: 'UC Berkley launches YouTube channel'
+excerpt: 'Berkeley puts full courses on YouTube, free - and puts them everywhere you already watch video.'
+description: 'Berkeley puts full courses on YouTube, free - and puts them everywhere you already watch video.'
 date: '2007-10-04T05:18:36+00:00'
 category: "tech"
 tags: ["education", "science"]

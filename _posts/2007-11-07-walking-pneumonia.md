@@ -1,5 +1,7 @@
 ---
 title: 'Walking pneumonia'
+excerpt: 'When that cough isn''t just a cough - and why I am glad I went to the doctor.'
+description: 'When that cough isn''t just a cough - and why I am glad I went to the doctor.'
 date: '2007-11-07T05:15:43+00:00'
 category: "personal"
 tags: ["health"]

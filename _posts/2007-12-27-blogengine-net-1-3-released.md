@@ -1,5 +1,7 @@
 ---
 title: 'BlogEngine.NET 1.3 released'
+excerpt: 'Upgrading the blog to 1.3, and the one place SQL Server 2000 made me work for it.'
+description: 'Upgrading the blog to 1.3, and the one place SQL Server 2000 made me work for it.'
 date: '2007-12-27T00:05:58+00:00'
 category: "blog"
 tags: ["blog", "microsoft"]

@@ -1,5 +1,7 @@
 ---
 title: 'First Lego League Regional Robotics Competition'
+excerpt: 'A Saturday at the FIRST Lego League regional, where the robot is only a quarter of the score.'
+description: 'A Saturday at the FIRST Lego League regional, where the robot is only a quarter of the score.'
 date: '2007-12-02T23:32:47+00:00'
 category: "science"
 tags: ["robotics", "education", "family"]

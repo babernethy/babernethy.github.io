@@ -1,5 +1,7 @@
 ---
 title: 'Outliers by Malcom Gladwell'
+excerpt: 'Gladwell links the Beatles, Bill Gates, and Korean plane crashes - and makes it work.'
+description: 'Gladwell links the Beatles, Bill Gates, and Korean plane crashes - and makes it work.'
 date: '2009-02-11T08:59:00+00:00'
 dsq_thread_id:
     - '383844857'

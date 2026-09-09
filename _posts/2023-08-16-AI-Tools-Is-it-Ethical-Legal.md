@@ -1,5 +1,6 @@
 ---
 title: 'AI Tools: Is it Ethical? Legal?'
+excerpt: 'Is using AI coding tools cheating? The legal answer is unknown, so here are both arguments.'
 description: >-
   Another of the bigger topics recently is the emergence and use of AI tools
   and, specifically, the use of AI tools in software development.

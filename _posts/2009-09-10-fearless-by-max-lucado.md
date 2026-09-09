@@ -1,5 +1,7 @@
 ---
 title: 'Fearless by Max Lucado'
+excerpt: 'A well-timed book against the spirit of fear running through nearly every headline.'
+description: 'A well-timed book against the spirit of fear running through nearly every headline.'
 date: '2009-09-10T01:13:09+00:00'
 dsq_thread_id:
     - '476034746'

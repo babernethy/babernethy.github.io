@@ -1,5 +1,7 @@
 ---
 title: 'Why I make a fuss over the release of Visual Studio 2010'
+excerpt: 'My kids asked why I was acting like it was Christmas. Here is the short answer for non-programmers.'
+description: 'My kids asked why I was acting like it was Christmas. Here is the short answer for non-programmers.'
 date: '2010-04-12T00:33:17+00:00'
 dsq_thread_id:
     - '369385244'

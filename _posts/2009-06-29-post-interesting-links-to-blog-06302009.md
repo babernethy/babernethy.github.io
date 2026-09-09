@@ -1,5 +1,7 @@
 ---
 title: 'Post Interesting Links to Blog 06/30/2009'
+excerpt: 'Links saved from Diigo - netbooks landing in school districts, and SMS polling for presentations.'
+description: 'Links saved from Diigo - netbooks landing in school districts, and SMS polling for presentations.'
 date: '2009-06-29T18:30:10+00:00'
 category: "links"
 tags: ["general"]

@@ -1,5 +1,7 @@
 ---
 title: 'Microsoft DreamSpark'
+excerpt: 'Thousands of dollars of professional development tools, free, as long as you are a student.'
+description: 'Thousands of dollars of professional development tools, free, as long as you are a student.'
 date: '2008-02-18T22:36:38+00:00'
 category: "development"
 tags: ["microsoft", "education", "games"]

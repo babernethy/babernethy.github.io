@@ -1,5 +1,7 @@
 ---
 title: 'Merry Christmas'
+excerpt: 'Wishing everyone a safe and blessed Christmas.'
+description: 'Wishing everyone a safe and blessed Christmas.'
 date: '2007-12-21T05:28:05+00:00'
 category: "personal"
 tags: ["family"]

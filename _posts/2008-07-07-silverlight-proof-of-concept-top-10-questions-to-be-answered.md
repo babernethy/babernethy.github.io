@@ -1,5 +1,7 @@
 ---
 title: 'Silverlight Proof-of-Concept &ndash; Top 10 Questions to Be Answered'
+excerpt: 'Ten things we have to prove before betting a multi-million dollar business on Silverlight.'
+description: 'Ten things we have to prove before betting a multi-million dollar business on Silverlight.'
 date: '2008-07-07T07:27:04+00:00'
 category: "development"
 tags: ["silverlight", "microsoft", "development"]

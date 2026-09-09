@@ -1,5 +1,7 @@
 ---
 title: 'Quit Bowling, and Start Digging Ditches – WCAGLS Day 1'
+excerpt: 'Two lines from Seth Godin and Steven Furtick that I am still thinking about days later.'
+description: 'Two lines from Seth Godin and Steven Furtick that I am still thinking about days later.'
 date: '2011-08-11T23:23:28+00:00'
 dsq_thread_id:
     - '383707285'

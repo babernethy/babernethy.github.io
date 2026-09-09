@@ -1,5 +1,7 @@
 ---
 title: 'Flutter Talk Links'
+excerpt: 'The handout links from my Introduction to Flutter talk at THAT Conference 2018.'
+description: 'The handout links from my Introduction to Flutter talk at THAT Conference 2018.'
 date: '2018-06-22T20:12:21+00:00'
 category: "development"
 tags: ["flutter", "development", "presentations"]

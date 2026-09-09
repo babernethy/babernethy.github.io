@@ -1,5 +1,7 @@
 ---
 title: 'First Amazon non-DRM music purchase'
+excerpt: 'My first DRM-free album, after losing too much music to iTunes limbo.'
+description: 'My first DRM-free album, after losing too much music to iTunes limbo.'
 date: '2008-01-17T00:02:49+00:00'
 category: "tech"
 tags: ["tech", "thinking"]

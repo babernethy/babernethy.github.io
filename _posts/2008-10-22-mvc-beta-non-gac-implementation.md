@@ -1,5 +1,7 @@
 ---
 title: 'MVC Beta &ndash; Non-GAC implementation'
+excerpt: 'Referencing the MVC beta DLLs locally, and the one property that makes it actually work.'
+description: 'Referencing the MVC beta DLLs locally, and the one property that makes it actually work.'
 date: '2008-10-22T00:21:01+00:00'
 category: "development"
 tags: ["microsoft", "development"]

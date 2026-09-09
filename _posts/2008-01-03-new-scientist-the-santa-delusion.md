@@ -1,5 +1,7 @@
 ---
 title: 'New Scientist: The Santa Delusion'
+excerpt: 'An article on Santa that got stuck in my head, and the social angle nobody argues about.'
+description: 'An article on Santa that got stuck in my head, and the social angle nobody argues about.'
 date: '2008-01-03T00:15:44+00:00'
 category: "personal"
 tags: ["family", "thinking"]

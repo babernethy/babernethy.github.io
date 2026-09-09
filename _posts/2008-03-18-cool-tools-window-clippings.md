@@ -1,5 +1,7 @@
 ---
 title: 'Cool Tools: Window Clippings'
+excerpt: 'Screen capture that knows you want the window, and cleans up whatever Aero let bleed through.'
+description: 'Screen capture that knows you want the window, and cleans up whatever Aero let bleed through.'
 date: '2008-03-18T00:31:44+00:00'
 category: "tech"
 tags: ["tech", "presentations"]

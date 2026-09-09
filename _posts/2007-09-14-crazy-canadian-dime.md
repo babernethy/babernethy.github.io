@@ -1,5 +1,7 @@
 ---
 title: 'Crazy Canadian Dime'
+excerpt: 'A Canadian dime I could not read, and what it took to figure out what was on it.'
+description: 'A Canadian dime I could not read, and what it took to figure out what was on it.'
 date: '2007-09-14T15:53:09+00:00'
 dsq_thread_id:
     - '360445124'

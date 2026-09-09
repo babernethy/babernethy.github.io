@@ -1,5 +1,7 @@
 ---
 title: 'Solar Decathlon 2007 &#8211; LTU: ALOeTERRA'
+excerpt: 'Twenty university teams building solar houses on the National Mall - including the only one from Michigan.'
+description: 'Twenty university teams building solar houses on the National Mall - including the only one from Michigan.'
 date: '2007-10-08T05:18:00+00:00'
 category: "science"
 tags: ["science", "design", "education"]

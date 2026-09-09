@@ -1,5 +1,7 @@
 ---
 title: 'First Dangerous Crystal'
+excerpt: 'The first crystal out of the Dangerous Book experiment - a 1cm pyramid, almost perfectly clear.'
+description: 'The first crystal out of the Dangerous Book experiment - a 1cm pyramid, almost perfectly clear.'
 date: '2007-08-31T02:23:00+00:00'
 category: "science"
 tags: ["science", "family"]

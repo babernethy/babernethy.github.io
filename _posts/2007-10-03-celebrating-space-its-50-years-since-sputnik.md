@@ -1,5 +1,7 @@
 ---
 title: 'Celebrating space: it&#8217;s 50 years since Sputnik'
+excerpt: 'Fifty years since Sputnik - both a long time and a remarkably short one.'
+description: 'Fifty years since Sputnik - both a long time and a remarkably short one.'
 date: '2007-10-03T23:01:25+00:00'
 category: "science"
 tags: ["space", "science", "thinking"]

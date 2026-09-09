@@ -1,5 +1,7 @@
 ---
 title: 'Celestron &#8211; LCD Digital Microscope (LDM)'
+excerpt: 'A home microscope that is neither a plastic toy nor a CSI prop. Maybe this is the compromise.'
+description: 'A home microscope that is neither a plastic toy nor a CSI prop. Maybe this is the compromise.'
 date: '2008-01-04T13:12:04+00:00'
 category: "science"
 tags: ["science", "hardware", "family"]

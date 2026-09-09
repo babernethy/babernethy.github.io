@@ -1,5 +1,7 @@
 ---
 title: '&quot;WIRED Science&quot; on PBS'
+excerpt: 'The most interesting, intelligent, and still entertaining science show on TV right now.'
+description: 'The most interesting, intelligent, and still entertaining science show on TV right now.'
 date: '2007-10-15T00:20:05+00:00'
 category: "science"
 tags: ["science", "tech"]

@@ -1,5 +1,7 @@
 ---
 title: 'Show and Tell #3: International Pen Pals'
+excerpt: 'Signing up for ten pen pals in the early 80s, and how many of them actually wrote back.'
+description: 'Signing up for ten pen pals in the early 80s, and how many of them actually wrote back.'
 date: '2007-09-14T22:37:18+00:00'
 category: "personal"
 tags: ["family", "fun"]

@@ -1,5 +1,7 @@
 ---
 title: 'Useless data &#8211; but interesting'
+excerpt: 'How many mouse clicks does one person add to the world in a month? I measured mine.'
+description: 'How many mouse clicks does one person add to the world in a month? I measured mine.'
 date: '2007-11-02T01:33:38+00:00'
 category: "tech"
 tags: ["fun", "science"]

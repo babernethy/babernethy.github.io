@@ -1,5 +1,7 @@
 ---
 title: 'The Bible According To Google Earth'
+excerpt: 'What the Garden of Eden, the Ark, and the Red Sea might have looked like from orbit.'
+description: 'What the Garden of Eden, the Ark, and the Red Sea might have looked like from orbit.'
 date: '2007-12-21T00:18:55+00:00'
 category: "personal"
 tags: ["art", "fun"]

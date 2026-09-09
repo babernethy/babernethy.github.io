@@ -1,5 +1,7 @@
 ---
 title: 'Bug or a Feature'
+excerpt: 'The right cartoon at exactly the wrong time of year, while trying to ship software.'
+description: 'The right cartoon at exactly the wrong time of year, while trying to ship software.'
 date: '2007-12-21T00:24:24+00:00'
 category: "development"
 tags: ["development", "fun"]

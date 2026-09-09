@@ -1,5 +1,7 @@
 ---
 title: 'Retire Fire Extinguishers'
+excerpt: 'You cannot just throw an expired fire extinguisher away. Here is what you do instead.'
+description: 'You cannot just throw an expired fire extinguisher away. Here is what you do instead.'
 date: '2008-01-20T00:02:14+00:00'
 dsq_thread_id:
     - '566546076'

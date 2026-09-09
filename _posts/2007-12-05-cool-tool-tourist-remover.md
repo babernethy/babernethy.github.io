@@ -1,5 +1,7 @@
 ---
 title: 'Cool Tool: Tourist Remover'
+excerpt: 'Take a few photos of the same thing and let the software delete everyone who wandered through.'
+description: 'Take a few photos of the same thing and let the software delete everyone who wandered through.'
 date: '2007-12-05T08:17:07+00:00'
 dsq_thread_id:
     - '615291644'
