@@ -42,7 +42,7 @@ layout: archive
       <span class="df-lead-card__eyebrow">
         Latest{% if lead.category %}<span class="df-hero__sep">/</span>{{ lead.category }}{% endif %}
       </span>
-      <span class="df-lead-card__title">{{ lead.title }}</span>
+      <span class="df-lead-card__title">{{ lead.title | markdownify | remove: "<p>" | remove: "</p>" }}</span>
       {%- if lead.excerpt -%}
         <span class="df-lead-card__excerpt">{{ lead.excerpt | markdownify | strip_html | strip_newlines | truncate: 170 }}</span>
       {%- endif -%}
@@ -66,7 +66,7 @@ layout: archive
           </span>
           <span class="df-card__body">
             <span class="df-card__meta">{{ post.date | date: "%Y.%m.%d" }}{% if post.category %}<span class="df-hero__sep">/</span>{{ post.category }}{% endif %}</span>
-            <span class="df-card__title">{{ post.title }}</span>
+            <span class="df-card__title">{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}</span>
             {%- if post.excerpt -%}
               <span class="df-card__excerpt">{{ post.excerpt | markdownify | strip_html | strip_newlines | truncate: 120 }}</span>
             {%- endif -%}
