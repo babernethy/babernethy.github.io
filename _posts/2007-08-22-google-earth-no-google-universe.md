@@ -1,5 +1,7 @@
 ---
 title: 'Google Earth &#8211; No, Google Universe &#8230;'
+excerpt: 'Google Earth flipped inside out, so you can explore the night sky most of us can no longer see.'
+description: 'Google Earth flipped inside out, so you can explore the night sky most of us can no longer see.'
 date: '2007-08-22T17:30:58+00:00'
 category: "science"
 tags: ["space", "science", "tech"]

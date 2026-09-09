@@ -1,5 +1,7 @@
 ---
 title: 'First &quot;&#8217;Bots on the Rock&quot; Meeting a Success!'
+excerpt: 'Eleven kids, six robots, three laptops, and one minefield rescue on the first night.'
+description: 'Eleven kids, six robots, three laptops, and one minefield rescue on the first night.'
 date: '2008-02-20T01:24:57+00:00'
 category: "science"
 tags: ["robotics", "education", "family"]

@@ -1,5 +1,7 @@
 ---
 title: 'Howtoons: The Possibilities Are Endless!'
+excerpt: 'A comic book that gets kids building things - and makes the case for why that matters.'
+description: 'A comic book that gets kids building things - and makes the case for why that matters.'
 date: '2007-10-29T00:25:32+00:00'
 category: "science"
 tags: ["books", "science", "family"]

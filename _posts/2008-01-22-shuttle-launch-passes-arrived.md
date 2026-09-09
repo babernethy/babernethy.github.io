@@ -1,5 +1,7 @@
 ---
 title: 'Shuttle Launch Passes Arrived!'
+excerpt: 'The passes came through for the February 7th launch, along with security rules that make the TSA look relaxed.'
+description: 'The passes came through for the February 7th launch, along with security rules that make the TSA look relaxed.'
 date: '2008-01-22T14:36:20+00:00'
 category: "science"
 tags: ["space", "family"]

@@ -1,8 +1,7 @@
 ---
 title: “Knob and Tube”
-description: >-
-  The first adventure comes from the world of electricity. In the olden days,
-  well at least before World War II, electricity had less of the…
+excerpt: 'Ceramic knobs, ceramic tubes, two conductors, and three days of electricians in a 1923 house.'
+description: 'Ceramic knobs, ceramic tubes, two conductors, and three days of electricians in a 1923 house.'
 category: "personal"
 tags: ["home"]
 redirect_from:

@@ -1,5 +1,7 @@
 ---
 title: 'Success in drying out waterlogged Laptop'
+excerpt: 'A drink went into the laptop and it survived. Here is exactly what I did, step by step.'
+description: 'A drink went into the laptop and it survived. Here is exactly what I did, step by step.'
 date: '2009-10-14T03:32:56+00:00'
 category: "tech"
 tags: ["hardware", "family"]

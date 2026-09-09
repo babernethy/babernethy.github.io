@@ -1,5 +1,7 @@
 ---
 title: 'Silverlight wins the Gold at the 2008 Olympic Games'
+excerpt: 'NBC will stream 3,000 hours of the Olympics on Silverlight - a bold line in the sand.'
+description: 'NBC will stream 3,000 hours of the Olympics on Silverlight - a bold line in the sand.'
 date: '2008-01-07T08:08:35+00:00'
 category: "development"
 tags: ["microsoft", "silverlight"]

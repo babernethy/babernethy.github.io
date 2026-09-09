@@ -1,5 +1,7 @@
 ---
 title: 'Bowling for Junior Achievement'
+excerpt: 'Bowling for Junior Achievement, which reaches 60,000 West Michigan students a year.'
+description: 'Bowling for Junior Achievement, which reaches 60,000 West Michigan students a year.'
 date: '2007-11-02T05:36:14+00:00'
 category: "personal"
 tags: ["education", "family"]

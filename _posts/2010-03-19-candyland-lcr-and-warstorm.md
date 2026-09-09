@@ -1,5 +1,7 @@
 ---
 title: 'Candyland, LCR, and Warstorm'
+excerpt: 'Three games that seem fun until you start thinking about them - and why that matters for kids.'
+description: 'Three games that seem fun until you start thinking about them - and why that matters for kids.'
 date: '2010-03-19T06:10:58+00:00'
 category: "personal"
 tags: ["games", "family", "thinking"]

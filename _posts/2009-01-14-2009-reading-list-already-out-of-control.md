@@ -1,5 +1,7 @@
 ---
 title: '2009 Reading List &ndash; Already out of control'
+excerpt: 'Eleven books arrived in one week, six of them due back soon. Anyone want to read along?'
+description: 'Eleven books arrived in one week, six of them due back soon. Anyone want to read along?'
 date: '2009-01-14T06:23:23+00:00'
 category: "personal"
 tags: ["books", "thinking"]

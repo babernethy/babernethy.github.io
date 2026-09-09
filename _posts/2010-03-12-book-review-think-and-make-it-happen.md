@@ -1,5 +1,7 @@
 ---
 title: 'Book Review: Think and Make It Happen'
+excerpt: 'Some genuinely useful ideas, but not the one book that solves everything. Two or three stars.'
+description: 'Some genuinely useful ideas, but not the one book that solves everything. Two or three stars.'
 date: '2010-03-12T03:38:37+00:00'
 category: "personal"
 tags: ["books", "thinking"]

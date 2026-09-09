@@ -86,6 +86,14 @@ The front-matter backfill pass is done: every post now carries a singular
 bare `tag:`, plural `categories:`, and the `AI`/`dev`/`WPF`/`XAML` casing drift
 are all gone.
 
+Every post also carries an `excerpt` and a `description` — 192 had neither and
+were falling back to the first words of the body on archive cards and in meta
+tags. The backfilled text follows the voice of the posts that already had it:
+one short line, often a sentence fragment, drawn from what the post actually
+says, and always under 160 characters so it survives intact in search results.
+`excerpt` and `description` are identical except where a post has a reason for
+them to differ. New posts must fill both in.
+
 Because `permalink` is `/:categories/:title/`, giving a post a category moves
 its URL. The 202 posts that moved carry a `redirect_from:` with their old path,
 served by `jekyll-redirect-from`. **Never remove or change a `redirect_from:`
@@ -109,9 +117,13 @@ behavior comes from upstream:
   deploy artifact. A real `.well-known/` directory would need a hand-built
   artifact. (Bluesky verification currently works via a DNS `TXT` record on
   `_atproto.bruceabernethy.com`, not a served file.)
-- `assets/css/main.scss` uses Sass `@import` and the global `mix()` function.
-  Both are removed in Dart Sass 3.0 and currently emit deprecation warnings on
-  every build.
+- `assets/css/main.scss` uses Sass `@import` and the global `mix()` function,
+  both removed in Dart Sass 3.0. The warnings are suppressed via `sass.quiet_deps`
+  (gem-internal) plus `sass.silence_deprecations: [import, global-builtin]`
+  (our own stylesheet) in `_config.yml`, so builds are clean. This is deferral,
+  not a fix: the theme's Sass is `@import`-based throughout, so a real migration
+  means waiting for minimal-mistakes to ship modules, or vendoring and rewriting
+  its ~40 partials. Revisit before Dart Sass 3.0, which will break the build.
 - `/categories/links/` is served by `_pages/links.md`. A rival
   `_categories/links.html` used to sit alongside it; since `_categories` was
   never a declared collection, Jekyll ignored the directory outright. Removed.

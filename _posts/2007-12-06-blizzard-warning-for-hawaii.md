@@ -1,5 +1,7 @@
 ---
 title: 'Blizzard Warning!! FOR HAWAII!!'
+excerpt: 'Now that is something you do not hear every day.'
+description: 'Now that is something you do not hear every day.'
 date: '2007-12-06T09:09:27+00:00'
 category: "personal"
 tags: ["fun"]

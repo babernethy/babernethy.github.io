@@ -1,5 +1,7 @@
 ---
 title: 'April issue of EGM reveals Bungie&#8217;s next project: Lego Halo &#8211; Joystiq'
+excerpt: 'A very good April Fools gag - and a reminder that LEGO Halo would actually be great.'
+description: 'A very good April Fools gag - and a reminder that LEGO Halo would actually be great.'
 date: '2008-03-02T23:47:34+00:00'
 category: "personal"
 tags: ["games", "fun"]

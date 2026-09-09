@@ -1,5 +1,7 @@
 ---
 title: 'Astronomy &quot;Craft&quot;?'
+excerpt: 'A string of beads that teaches the real spacing of the solar system - and where Pluto went.'
+description: 'A string of beads that teaches the real spacing of the solar system - and where Pluto went.'
 date: '2008-01-21T14:48:30+00:00'
 category: "science"
 tags: ["space", "family", "education"]

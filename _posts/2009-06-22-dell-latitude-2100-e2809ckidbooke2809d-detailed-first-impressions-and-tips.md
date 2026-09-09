@@ -1,5 +1,7 @@
 ---
 title: 'Dell Latitude 2100 “kidbook” &#8211; Detailed First Impressions and Tips'
+excerpt: 'Not a netbook but a kidbook - a laptop actually designed for daily use by kids in schools.'
+description: 'Not a netbook but a kidbook - a laptop actually designed for daily use by kids in schools.'
 date: '2009-06-22T23:51:00+00:00'
 category: "tech"
 tags: ["hardware", "education"]

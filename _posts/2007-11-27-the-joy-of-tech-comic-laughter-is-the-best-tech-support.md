@@ -1,5 +1,7 @@
 ---
 title: 'The Joy of Tech comic&#8230; laughter is the best tech support.'
+excerpt: 'Crossing the digital divide means nothing without the educational change to go with it.'
+description: 'Crossing the digital divide means nothing without the educational change to go with it.'
 date: '2007-11-27T22:52:35+00:00'
 category: "tech"
 tags: ["education", "fun", "thinking"]

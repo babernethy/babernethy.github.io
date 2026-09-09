@@ -1,5 +1,7 @@
 ---
 title: 'Mouse Mischief: Multiple Mouse Support in PowerPoint with the MultiPoint Mouse SDK'
+excerpt: 'Multiple mice in one PowerPoint, no programming required - a Saturday morning worth spending.'
+description: 'Multiple mice in one PowerPoint, no programming required - a Saturday morning worth spending.'
 date: '2010-02-06T04:15:05+00:00'
 category: "tech"
 tags: ["microsoft", "education", "presentations"]

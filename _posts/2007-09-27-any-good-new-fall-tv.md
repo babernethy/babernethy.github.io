@@ -1,5 +1,7 @@
 ---
 title: 'Any good new fall TV?'
+excerpt: 'Down to two shows I watch regularly, and looking for something worth adding this fall.'
+description: 'Down to two shows I watch regularly, and looking for something worth adding this fall.'
 date: '2007-09-27T13:06:19+00:00'
 category: "personal"
 tags: ["fun"]

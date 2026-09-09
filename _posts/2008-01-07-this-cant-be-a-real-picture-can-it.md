@@ -1,5 +1,7 @@
 ---
 title: 'This can&#8217;t be a real picture &#8230; can it?'
+excerpt: 'A live surge protector, a pool, and a pair of flip-flops. Surely this is staged.'
+description: 'A live surge protector, a pool, and a pair of flip-flops. Surely this is staged.'
 date: '2008-01-07T14:41:34+00:00'
 category: "personal"
 tags: ["fun"]

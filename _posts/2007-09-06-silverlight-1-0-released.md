@@ -1,5 +1,7 @@
 ---
 title: 'Silverlight 1.0 Released'
+excerpt: 'Silverlight 1.0 ships for Windows, Macintosh, and Linux - let''s see where developers take it.'
+description: 'Silverlight 1.0 ships for Windows, Macintosh, and Linux - let''s see where developers take it.'
 date: '2007-09-06T04:17:51+00:00'
 category: "development"
 tags: ["microsoft", "silverlight"]

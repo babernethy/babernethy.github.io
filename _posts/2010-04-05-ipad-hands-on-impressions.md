@@ -1,5 +1,7 @@
 ---
 title: 'iPad Hands-On Impressions'
+excerpt: 'Twelve iPads on a table at lunch. I did not buy one, but it is a milestone at $499.'
+description: 'Twelve iPads on a table at lunch. I did not buy one, but it is a milestone at $499.'
 date: '2010-04-05T05:11:56+00:00'
 category: "tech"
 tags: ["mobile", "hardware", "ui"]

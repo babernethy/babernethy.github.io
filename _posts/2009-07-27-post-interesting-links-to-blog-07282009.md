@@ -1,5 +1,7 @@
 ---
 title: 'Post Interesting Links to Blog 07/28/2009'
+excerpt: 'Links saved from Diigo - a good source of free vector clip art.'
+description: 'Links saved from Diigo - a good source of free vector clip art.'
 date: '2009-07-27T18:31:03+00:00'
 category: "links"
 tags: ["general"]

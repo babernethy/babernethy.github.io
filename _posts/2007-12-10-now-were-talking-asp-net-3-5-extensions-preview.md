@@ -1,5 +1,7 @@
 ---
 title: 'Now we&#8217;re talking!!  ASP.NET 3.5 Extensions Preview'
+excerpt: 'MVC, Entity Framework, and Astoria all in one preview - the highlights from my perspective.'
+description: 'MVC, Entity Framework, and Astoria all in one preview - the highlights from my perspective.'
 date: '2007-12-10T02:08:17+00:00'
 category: "development"
 tags: ["microsoft", "development"]

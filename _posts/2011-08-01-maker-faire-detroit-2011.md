@@ -1,5 +1,7 @@
 ---
 title: 'Maker Faire Detroit 2011'
+excerpt: 'A science fair times a thousand, with some state fair and Star Trek convention mixed in.'
+description: 'A science fair times a thousand, with some state fair and Star Trek convention mixed in.'
 date: '2011-08-01T14:13:51+00:00'
 header:
   teaser: /assets/images/mf_det11_badge_200x200.jpg

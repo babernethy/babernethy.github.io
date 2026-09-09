@@ -1,5 +1,7 @@
 ---
 title: 'Mousetrap Cars &#8211; Any advice?'
+excerpt: 'Seven Cub Scouts, no mousetraps yet, and no practical experience. Advice welcome.'
+description: 'Seven Cub Scouts, no mousetraps yet, and no practical experience. Advice welcome.'
 date: '2008-01-07T01:18:35+00:00'
 category: "science"
 tags: ["science", "family", "education"]

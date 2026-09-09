@@ -1,5 +1,7 @@
 ---
 title: 'Turn On Channel 8'
+excerpt: 'Microsoft''s new community site for students who want to code, connect, and create.'
+description: 'Microsoft''s new community site for students who want to code, connect, and create.'
 date: '2007-07-24T18:40:00+00:00'
 category: "tech"
 tags: ["microsoft", "education"]

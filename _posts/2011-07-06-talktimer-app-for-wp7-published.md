@@ -1,5 +1,7 @@
 ---
 title: 'TalkTimer app for WP7'
+excerpt: 'Green, yellow, red - building a Windows Phone timer app for our Toastmasters meetings.'
+description: 'Green, yellow, red - building a Windows Phone timer app for our Toastmasters meetings.'
 date: '2011-07-06T21:35:37+00:00'
 header:
   teaser: /assets/images/tt_icon.png

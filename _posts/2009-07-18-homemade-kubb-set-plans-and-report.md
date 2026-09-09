@@ -1,5 +1,7 @@
 ---
 title: 'Homemade Kubb Set Plans and Report'
+excerpt: 'Building a Kubb set from dimensional lumber, with plans and a report from the yard.'
+description: 'Building a Kubb set from dimensional lumber, with plans and a report from the yard.'
 date: '2009-07-18T04:32:00+00:00'
 category: "personal"
 tags: ["games", "family", "home"]

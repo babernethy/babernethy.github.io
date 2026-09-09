@@ -1,5 +1,7 @@
 ---
 title: 'Show and Tell #2 &#8211; Community College Computer Course'
+excerpt: 'Learning to program on a green-screen terminal, and taking the same class twice for the lab time.'
+description: 'Learning to program on a green-screen terminal, and taking the same class twice for the lab time.'
 date: '2007-09-12T20:18:37+00:00'
 category: "personal"
 tags: ["family", "education", "development"]

@@ -1,5 +1,6 @@
 ---
 title: 'Laborer, Craftsman, and Artist'
+excerpt: 'Thirty years of software labor and craftsmanship - and why artistry has been the elusive one.'
 description: 'What does it mean to be a Software Laborer, Craftsman, or even Artist?'
 category: "jobs"
 tags: ["ai", "jobs", "thinking"]

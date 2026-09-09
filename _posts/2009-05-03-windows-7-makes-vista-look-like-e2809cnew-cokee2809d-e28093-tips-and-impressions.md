@@ -1,5 +1,7 @@
 ---
 title: 'Windows 7 Makes Vista Look Like “New Coke” – Tips and Impressions'
+excerpt: 'Windows 7 on both my machines, and why so much of what I like is really disappointment with Vista.'
+description: 'Windows 7 on both my machines, and why so much of what I like is really disappointment with Vista.'
 date: '2009-05-03T23:18:16+00:00'
 category: "tech"
 tags: ["microsoft", "hardware"]

@@ -1,5 +1,7 @@
 ---
 title: 'Surprise Hit &#8211; Play &amp; Freeze Ice Cream Maker'
+excerpt: 'The surprise hit of Christmas - a goofy ball that makes a quart of ice cream if you play with it.'
+description: 'The surprise hit of Christmas - a goofy ball that makes a quart of ice cream if you play with it.'
 date: '2007-12-26T01:40:59+00:00'
 category: "personal"
 tags: ["family", "fun"]

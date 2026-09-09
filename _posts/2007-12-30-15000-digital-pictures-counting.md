@@ -1,5 +1,7 @@
 ---
 title: '15,000 digital pictures (&amp; counting)'
+excerpt: 'Fifteen thousand photos and no good backup story left. How is everyone else handling this?'
+description: 'Fifteen thousand photos and no good backup story left. How is everyone else handling this?'
 date: '2007-12-30T10:08:27+00:00'
 category: "tech"
 tags: ["hardware", "family", "tech"]

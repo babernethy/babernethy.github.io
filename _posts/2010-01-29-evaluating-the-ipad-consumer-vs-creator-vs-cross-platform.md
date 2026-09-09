@@ -1,5 +1,7 @@
 ---
 title: 'Evaluating the iPad: Consumer vs. Creator vs. Cross Platform'
+excerpt: 'A lifelong Apple fan works out why the iPad announcement left him underwhelmed.'
+description: 'A lifelong Apple fan works out why the iPad announcement left him underwhelmed.'
 date: '2010-01-29T05:14:45+00:00'
 category: "tech"
 tags: ["mobile", "hardware", "thinking"]

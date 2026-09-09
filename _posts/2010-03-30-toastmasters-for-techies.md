@@ -1,5 +1,7 @@
 ---
 title: 'Toastmasters for Techies'
+excerpt: 'A new Toastmasters group in Grand Rapids, and the five things that got me in the door.'
+description: 'A new Toastmasters group in Grand Rapids, and the five things that got me in the door.'
 date: '2010-03-30T08:52:28+00:00'
 header:
   teaser: /assets/images/t4t.png

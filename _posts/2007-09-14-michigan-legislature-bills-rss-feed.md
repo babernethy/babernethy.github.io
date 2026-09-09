@@ -1,5 +1,7 @@
 ---
 title: 'Michigan Legislature Bills RSS Feed'
+excerpt: 'An RSS feed of what the Michigan Legislature is actually working on this week.'
+description: 'An RSS feed of what the Michigan Legislature is actually working on this week.'
 date: '2007-09-14T09:29:47+00:00'
 category: "tech"
 tags: ["tech", "thinking"]

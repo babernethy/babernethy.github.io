@@ -1,5 +1,7 @@
 ---
 title: 'What I Learned at the Silverlight Partner Summit 2009'
+excerpt: 'Notes from Redmond, starting with why community is the only way this learning actually sticks.'
+description: 'Notes from Redmond, starting with why community is the only way this learning actually sticks.'
 date: '2009-12-16T07:24:35+00:00'
 category: "development"
 tags: ["silverlight", "microsoft", "presentations"]

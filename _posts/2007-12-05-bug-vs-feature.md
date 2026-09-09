@@ -1,5 +1,7 @@
 ---
 title: 'Bug vs. Feature'
+excerpt: 'When life gives you lemons, file it as a feature.'
+description: 'When life gives you lemons, file it as a feature.'
 date: '2007-12-05T08:08:51+00:00'
 category: "development"
 tags: ["development", "fun"]

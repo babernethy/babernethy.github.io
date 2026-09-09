@@ -1,5 +1,7 @@
 ---
 title: 'Ninja, Master Chief, Snow Speeder–Travel Around The World'
+excerpt: 'Three geocaching travel bugs, 34,639 miles, and a few countries I did not expect.'
+description: 'Three geocaching travel bugs, 34,639 miles, and a few countries I did not expect.'
 date: '2012-04-04T17:14:48+00:00'
 header:
   teaser: /assets/images/codeninja.jpg

@@ -1,5 +1,7 @@
 ---
 title: 'Draft of HTML 5 Hints at a Brave New Web'
+excerpt: 'Native audio and video, real page structure, and the long-overdue death of the frame.'
+description: 'Native audio and video, real page structure, and the long-overdue death of the frame.'
 date: '2008-01-23T14:34:28+00:00'
 category: "development"
 tags: ["development", "ui"]

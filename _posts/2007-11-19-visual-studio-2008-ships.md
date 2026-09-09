@@ -1,5 +1,7 @@
 ---
 title: 'Visual Studio 2008 Ships'
+excerpt: 'Visual Studio 2008 and .NET 3.5 are out - start your downloaders.'
+description: 'Visual Studio 2008 and .NET 3.5 are out - start your downloaders.'
 date: '2007-11-19T05:53:04+00:00'
 category: "development"
 tags: ["microsoft", "development"]

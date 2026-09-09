@@ -1,5 +1,7 @@
 ---
 title: 'Day 1 &#8211; Festival of Faith and Writing 08'
+excerpt: 'My fourth Festival of Faith and Writing, a Chabon keynote, and why I keep coming back.'
+description: 'My fourth Festival of Faith and Writing, a Chabon keynote, and why I keep coming back.'
 date: '2008-04-17T14:05:59+00:00'
 category: "personal"
 tags: ["books", "inspiration", "presentations"]

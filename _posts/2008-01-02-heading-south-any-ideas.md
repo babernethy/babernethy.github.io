@@ -1,5 +1,7 @@
 ---
 title: 'Heading &quot;South&quot; &#8211; Any Ideas?'
+excerpt: 'Three weeks out, driving south from Michigan, and still no plan. Ideas welcome.'
+description: 'Three weeks out, driving south from Michigan, and still no plan. Ideas welcome.'
 date: '2008-01-02T05:39:16+00:00'
 category: "personal"
 tags: ["family"]

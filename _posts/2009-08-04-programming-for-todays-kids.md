@@ -1,5 +1,7 @@
 ---
 title: 'Programming for Today’s Kids'
+excerpt: 'Every computer used to come with BASIC. Here is what has finally replaced it for kids.'
+description: 'Every computer used to come with BASIC. Here is what has finally replaced it for kids.'
 date: '2009-08-04T05:56:41+00:00'
 header:
   teaser: /assets/images/smallbasic.png

@@ -1,5 +1,7 @@
 ---
 title: 'Visual Studio 2008 plug-ins (warning Silverlight 1.1)'
+excerpt: 'Install notes for VS2008, which add-ins survived the move, and why to wait on Silverlight 1.1.'
+description: 'Install notes for VS2008, which add-ins survived the move, and why to wait on Silverlight 1.1.'
 date: '2007-11-19T08:37:58+00:00'
 category: "development"
 tags: ["microsoft", "development", "silverlight"]

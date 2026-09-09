@@ -1,5 +1,7 @@
 ---
 title: 'My next car &#8211; ideas?  Electric? Alternative Energy?'
+excerpt: 'No purchase imminent, but thinking through electric and alternative energy for the next car.'
+description: 'No purchase imminent, but thinking through electric and alternative energy for the next car.'
 date: '2007-10-26T00:21:28+00:00'
 category: "tech"
 tags: ["tech", "thinking"]

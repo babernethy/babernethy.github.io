@@ -1,5 +1,7 @@
 ---
 title: 'World Animal Day &ndash; boston.com'
+excerpt: 'Narwhals in Arctic Bay - a photo so strange I could not tell whether it was real.'
+description: 'Narwhals in Arctic Bay - a photo so strange I could not tell whether it was real.'
 date: '2008-10-19T08:41:43+00:00'
 category: "nature"
 tags: ["nature", "art"]

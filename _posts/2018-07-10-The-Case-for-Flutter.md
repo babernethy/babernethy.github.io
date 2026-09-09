@@ -1,8 +1,7 @@
 ---
 title: The Case for Flutter
-description: >-
-  I am really encouraged by the feedback and ongoing questions and conversations
-  after my talk a few weeks ago on my investigations into…
+excerpt: 'After a talk, an app in the stores, and a lot of notes - why I have grown to really like Flutter.'
+description: 'After a talk, an app in the stores, and a lot of notes - why I have grown to really like Flutter.'
 category: "development"
 tags: ["flutter", "mobile", "development"]
 redirect_from:

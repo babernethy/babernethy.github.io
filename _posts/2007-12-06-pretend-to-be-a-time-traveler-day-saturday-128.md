@@ -1,5 +1,7 @@
 ---
 title: 'Pretend to be a Time Traveler Day &#8211; Saturday 12/8'
+excerpt: 'Not quite Talk Like a Pirate Day, but there are some very good ideas here.'
+description: 'Not quite Talk Like a Pirate Day, but there are some very good ideas here.'
 date: '2007-12-06T13:28:57+00:00'
 category: "personal"
 tags: ["fun"]

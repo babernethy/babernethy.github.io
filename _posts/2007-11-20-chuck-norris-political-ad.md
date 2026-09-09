@@ -1,5 +1,7 @@
 ---
 title: 'Chuck Norris Political Ad'
+excerpt: 'Chuck Norris finally has some fun with his own Facts, in a surprisingly creative ad.'
+description: 'Chuck Norris finally has some fun with his own Facts, in a surprisingly creative ad.'
 date: '2007-11-20T23:14:07+00:00'
 category: "personal"
 tags: ["fun"]

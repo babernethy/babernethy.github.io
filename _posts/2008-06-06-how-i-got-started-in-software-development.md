@@ -1,5 +1,7 @@
 ---
 title: 'How I Got Started in Software Development'
+excerpt: 'First program at 11 on a Commodore PET, and the librarian who let me disappear for the afternoon.'
+description: 'First program at 11 on a Commodore PET, and the librarian who let me disappear for the afternoon.'
 date: '2008-06-06T07:34:57+00:00'
 category: "jobs"
 tags: ["development", "jobs", "education"]

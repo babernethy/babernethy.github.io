@@ -1,5 +1,7 @@
 ---
 title: 'Post Interesting Links to Blog 07/31/2009'
+excerpt: 'Links saved from Diigo - the GR Social Marketing group and tomorrow''s meetup.'
+description: 'Links saved from Diigo - the GR Social Marketing group and tomorrow''s meetup.'
 date: '2009-07-30T18:30:37+00:00'
 category: "links"
 tags: ["general"]

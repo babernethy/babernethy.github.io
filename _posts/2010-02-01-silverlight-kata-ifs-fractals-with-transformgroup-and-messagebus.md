@@ -1,5 +1,7 @@
 ---
 title: 'Silverlight Kata: IFS Fractals with TransformGroup and MessageBus'
+excerpt: 'A code kata for practice, not production - IFS fractals in Silverlight, starting with the transforms.'
+description: 'A code kata for practice, not production - IFS fractals in Silverlight, starting with the transforms.'
 date: '2010-02-01T02:36:23+00:00'
 header:
   teaser: /assets/images/fractal_it7.png

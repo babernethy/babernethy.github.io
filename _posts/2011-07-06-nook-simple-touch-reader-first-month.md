@@ -1,5 +1,7 @@
 ---
 title: 'Nook Simple Touch Reader &#8211; First Month'
+excerpt: 'A month on the Nook Simple Touch, including what a typical reading day actually looks like.'
+description: 'A month on the Nook Simple Touch, including what a typical reading day actually looks like.'
 date: '2011-07-06T15:51:33+00:00'
 header:
   teaser: /assets/images/nooktouch.jpg

@@ -1,5 +1,7 @@
 ---
 title: 'Water Weenies and Crystals'
+excerpt: 'Latex tubing, surgical clamps, and a supply of Aluminum Sulfate - summer projects with the kids.'
+description: 'Latex tubing, surgical clamps, and a supply of Aluminum Sulfate - summer projects with the kids.'
 date: '2007-08-14T17:26:03+00:00'
 category: "physics"
 tags: ["physics", "fun", "family"]

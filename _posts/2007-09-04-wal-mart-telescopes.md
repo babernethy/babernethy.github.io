@@ -1,5 +1,7 @@
 ---
 title: 'Wal-mart Telescopes'
+excerpt: 'A computer-controlled Meade scope in a backpack, on a Wal-mart shelf right next to the candles.'
+description: 'A computer-controlled Meade scope in a backpack, on a Wal-mart shelf right next to the candles.'
 date: '2007-09-04T02:24:06+00:00'
 category: "science"
 tags: ["space", "hardware", "family"]

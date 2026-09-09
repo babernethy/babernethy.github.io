@@ -1,5 +1,7 @@
 ---
 title: 'Computer Handyman and Plumber'
+excerpt: 'Home servers and media boxes are arriving faster than the people who can set them up.'
+description: 'Home servers and media boxes are arriving faster than the people who can set them up.'
 date: '2008-01-16T23:49:43+00:00'
 category: "tech"
 tags: ["tech", "home", "jobs"]

@@ -1,8 +1,7 @@
 ---
 title: This Old House
-description: >-
-  I accidentally bought a new house. “Accidentally” because we really weren’t
-  looking. But we ended up finding a cool old house, or maybe it…
+excerpt: 'I accidentally bought a 97-year-old house, and want to keep track of what we are getting into.'
+description: 'I accidentally bought a 97-year-old house, and want to keep track of what we are getting into.'
 category: "personal"
 tags: ["home", "family"]
 redirect_from:

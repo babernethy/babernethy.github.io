@@ -1,5 +1,7 @@
 ---
 title: 'Day of .NET Ann Arbor'
+excerpt: 'A great Saturday in Ann Arbor, and a good reason to help start one in Grand Rapids.'
+description: 'A great Saturday in Ann Arbor, and a good reason to help start one in Grand Rapids.'
 date: '2007-10-22T01:08:12+00:00'
 category: "development"
 tags: ["development", "presentations", "microsoft"]

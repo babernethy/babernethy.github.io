@@ -1,5 +1,7 @@
 ---
 title: 'Florida Freeze'
+excerpt: 'Plan a trip to Florida and watch the record cold move in right behind you.'
+description: 'Plan a trip to Florida and watch the record cold move in right behind you.'
 date: '2008-01-02T22:59:36+00:00'
 category: "personal"
 tags: ["family", "fun"]

@@ -1,5 +1,7 @@
 ---
 title: 'Oxford Word Of The Year: Locavore'
+excerpt: 'Locavore takes Word of the Year - and a good idea gets the name it needed to catch on.'
+description: 'Locavore takes Word of the Year - and a good idea gets the name it needed to catch on.'
 date: '2007-11-20T23:30:48+00:00'
 category: "personal"
 tags: ["thinking", "fun"]

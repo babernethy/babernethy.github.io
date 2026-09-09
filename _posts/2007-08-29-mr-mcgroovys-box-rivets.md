@@ -1,5 +1,7 @@
 ---
 title: 'Mr. McGroovy&#8217;s Box Rivets'
+excerpt: 'Rivets made for cardboard, so the box fort finally outlasts the duct tape.'
+description: 'Rivets made for cardboard, so the box fort finally outlasts the duct tape.'
 date: '2007-08-29T15:47:00+00:00'
 category: "science"
 tags: ["family", "fun"]

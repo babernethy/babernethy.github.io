@@ -1,5 +1,7 @@
 ---
 title: 'Statetris &#8211; USA'
+excerpt: 'Tetris meets the fifty states - and a good example of something a plain web page could not do.'
+description: 'Tetris meets the fifty states - and a good example of something a plain web page could not do.'
 date: '2007-09-23T14:39:01+00:00'
 category: "tech"
 tags: ["games", "fun", "education"]

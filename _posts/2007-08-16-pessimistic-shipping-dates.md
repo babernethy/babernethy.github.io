@@ -1,5 +1,7 @@
 ---
 title: 'Pessimistic Shipping Dates'
+excerpt: 'A book shipped from 159 miles away with a two-month delivery estimate. Yes, I did the math.'
+description: 'A book shipped from 159 miles away with a two-month delivery estimate. Yes, I did the math.'
 date: '2007-08-16T17:31:00+00:00'
 category: "personal"
 tags: ["fun"]

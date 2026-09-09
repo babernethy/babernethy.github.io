@@ -1,5 +1,7 @@
 ---
 title: 'Health Care'
+excerpt: 'A Dave Barry quote that sums up at least one side of the health care debate.'
+description: 'A Dave Barry quote that sums up at least one side of the health care debate.'
 date: '2007-11-26T02:51:00+00:00'
 category: "personal"
 tags: ["health", "fun"]

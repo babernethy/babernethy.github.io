@@ -1,5 +1,7 @@
 ---
 title: 'A few coming privacy / personal information services'
+excerpt: 'Two services that feel inevitable after a week of handing my card details to gas pumps.'
+description: 'Two services that feel inevitable after a week of handing my card details to gas pumps.'
 date: '2008-02-05T06:13:32+00:00'
 category: "tech"
 tags: ["security", "thinking"]

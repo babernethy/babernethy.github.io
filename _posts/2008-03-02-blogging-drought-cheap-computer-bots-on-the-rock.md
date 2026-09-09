@@ -1,5 +1,7 @@
 ---
 title: 'Blogging Drought &#8211; Cheap Computer &#8211; &#8216;Bots on the Rock'
+excerpt: 'Sickness in the house, a robotics club race coming up, and my fast computer is now just normal.'
+description: 'Sickness in the house, a robotics club race coming up, and my fast computer is now just normal.'
 date: '2008-03-02T23:25:40+00:00'
 category: "blog"
 tags: ["blog", "robotics", "hardware"]

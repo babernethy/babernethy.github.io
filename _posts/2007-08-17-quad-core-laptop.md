@@ -1,5 +1,7 @@
 ---
 title: 'Quad-Core Laptop'
+excerpt: 'Admitting I was wrong - a quad-core laptop is coming, for $10,000 and almost no battery life.'
+description: 'Admitting I was wrong - a quad-core laptop is coming, for $10,000 and almost no battery life.'
 date: '2007-08-17T03:02:36+00:00'
 category: "tech"
 tags: ["hardware", "fun"]

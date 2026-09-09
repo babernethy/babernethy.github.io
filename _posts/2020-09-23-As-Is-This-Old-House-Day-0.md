@@ -1,8 +1,7 @@
 ---
 title: '“As Is” — This Old House, Day 0'
-description: >-
-  Two words I never expected to be on an offer I would sign on a house are “as
-  is”. This means, in general, that whatever might be right or…
+excerpt: 'Two words I never expected to sign on a house offer, and what the inspection turned up.'
+description: 'Two words I never expected to sign on a house offer, and what the inspection turned up.'
 category: "personal"
 tags: ["home", "family"]
 redirect_from:

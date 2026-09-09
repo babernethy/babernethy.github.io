@@ -1,5 +1,7 @@
 ---
 title: 'Password guidelines from NIST preview major changes'
+excerpt: 'The draft NIST guidelines finally admit what everyone already does with their passwords.'
+description: 'The draft NIST guidelines finally admit what everyone already does with their passwords.'
 date: '2017-05-25T09:09:30+00:00'
 header:
   teaser: /assets/images/nist_logo.png

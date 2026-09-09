@@ -1,5 +1,7 @@
 ---
 title: 'Why I like Twitter'
+excerpt: 'I thought Twitter was a waste of time. Six months later, here is why I actually use it.'
+description: 'I thought Twitter was a waste of time. Six months later, here is why I actually use it.'
 date: '2008-02-13T03:41:20+00:00'
 category: "tech"
 tags: ["tech", "blog"]

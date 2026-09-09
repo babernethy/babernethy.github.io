@@ -1,5 +1,7 @@
 ---
 title: 'Lost English word &#8211; &quot;delight&quot; (and other vacation tangents)'
+excerpt: 'When did anyone last say something delighted them? A word that kept coming up on vacation.'
+description: 'When did anyone last say something delighted them? A word that kept coming up on vacation.'
 date: '2008-01-31T14:12:48+00:00'
 category: "personal"
 tags: ["thinking", "family"]

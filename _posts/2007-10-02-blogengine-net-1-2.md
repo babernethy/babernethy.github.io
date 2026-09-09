@@ -1,5 +1,7 @@
 ---
 title: 'BlogEngine.NET 1.2'
+excerpt: 'Upgraded the blog over lunch, and it was relatively painless. Now to get back into the code.'
+description: 'Upgraded the blog over lunch, and it was relatively painless. Now to get back into the code.'
 date: '2007-10-02T06:45:05+00:00'
 category: "blog"
 tags: ["blog", "microsoft"]

@@ -1,5 +1,7 @@
 ---
 title: 'Silverlight IRL &#8211; Requests'
+excerpt: 'After a year of real Silverlight work in health care, here is my wish list for the next version.'
+description: 'After a year of real Silverlight work in health care, here is my wish list for the next version.'
 date: '2008-10-15T23:00:19+00:00'
 category: "development"
 tags: ["silverlight", "microsoft", "presentations"]

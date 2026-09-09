@@ -1,5 +1,7 @@
 ---
 title: 'More Crystals'
+excerpt: 'A month of growing alum crystals, and what looks like a pocket full of diamonds.'
+description: 'A month of growing alum crystals, and what looks like a pocket full of diamonds.'
 date: '2007-09-11T16:32:05+00:00'
 category: "science"
 tags: ["science", "family"]

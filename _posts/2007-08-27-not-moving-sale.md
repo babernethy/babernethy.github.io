@@ -1,5 +1,7 @@
 ---
 title: 'Not Moving Sale'
+excerpt: 'Doing the math on moving in a terrible housing market, and deciding to stay put.'
+description: 'Doing the math on moving in a terrible housing market, and deciding to stay put.'
 date: '2007-08-27T14:12:00+00:00'
 category: "personal"
 tags: ["home", "family"]

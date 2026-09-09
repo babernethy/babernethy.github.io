@@ -1,5 +1,7 @@
 ---
 title: 'Lessons from Keynote #1: Bill Gates'
+excerpt: 'Bill Gates'' last keynote as chairman, and what actually mattered in it.'
+description: 'Bill Gates'' last keynote as chairman, and what actually mattered in it.'
 date: '2008-06-10T06:04:00+00:00'
 category: "tech"
 tags: ["microsoft", "thinking", "presentations"]

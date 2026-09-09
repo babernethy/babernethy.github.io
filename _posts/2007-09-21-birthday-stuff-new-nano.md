@@ -1,5 +1,7 @@
 ---
 title: 'Birthday Stuff &#8211; new Nano'
+excerpt: 'A birthday iPod Nano 3G - shorter, wider, thinner, and with a screen you have to see in person.'
+description: 'A birthday iPod Nano 3G - shorter, wider, thinner, and with a screen you have to see in person.'
 date: '2007-09-21T02:44:45+00:00'
 category: "tech"
 tags: ["hardware", "family"]

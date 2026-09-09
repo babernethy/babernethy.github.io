@@ -1,5 +1,7 @@
 ---
 title: 'Marie Catrib&#8217;s Restaurant Review'
+excerpt: 'A Valentine''s lunch date in East Grand Rapids, at a place sourcing food from a scooter trip away.'
+description: 'A Valentine''s lunch date in East Grand Rapids, at a place sourcing food from a scooter trip away.'
 date: '2009-02-17T03:15:00+00:00'
 category: "personal"
 tags: ["family", "fun"]

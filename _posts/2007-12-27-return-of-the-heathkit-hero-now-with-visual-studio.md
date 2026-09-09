@@ -1,5 +1,7 @@
 ---
 title: 'Return of the Heathkit HERO &#8211; now with Visual Studio'
+excerpt: 'The Heathkit HERO I used in high school is coming back - this time programmed in Visual Studio.'
+description: 'The Heathkit HERO I used in high school is coming back - this time programmed in Visual Studio.'
 date: '2007-12-27T14:25:52+00:00'
 category: "science"
 tags: ["robotics", "microsoft", "hardware"]

@@ -1,5 +1,7 @@
 ---
 title: 'Cool Tools &#8211; ZoomIt v1.8'
+excerpt: 'A free utility that does three things and does them very well - and saves every presentation I give.'
+description: 'A free utility that does three things and does them very well - and saves every presentation I give.'
 date: '2008-03-11T04:45:07+00:00'
 category: "tech"
 tags: ["tech", "presentations", "microsoft"]

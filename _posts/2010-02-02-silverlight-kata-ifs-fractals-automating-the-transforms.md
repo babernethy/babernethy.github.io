@@ -1,5 +1,7 @@
 ---
 title: 'Silverlight Kata: IFS Fractals: Automating the Transforms'
+excerpt: 'Part two of the fractal kata - encapsulating an IFS transform and driving the iterations from code.'
+description: 'Part two of the fractal kata - encapsulating an IFS transform and driving the iterations from code.'
 date: '2010-02-02T00:53:13+00:00'
 category: "development"
 tags: ["silverlight", "development", "science"]

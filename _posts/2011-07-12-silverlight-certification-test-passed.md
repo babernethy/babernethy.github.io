@@ -1,5 +1,7 @@
 ---
 title: 'Silverlight Certification Test &#8211; Passed'
+excerpt: 'Passing MCTS 70-506, and what is worth reviewing even after years of real Silverlight work.'
+description: 'Passing MCTS 70-506, and what is worth reviewing even after years of real Silverlight work.'
 date: '2011-07-12T15:33:54+00:00'
 header:
   teaser: /assets/images/70506.png

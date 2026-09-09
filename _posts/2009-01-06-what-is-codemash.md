@@ -1,5 +1,7 @@
 ---
 title: 'What is CodeMash?'
+excerpt: 'Explaining the conference behind all those confusing tweets my friends keep asking about.'
+description: 'Explaining the conference behind all those confusing tweets my friends keep asking about.'
 date: '2009-01-06T00:31:10+00:00'
 category: "development"
 tags: ["development", "presentations"]

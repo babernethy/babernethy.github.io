@@ -1,5 +1,7 @@
 ---
 title: 'Confusion and FUD around Silverlight PDC Announcements'
+excerpt: 'Two Silverlight rumors from the PDC, each with a smidgeon of truth and a lot of FUD.'
+description: 'Two Silverlight rumors from the PDC, each with a smidgeon of truth and a lot of FUD.'
 date: '2009-12-01T04:49:35+00:00'
 category: "development"
 tags: ["silverlight", "microsoft", "thinking"]

@@ -1,5 +1,7 @@
 ---
 title: 'Collection/Addiction #2: Games'
+excerpt: 'Five tubs of board games, and the hard job of deciding which ones to keep.'
+description: 'Five tubs of board games, and the hard job of deciding which ones to keep.'
 date: '2007-08-29T08:32:01+00:00'
 category: "personal"
 tags: ["games", "family"]

@@ -1,5 +1,7 @@
 ---
 title: 'Tafiti (beta)'
+excerpt: 'A Silverlight search concept from Microsoft that lets you shelve and stack your results.'
+description: 'A Silverlight search concept from Microsoft that lets you shelve and stack your results.'
 date: '2007-08-22T07:43:00+00:00'
 category: "tech"
 tags: ["microsoft", "silverlight", "ui"]

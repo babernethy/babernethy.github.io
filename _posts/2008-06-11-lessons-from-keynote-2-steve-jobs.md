@@ -1,5 +1,7 @@
 ---
 title: 'Lessons from Keynote #2 &ndash; Steve Jobs'
+excerpt: 'The iPhone 3G was the headline, but 42% of the WWDC sessions told the real story.'
+description: 'The iPhone 3G was the headline, but 42% of the WWDC sessions told the real story.'
 date: '2008-06-11T00:47:51+00:00'
 category: "tech"
 tags: ["mobile", "thinking", "presentations"]

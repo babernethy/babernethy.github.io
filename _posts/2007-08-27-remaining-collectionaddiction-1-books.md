@@ -1,5 +1,7 @@
 ---
 title: 'Remaining Collection/Addiction #1: Books'
+excerpt: 'Thirty years of collecting books, and every excuse I used along the way.'
+description: 'Thirty years of collecting books, and every excuse I used along the way.'
 date: '2007-08-27T21:33:00+00:00'
 category: "personal"
 tags: ["books", "family"]

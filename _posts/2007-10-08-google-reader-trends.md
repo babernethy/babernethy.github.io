@@ -1,5 +1,7 @@
 ---
 title: 'Google Reader: Trends'
+excerpt: 'The Trends page in Google Reader knows exactly how many of those 9,564 items I really read.'
+description: 'The Trends page in Google Reader knows exactly how many of those 9,564 items I really read.'
 date: '2007-10-08T03:14:13+00:00'
 category: "tech"
 tags: ["tech", "blog"]
