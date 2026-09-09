@@ -290,6 +290,7 @@ defaults:
       read_time: true
       share: true
       related: true
+      comments: true
       # show_date: true
       # show_comments: true
   # _pages
