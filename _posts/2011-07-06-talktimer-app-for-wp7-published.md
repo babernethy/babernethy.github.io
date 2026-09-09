@@ -3,7 +3,8 @@ title: 'TalkTimer app for WP7'
 date: '2011-07-06T21:35:37+00:00'
 dsq_thread_id:
     - '374385947'
-image: /wp-content/uploads/2011/07/tt_icon.png
+header:
+  teaser: /assets/images/tt_icon.png
 category: "development"
 tags: ["mobile", "microsoft", "presentations"]
 redirect_from:

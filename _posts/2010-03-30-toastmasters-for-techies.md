@@ -3,7 +3,8 @@ title: 'Toastmasters for Techies'
 date: '2010-03-30T08:52:28+00:00'
 dsq_thread_id:
     - '366676817'
-image: /wp-content/uploads/2011/07/t4t.png
+header:
+  teaser: /assets/images/t4t.png
 category: "jobs"
 tags: ["presentations", "jobs", "thinking"]
 redirect_from:

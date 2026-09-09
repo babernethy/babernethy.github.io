@@ -1,7 +1,8 @@
 ---
 title: 'Ninja, Master Chief, Snow Speeder–Travel Around The World'
 date: '2012-04-04T17:14:48+00:00'
-image: /wp-content/uploads/2012/04/codeninja.jpg
+header:
+  teaser: /assets/images/codeninja.jpg
 category: "personal"
 tags: ["family", "fun", "games"]
 redirect_from:

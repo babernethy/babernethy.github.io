@@ -3,7 +3,8 @@ title: 'Why I make a fuss over the release of Visual Studio 2010'
 date: '2010-04-12T00:33:17+00:00'
 dsq_thread_id:
     - '369385244'
-image: /wp-content/uploads/2011/07/vs2010.png
+header:
+  teaser: /assets/images/vs2010.png
 category: "development"
 tags: ["microsoft", "development", "inspiration"]
 redirect_from:

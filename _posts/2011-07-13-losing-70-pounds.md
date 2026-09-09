@@ -3,7 +3,8 @@ title: 'Losing 70 pounds'
 date: '2011-07-13T22:04:10+00:00'
 dsq_thread_id:
     - '357916058'
-image: /wp-content/uploads/2011/07/weightScale.jpg
+header:
+  teaser: /assets/images/weightScale.jpg
 category: "personal"
 tags: ["health", "inspiration"]
 redirect_from:

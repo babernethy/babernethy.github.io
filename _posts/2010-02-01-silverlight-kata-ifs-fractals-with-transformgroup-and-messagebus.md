@@ -3,7 +3,8 @@ title: 'Silverlight Kata: IFS Fractals with TransformGroup and MessageBus'
 date: '2010-02-01T02:36:23+00:00'
 dsq_thread_id:
     - '384044579'
-image: /wp-content/uploads/2010/02/fractal_it7_thumb.png
+header:
+  teaser: /assets/images/fractal_it7.png
 category: "development"
 tags: ["silverlight", "development", "science"]
 redirect_from:

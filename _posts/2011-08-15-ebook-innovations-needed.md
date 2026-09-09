@@ -3,7 +3,8 @@ title: 'EBook Innovations Needed'
 date: '2011-08-15T10:17:31+00:00'
 dsq_thread_id:
     - '386794223'
-image: /wp-content/uploads/2011/08/ebboki1.png
+header:
+  teaser: /assets/images/ebboki1.png
 category: "tech"
 tags: ["eink", "books", "thinking"]
 redirect_from:

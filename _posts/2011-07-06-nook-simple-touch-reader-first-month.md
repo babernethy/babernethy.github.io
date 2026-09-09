@@ -3,7 +3,8 @@ title: 'Nook Simple Touch Reader &#8211; First Month'
 date: '2011-07-06T15:51:33+00:00'
 dsq_thread_id:
     - '357996666'
-image: /wp-content/uploads/2011/07/nooktouch.jpg
+header:
+  teaser: /assets/images/nooktouch.jpg
 category: "tech"
 tags: ["eink", "books", "hardware"]
 redirect_from:

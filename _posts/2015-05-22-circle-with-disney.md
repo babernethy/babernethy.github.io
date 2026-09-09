@@ -1,7 +1,8 @@
 ---
 title: 'Circle with Disney'
 date: '2015-05-22T20:45:53+00:00'
-image: /wp-content/uploads/2015/12/circle_thumb.jpg
+header:
+  teaser: /assets/images/circle.jpg
 category: "tech"
 tags: ["family", "security", "tech"]
 redirect_from:

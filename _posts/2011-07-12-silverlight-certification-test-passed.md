@@ -3,7 +3,8 @@ title: 'Silverlight Certification Test &#8211; Passed'
 date: '2011-07-12T15:33:54+00:00'
 dsq_thread_id:
     - '357240483'
-image: /wp-content/uploads/2011/07/70506.png
+header:
+  teaser: /assets/images/70506.png
 category: "development"
 tags: ["silverlight", "microsoft", "jobs"]
 redirect_from:

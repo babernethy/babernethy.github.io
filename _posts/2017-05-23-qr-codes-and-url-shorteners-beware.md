@@ -1,7 +1,8 @@
 ---
 title: 'QR Codes and URL Shorteners &#8211; Beware'
 date: '2017-05-23T08:26:43+00:00'
-image: /wp-content/uploads/2017/05/qrcode_article_graphic.png
+header:
+  teaser: /assets/images/qrcode_article_graphic.png
 category: "tech"
 tags: ["security", "thinking"]
 redirect_from:

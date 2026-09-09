@@ -3,7 +3,8 @@ title: 'Maker Faire Detroit 2011'
 date: '2011-08-01T14:13:51+00:00'
 dsq_thread_id:
     - ''
-image: /wp-content/uploads/2011/08/mf_det11_badge_200x200.jpg
+header:
+  teaser: /assets/images/mf_det11_badge_200x200.jpg
 category: "science"
 tags: ["science", "family", "inspiration"]
 redirect_from:
