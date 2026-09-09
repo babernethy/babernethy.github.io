@@ -9,7 +9,7 @@ redirect_from:
   - /post-interesting-links-to-blog-11272009/
 ---
 
-- [Catan Portable Edition](http://www.mayfairgames.com/shop/product/3000-3299/pages/3101.htm)
+- *Catan Portable Edition* (link is no longer active)
     
     [tags](http://www.diigo.com/cloud/babernethy): [no\_tag](http://www.diigo.com/user/babernethy/no_tag)
     

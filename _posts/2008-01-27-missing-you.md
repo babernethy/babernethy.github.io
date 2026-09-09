@@ -9,7 +9,7 @@ redirect_from:
 
 We've been in Florida since about midnight yesterday after having the wrong size plane show up, then having a "unscheduled maintenance opportunity", and then about 30 minutes of de-icing. Not to mention Budget rent-a-car completely messing up our car reservation (thanks to Avis for coming through with some real customer service). Anyway, it is hard to complain when I can now do this …
 
-[![floridapool](/image.axd?picture=WindowsLiveWriter/MissingYou_118F5/floridapool_thumb.png)](/image.axd?picture=WindowsLiveWriter/MissingYou_118F5/floridapool_2.png)
+[![floridapool](/assets/images/floridapool_thumb.png)](/assets/images/floridapool_2.png)
 
 This was my basic view about 4:15 this afternoon. My big foot and a book I am reading by the pool with the palm tree, my kids and wife in the pool, and the tiki hut preparing frosty beverages pool-side. Literally not a cloud in the sky, but not quite 70 degrees (80 by Friday).
 

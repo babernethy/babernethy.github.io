@@ -23,4 +23,4 @@ All kinds of new APIs, including persistence/database, audio/video, drawing, and
 
 There is a [high-level document describing the differences at the W3C site](http://www.w3.org/TR/html5-diff/) – still just a draft but quite a look at what might be to come.
 
-[Draft of HTML 5 Hints at a Brave New Web | Compiler from Wired.com](http://blog.wired.com/monkeybites/2008/01/the-html-5-draf.html)
+*Draft of HTML 5 Hints at a Brave New Web | Compiler from Wired.com* (link is no longer active)

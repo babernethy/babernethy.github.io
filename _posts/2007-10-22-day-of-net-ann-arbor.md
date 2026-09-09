@@ -13,6 +13,6 @@ It was a perfect day for driving through the state too – great weather and fal
 
 I’m looking forward to getting started helping with the local Grand Rapids “Day of .Net” for next year. These days are a great supplement to the user group meetings and CodeMash type events.
 
-[The Day after the Day of .NET Ann Arbor | CloudSocket Blog](http://blog.cloudsocket.com/?p=105)
+*The Day after the Day of .NET Ann Arbor | CloudSocket Blog* (link is no longer active)
 
-[www.danwoolston.com &gt; Home – Thanks!](http://www.danwoolston.com/Home/tabid/36/EntryID/321/Default.aspx)
+*www.danwoolston.com &gt; Home – Thanks!* (link is no longer active)

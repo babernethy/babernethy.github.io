@@ -9,6 +9,6 @@ redirect_from:
 
 Now that’s something you don’t hear every day.
 
-[![hawaiisnow](/assets/images/hawaiisnow_3.jpg)](http://blogs.woodtv.com/?p=2946)
+![hawaiisnow](/assets/images/hawaiisnow_3.jpg)
 
-[24 Hour News 8 Blogs » Blizzard Warning!! FOR HAWAII!!](http://blogs.woodtv.com/?p=2946)
+*24 Hour News 8 Blogs » Blizzard Warning!! FOR HAWAII!!* (link is no longer active)

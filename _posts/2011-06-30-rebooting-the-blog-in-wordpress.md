@@ -10,7 +10,7 @@ redirect_from:
   - /rebooting-the-blog-in-wordpress/
 ---
 
-I had a goal to get my blog up and running again by the end of June – so I figured I’d get a head start today ![Smile](http://www.agileeducation.net/myblog/wp-content/uploads/2011/06/wlEmoticon-smile.png)
+I had a goal to get my blog up and running again by the end of June – so I figured I’d get a head start today *{missing-image:wlEmoticon-smile.png}*
 
 I’ve been away from blogging for a while – first because of a major technical snafu at my previous hosting provider (WebHost4Life – ironic name), but then because of my lack of time and focus regarding blog posts. Recently there has been so much going on and nowhere to blog, so I decided to start blogging again.
 

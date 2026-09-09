@@ -11,7 +11,7 @@ redirect_from:
 
 I am trying to spend the early hours of Saturday morning experimenting and learning about something that interests me, with the only requirement being that is has no immediate practical value other than learning (i.e. it is not linked to work or other side projects). If it seems interesting enough, I’ll blog it. This was fun. Also, this post will be much less technical than the last set, no programming needed for this one, in fact anyone with PowerPoint will be able to take advantage and use the tools here. There may be a follow on post that will be more technical, but I wanted to alternate between tech anyone can use, and tech that really only developers could appreciate.
 
-Back on January 18th, [Scott Hansleman](http://twitter.com/shanselman) tweeted about the new [Windows MultiPoint Mouse SDK](http://www.microsoft.com/multipoint/mouse-sdk/default.aspx) by teasing “Want your application to support TWO mice at a time?” This is something I remember doing waaay back with the early Macintosh computers having multiple students with different mice interacting with a single HyperCard stack. Now we can do this again, in code wit, and with a cool PowerPoint plugin called “Mouse Mischief”.
+Back on January 18th, [Scott Hansleman](http://twitter.com/shanselman) tweeted about the new *Windows MultiPoint Mouse SDK* (link is no longer active) by teasing “Want your application to support TWO mice at a time?” This is something I remember doing waaay back with the early Macintosh computers having multiple students with different mice interacting with a single HyperCard stack. Now we can do this again, in code wit, and with a cool PowerPoint plugin called “Mouse Mischief”.
 
 Then on January 26th woot.com had $.99 refurbished mice for sale on a Woot-Off – why would anyone buy three mice that had been returned and refurbished? For just such an experiment.
 
@@ -57,4 +57,4 @@ When the presentation is complete, you need to end the presentation with the pre
 
 The ability to use multiple mice on once screen is great – and this “Mouse Mischief” plug-in tool for PowerPoint gets you started right away.
 
-In Part 2 of this series, I will show how a developer can add multi-mouse support to their own applications using the MultiPoint Mouse SDK – if you want to get started early, check out the [MultiPoint Mouse SDK Developer](http://www.microsoft.com/multipoint/mouse-sdk/developer.aspx) Info page.
+In Part 2 of this series, I will show how a developer can add multi-mouse support to their own applications using the MultiPoint Mouse SDK – if you want to get started early, check out the *MultiPoint Mouse SDK Developer* (link is no longer active) Info page.

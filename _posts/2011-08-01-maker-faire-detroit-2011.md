@@ -55,7 +55,7 @@ We caught the end of a presentation by Sean Casey and his Tornado Intercept Vehi
 
 This is a highly modified SUV with heavy weights and ground effects (to stop the tornado from lifting the vehicle). The “turret” on top is actually a mounted IMAX camera which enabled him to get some never-before-seen-and-lived type footage from the base of a tornado cell – which just happened to be showing at the IMAX theater in the museum as well.
 
-We stayed through the following presentation which was a very well assembled and produced effort by Maria Anderson from the LIFT Institute at Muskegon Community College. She has graciously put her presentation and video online at <http://edgeoflearning.com/?p=2920>. She walked us through a model where really life-long learning can be achieved using a “Maker Model” of learning, reflecting, tweeting, collaborating, blogging, reviewing and continuing on in a cycle of continuous investigation and learning. This is the kind of thing that really makes sense when you talk about it. The “Free Range” style of learning could replace a more “Caged/Factory” style learning that exists in many institutions today. Free the learner/creator and let the learning and creating flow. Some very fun, cool, and encouraging ideas (with some actual research and backup to support it).
+We stayed through the following presentation which was a very well assembled and produced effort by Maria Anderson from the LIFT Institute at Muskegon Community College. She has graciously put her presentation and video online at *http://edgeoflearning.com/?p=2920* (link is no longer active). She walked us through a model where really life-long learning can be achieved using a “Maker Model” of learning, reflecting, tweeting, collaborating, blogging, reviewing and continuing on in a cycle of continuous investigation and learning. This is the kind of thing that really makes sense when you talk about it. The “Free Range” style of learning could replace a more “Caged/Factory” style learning that exists in many institutions today. Free the learner/creator and let the learning and creating flow. Some very fun, cool, and encouraging ideas (with some actual research and backup to support it).
 
 ## Power Wheels Racing &amp; MouseTrap
 
@@ -75,7 +75,7 @@ A highlight just because of its scale and dramatic effect was the Gon-KiRin fire
 
 [![](/assets/images/dragon.jpg "dragon")](/assets/images/dragon.jpg)
 
-[MLive got some good video and follow up on this here](http://videos.mlive.com/mlive/2011/07/maker_faire_detroit_gon-kirin_1.html).
+*MLive got some good video and follow up on this here* (link is no longer active).
 
 ## First Robotics &amp; Kinect with Lifelong Learning
 

@@ -24,6 +24,6 @@ People with their “security hats on” would never go to a URL like **http://w
 
 ### What to do?
 
-There are browser plugins and helpful sites like http://urlex.org/ that will fully expand the URL for you before you go there. So you can see where the shortened URL ends up before you visit the site in your browser. There are also QR Code readers that will “two-step” the process. First rendering the URL for you and then optionally passing it off to the browser.
+There are browser plugins and helpful sites like *http://urlex.org/* (link is no longer active) that will fully expand the URL for you before you go there. So you can see where the shortened URL ends up before you visit the site in your browser. There are also QR Code readers that will “two-step” the process. First rendering the URL for you and then optionally passing it off to the browser.
 
 So don’t be paranoid, but do be aware – something may be hiding in there.

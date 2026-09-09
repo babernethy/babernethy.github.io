@@ -9,4 +9,4 @@ redirect_from:
 
  [![](/assets/images/deathwish_thumb.jpg)](/assets/images/deathwish.jpg)
 
-[How to Win a Darwin Award: Float a Live Surge Protector in a Pool on a Couple of Flip-Flops](http://gizmodo.com/341779/how-to-win-a-darwin-award-float-a-live-surge-protector-in-a-pool-on-a-couple-of-flip+flops)
+*How to Win a Darwin Award: Float a Live Surge Protector in a Pool on a Couple of Flip-Flops* (link is no longer active)

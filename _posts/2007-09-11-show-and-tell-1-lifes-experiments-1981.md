@@ -13,7 +13,7 @@ Anyway, I found some very interesting stuff in my boxes and containers that I ch
 
 ### So here is Exhibit #1 – “Floppy Diskette, circa 1981”
 
-[![lifes_experiments](http://blog.bruceabernethy.com/mirror/ShowandTell1LifesExperiments_12F69/lifes_experiments_thumb.jpg)](http://blog.bruceabernethy.com/mirror/ShowandTell1LifesExperiments_12F69/lifes_experiments.jpg)
+_*{missing-image:lifes_experiments_thumb.jpg}*_ *{missing-image:lifes_experiments.jpg}*
 
 Yes, there used to be such a thing as “floppy disks” and they were floppy. I have one 8″ and two 5 1/4″ disks remaining – I have no idea if they are even readable any more. This disk is labeled (if you look closely) “Life’s Experiments”. How ironic. I guess if you are 13 years old and have compiled 3-4 years worth of of AppleSoft BASIC programs onto one Single-Sided, Double-Density (SSDD) disk (off of cassette tapes and print outs (yes we did retype a lot when necessary)) then it seems like a monumental task. There were three apps in particular that were worth saving: **“The Lord of the Rings Adventure”** (text-based, based on the books, very limited parser), **“Gurder”** a high-resolution graphics program based on a popular game at the time involving a plumber and a big monkey (never did get the collision detection working), and **“The Billings Murders”** an mystery adventure program written in Apple Pascal which I worked on for countless hours with Andy over gallons of Mountain Dew – the app included cutting edge sound effects with the MockingBoard (foot steps, creaking doors) and an updated version of the LOTR-A parser 🙂 .
 

@@ -10,7 +10,7 @@ redirect_from:
   - /silverlight-kata-ifs-fractals-with-transformgroup-and-messagebus/
 ---
 
-At the CodeMash conference this year many things stuck with me, and two have been bugging me enough to do something about them this last weekend. One was the idea that programmers need to practice and refine their skills, which was probably best described in the ideas of [“Code Katas”](http://en.wikipedia.org/wiki/Kata_(programming)) ala Dave Thomas in the [Pragmatic Programmer](http://www.pragprog.com/). The other was my recent concentration on all-things-Silverlight, specifically looking at the power of the platform and the emerging patters (e.g. MVVM).
+At the CodeMash conference this year many things stuck with me, and two have been bugging me enough to do something about them this last weekend. One was the idea that programmers need to practice and refine their skills, which was probably best described in the ideas of [“Code Katas”](https://en.wikipedia.org/wiki/Kata_%28programming%29) ala Dave Thomas in the [Pragmatic Programmer](http://www.pragprog.com/). The other was my recent concentration on all-things-Silverlight, specifically looking at the power of the platform and the emerging patters (e.g. MVVM).
 
 So if I can find an hour or two to “practice my craft” without expecting this will ever result in production code – just for learning – what should I tackle? It hit me – “Fractals!!!”. It seems like every computer system and programming environment that I’ve gotten since the late 80s I have seen what I could do with some of the now-classic fractal algorithms. Inspiration for this also came from Corey Hanes great feature summary of another classic, the “[Game of Life](http://github.com/coreyhaines/practice_game_of_life)”.
 

@@ -11,7 +11,7 @@ redirect_from:
 
 ![Image](/assets/images/1__fp6Vp2qS3RnJCH7ElLrSqQ.png)
 
-This isn’t a political post — I think you can find enough of those online from whatever perspective you like the best. But the most recent [Mueller Indictment document](https://www.justice.gov/file/1080281/download) is a fascinating read from a technical and InfoSec perspective. It also reads like an old James Bond “Cold War” movie script (early draft), in fact it is almost “too vanilla/formula” to be believable.
+This isn’t a political post — I think you can find enough of those online from whatever perspective you like the best. But the most recent *Mueller Indictment document* (link is no longer active) is a fascinating read from a technical and InfoSec perspective. It also reads like an old James Bond “Cold War” movie script (early draft), in fact it is almost “too vanilla/formula” to be believable.
 
 **TL;DR** — But if you’re willing to stick with it for a few minutes, there are some good computer security lessons to learn (or hopefully review) about phishing emails, and being careful what you click on (especially if you have something to keep secret or private).
 

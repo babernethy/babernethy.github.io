@@ -17,4 +17,4 @@ Though this one had merit too …..
 
 “Take some trinket with you (it can be anything really), hand it to some stranger, along with a phone number and say ‘In thirty years dial this number. You’ll know what to do after that.’ Then slip away. “
 
-[Pretend to be a Time Traveler Day | Geekdad from Wired.com](http://blog.wired.com/geekdad/2007/12/pretend-to-be-a.html)
+*Pretend to be a Time Traveler Day | Geekdad from Wired.com* (link is no longer active)

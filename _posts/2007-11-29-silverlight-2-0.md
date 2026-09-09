@@ -7,7 +7,7 @@ redirect_from:
   - /silverlight-2-0/
 ---
 
-[Today’s post from ScottGu](http://weblogs.asp.net/scottgu/archive/2007/11/29/net-web-product-roadmap-asp-net-silverlight-iis7.aspx) contains some really good news.
+*Today’s post from ScottGu* (link is no longer active) contains some really good news.
 
 Rather than “just adding” .Net development capabilities to Silverlight 1.0 and calling it “1.1” they are giving people just about everything they were asking for (i.e. was missing from) Silverlight and now calling it Silverlight 2.0.
 
@@ -27,4 +27,4 @@ Bruce
 
 p.s. We’re getting integrated back-button support for Ajax as well, but that’s another thing altogether.
 
-[.NET Web Product Roadmap (ASP.NET, Silverlight, IIS7) – ScottGu’s Blog](http://weblogs.asp.net/scottgu/archive/2007/11/29/net-web-product-roadmap-asp-net-silverlight-iis7.aspx)
+*.NET Web Product Roadmap (ASP.NET, Silverlight, IIS7) – ScottGu’s Blog* (link is no longer active)

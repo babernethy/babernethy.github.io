@@ -13,7 +13,7 @@ redirect_from:
 
 Come forward 16 years and there is the ambitious “One Laptop per Child” vision of Nicholas Negroponte that brings some of the best minds together to figure out how to build a cheap and rugged laptop to enable students world-wide to gain access to a wealth of information and functionality. [![olpc](/assets/images/olpc_thumb.png "olpc")](/assets/images/olpc_2.png)But this vision misses on several important points, but creates a wonderful market for smaller form factor and lesser functionality devices for students and really anybody that is mobile and wants to stay connected and productive.
 
-In 2009 I would really like to buy 3 Netbooks (one for each of my children) to use daily as part of their educational (and other) pursuits. This is a non-trivial purchase so I am considering it very carefully. The market for Netbooks is coming together quickly, though there is even a [new challenge this week](http://jkontherun.com/2008/12/23/netbook-enthusiast-web-sites-getting-c-d-using-term-netbook/) over whether the term “netbook” is trademarked. But the issue for this post is a recap of what I would really like to see in a Netbook, and why.
+In 2009 I would really like to buy 3 Netbooks (one for each of my children) to use daily as part of their educational (and other) pursuits. This is a non-trivial purchase so I am considering it very carefully. The market for Netbooks is coming together quickly, though there is even a *new challenge this week* (link is no longer active) over whether the term “netbook” is trademarked. But the issue for this post is a recap of what I would really like to see in a Netbook, and why.
 
 ###  
 

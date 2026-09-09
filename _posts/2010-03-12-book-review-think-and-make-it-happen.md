@@ -31,4 +31,4 @@ But he then goes off on a tangent with a very "heady" chapter on "Thinking Exist
 
 Overall the book was one that made me think and had some good insights, but it also caused doubts and made me critical of the content and author.
 
- [![I review for BookSneeze](http://www.booksneeze.com/images/booksneeze_badge.png)](http://www.booksneeze.com/reviews/blogger/1386?ref=badge)
+ *{missing-image:booksneeze_badge.png}*

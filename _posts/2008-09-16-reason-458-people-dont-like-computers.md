@@ -13,7 +13,7 @@ After a really busy summer I am making an effort to get back into a routine whic
 
 I thought a “soft-launch” back into it would be sharing one of my pet-peeves of the day.
 
-[![search_results_oops](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/Reason458PeopleDontLikeComputers_90C1/search_results_oops_thumb.png "search_results_oops")](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/Reason458PeopleDontLikeComputers_90C1/search_results_oops_2.png)
+![search_results_oops](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/Reason458PeopleDontLikeComputers_90C1/search_results_oops_thumb.png "search_results_oops")
 
 The “insult to injury” here is the “Did you find what you wanted?” phrase – because apparently the little doggy did find a lot of things I probably wanted to see, but refused to show them to me.
 

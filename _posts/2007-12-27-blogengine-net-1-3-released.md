@@ -19,4 +19,4 @@ There is a nice guide here … [http://www.nyveldt.com/blog/post/BlogEngineNET-1
 
 I need to update my “Talk Like a Pirate” extension soon to make sure it is ready for the fall – Extensions are easier to develop/test/install/configure now.
 
-[BlogEngine.NET 1.3 released](http://www.dotnetblogengine.net/post/BlogEngineNET-13-released.aspx)
+*BlogEngine.NET 1.3 released* (link is no longer active)

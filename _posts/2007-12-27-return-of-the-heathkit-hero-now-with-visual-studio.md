@@ -25,4 +25,4 @@ I’ll stick with the LEGO NXT for now 🙂
 
 p.s. I’ve added a new “Robotics” category as this will be a major blog theme this year.
 
-[Return of the Heathkit HE-RObot | Geekdad from Wired.com](http://blog.wired.com/geekdad/2007/12/return-of-the-h.html)
+*Return of the Heathkit HE-RObot | Geekdad from Wired.com* (link is no longer active)

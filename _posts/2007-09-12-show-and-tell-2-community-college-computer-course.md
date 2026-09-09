@@ -9,7 +9,7 @@ redirect_from:
 
 Yes, it can be said that I learned to program at the community college – at least my first computer classroom experience that is. It was one of those enrichment-style classes that colleges at the time were offering to help make the most of their expensive computer labs – keep them going 24/7/365 if possible. They invited 6-12 graders who were interested in learning computer programming to come to the classes. These were green-screen terminals using a book from Radio Shack. We couldn’t save any work each session – typed it in every time, and were considered lucky a few times to work on the machine that could output to a green-bar dot-matrix printer.
 
-[![occ_certificate](http://blog.bruceabernethy.com/mirror/ShowandTell2CommunityCollegeComputerCour_137F1/occ_certificate_thumb.jpg)](http://blog.bruceabernethy.com/mirror/ShowandTell2CommunityCollegeComputerCour_137F1/occ_certificate.jpg)
+_*{missing-image:occ_certificate_thumb.jpg}*_ *{missing-image:occ_certificate.jpg}*
 
 I wanted a computer really badly but they were very expensive ($1200 or so in 1979 money – which is probably close to $4000 now). My parents offered to let me take this course to see how well I fared. I ended up taking the exact same class twice just to get the computer time in the lab. My dad was (is) a professor at a local college and was able to bring home an Apple \]\[ computer over the summer. He got to learn VisiCalc, I got to program on my own time. When the Apple \]\[+ came out we were able to get it at about half price through the school. I was in the third year of my paper route which helped buy all the extras (e.g. cables, media, game controllers, etc.)
 

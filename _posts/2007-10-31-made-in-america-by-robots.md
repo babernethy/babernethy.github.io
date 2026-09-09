@@ -11,7 +11,7 @@ redirect_from:
 
 I was reading through the latest Despair, Inc. catalog when this shirt caught me off guard.
 
-[![madebyrobots](/image.axd?picture=WindowsLiveWriter/MadeinAmericaByRobots_DC5D/madebyrobots_thumb.png)](/image.axd?picture=WindowsLiveWriter/MadeinAmericaByRobots_DC5D/madebyrobots_2.png)
+[![madebyrobots](/assets/images/madebyrobots_thumb.png)](/assets/images/madebyrobots_2.png)
 
 I read left-to-right, top-to-bottom (as most westerners do), so you get the "Made in America" and the little abstract flag, then BOOM, "By Robots". Woah! Funny … scary … hmmm.
 

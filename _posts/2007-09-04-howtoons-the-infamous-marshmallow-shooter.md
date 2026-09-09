@@ -11,7 +11,7 @@ redirect_from:
 
 I’ve been wanting to find the right time to try out some of the [HOWTOONS](http://www.howtoons.com/) ideas (if you haven’t seen them, they are well drawn fun ideas for cool construction projects), and the Labor Day weekend seemed like the perfect chance. So on the way up north we picked up 10 feet of 1/2″ PVC pipe and enough ends, elbows, and “t”s for 5 Marshmallow Shooters (oh and 2 bags of Marshmallow “ammunition”).
 
-[![howtoons_marshmallow](/assets/images/howtoons_marshmallow_1.jpg)](http://www.howtoons.com/toon/the-infamous-marshmallow-shooter/)
+![howtoons_marshmallow](/assets/images/howtoons_marshmallow_1.jpg)
 
 [![09-01-07_1625](/assets/images/09-01-07_1625_thumb.jpg)](/assets/images/09-01-07_1625.jpg)We made up 5 “shooters” in about 10 minutes (which comes to about $1.60 per shooter) and had just enough PVC left to give Joey a 11″ barrel instead of the standard 7″.
 

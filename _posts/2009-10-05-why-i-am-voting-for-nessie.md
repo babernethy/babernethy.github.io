@@ -9,11 +9,11 @@ redirect_from:
   - /why-i-am-voting-for-nessie/
 ---
 
-<div style="margin: 15px; float: right"><iframe align="center" frameborder="0" height="300" scrolling="no" src="http://www.flickr.com/photos/41391628@N02/show/"></iframe></div>My family has had a great time at ArtPrize these last few weeks visiting as many of the different venues and artists as possible. The final vote is upon us this week and I feel strongly enough about one of the top 10 that I am going to make my intended vote public and let others know why.
+<div style="margin: 15px; float: right">*{missing-embed:Flickr slideshow — legacy Flash slideshow API retired}*</div>My family has had a great time at ArtPrize these last few weeks visiting as many of the different venues and artists as possible. The final vote is upon us this week and I feel strongly enough about one of the top 10 that I am going to make my intended vote public and let others know why.
 
 First, full disclosure, I am a full 50% Scottish, have been to Loch Ness, and have seriously considered the matter of whether there is or has been a Plesiosaurish orphan in the deep waters (not fully decided either way). Beyond this heritage, I have no other connections with the artists themselves or any of the others or the contest.
 
-Let me list my Top 5 reasons that I think ["Nessie on the Grand"](http://www.artprize.org/artist/id/3403) tops the Top 10 for ArtPrize.
+Let me list my Top 5 reasons that I think *"Nessie on the Grand"* (link is no longer active) tops the Top 10 for ArtPrize.
 
 Let me start by saying my enthusiasm for Nessie in no way minimizes my respect for the other artists in the contest. In my mind, anyone why was able to pull a piece together and find a venue to show it off, is already a winner. Of the amazing artists in the Top 10, I have seen all but 2 and feel badly that I did not have more time planned to see them all.
 

@@ -9,7 +9,7 @@ redirect_from:
 
 A friend (who shall remain nameless) sent a link to an article after we had several discussions this season about Christmas and Santa (yes we both have kids). If you still believe (or find the whole discussion about the issue(s) tedious) then come back tomorrow. I hate reading blog posts and articles like this, and can’t believe I wrote one, but when ideas get stuck in my head they need some way to get out or my head will explode.
 
-I read New Scientist (used to subscribe) so an article from them is usually worth checking out – even if it is titled “[The Santa delusion, is it harmless fantasy or cruel deception](http://media.newscientist.com/channel/opinion/mg19626351.500-the-santa-delusion.html).”
+I read New Scientist (used to subscribe) so an article from them is usually worth checking out – even if it is titled “*The Santa delusion, is it harmless fantasy or cruel deception* (link is no longer active).”
 
 The article contains the typical arguments over the psychological impact of the moment a child learns the “truth” about Santa (typically between 6-10) – nothing really new here except more assertions that kids who find out the latest in life can have the biggest impacts.
 

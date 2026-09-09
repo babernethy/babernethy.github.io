@@ -15,4 +15,4 @@ You can "shelve" a particular search if you like the result(s) building "stacks"
 
 Pretty cool, though does contain "beta bits" so review on a non vital PC.
 
-Ryan Stewart at the "Universal Desktop" blog has other [interesting points](http://blogs.zdnet.com/Stewart/?p=506) about it.
+Ryan Stewart at the "Universal Desktop" blog has other *interesting points* (link is no longer active) about it.

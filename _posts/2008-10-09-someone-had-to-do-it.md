@@ -7,4 +7,4 @@ redirect_from:
   - /someone-had-to-do-it/
 ---
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="304" width="384"><param name="width" value="384"></param><param name="height" value="304"></param><param name="flashvars" value="firstname=Bruce&lastname=Abernethy&urlfin=http%3A%2F%2Fwww.tsgnet.com%2Fpres.php?id=46832%26altf=Lfjui%26altl=Hjmmjpo%26lap=2"></param><param name="bgcolor" value="#000000"></param><param name="allowscriptaccess" value="always"></param><param name="src" value="http://www.paltalk.com/marketing/media/vanksen/main.swf"></param><embed allowscriptaccess="always" bgcolor="#000000" flashvars="firstname=Bruce&lastname=Abernethy&urlfin=http%3A%2F%2Fwww.tsgnet.com%2Fpres.php?id=46832%26altf=Lfjui%26altl=Hjmmjpo%26lap=2" height="304" src="http://www.paltalk.com/marketing/media/vanksen/main.swf" type="application/x-shockwave-flash" width="384"></embed></object>
+*{missing-embed:tsgnet Flash novelty video}*

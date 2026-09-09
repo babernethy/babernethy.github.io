@@ -9,7 +9,7 @@ redirect_from:
 
 Ooooh, our first crystal from the "Dangerous Crystal Experiment" (from *Dangerous Book for Boys*).
 
-[![crystal](/image.axd?picture=WindowsLiveWriter/FirstDangerousCrystal_139E5/crystal_thumb.jpg)](/image.axd?picture=WindowsLiveWriter/FirstDangerousCrystal_139E5/crystal.jpg)
+[![crystal](/assets/images/crystal_thumb.jpg)](/assets/images/crystal.jpg)
 
 Ironically nothing grew so far on the "starter rock" hanging from the string. But there are a whole bunch of little crystals like this one (looks big but it is only about 1cm across).
 

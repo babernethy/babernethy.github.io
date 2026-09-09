@@ -32,7 +32,7 @@ The latest item on my list is [Kodu: Game Programming Lab from Microsoft Researc
 
 Kodu is difficult to explain in words, and really needs to be demoed – here is one of the better YouTube videos out there.
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="360" width="450"><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="src" value="http://www.youtube.com/v/BRz8vb6zVAw&hl=en&fs=1&rel=0&border=1"></param><param name="allowfullscreen" value="true"></param><embed allowfullscreen="true" allowscriptaccess="always" height="360" src="http://www.youtube.com/v/BRz8vb6zVAw&hl=en&fs=1&rel=0&border=1" type="application/x-shockwave-flash" width="450"></embed></object>
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1.5em 0;"><iframe src="https://www.youtube-nocookie.com/embed/BRz8vb6zVAw" title="Kodu Game Lab - Xbox community games )( XNA Roundup #25" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allowfullscreen allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
 
 Basically all of the programming is done with an XBox controller (even on the PC) with a very intuitive series of “sensors” and “commands” (e.g. when I see a ball go towards it). It also controls a very robust scene generator which enables a huge variety of terrains and elements to be included in the games.
 
@@ -66,7 +66,7 @@ The power of Small Basic comes in it’s simplicity (look at the tool bar compar
 
 Like Kodu, this is better demoed than described (pardon the music and volume level, but the later content is very helpful).
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="364" width="445"><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="src" value="http://www.youtube.com/v/jxDw-t3XWd0&hl=en&fs=1&rel=0&border=1"></param><param name="allowfullscreen" value="true"></param><embed allowfullscreen="true" allowscriptaccess="always" height="364" src="http://www.youtube.com/v/jxDw-t3XWd0&hl=en&fs=1&rel=0&border=1" type="application/x-shockwave-flash" width="445"></embed></object>
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1.5em 0;"><iframe src="https://www.youtube-nocookie.com/embed/jxDw-t3XWd0" title="Scratch Intro Facilitorial" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allowfullscreen allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
 
 Many educators using it with a lot of materials freely available and ready to go. With the backing of the Media Lab and some key educators (and as it is free) this is a platform that is growing in general adoption and use. It is probably also in the 10-16 year age range and has many key features.
 
@@ -80,7 +80,7 @@ One of the other programs, besides BASIC, that I really miss is “Storybook Wea
 
 I have not used Alice, but that is only because of a lack of time and resources and not because of any other reason. Here’s a video promoting Alice and showing many of its features.
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="360" width="450"><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="src" value="http://www.youtube.com/v/aPN4fEPldoc&hl=en&fs=1&rel=0&border=1"></param><param name="allowfullscreen" value="true"></param><embed allowfullscreen="true" allowscriptaccess="always" height="360" src="http://www.youtube.com/v/aPN4fEPldoc&hl=en&fs=1&rel=0&border=1" type="application/x-shockwave-flash" width="450"></embed></object>
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1.5em 0;"><iframe src="https://www.youtube-nocookie.com/embed/aPN4fEPldoc" title="Alice Programming Promotional Video" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allowfullscreen allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
 
 Like Scratch there is a nice storytelling component in Alice which is currently called “Storytelling Alice” (soon to be “Looking Glass”). So whereas the Alice 2.0/3.0 environments themselves are better suited for a formal class in programming, a more informal and easy-to-use version for storytelling (and basic programming) is available.
 
@@ -88,7 +88,7 @@ Now strongly allied with Java, Alice is extensible via Java which makes many oth
 
 ## KPL / Phrogram (PC) – $35-$50 + more for additional libraries
 
-Lastly, to be complete in this list I wanted to include the [Kids Programming Language (KPL)](http://www.kidsprogramminglanguage.com) which has been retired, but has resurfaced as [Phrogram](http://phrogram.com/). The KPL effort was intended to create a simple programming language for kids that would allow for rich graphics capabilities and be extensible using the .NET Framework. Admittedly I have not used or tried using the product since it became Phrogram, so I can’t make any recommendations. On the surface it appears that the communities surrounding the other products are more active and current.
+Lastly, to be complete in this list I wanted to include the *Kids Programming Language (KPL)* (link is no longer active) which has been retired, but has resurfaced as *Phrogram* (link is no longer active). The KPL effort was intended to create a simple programming language for kids that would allow for rich graphics capabilities and be extensible using the .NET Framework. Admittedly I have not used or tried using the product since it became Phrogram, so I can’t make any recommendations. On the surface it appears that the communities surrounding the other products are more active and current.
 
 ## In Conclusion – there are no Conclusions
 

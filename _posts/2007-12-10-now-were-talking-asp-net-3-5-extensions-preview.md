@@ -11,7 +11,7 @@ This will certainly take a few months to really understand and process, but toda
 
 What do we get to look forward to? For all the details, [see the download page](http://asp.net/downloads/3.5-extensions/) – here are the highlights from my perspective.
 
-1. ASP.NET MVC – a model-view-controller framework “burned in” to the .NET Framework. It’s about time and I can’t wait for a project to try this out on. [ScottGu](http://weblogs.asp.net/scottgu/archive/2007/12/09/asp-net-3-5-extensions-ctp-preview-released.aspx) has details on this and has been doing a very detailed series of “how-tos” in anticipation of this day. Lots of power and potential here.
+1. ASP.NET MVC – a model-view-controller framework “burned in” to the .NET Framework. It’s about time and I can’t wait for a project to try this out on. *ScottGu* (link is no longer active) has details on this and has been doing a very detailed series of “how-tos” in anticipation of this day. Lots of power and potential here.
 2. New Ajax stuff – Back-button support – enough said!
 3. ADO.NET Entity Framework – goodbye NHibernate?
 4. ADO.NET Data Services (i.e. Astoria) – again a lot here, but having REST/JSON/XML native methods and structures is another hotly anticipated feature set (not to mention all the rest in this library).

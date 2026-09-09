@@ -13,7 +13,7 @@ redirect_from:
 
 Now what do you do with the old ones? You clearly can’t just throw them in the trash – they can/will explode when they get compressed.
 
-I found a little [advice online](http://www.montgomerycountymd.gov/apps/dpwt/solidwaste/collectionservices/material_detail.asp?categoryID=27)…
+I found a little *advice online* (link is no longer active)…
 
 4. Place the extinguisher into two heavy duty plastic trash bags.
 5. Outdoors, lay the bag with the extinguisher flat on level ground.

@@ -13,13 +13,13 @@ If you have been following along with [Part 1](/silverlight-kata-ifs-fractals-wi
 
 ## Complete Code Solution
 
-So we are ready to put it all together: \[ [Download Source Code (if desired) IFSContentControl.zip (1.4Mb)](http://blog.bruceabernethy.com/mirror/IFSContentControl.zip) \]
+So we are ready to put it all together: \[ *Download Source Code (if desired) IFSContentControl.zip (1.4Mb)* *{missing-file:IFSContentControl.zip}* \]
 
 And, since you’ve been so patient, here is a live demo of the application.
 
 ## Live Demo (Requires Silverlight 3)
 
- <object data="data:application/x-silverlight-2," height="600" type="application/x-silverlight-2" width="475"><param name="source" value="http://blog.bruceabernethy.com/ClientBin/SerpinskiMessage.xap"></param><param name="onError" value="onSilverlightError"></param><param name="background" value="white"></param><param name="minRuntimeVersion" value="3.0.40624.0"></param><param name="autoUpgrade" value="true"></param>[ ![Get Microsoft Silverlight](http://go.microsoft.com/fwlink/?LinkId=108181) ](http://go.microsoft.com/fwlink/?LinkID=149156&v=3.0.40624.0)</object>
+ *{missing-embed:live Silverlight IFS fractal demo — Silverlight is no longer supported}*
 
 ## Pulling it Together
 

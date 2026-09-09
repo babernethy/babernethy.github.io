@@ -9,7 +9,7 @@ redirect_from:
   - /post-interesting-links-to-blog-12082009/
 ---
 
-- [College football bowl schedule for 2009-10 season – NCAA Football – SI.com](http://sportsillustrated.cnn.com/2009/football/ncaa/08/11/bowl-schedule/index.html)
+- *College football bowl schedule for 2009-10 season – NCAA Football – SI.com* (link is no longer active)
     
     [tags](http://www.diigo.com/cloud/babernethy): [no\_tag](http://www.diigo.com/user/babernethy/no_tag)
     

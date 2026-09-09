@@ -7,6 +7,6 @@ redirect_from:
   - /blogengine-net-1-2/
 ---
 
-Just a general note to let anyone that cares that (1) [BlogEngine.NET 1.2 is out!!!](http://www.dotnetblogengine.net/post/Release-of-BlogEngineNET-12.aspx) and (2) I upgraded over lunch and it was relatively painless. I have to rebuild my blogroll and fix a couple settings but that was my mistake. Now I just need to update my “Talk Like a Pirate” plugin – plenty of time before next year 🙂
+Just a general note to let anyone that cares that (1) *BlogEngine.NET 1.2 is out!!!* (link is no longer active) and (2) I upgraded over lunch and it was relatively painless. I have to rebuild my blogroll and fix a couple settings but that was my mistake. Now I just need to update my “Talk Like a Pirate” plugin – plenty of time before next year 🙂
 
 I can’t wait to get back into the code and see what we can really do now.

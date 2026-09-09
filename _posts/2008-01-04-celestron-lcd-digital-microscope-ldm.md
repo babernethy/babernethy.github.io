@@ -15,4 +15,4 @@ Perhaps this (available in February 2008) model will be the happy compromise I�
 
 Downside, there is no option to use optics-only – and as much as capturing your findings is cool, your eye is way higher resolution than 2MP so some details will be lost (wonder if it does video – imagine capturing a cell dividing, that’d be cool). The screen sure looks like a design after-thought – wonder if it detaches or something? And $300 is still expensive. I’ll wait for the first reviews to come in (and hopefully more/better pictures of the unit), but it might be something nice to start with in the fall.
 
-[Celestron.com/Microscopes/LCD Digital Microscope (LDM)](http://www.celestron.com/c2/product.php?CatID=31&ProdID=516#dealers)
+*Celestron.com/Microscopes/LCD Digital Microscope (LDM)* (link is no longer active)

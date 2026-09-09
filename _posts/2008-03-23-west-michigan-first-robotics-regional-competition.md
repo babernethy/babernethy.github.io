@@ -25,6 +25,6 @@ This is the "WO-Bot" from West Ottawa High School (near Holland) – this was Na
 
 I went through all the pictures and they really don’t give you a feel for what went on there. I added the YouTube video below to see if that would help.
 
-<embed height="355" src="http://www.youtube.com/v/23mhhezXaRU&hl=en" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed>
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1.5em 0;"><iframe src="https://www.youtube-nocookie.com/embed/23mhhezXaRU" title="West Michigan FIRST Robotics Finals" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allowfullscreen allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
 
 Lots of lessons and ideas came out of this day. More to come.

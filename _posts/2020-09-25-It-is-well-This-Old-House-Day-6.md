@@ -20,7 +20,7 @@ The original pipes in the house are a combination of cast iron and galvanized st
 
 So our problem was (yes, resolved!) that the hot water specifically was not flowing at all into the main floor bathroom. So the sink and bathtub/shower were only getting a few drips of water flow.
 
-So after a call and nice visit from the folks at [Kellermeier Plumbing](https://kellermeierplumbing.com/) they were able to locate a “[clogged cartridge](https://newspm.com/how-to-clean-a-clogged-shower-cartridge-ask-this-old-house/)” in the bath and in the sink. And now I know too that there is an access panel to the bath area in the adjacent room at the bottom of the closet on the shared wall! So if this happens again I have a shot at fixing it.
+So after a call and nice visit from the folks at [Kellermeier Plumbing](https://kellermeierplumbing.com/) they were able to locate a “*clogged cartridge* (link is no longer active)” in the bath and in the sink. And now I know too that there is an access panel to the bath area in the adjacent room at the bottom of the closet on the shared wall! So if this happens again I have a shot at fixing it.
 
 ![Image](/assets/images/1__duxX4Kc1XVy0BH8GDpomPQ.gif)
 

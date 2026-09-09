@@ -13,7 +13,7 @@ I’ve been committing to get back to occasional blogging, in addition to follow
 
 Here it goes.
 
-I found this really handy utility on the [“Office Labs”](http://www.officelabs.com/Pages/Default.aspx) site called [“Community Clips”.](http://www.officelabs.com/projects/communityclips/Pages/Default.aspx) On the surface it is “just another screen capture utility” but I found it really handy.
+I found this really handy utility on the *“Office Labs”* (link is no longer active) site called *“Community Clips”.* (link is no longer active) On the surface it is “just another screen capture utility” but I found it really handy.
 
 Once installed it will capture the screen (or specified window) and record the input on the microphone. So you can start recording, do a task you want to help someone with, and save the screen capture and audio down to disk. The nice thing then is you can just upload that video and you are basically done. The software will even automatically upload your video to the Community Clips site if you are demonstrating some Microsoft software. Then your tips will join many others for the same product. Since I didn’t have a real worthy example, I just uploaded mine to [Silverlight Streaming](https://silverlight.live.com/) and YouTube.
 
@@ -27,8 +27,8 @@ p.s. The video is really boring – don’t have a microphone set up right now. 
 
 p.s.s. It is an interesting comparison of Silverlight Streaming vs. YouTube. If you double-click the Silverlight version it will go full screen – at which point it is quite usable.
 
-<iframe frameborder="0" scrolling="no" src="http://silverlight.services.live.com/invoke/160/Community%20Clips/iframe.html" style="width: 500px; height: 375px"></iframe>
+*{missing-embed:Silverlight Streaming video — service retired}*
 
-<embed height="350" src="http://www.youtube.com/v/JqzFp6_b7cE" type="application/x-shockwave-flash" width="425"> </embed>
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1.5em 0;"><iframe src="https://www.youtube-nocookie.com/embed/JqzFp6_b7cE" title="Community Clips" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allowfullscreen allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
 
 [Community Clips](http://communityclips.officelabs.com/)

@@ -20,7 +20,7 @@ redirect_from:
     Interesting Ruby app to use Polls in presentations and other areas where audience can use cell phones, Twitter or the web to vote on active questions.
     
     [tags](http://www.diigo.com/cloud/babernethy): [no\_tag](http://www.diigo.com/user/babernethy/no_tag)
-- [neccunplugged – home](http://www.neccunplugged.com)
+- *neccunplugged – home* (link is no longer active)
     
     Online from NECC for those of us who can’t be there to see this exciting conference for those involved with Educational Technology
     

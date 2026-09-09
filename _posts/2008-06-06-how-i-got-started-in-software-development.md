@@ -7,7 +7,7 @@ redirect_from:
   - /how-i-got-started-in-software-development/
 ---
 
-Continuing the [How](http://www.michaeleatonconsulting.com/blog/archive/2008/06/04/how-did-you-get-started-in-software-development.aspx) I [Got](http://www.rosscode.com/blog/index.php?title=how_i_got_started_in_software_developmen&more=1&c=1&tb=1&pb=1) [Started](http://www.google.com/search?hl=en&q=%22how+I+got+started+in+software+development%22&btnG=Search) Meme… cool idea, get to know the TwitterTribe better (and others)
+Continuing the *How* (link is no longer active) I *Got* (link is no longer active) [Started](http://www.google.com/search?hl=en&q=%22how+I+got+started+in+software+development%22&btnG=Search) Meme… cool idea, get to know the TwitterTribe better (and others)
 
 ### How old were you when you started programming?
 

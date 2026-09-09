@@ -7,7 +7,7 @@ redirect_from:
   - /cool-tools-window-clippings/
 ---
 
-Another tool I use almost daily for documentation and presentations is [Window Clippings, by Kenny Kerr](http://www.windowclippings.com/). There have been screen capture utilities out there since … well … since there have been screens, so why is this one different? There are several reasons.
+Another tool I use almost daily for documentation and presentations is *Window Clippings, by Kenny Kerr* (link is no longer active). There have been screen capture utilities out there since … well … since there have been screens, so why is this one different? There are several reasons.
 
 First, as with other really useful tools, Window Clippings integrates seamlessly into your system and just seems to become part of the operating system. I hit “PrtScrn” and get Window Clippings.
 

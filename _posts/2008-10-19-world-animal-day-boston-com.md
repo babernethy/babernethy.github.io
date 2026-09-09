@@ -9,6 +9,6 @@ redirect_from:
 
 This was such an amazing and surprising picture – Narwhals in Arctic Bay, Canada – that I had to share it. I honestly didn’t know if it was real or not and that made me feel a little stupid. Many of the rest of the pictures in this article are also awe inspiring.
 
-[http://www.boston.com/bigpicture/2008/10/world\_animal\_day.html](http://www.boston.com/bigpicture/2008/10/world_animal_day.html)
+*http://www.boston.com/bigpicture/2008/10/world\_animal\_day.html* (link is no longer active)
 
 [![boston_narwhals](/assets/images/boston_narwhals_thumb.jpg "boston_narwhals")](/assets/images/boston_narwhals_2.jpg)

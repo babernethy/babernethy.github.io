@@ -9,7 +9,7 @@ redirect_from:
 
 I wanted to make a quick post to say things are still moving along, but we’ve been in a period of sickness in our house, which is never fun and depressing blogging material. So I’ll leave it at that.
 
-Our next [‘Bots on the Rock](http://www.botsontherock.org) (LEGO Robotics Club) meeting is Tuesday (see the link for details). We’ll be going over some more movement, turning, touch sensor, etc. to get ready for our first competitive event – the race. So stop by if you are interested.
+Our next *‘Bots on the Rock* (link is no longer active) (LEGO Robotics Club) meeting is Tuesday (see the link for details). We’ll be going over some more movement, turning, touch sensor, etc. to get ready for our first competitive event – the race. So stop by if you are interested.
 
 Finally, I had the realization that my nice fast computer is now pretty normal. On Woot ([www.woot.com](http://www.woot.com)) today they are selling a Gateway Quad-Core desktop (refurbished) with even better base specs than mine (e.g. 500Gb drive, NVIDIA 8500GT) for $599. I am not recommending this machine (I’ve been burnt on refurbished equipment before (90 day warranty), and you have to wonder what kinds of problems have to exist for them to get enough returned/refurbished machines to sell a whole bunch of them on Woot). I’m just saying that you know a level of technology has arrived when you can get them in the "used" bin (or at Wal-mart). Supercomputers on the desktop – now what do we do with the power?
 

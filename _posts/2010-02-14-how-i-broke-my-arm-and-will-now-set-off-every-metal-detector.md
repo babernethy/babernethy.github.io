@@ -17,7 +17,7 @@ In my mind, both of my arms were above my head, but as I rolled over I saw my le
 
 This is a photo from Flickr – not mine – I don’t have any but I will try to get some. This is also a woman’s arm, but it comes closest on a short search to what I remember them showing me.
 
- ![](/image.axd?picture=2010%2f2%2fhumerus_break.jpg)
+ ![](/assets/images/humerus_break.jpg)
 
 So the problem was my humerus bone was basically sheered in two and one of the broken sides was jabbed into my bicep muscle.
 

@@ -10,7 +10,7 @@ redirect_from:
   - /talktimer-app-for-wp7-published/
 ---
 
-I have been part of the[ Toastmasters for Techies ](http://tmfortechies.freetoasthost.org/) group in Grand Rapids since starting with the group about a year ago. In fact I am Vice President in charge of Public Relations, so let me mention now that everyone should attend if they communicate or present ideas in their current job (which is everyone by the way).
+I have been part of the *Toastmasters for Techies* (link is no longer active) group in Grand Rapids since starting with the group about a year ago. In fact I am Vice President in charge of Public Relations, so let me mention now that everyone should attend if they communicate or present ideas in their current job (which is everyone by the way).
 
 One of the tasks at Toastmasters is the Timer – this person typically has a stop watch and a set of cards that are Green, Yellow, and Red. If a particular talk is supposed to be 5 to 7 minutes long, the timer waits until the minimum time (5:00) and then shows the green card (letting the speaker know they have reached the minimum), then at the mid-point of the time (6:00) they show the yellow card (wrap it up), and at (7:00) the red card comes out and you technically have 30 seconds to wrap up (if not, we’re just learning). Another important point about this position is that you need to record the time for each person during the meeting and report the times at the and of the meeting.
 

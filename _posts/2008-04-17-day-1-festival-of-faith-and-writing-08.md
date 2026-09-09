@@ -7,7 +7,7 @@ redirect_from:
   - /day-1-festival-of-faith-and-writing-08/
 ---
 
-Well it has been quite a day – more than I ever expected. But a little background first. Every two years (i.e. the "even" years) since 1990 there has been a conference called the [Festival of Faith and Writing](http://www.calvin.edu/academic/engl/festival/), this is the fourth time I’ve been able to attend.
+Well it has been quite a day – more than I ever expected. But a little background first. Every two years (i.e. the "even" years) since 1990 there has been a conference called the *Festival of Faith and Writing* (link is no longer active), this is the fourth time I’ve been able to attend.
 
 Over the years they have attracted great writers, presenters, artists, publishers, editors, etc. (e.g. Updike, L’Engle, Weisel, Dillard, Rushdie) and this year is no different. Tonight’s keynote was Pulitzer Prize winning author Michael Chabon (*The Yiddish Policemen’s Union*, *The Amazing Adventures of Kavalier &amp; Clay*, *McSweeney’s Enchanted Chamber of Astonishing Stories*). It was really an inspiring message, and was not at all what I expected. Tomorrow night’s speaker is Yann Martel (*Life of Pi*) and Saturday night is Katherine Paterson (*Bridge to Terabithia*, *Jacob I Have Loved*). This is after a full day of shorter topical sessions that are also very good. 
 

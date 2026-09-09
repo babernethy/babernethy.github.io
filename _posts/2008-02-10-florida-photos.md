@@ -7,4 +7,4 @@ redirect_from:
   - /florida-photos/
 ---
 
-<iframe frameborder="0" height="350" src="http://www.flickr.com/slideShow/index.gne?group_id=&user_id=81289351@N00&set_id=&text=" width="450"></iframe>
+*{missing-embed:Flickr slideshow — legacy Flash slideshow API retired}*

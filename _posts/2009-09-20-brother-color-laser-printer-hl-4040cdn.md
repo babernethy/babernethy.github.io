@@ -7,7 +7,7 @@ redirect_from:
   - /brother-color-laser-printer-hl-4040cdn/
 ---
 
-So I have been looking at printers for home since my old HP multifunction printer died in the spring, and used some birthday money and a great sale at OfficeMax to get a new one. I decided on a color laser printer, the [Brother HL-4040CDN](http://www.brother-usa.com/Printer/modeldetail.aspx?PRODUCTID=hl4040cdn&tab=spec).
+So I have been looking at printers for home since my old HP multifunction printer died in the spring, and used some birthday money and a great sale at OfficeMax to get a new one. I decided on a color laser printer, the *Brother HL-4040CDN* (link is no longer active).
 
 [![Picture 1](/assets/images/Picture%201_thumb.jpg "Picture 1")](/assets/images/Picture%201.jpg)
 

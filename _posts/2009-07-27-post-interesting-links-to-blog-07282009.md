@@ -7,7 +7,7 @@ redirect_from:
   - /post-interesting-links-to-blog-07282009/
 ---
 
-- [Free Samples!: :](http://www.bradfitzpatrick.com/store/pages/free_clipart.html)
+- *Free Samples!: :* (link is no longer active)
     
     [tags](http://www.diigo.com/cloud/babernethy): [Clip](http://www.diigo.com/user/babernethy/Clip), [Art](http://www.diigo.com/user/babernethy/Art), [Vector](http://www.diigo.com/user/babernethy/Vector)
 

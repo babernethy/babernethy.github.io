@@ -11,11 +11,11 @@ I wont spend much time rehashing this because Chris does a great job of it in [h
 
 And you thought “spell check” was cool – now there is “math check”.
 
-![](http://www.sellsbrothers.com/spout/math1.jpg)
+*{missing-image:math1.jpg}*
 
 It will simplify the equation, graph it, and even solve for “x” (multiple roots for polynomials).
 
-![](http://www.sellsbrothers.com/spout/math3.jpg)
+*{missing-image:math3.jpg}*
 
 Check out the article and the get the [Add-in here](http://www.microsoft.com/downloads/details.aspx?FamilyID=030fae9c-704f-48ca-971d-56241aefc764&displaylang=en).
 
