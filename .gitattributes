@@ -1,0 +1,12 @@
+# Normalize text files to LF in the repository. Seven of the 2024 link
+# roundups arrived with CRLF front matter from an external tool; this keeps
+# that from recurring.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.ico binary
+*.woff binary
+*.woff2 binary
