@@ -4,13 +4,13 @@ dsq_thread_id:
     - '360364531'
 excerpt: 'The skill levels people go through - from Advanced Beginner, to Competent, to Expert, and Master.'
 description: 'The skill levels people go through - from Advanced Beginner, to Competent, to Expert, and Master.'
-category: 'jobs'
-tags: [ 'popular', 'jobs', 'thinking']
 comments: true
 toc: true
 header:
   teaser: /assets/images/dreyfus-model-cover.png
   tagline: 'The skill levels people go through - from Advanced Beginner, to Competent, to Expert, and Master.'
+category: "jobs"
+tags: ["popular", "jobs", "thinking"]
 ---
 
 OK, this post will be a little “heady” for a Saturday morning but I want to reference this topic for some other work I am going to do this fall. I am planning to do some non-trivial work to get some resources and links online to help kids get into doing projects and learning about things like physics, space science, and robotics/electronics – things if you know me, you know I’ve been into for a long time. The problem with the way kids learn about these topics nowadays is that it is mostly abstract, in theories, reading, or just “on paper.” To really learn more than trivia and facts about these topics you really need to “do” things with the science, not just learn things “about” them.

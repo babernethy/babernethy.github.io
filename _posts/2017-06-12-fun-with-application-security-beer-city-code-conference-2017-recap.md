@@ -1,7 +1,10 @@
 ---
 title: 'Fun with Application Security - Beer City Code Conference 2017 - RECAP'
 date: '2017-06-12T08:34:09+00:00'
-tags: development presentations security
+category: "development"
+tags: ["security", "development", "presentations"]
+redirect_from:
+  - /fun-with-application-security-beer-city-code-conference-2017-recap/
 ---
 
 Thanks to all the people who filled the room for my session this weekend at the Beer City Code Conference in Grand Rapids. It was great to share a lot of this content, in a hopefully fun and interesting way.

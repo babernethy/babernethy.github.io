@@ -3,8 +3,10 @@ title: Reducing Shady ChatGPT Code Suggestions with Custom Instructions
 description: >-
   Reducing ChatGPT Shady Code Suggestions by using a quality set of Custom
   Instructions
-categories: []
-keywords: []
+category: "ai"
+tags: ["ai", "development", "security"]
+redirect_from:
+  - /Reducing-Shady-ChatGPT-Code-Suggestions-with-Custom-Instructions/
 ---
 
 ![Image](/assets/images/1__5wIs8Rnqj5DhvpzCNh2LKw.png)

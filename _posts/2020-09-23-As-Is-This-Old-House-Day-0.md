@@ -3,8 +3,10 @@ title: '“As Is” — This Old House, Day 0'
 description: >-
   Two words I never expected to be on an offer I would sign on a house are “as
   is”. This means, in general, that whatever might be right or…
-categories: []
-keywords: []
+category: "personal"
+tags: ["home", "family"]
+redirect_from:
+  - /As-Is-This-Old-House-Day-0/
 ---
 
 Two words I never expected to be on an offer I would sign on a house are “as is”. This means, in general, that whatever might be right or wrong with the house is “on you” to deal with. And with a 97 year old house, there could be a lot going on.

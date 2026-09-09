@@ -3,8 +3,10 @@ title: Mueller “Netyksho” Indictment — an InfoSec Perspective
 description: >-
   This isn’t a political post — I think you can find enough of those online from
   whatever perspective you like the best. But the most recent…
-categories: []
-keywords: []
+category: "development"
+tags: ["security", "thinking"]
+redirect_from:
+  - /Mueller-Netyksho-Indictment-an-InfoSec-Perspective/
 ---
 
 ![Image](/assets/images/1__fp6Vp2qS3RnJCH7ElLrSqQ.png)

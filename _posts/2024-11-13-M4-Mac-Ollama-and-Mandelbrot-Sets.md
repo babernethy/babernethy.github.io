@@ -2,12 +2,12 @@
 title: 'M4 Mac, Ollama, and Mandelbrot Sets'
 description: 'Local AI/LLM goodness for Developers'
 excerpt: 'Local AI/LLM goodness for Developers'
-category: 'development'
-keywords: ['AI', 'development', 'fun', 'tech']
 comments: true
 header:
   teaser: /assets/images/1__GEQyrbALYNw8S6ioVsJsMQ.png
   tagline: 'Local AI/LLM goodness for Developers'
+category: "development"
+tags: ["ai", "development", "fun", "tech"]
 ---
 
 

@@ -3,8 +3,10 @@ title: This Old House
 description: >-
   I accidentally bought a new house. “Accidentally” because we really weren’t
   looking. But we ended up finding a cool old house, or maybe it…
-categories: []
-keywords: []
+category: "personal"
+tags: ["home", "family"]
+redirect_from:
+  - /This-Old-House/
 ---
 
 I accidentally bought a new house. “Accidentally” because we really weren’t looking. But we ended up finding a cool old house, or maybe it found us? I am telling a lot of stories about this house lately, and we will be doing a lot of work and having a lot of work done on it, and I want to keep track of what we’re working through and getting done. And also learning a lot in the process. So for anyone who is interested, or is looking at doing similar things, or even for “Future Bruce” to remember what we did, I want to track some of the bigger and/or interesting bits in a few blog posts.

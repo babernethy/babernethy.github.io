@@ -1,8 +1,10 @@
 ---
 title: Remembering Cal Van Dyke
 description: “Not Cal”
-categories: []
-keywords: []
+category: "personal"
+tags: ["family", "inspiration", "leadership"]
+redirect_from:
+  - /Remembering-Cal-Van-Dyke/
 ---
 
 ### “Not Cal”

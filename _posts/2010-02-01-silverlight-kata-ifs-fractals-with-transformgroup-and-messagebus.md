@@ -6,6 +6,10 @@ dsq_thread_id:
 et_enqueued_post_fonts:
     - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
 image: /wp-content/uploads/2010/02/fractal_it7_thumb.png
+category: "development"
+tags: ["silverlight", "development", "science"]
+redirect_from:
+  - /silverlight-kata-ifs-fractals-with-transformgroup-and-messagebus/
 ---
 
 At the CodeMash conference this year many things stuck with me, and two have been bugging me enough to do something about them this last weekend. One was the idea that programmers need to practice and refine their skills, which was probably best described in the ideas of [“Code Katas”](http://en.wikipedia.org/wiki/Kata_(programming)) ala Dave Thomas in the [Pragmatic Programmer](http://www.pragprog.com/). The other was my recent concentration on all-things-Silverlight, specifically looking at the power of the platform and the emerging patters (e.g. MVVM).

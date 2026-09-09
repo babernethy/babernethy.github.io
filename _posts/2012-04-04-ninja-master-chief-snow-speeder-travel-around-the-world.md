@@ -4,6 +4,10 @@ date: '2012-04-04T17:14:48+00:00'
 et_enqueued_post_fonts:
     - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
 image: /wp-content/uploads/2012/04/codeninja.jpg
+category: "personal"
+tags: ["family", "fun", "games"]
+redirect_from:
+  - /ninja-master-chief-snow-speeder-travel-around-the-world/
 ---
 
 About four years ago we got back into [Geocaching](http://www.geocaching.com/) – which is basically the high-tech world-wide scavenger hunt using GPS devices or smartphones. The main goal of geocaching is to find caches/boxes that are hidden just about everywhere – these boxes don’t move (hopefully) as you couldn’t find them otherwise. If you get more into geocaching you will also find that there are “Trackables” or “Travel Bugs” that are a whole variety of items that have a custom code that actually “live in” these caches, are also trackable/loggable, and move from cache to cache. We decided to start a few of our own Travel Bugs and see how they did. I haven’t checked on them in a while, but when I did I was quite surprised, between our “Code Ninja”, “Snowspeeder” and “Master Chief” they have travelled 34,639.4 miles and have been to Hawaii, Kuala Lumpur, Germany, France and more.

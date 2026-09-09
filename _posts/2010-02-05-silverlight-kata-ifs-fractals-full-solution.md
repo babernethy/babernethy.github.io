@@ -5,6 +5,10 @@ dsq_thread_id:
     - '477582954'
 et_enqueued_post_fonts:
     - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
+category: "development"
+tags: ["silverlight", "development", "science"]
+redirect_from:
+  - /silverlight-kata-ifs-fractals-full-solution/
 ---
 
 If you have been following along with [Part 1](http://blog.bruceabernethy.com/post/Silverlight-Kata-IFS-Fractals-with-TransformGroup-and-MessageBus.aspx), [Part 2](http://blog.bruceabernethy.com/post/Silverlight-Kata-IFS-Fractals-Automating-the-Transforms.aspx), and [Part 3](http://blog.bruceabernethy.com/post/Silverlight-Kata-IFS-Fractals-The-MessageBus.aspx), then you know we have described basically what the IFS Fractal “quest” is, how we did the rotatation/translation/scale transforms, and how we wired up the MessageBus to send our messages.

@@ -3,8 +3,10 @@ title: '“It is well” — This Old House, Day 6'
 description: >-
   Water is key to survival, and to any house that people are going to inhabit.
   The Old House has a unique situation where it is right on the…
-categories: []
-keywords: []
+category: "personal"
+tags: ["home"]
+redirect_from:
+  - /It-is-well-This-Old-House-Day-6/
 ---
 
 Water is key to survival, and to any house that people are going to inhabit. The Old House has a unique situation where it is right on the sewer for Plainfield and Grand Rapids, but somehow missed the city water and is on a well, and that is new to me. This means there are three different tanks in the basement in three different rooms. One to pump the well and pressurize the system, one to “soften” the water with salt, and one to provide “whole house reverse-osmosis” water for drinking (“whole house” as it drives really one water faucet per sink in the main kitchen and bottom floor kitchenette.

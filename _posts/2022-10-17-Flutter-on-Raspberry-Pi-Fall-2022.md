@@ -3,8 +3,10 @@ title: Flutter on Raspberry Pi — Fall 2022
 description: >-
   I didn’t see this all together in one place elsewhere, so wanted to compile
   and share.
-categories: []
-keywords: []
+category: "development"
+tags: ["flutter", "hardware", "development"]
+redirect_from:
+  - /Flutter-on-Raspberry-Pi-Fall-2022/
 ---
 
 I didn’t see this all together in one place elsewhere, so wanted to compile and share.

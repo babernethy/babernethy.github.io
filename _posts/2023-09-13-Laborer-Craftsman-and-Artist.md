@@ -1,8 +1,10 @@
 ---
 title: 'Laborer, Craftsman, and Artist'
 description: 'What does it mean to be a Software Laborer, Craftsman, or even Artist?'
-categories: []
-keywords: []
+category: "jobs"
+tags: ["ai", "jobs", "thinking"]
+redirect_from:
+  - /Laborer-Craftsman-and-Artist/
 ---
 
 ![Image](/assets/images/1__NBwDVOGPR0bxnBJmYncV4w.png)

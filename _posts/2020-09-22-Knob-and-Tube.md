@@ -3,8 +3,10 @@ title: “Knob and Tube”
 description: >-
   The first adventure comes from the world of electricity. In the olden days,
   well at least before World War II, electricity had less of the…
-categories: []
-keywords: []
+category: "personal"
+tags: ["home"]
+redirect_from:
+  - /Knob-and-Tube/
 ---
 
 ![Image](/assets/images/1__I7IPsNDw9x__tIdBknkGc1g__2x.jpeg)

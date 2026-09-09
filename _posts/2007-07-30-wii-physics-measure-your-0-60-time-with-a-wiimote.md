@@ -3,10 +3,10 @@ title: 'Wii Physics &#8211; Measure your 0-60 time with a Wiimote'
 date: '2007-07-30T08:53:00+00:00'
 dsq_thread_id:
     - '372502883'
-category: "physics"
-tags: ["science", "physics", "fun"]
 header:
   teaser: /assets/images/wii-acceleration.png
+category: "physics"
+tags: ["physics", "science", "fun"]
 ---
 
 *I have to admit the geek in me thought immediately of how the Wii remote could be used as a cheap 3-axis bluetooth-enabled accelerometer. Until now such a thing would cost more than the cost of an entire Wii system (and double for the software to process the data). Now this can be done on the cheap.*

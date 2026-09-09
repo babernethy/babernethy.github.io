@@ -3,8 +3,10 @@ title: 'AI Tools: Is it Ethical? Legal?'
 description: >-
   Another of the bigger topics recently is the emergence and use of AI tools
   and, specifically, the use of AI tools in software development.
-categories: []
-keywords: []
+category: "ai"
+tags: ["ai", "development", "thinking"]
+redirect_from:
+  - /AI-Tools-Is-it-Ethical-Legal/
 ---
 
 Another of the bigger topics recently is the emergence and use of AI tools and, specifically, the use of AI tools in software development. As part of this, there have been a series of questions that have needed answering, which can be summarized as follows:

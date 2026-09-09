@@ -5,6 +5,10 @@ dsq_thread_id:
     - '390918783'
 et_enqueued_post_fonts:
     - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
+category: "tech"
+tags: ["hardware", "family"]
+redirect_from:
+  - /success-in-drying-out-waterlogged-laptop/
 ---
 
 Here’s a not-so-hypothetical situation – one night when 15 or so kids are running around the house you happen to leave your laptop in a very public location near where the Wii games are underway. Inevitably the laptop gets used as a coaster and soon after the cup empties over the laptop. The top of the laptop gets wiped clean (according to alleged eye-witness testimony), but, hours later, when you pick up the laptop unknowingly, water literally pours from the openings for the fan. Taking out the battery and DVD drive confirms the worst – everything is at least damp – probably as wet as you could get without submersion.

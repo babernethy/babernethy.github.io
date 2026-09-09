@@ -3,6 +3,10 @@ title: 'Show and Tell #2 &#8211; Community College Computer Course'
 date: '2007-09-12T20:18:37+00:00'
 et_enqueued_post_fonts:
     - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
+category: "personal"
+tags: ["family", "education", "development"]
+redirect_from:
+  - /show-and-tell-2-community-college-computer-course/
 ---
 
 Yes, it can be said that I learned to program at the community college – at least my first computer classroom experience that is. It was one of those enrichment-style classes that colleges at the time were offering to help make the most of their expensive computer labs – keep them going 24/7/365 if possible. They invited 6-12 graders who were interested in learning computer programming to come to the classes. These were green-screen terminals using a book from Radio Shack. We couldn’t save any work each session – typed it in every time, and were considered lucky a few times to work on the machine that could output to a green-bar dot-matrix printer.

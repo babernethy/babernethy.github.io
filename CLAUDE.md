@@ -59,24 +59,40 @@ Front matter to fill in on every new post:
 
 Established vocabulary — reuse these rather than inventing new ones:
 
-- **categories**: `ai`, `blog`, `development`, `jobs`, `links`, `nature`,
-  `physics`, `ui`
-- **tags**: `ai`, `design`, `development`, `fun`, `general`, `inspiration`,
-  `jobs`, `leadership`, `security`, `tech`, `thinking`
+- **categories** (11): `ai`, `blog`, `development`, `jobs`, `links`, `nature`,
+  `personal`, `physics`, `science`, `tech`, `ui`
+- **tags** (35): `ai`, `art`, `birds`, `blog`, `books`, `design`, `development`,
+  `ebikes`, `education`, `eink`, `family`, `flutter`, `fun`, `games`, `general`,
+  `hardware`, `health`, `home`, `inspiration`, `jobs`, `leadership`,
+  `microsoft`, `mobile`, `nature`, `physics`, `popular`, `presentations`,
+  `robotics`, `science`, `security`, `silverlight`, `space`, `tech`, `thinking`,
+  `ui`
+
+`popular` is a curation marker, not a topic — it flags evergreen posts for
+`_pages/popular.md`. `general` is a legacy catch-all carried by the link
+roundups; prefer a real topic tag on new posts.
+
+Two overlaps are deliberate, not drift: `physics` (2 posts) predates `science`
+and was left in place so its URLs would not move, and the 2024+ link roundups
+carry auto-generated tags from their own section headings, so they run wider
+than the 1–3 tags a normal post gets.
 
 Images go in `assets/images/` and are referenced from the repo root
 (`/assets/images/foo.png`), not relatively.
 
 ## Known inconsistencies in existing content
 
-Do not "fix" these opportunistically while doing unrelated work — they are a
-tracked backlog item and want a single deliberate pass.
+The front-matter backfill pass is done: every post now carries a singular
+`category` and 1–3 lowercase `tags` from the vocabulary above. `keywords:`,
+bare `tag:`, plural `categories:`, and the `AI`/`dev`/`WPF`/`XAML` casing drift
+are all gone.
 
-- 188 of 234 posts have no `category` or `categories` at all.
-- 14 posts use `keywords:` where they mean `tags:`. minimal-mistakes ignores
-  `keywords:` entirely, so those posts generate no tag pages.
-- A few posts use plural `categories:` (mostly empty `[]`).
-- Tag casing drifts: `AI` vs `ai`, `dev` vs `development`.
+Because `permalink` is `/:categories/:title/`, giving a post a category moves
+its URL. The 202 posts that moved carry a `redirect_from:` with their old path,
+served by `jekyll-redirect-from`. **Never remove or change a `redirect_from:`
+entry** — it is the only thing keeping 19 years of inbound links alive. If you
+change a post's `category`, add the old path to its `redirect_from:` list
+rather than replacing it.
 
 ## Theme overrides
 
