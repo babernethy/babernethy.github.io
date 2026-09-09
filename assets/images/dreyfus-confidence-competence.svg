@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1010" height="560" viewBox="0 0 1010 560" role="img" aria-labelledby="rg-title rg-desc">
+  <title id="rg-title">Competence, Confidence, and the Razor Gap across the Dreyfus stages</title>
+  <desc id="rg-desc">A conceptual line chart across the five Dreyfus stages. Competence climbs steadily from novice to expert. Confidence starts high at novice, falls sharply at advanced beginner, meets competence at the competent stage, and then trails modestly below it through proficient and expert. The amber region near novice marks confidence running ahead of competence; the violet region from advanced beginner onward marks competence running ahead of expressed confidence. The distance between the two lines is labelled the Razor Gap. The curves are illustrative, not measured values.</desc>
+
+  <style>
+    /* Light rendering — the compile-time base, matching the site ground #F4F3FA. */
+    svg { --surface: #F4F3FA; --ink: #1B1926; --ink-2: #47425A; --muted: #635E75;
+          --grid: #DDD9EC; --axis: #C3BDD8;
+          --competence: #5B4FC7; --confidence: #A9701F; }
+
+    /* Dark rendering — selected steps, not an automatic flip. Both pairs
+       validate for CVD separation and contrast against their own ground. */
+    @media (prefers-color-scheme: dark) {
+      svg { --surface: #14131C; --ink: #E9E5DD; --ink-2: #B5AEC4; --muted: #8B8599;
+            --grid: #2C2A3C; --axis: #3D3A52;
+            --competence: #7B78E6; --confidence: #BE8740; }
+    }
+
+    text { font-family: Literata, Georgia, "Times New Roman", serif; fill: var(--ink); }
+    .title    { font-size: 26px; }
+    .subtitle { font-size: 14px; fill: var(--muted); }
+    .caption  { font-size: 13px; fill: var(--muted); }
+    .legend-label, .stage-label, .series-label { font-size: 14px; fill: var(--ink-2); }
+    .tick-label { font-size: 13px; fill: var(--muted); }
+    .axis-title { font-size: 14px; fill: var(--muted); }
+    .gap-label  { font-size: 13px; fill: var(--ink-2); }
+
+    .grid { stroke: var(--grid); stroke-width: 1; }
+    .axis { stroke: var(--axis); stroke-width: 1; }
+
+    .competence-line { fill: none; stroke: var(--competence); stroke-width: 3;
+                       stroke-linecap: round; stroke-linejoin: round; }
+    .confidence-line { fill: none; stroke: var(--confidence); stroke-width: 3;
+                       stroke-linecap: round; stroke-linejoin: round; }
+
+    /* The fill takes the colour of whichever line is on top, so the shading
+       says which way the gap runs without claiming one direction is the
+       healthy one. */
+    .over-gap  { fill: var(--confidence); fill-opacity: .20; }
+    .under-gap { fill: var(--competence); fill-opacity: .18; }
+
+    .connector { stroke: var(--muted); stroke-width: 1.5; stroke-dasharray: 4 4; }
+    .marker    { stroke: var(--surface); stroke-width: 2; }
+    .callout   { stroke: var(--ink-2); stroke-width: 1.5; fill: none; }
+  </style>
+
+  <rect width="1010" height="560" fill="var(--surface)"/>
+
+  <g id="heading">
+    <text class="title" x="72" y="40">Competence, Confidence, and the Razor Gap</text>
+    <text class="subtitle" x="72" y="64">A conceptual illustration across the Dreyfus journey — not measured data.</text>
+  </g>
+
+  <g id="legend" transform="translate(72 90)">
+    <line x1="0" y1="0" x2="24" y2="0" class="competence-line"/>
+    <text class="legend-label" x="32" y="5">Competence</text>
+    <line x1="146" y1="0" x2="170" y2="0" class="confidence-line"/>
+    <text class="legend-label" x="178" y="5">Confidence</text>
+    <rect class="over-gap" x="288" y="-8" width="24" height="14"/>
+    <text class="legend-label" x="320" y="5">Confidence &gt; competence</text>
+    <rect class="under-gap" x="500" y="-8" width="24" height="14"/>
+    <text class="legend-label" x="532" y="5">Competence &gt; confidence</text>
+  </g>
+
+  <g id="plot">
+    <g id="grid-lines">
+      <line class="grid" x1="100" y1="140" x2="820" y2="140"/>
+      <line class="grid" x1="100" y1="218.75" x2="820" y2="218.75"/>
+      <line class="grid" x1="100" y1="297.5" x2="820" y2="297.5"/>
+      <line class="grid" x1="100" y1="376.25" x2="820" y2="376.25"/>
+      <line class="axis" x1="100" y1="455" x2="820" y2="455"/>
+      <line class="axis" x1="100" y1="140" x2="100" y2="455"/>
+
+      <text class="tick-label" x="88" y="144" text-anchor="end">100</text>
+      <text class="tick-label" x="88" y="222.75" text-anchor="end">75</text>
+      <text class="tick-label" x="88" y="301.5" text-anchor="end">50</text>
+      <text class="tick-label" x="88" y="380.25" text-anchor="end">25</text>
+      <text class="tick-label" x="88" y="459" text-anchor="end">0</text>
+
+      <text class="axis-title" x="30" y="297.5" text-anchor="middle" transform="rotate(-90 30 297.5)">Relative level (conceptual)</text>
+      <text class="axis-title" x="460" y="528" text-anchor="middle">Dreyfus skill-acquisition stage</text>
+    </g>
+
+    <g id="gaps">
+      <!-- Novice through the crossing point: confidence above competence. -->
+      <polygon class="over-gap" points="100,410.9 267.1,366.6 100,250.25"/>
+      <!-- Crossing point through expert: competence above confidence. -->
+      <polygon class="under-gap" points="267.1,366.6 290,360.5 290,382.55 267.1,366.6"/>
+      <polygon class="under-gap" points="290,360.5 460,281.75 460,281.75 290,382.55"/>
+      <polygon class="under-gap" points="460,281.75 640,212.45 640,243.95 460,281.75"/>
+      <polygon class="under-gap" points="640,212.45 820,168.35 820,218.75 640,243.95"/>
+    </g>
+
+    <g id="connectors">
+      <line class="connector" x1="100" y1="410.9" x2="100" y2="250.25"/>
+      <line class="connector" x1="290" y1="360.5" x2="290" y2="382.55"/>
+      <line class="connector" x1="640" y1="212.45" x2="640" y2="243.95"/>
+      <line class="connector" x1="820" y1="168.35" x2="820" y2="218.75"/>
+    </g>
+
+    <g id="confidence-series">
+      <polyline class="confidence-line" points="100,250.25 290,382.55 460,281.75 640,243.95 820,218.75"/>
+      <circle class="marker" fill="var(--confidence)" cx="100" cy="250.25" r="5"/>
+      <circle class="marker" fill="var(--confidence)" cx="290" cy="382.55" r="5"/>
+      <circle class="marker" fill="var(--confidence)" cx="460" cy="281.75" r="5"/>
+      <circle class="marker" fill="var(--confidence)" cx="640" cy="243.95" r="5"/>
+      <circle class="marker" fill="var(--confidence)" cx="820" cy="218.75" r="5"/>
+    </g>
+
+    <g id="competence-series">
+      <polyline class="competence-line" points="100,410.9 290,360.5 460,281.75 640,212.45 820,168.35"/>
+      <circle class="marker" fill="var(--competence)" cx="100" cy="410.9" r="5"/>
+      <circle class="marker" fill="var(--competence)" cx="290" cy="360.5" r="5"/>
+      <circle class="marker" fill="var(--competence)" cx="460" cy="281.75" r="5"/>
+      <circle class="marker" fill="var(--competence)" cx="640" cy="212.45" r="5"/>
+      <circle class="marker" fill="var(--competence)" cx="820" cy="168.35" r="5"/>
+    </g>
+
+    <!-- Direct labels: identity is never carried by colour alone. -->
+    <g id="series-labels">
+      <circle fill="var(--competence)" cx="836" cy="164" r="4"/>
+      <text class="series-label" x="846" y="169">Competence</text>
+      <circle fill="var(--confidence)" cx="836" cy="215" r="4"/>
+      <text class="series-label" x="846" y="220">Confidence</text>
+    </g>
+
+    <!-- The callout points at the gap itself, not at either line. -->
+    <g id="razor-gap-callout">
+      <path class="callout" d="M 700 118 Q 782 128 812 182"/>
+      <path fill="var(--ink-2)" stroke="none" d="M 820 193 L 806 187 L 815 179 Z"/>
+      <text class="gap-label" x="694" y="122" text-anchor="end">The Razor Gap (&#916;)</text>
+    </g>
+
+    <g id="stage-labels">
+      <text class="stage-label" x="100" y="482" text-anchor="middle">Novice</text>
+      <text class="stage-label" x="290" y="482" text-anchor="middle">
+        <tspan x="290" dy="0">Advanced</tspan>
+        <tspan x="290" dy="17">beginner</tspan>
+      </text>
+      <text class="stage-label" x="460" y="482" text-anchor="middle">Competent</text>
+      <text class="stage-label" x="640" y="482" text-anchor="middle">Proficient</text>
+      <text class="stage-label" x="820" y="482" text-anchor="middle">Expert</text>
+    </g>
+  </g>
+
+  <text class="caption" x="72" y="552">The Razor Gap is the distance between demonstrated competence and expressed confidence.</text>
+</svg>
