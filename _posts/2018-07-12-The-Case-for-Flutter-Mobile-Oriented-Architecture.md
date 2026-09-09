@@ -1,5 +1,6 @@
 ---
 title: The Case for Flutter — Mobile-Oriented Architecture
+excerpt: 'Mobile is not just a smaller desktop. A framework for saying why a mobile feature is actually good.'
 description: This is the second post in a series on “The Case for Flutter”
 category: "development"
 tags: ["flutter", "mobile", "development"]

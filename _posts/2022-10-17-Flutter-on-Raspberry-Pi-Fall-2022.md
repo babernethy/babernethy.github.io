@@ -1,5 +1,6 @@
 ---
 title: Flutter on Raspberry Pi — Fall 2022
+excerpt: 'The parts, the steps, and the verdict - Flutter has arrived for regular use on the Raspberry Pi.'
 description: >-
   I didn’t see this all together in one place elsewhere, so wanted to compile
   and share.

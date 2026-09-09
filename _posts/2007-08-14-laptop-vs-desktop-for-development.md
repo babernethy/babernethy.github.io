@@ -1,5 +1,7 @@
 ---
 title: 'Laptop vs. Desktop for Development'
+excerpt: 'Going back to a desktop after years on a laptop - the pros and cons of each for development.'
+description: 'Going back to a desktop after years on a laptop - the pros and cons of each for development.'
 toc: true
 category: "development"
 tags: ["development", "hardware"]

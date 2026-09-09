@@ -1,5 +1,6 @@
 ---
 title: Remembering Cal Van Dyke
+excerpt: 'Stories about a friend, colleague, and genuinely good man, written down while they are fresh.'
 description: “Not Cal”
 category: "personal"
 tags: ["family", "inspiration", "leadership"]

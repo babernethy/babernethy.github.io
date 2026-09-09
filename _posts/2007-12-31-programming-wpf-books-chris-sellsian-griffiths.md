@@ -1,5 +1,7 @@
 ---
 title: 'Programming WPF: Books: Chris Sells,Ian Griffiths'
+excerpt: 'The best single book on WPF, and the last of my seven WPF books I expect to buy.'
+description: 'The best single book on WPF, and the last of my seven WPF books I expect to buy.'
 date: '2007-12-31T02:10:44+00:00'
 dsq_thread_id:
     - ''

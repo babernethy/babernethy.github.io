@@ -1,5 +1,7 @@
 ---
 title: 'Rebooting the blog in WordPress'
+excerpt: 'Back to blogging after a hosting disaster, this time on WordPress - and here is why.'
+description: 'Back to blogging after a hosting disaster, this time on WordPress - and here is why.'
 date: '2011-06-30T18:21:49+00:00'
 dsq_thread_id:
     - '448831577'

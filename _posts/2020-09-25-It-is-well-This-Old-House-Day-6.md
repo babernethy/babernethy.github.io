@@ -1,8 +1,7 @@
 ---
 title: '“It is well” — This Old House, Day 6'
-description: >-
-  Water is key to survival, and to any house that people are going to inhabit.
-  The Old House has a unique situation where it is right on the…
+excerpt: 'City sewer but no city water - three tanks in the basement and pipes like a steam ship.'
+description: 'City sewer but no city water - three tanks in the basement and pipes like a steam ship.'
 category: "personal"
 tags: ["home"]
 redirect_from:

@@ -1,5 +1,7 @@
 ---
 title: 'Community Clips'
+excerpt: 'Screen capture with narration that uploads itself - and a test of whether I can write a post in ten minutes.'
+description: 'Screen capture with narration that uploads itself - and a test of whether I can write a post in ten minutes.'
 date: '2008-05-19T05:26:47+00:00'
 dsq_thread_id:
     - '558048262'

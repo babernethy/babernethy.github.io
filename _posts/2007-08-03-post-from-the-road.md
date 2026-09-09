@@ -1,5 +1,7 @@
 ---
 title: 'Post from the Road'
+excerpt: 'Speaking a blog post into a phone and having it post itself - just to see if it works.'
+description: 'Speaking a blog post into a phone and having it post itself - just to see if it works.'
 date: '2007-08-03T02:04:00+00:00'
 header:
   teaser: /assets/images/jottlogo.jpg

@@ -1,5 +1,6 @@
 ---
 title: The Case for Flutter — Mobile Meta Apps
+excerpt: 'The handful of apps you should be able to build in any mobile framework - and how to grade the result.'
 description: This is the third post in a series on “The Case for Flutter”
 category: "development"
 tags: ["flutter", "mobile", "development"]

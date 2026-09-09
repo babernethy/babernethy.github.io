@@ -1,8 +1,7 @@
 ---
 title: Mueller “Netyksho” Indictment — an InfoSec Perspective
-description: >-
-  This isn’t a political post — I think you can find enough of those online from
-  whatever perspective you like the best. But the most recent…
+excerpt: 'Not a political post - a fascinating read on spearphishing and being careful what you click.'
+description: 'Not a political post - a fascinating read on spearphishing and being careful what you click.'
 category: "development"
 tags: ["security", "thinking"]
 redirect_from:

@@ -1,5 +1,7 @@
 ---
 title: 'Why I am voting for Nessie'
+excerpt: 'Full disclosure - I am 50% Scottish. Here are my five reasons for this ArtPrize vote.'
+description: 'Full disclosure - I am 50% Scottish. Here are my five reasons for this ArtPrize vote.'
 date: '2009-10-05T03:37:03+00:00'
 dsq_thread_id:
     - '392034917'

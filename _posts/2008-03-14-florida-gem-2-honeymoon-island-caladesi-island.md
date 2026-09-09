@@ -1,5 +1,7 @@
 ---
 title: 'Florida Gem #2 &#8211; Honeymoon Island / Caladesi Island'
+excerpt: 'Two Florida state parks with almost nobody on them, and the three reasons why.'
+description: 'Two Florida state parks with almost nobody on them, and the three reasons why.'
 date: '2008-03-14T03:51:48+00:00'
 dsq_thread_id:
     - '378724941'

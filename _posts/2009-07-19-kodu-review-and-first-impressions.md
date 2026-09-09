@@ -1,5 +1,7 @@
 ---
 title: 'Kodu Review and First Impressions'
+excerpt: 'A visual programming language you drive with an XBox controller - and all three kids are hooked.'
+description: 'A visual programming language you drive with an XBox controller - and all three kids are hooked.'
 date: '2009-07-19T06:57:00+00:00'
 dsq_thread_id:
     - '357927602'

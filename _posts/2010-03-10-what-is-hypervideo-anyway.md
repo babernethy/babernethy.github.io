@@ -1,5 +1,7 @@
 ---
 title: 'What is hypervideo anyway?'
+excerpt: 'What hypertext did for text, hypervideo does for video - and I first tried it on laserdisc in 1992.'
+description: 'What hypertext did for text, hypervideo does for video - and I first tried it on laserdisc in 1992.'
 date: '2010-03-10T00:29:01+00:00'
 dsq_thread_id:
     - '382860217'

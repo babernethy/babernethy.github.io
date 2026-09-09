@@ -1,5 +1,7 @@
 ---
 title: 'PC ProSchools of Grand Rapids'
+excerpt: 'A Microsoft training facility in Grand Rapids I had never heard of, and a tour I did not expect.'
+description: 'A Microsoft training facility in Grand Rapids I had never heard of, and a tour I did not expect.'
 date: '2008-01-02T02:48:29+00:00'
 dsq_thread_id:
     - ''
