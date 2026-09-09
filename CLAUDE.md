@@ -87,6 +87,14 @@ The front-matter backfill pass is done: every post now carries a singular
 bare `tag:`, plural `categories:`, and the `AI`/`dev`/`WPF`/`XAML` casing drift
 are all gone.
 
+Every post also carries an `excerpt` and a `description` — 192 had neither and
+were falling back to the first words of the body on archive cards and in meta
+tags. The backfilled text follows the voice of the posts that already had it:
+one short line, often a sentence fragment, drawn from what the post actually
+says, and always under 160 characters so it survives intact in search results.
+`excerpt` and `description` are identical except where a post has a reason for
+them to differ. New posts must fill both in.
+
 Because `permalink` is `/:categories/:title/`, giving a post a category moves
 its URL. The 202 posts that moved carry a `redirect_from:` with their old path,
 served by `jekyll-redirect-from`. **Never remove or change a `redirect_from:`
