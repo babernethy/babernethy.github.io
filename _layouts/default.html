@@ -1,0 +1,46 @@
+---
+---
+{%- assign locale = page.locale | default: layout.locale | default: site.locale %}
+
+<!doctype html>
+{% include copyright.html %}
+<html lang="{{ locale | replace: '_', '-' | default: 'en' }}" class="no-js" dir="{{ page.direction | default: layout.direction | default: site.direction | default: 'ltr' }}">
+  <head>
+    {% include head.html locale=locale %}
+    {% include head/custom.html %}
+  </head>
+
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+    {% include_cached skip-links.html locale=locale %}
+    {% include_cached masthead.html locale=locale %}
+
+    {%- comment -%}
+      Site-wide backdrop. One fixed orbital field behind every page, so the
+      motif is the material rather than a home-page decoration. It is fixed
+      rather than scrolled, which means long posts drift across it instead of
+      dragging it along — the page gains depth without the texture competing
+      with the prose. Decorative and inert.
+    {%- endcomment -%}
+    <div class="df-field" aria-hidden="true">{% include df-orbital.html %}</div>
+
+    <div class="initial-content">
+      {{ content }}
+      {% include after-content.html %}
+    </div>
+
+    {% if site.search == true %}
+      <div class="search-content">
+        {% include_cached search/search_form.html locale=locale %}
+      </div>
+    {% endif %}
+
+    <div id="footer" class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include_cached footer.html locale=locale %}
+      </footer>
+    </div>
+
+    {% include scripts.html locale=locale %}
+  </body>
+</html>

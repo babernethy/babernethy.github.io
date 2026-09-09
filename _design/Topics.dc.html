@@ -1,0 +1,187 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Literata:opsz,wght@7..72,400;7..72,500&family=JetBrains+Mono:wght@400;500&display=swap">
+  <style>
+    body { margin: 0; background: #14131C; font-family: Literata, Georgia, serif; }
+    a { color: #8D8DF3; text-decoration: none; }
+    a:hover { color: #E0A458; }
+  </style>
+</helmet>
+
+<div style="width: 1280px; background: #14131C; color: #E9E5DD;">
+
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 32px; padding: 20px 68px; border-bottom: 1px solid #2E2B3D;">
+    <div style="display: flex; align-items: center; gap: 13px;">
+      <svg width="28" height="28" viewBox="0 0 30 30" fill="none" stroke="#8D8DF3" stroke-width="1.3">
+        <circle cx="15" cy="15" r="3.6"></circle>
+        <ellipse cx="15" cy="15" rx="13" ry="6.2" transform="rotate(-28 15 15)"></ellipse>
+        <ellipse cx="15" cy="15" rx="13" ry="6.2" transform="rotate(38 15 15)"></ellipse>
+      </svg>
+      <div style="font-family: 'Instrument Serif', 'Times New Roman', serif; font-size: 22px;">Bruce Abernethy</div>
+    </div>
+    <div style="display: flex; align-items: center; gap: 28px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12px; color: #A9A3B8;">
+      <span>notes</span><span>links</span><span>archive</span><span style="color: #E9E5DD;">topics</span><span>about</span>
+      <svg width="15" height="15" viewBox="0 0 20 20" fill="none" stroke="#8B8599" stroke-width="1.6"><circle cx="9" cy="9" r="6"></circle><path d="M13.5 13.5 L17 17"></path></svg>
+    </div>
+  </div>
+
+  <div style="padding: 56px 68px 34px 68px;">
+    <h1 style="margin: 0 0 16px 0; font-family: 'Instrument Serif', 'Times New Roman', serif; font-size: 62px; font-weight: 400; line-height: 1.05;">Topics</h1>
+    <p style="margin: 0; font-size: 19px; line-height: 1.6; color: #A9A3B8; max-width: 680px;">Nineteen years of whatever held my attention &mdash; software and security, leadership, crystals, birds, telescopes. There is no headline subject here. Start anywhere.</p>
+    <div style="margin-top: 20px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 11.5px; color: #635E75; letter-spacing: 0.04em;">11 categories &middot; alphabetical &middot; none featured</div>
+  </div>
+
+  <!-- categories: identical cards, alphabetical, no ranking -->
+  <div style="padding: 0 68px; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px;">
+
+    <div style="padding: 22px 24px; background: #1A1825; border: 1px solid #262336; border-radius: 4px; display: flex; flex-direction: column; gap: 9px;">
+      <div style="display: flex; align-items: baseline; gap: 10px;">
+        <span style="font-family: 'Instrument Serif', 'Times New Roman', serif; font-size: 27px; color: #E9E5DD;">ai</span>
+        <span style="font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12px; color: #635E75;">4</span>
+      </div>
+      <p style="margin: 0; font-size: 15px; line-height: 1.5; color: #8B8599;">LLM security, local models, and the tooling growing around them.</p>
+    </div>
+
+    <div style="padding: 22px 24px; background: #1A1825; border: 1px solid #262336; border-radius: 4px; display: flex; flex-direction: column; gap: 9px;">
+      <div style="display: flex; align-items: baseline; gap: 10px;">
+        <span style="font-family: 'Instrument Serif', 'Times New Roman', serif; font-size: 27px; color: #E9E5DD;">blog</span>
+        <span style="font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12px; color: #635E75;">6</span>
+      </div>
+      <p style="margin: 0; font-size: 15px; line-height: 1.5; color: #8B8599;">The site itself &mdash; migrations, comments, housekeeping.</p>
+    </div>
+
+    <div style="padding: 22px 24px; background: #1A1825; border: 1px solid #262336; border-radius: 4px; display: flex; flex-direction: column; gap: 9px;">
+      <div style="display: flex; align-items: baseline; gap: 10px;">
+        <span style="font-family: 'Instrument Serif', 'Times New Roman', serif; font-size: 27px; color: #E9E5DD;">development</span>
+        <span style="font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12px; color: #635E75;">45</span>
+      </div>
+      <p style="margin: 0; font-size: 15px; line-height: 1.5; color: #8B8599;">Code, frameworks, and the craft of building things that ship.</p>
+    </div>
+
+    <div style="padding: 22px 24px; background: #1A1825; border: 1px solid #262336; border-radius: 4px; display: flex; flex-direction: column; gap: 9px;">
+      <div style="display: flex; align-items: baseline; gap: 10px;">
+        <span style="font-family: 'Instrument Serif', 'Times New Roman', serif; font-size: 27px; color: #E9E5DD;">jobs</span>
+        <span style="font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12px; color: #635E75;">15</span>
+      </div>
+      <p style="margin: 0; font-size: 15px; line-height: 1.5; color: #8B8599;">Careers, leadership, and models for thinking about skill.</p>
+    </div>
+
+    <div style="padding: 22px 24px; background: #1A1825; border: 1px solid #262336; border-radius: 4px; display: flex; flex-direction: column; gap: 9px;">
+      <div style="display: flex; align-items: baseline; gap: 10px;">
+        <span style="font-family: 'Instrument Serif', 'Times New Roman', serif; font-size: 27px; color: #E0A458;">links</span>
+        <span style="font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12px; color: #635E75;">25</span>
+      </div>
+      <p style="margin: 0; font-size: 15px; line-height: 1.5; color: #8B8599;">Weekly roundups &mdash; curated, not written.</p>
+    </div>
+
+    <div style="padding: 22px 24px; background: #1A1825; border: 1px solid #262336; border-radius: 4px; display: flex; flex-direction: column; gap: 9px;">
+      <div style="display: flex; align-items: baseline; gap: 10px;">
+        <span style="font-family: 'Instrument Serif', 'Times New Roman', serif; font-size: 27px; color: #E9E5DD;">nature</span>
+        <span style="font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12px; color: #635E75;">2</span>
+      </div>
+      <p style="margin: 0; font-size: 15px; line-height: 1.5; color: #8B8599;">Birds, the yard, and what winters in Michigan.</p>
+    </div>
+
+    <div style="padding: 22px 24px; background: #1A1825; border: 1px solid #262336; border-radius: 4px; display: flex; flex-direction: column; gap: 9px;">
+      <div style="display: flex; align-items: baseline; gap: 10px;">
+        <span style="font-family: 'Instrument Serif', 'Times New Roman', serif; font-size: 27px; color: #E9E5DD;">personal</span>
+        <span style="font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12px; color: #635E75;">62</span>
+      </div>
+      <p style="margin: 0; font-size: 15px; line-height: 1.5; color: #8B8599;">Family, health, the house, and everything that files nowhere else.</p>
+    </div>
+
+    <div style="padding: 22px 24px; background: #1A1825; border: 1px solid #262336; border-radius: 4px; display: flex; flex-direction: column; gap: 9px;">
+      <div style="display: flex; align-items: baseline; gap: 10px;">
+        <span style="font-family: 'Instrument Serif', 'Times New Roman', serif; font-size: 27px; color: #E9E5DD;">physics</span>
+        <span style="font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12px; color: #635E75;">2</span>
+      </div>
+      <p style="margin: 0; font-size: 15px; line-height: 1.5; color: #8B8599;">Two early experiments. Predates <em>science</em>; kept so the URLs hold.</p>
+    </div>
+
+    <div style="padding: 22px 24px; background: #1A1825; border: 1px solid #262336; border-radius: 4px; display: flex; flex-direction: column; gap: 9px;">
+      <div style="display: flex; align-items: baseline; gap: 10px;">
+        <span style="font-family: 'Instrument Serif', 'Times New Roman', serif; font-size: 27px; color: #E9E5DD;">science</span>
+        <span style="font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12px; color: #635E75;">25</span>
+      </div>
+      <p style="margin: 0; font-size: 15px; line-height: 1.5; color: #8B8599;">Crystals, telescopes, robotics, and things that got launched.</p>
+    </div>
+
+    <div style="padding: 22px 24px; background: #1A1825; border: 1px solid #262336; border-radius: 4px; display: flex; flex-direction: column; gap: 9px;">
+      <div style="display: flex; align-items: baseline; gap: 10px;">
+        <span style="font-family: 'Instrument Serif', 'Times New Roman', serif; font-size: 27px; color: #E9E5DD;">tech</span>
+        <span style="font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12px; color: #635E75;">46</span>
+      </div>
+      <p style="margin: 0; font-size: 15px; line-height: 1.5; color: #8B8599;">Hardware, gadgets, and the tools that earned their keep.</p>
+    </div>
+
+    <div style="padding: 22px 24px; background: #1A1825; border: 1px solid #262336; border-radius: 4px; display: flex; flex-direction: column; gap: 9px;">
+      <div style="display: flex; align-items: baseline; gap: 10px;">
+        <span style="font-family: 'Instrument Serif', 'Times New Roman', serif; font-size: 27px; color: #E9E5DD;">ui</span>
+        <span style="font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12px; color: #635E75;">2</span>
+      </div>
+      <p style="margin: 0; font-size: 15px; line-height: 1.5; color: #8B8599;">Interfaces, and the question of why some of them work.</p>
+    </div>
+
+  </div>
+
+  <!-- tags: the finer grain, equally flat -->
+  <div style="padding: 46px 68px 0 68px;">
+    <div style="display: flex; align-items: baseline; gap: 14px; padding-bottom: 18px; border-bottom: 1px solid #2E2B3D;">
+      <span style="font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 11.5px; letter-spacing: 0.12em; text-transform: uppercase; color: #8D8DF3;">Tags</span>
+      <span style="font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 11.5px; color: #8B8599;">35, finer grain &mdash; a post carries one category and up to three tags</span>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 9px; padding-top: 20px;">
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">ai <span style="color: #635E75;">16</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">art <span style="color: #635E75;">9</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">birds <span style="color: #635E75;">1</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">blog <span style="color: #635E75;">8</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">books <span style="color: #635E75;">10</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">design <span style="color: #635E75;">11</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">development <span style="color: #635E75;">58</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">ebikes <span style="color: #635E75;">1</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">education <span style="color: #635E75;">29</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">eink <span style="color: #635E75;">5</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">family <span style="color: #635E75;">54</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">flutter <span style="color: #635E75;">5</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">fun <span style="color: #635E75;">43</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">games <span style="color: #635E75;">11</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">general <span style="color: #635E75;">17</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">hardware <span style="color: #635E75;">20</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">health <span style="color: #635E75;">7</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">home <span style="color: #635E75;">9</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">inspiration <span style="color: #635E75;">18</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">jobs <span style="color: #635E75;">27</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">leadership <span style="color: #635E75;">9</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">microsoft <span style="color: #635E75;">40</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">mobile <span style="color: #635E75;">11</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">nature <span style="color: #635E75;">4</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">physics <span style="color: #635E75;">2</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">popular <span style="color: #635E75;">3</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">presentations <span style="color: #635E75;">21</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">robotics <span style="color: #635E75;">7</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">science <span style="color: #635E75;">24</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">security <span style="color: #635E75;">18</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">silverlight <span style="color: #635E75;">18</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">space <span style="color: #635E75;">9</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">tech <span style="color: #635E75;">25</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">thinking <span style="color: #635E75;">55</span></span>
+      <span style="padding: 6px 12px; background: #1E1C29; border-radius: 3px; font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 12.5px; color: #C9C4BC;">ui <span style="color: #635E75;">10</span></span>
+    </div>
+  </div>
+
+  <div style="margin: 34px 68px 56px 68px; padding: 18px 22px; background: #1A1825; border: 1px solid #262336; border-radius: 4px;">
+    <div style="font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-size: 10.5px; letter-spacing: 0.12em; text-transform: uppercase; color: #8B8599; margin-bottom: 8px;">Why it looks like this</div>
+    <div style="font-size: 14.5px; line-height: 1.6; color: #A9A3B8; max-width: 940px;">Every card is the same size and every tag the same weight, and both lists run alphabetically &mdash; so nothing is promoted and the counts stay information rather than hierarchy. A blog with no headline subject shouldn&rsquo;t pretend to have one in its navigation.</div>
+  </div>
+
+</div>
+</x-dc>
+</body>
+</html>

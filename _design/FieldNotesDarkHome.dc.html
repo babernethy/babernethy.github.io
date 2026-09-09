@@ -1,0 +1,134 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+  <style>
+    body { margin: 0; background: #1A1815; font-family: Newsreader, Georgia, serif; }
+    a { color: #6FB5AA; text-decoration: none; }
+    a:hover { color: #D98763; }
+  </style>
+</helmet>
+
+<div style="width: 1280px; background: #1A1815; color: #EDE7DA;">
+
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 32px; padding: 22px 72px; border-bottom: 1px solid #322D25;">
+    <div style="display: flex; align-items: center; gap: 14px;">
+      <svg width="30" height="30" viewBox="0 0 30 30" fill="none" stroke="#6FB5AA" stroke-width="1.4">
+        <circle cx="15" cy="15" r="4.2"></circle>
+        <ellipse cx="15" cy="15" rx="13" ry="6.4" transform="rotate(-28 15 15)"></ellipse>
+        <ellipse cx="15" cy="15" rx="13" ry="6.4" transform="rotate(38 15 15)"></ellipse>
+      </svg>
+      <div style="display: flex; flex-direction: column; gap: 1px;">
+        <div style="font-size: 19px; font-weight: 600; letter-spacing: -0.01em;">Bruce's Blog</div>
+        <div style="font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 11.5px; color: #A39A87;">Thoughts on software development, leadership, and life.</div>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center; gap: 30px; font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 13.5px; font-weight: 500; color: #C8C0AE;">
+      <span>Notes</span><span>Links</span><span>Archive</span><span>Topics</span><span style="color: #A39A87;">About</span>
+      <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="#A39A87" stroke-width="1.6"><circle cx="9" cy="9" r="6"></circle><path d="M13.5 13.5 L17 17"></path></svg>
+    </div>
+  </div>
+
+  <div style="padding: 62px 72px 46px 72px; border-bottom: 1px solid #322D25;">
+    <div style="max-width: 780px; display: flex; flex-direction: column; gap: 20px;">
+      <p style="margin: 0; font-size: 33px; line-height: 1.36; font-weight: 400; letter-spacing: -0.014em; text-wrap: pretty;">Software developer, director, dad, and husband. I write about building things, leading people, and whatever showed up at the bird feeder.</p>
+      <div style="font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 13px; color: #A39A87;">Writing here since 2007 &mdash; 234 posts and counting.</div>
+    </div>
+  </div>
+
+  <div style="display: grid; grid-template-columns: 760px 320px; gap: 88px; padding: 48px 72px 60px 72px;">
+
+    <div style="display: flex; flex-direction: column; gap: 30px;">
+      <div style="display: flex; align-items: baseline; gap: 12px; padding-bottom: 14px; border-bottom: 1px solid #322D25;">
+        <span style="font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 11.5px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #6FB5AA;">Notes</span>
+        <span style="font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 12px; color: #A39A87;">things I wrote</span>
+      </div>
+
+      <div style="display: flex; gap: 24px;">
+        <div style="width: 132px; height: 100px; border-radius: 4px; background: #2A251E; border: 1px solid #3D372C; flex-shrink: 0;"></div>
+        <div style="display: flex; flex-direction: column; gap: 8px;">
+          <div style="font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; color: #A39A87;">AI &middot; Jun 27, 2025</div>
+          <div style="font-size: 27px; line-height: 1.22; font-weight: 500; letter-spacing: -0.014em; color: #6FB5AA;">MCP Security Framework &mdash; June 2025 Updates</div>
+          <p style="margin: 0; font-size: 17px; line-height: 1.53; color: #B7AE9B;">MCP Security, Authentication, Authorization, Best Practices, updated June 2025.</p>
+        </div>
+      </div>
+
+      <div style="height: 1px; background: #292419;"></div>
+
+      <div style="display: flex; gap: 24px;">
+        <div style="width: 132px; height: 100px; border-radius: 4px; background: #2A251E; border: 1px solid #3D372C; flex-shrink: 0;"></div>
+        <div style="display: flex; flex-direction: column; gap: 8px;">
+          <div style="font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; color: #A39A87;">AI &middot; Jun 23, 2025</div>
+          <div style="font-size: 27px; line-height: 1.22; font-weight: 500; letter-spacing: -0.014em; color: #6FB5AA;">LLMs get their own OWASP Top 10</div>
+          <p style="margin: 0; font-size: 17px; line-height: 1.53; color: #B7AE9B;">An updated list for 2025 of risks and mitigations for LLM applications.</p>
+        </div>
+      </div>
+
+      <div style="height: 1px; background: #292419;"></div>
+
+      <div style="display: flex; gap: 24px;">
+        <div style="width: 132px; height: 100px; border-radius: 4px; background: #2A251E; border: 1px solid #3D372C; flex-shrink: 0;"></div>
+        <div style="display: flex; flex-direction: column; gap: 8px;">
+          <div style="font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; color: #A39A87;">Nature &middot; Nov 17, 2024</div>
+          <div style="font-size: 27px; line-height: 1.22; font-weight: 500; letter-spacing: -0.014em; color: #6FB5AA;">New Top Bird in the yard: Dark-eyed Junco</div>
+          <p style="margin: 0; font-size: 17px; line-height: 1.53; color: #B7AE9B;">A new bird visitor that winters in Michigan &mdash; the Junco.</p>
+        </div>
+      </div>
+
+      <div style="height: 1px; background: #292419;"></div>
+
+      <div style="display: flex; gap: 24px;">
+        <div style="width: 132px; height: 100px; border-radius: 4px; background: #2A251E; border: 1px solid #3D372C; flex-shrink: 0;"></div>
+        <div style="display: flex; flex-direction: column; gap: 8px;">
+          <div style="font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; color: #A39A87;">Development &middot; Nov 13, 2024</div>
+          <div style="font-size: 27px; line-height: 1.22; font-weight: 500; letter-spacing: -0.014em; color: #6FB5AA;">M4 Mac, Ollama, and Mandelbrot Sets</div>
+          <p style="margin: 0; font-size: 17px; line-height: 1.53; color: #B7AE9B;">Local AI/LLM goodness for developers.</p>
+        </div>
+      </div>
+    </div>
+
+    <div style="display: flex; flex-direction: column; gap: 22px;">
+      <div style="display: flex; align-items: baseline; gap: 10px; padding-bottom: 14px; border-bottom: 1px solid #322D25;">
+        <span style="font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 11.5px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #D98763;">Links</span>
+        <span style="font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 12px; color: #A39A87;">things I found</span>
+      </div>
+
+      <div style="padding: 14px 16px; background: #232019; border-radius: 4px; border-left: 2px solid #D98763; display: flex; flex-direction: column; gap: 6px;">
+        <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 11px; color: #C08A6B;">2024-12-09</div>
+        <div style="font-size: 17px; line-height: 1.32; color: #C8C0AE;">Interesting Links for the Week</div>
+      </div>
+      <div style="padding: 14px 16px; background: #232019; border-radius: 4px; border-left: 2px solid #4A392F; display: flex; flex-direction: column; gap: 6px;">
+        <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 11px; color: #A39A87;">2024-12-02</div>
+        <div style="font-size: 17px; line-height: 1.32; color: #C8C0AE;">Interesting Links for the Week</div>
+      </div>
+      <div style="padding: 14px 16px; background: #232019; border-radius: 4px; border-left: 2px solid #4A392F; display: flex; flex-direction: column; gap: 6px;">
+        <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 11px; color: #A39A87;">2024-11-25</div>
+        <div style="font-size: 17px; line-height: 1.32; color: #C8C0AE;">Interesting Links for the Week</div>
+      </div>
+
+      <div style="font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 12.5px; color: #D98763; padding-top: 2px;">All 25 roundups &rarr;</div>
+
+      <div style="margin-top: 16px; padding: 20px; border: 1px solid #322D25; border-radius: 4px; display: flex; flex-direction: column; gap: 10px;">
+        <div style="font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 10.5px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #A39A87;">Topics</div>
+        <div style="display: flex; flex-wrap: wrap; gap: 7px; font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 12px;">
+          <span style="padding: 4px 10px; border: 1px solid #3D372C; border-radius: 3px; color: #C8C0AE;">ai</span>
+          <span style="padding: 4px 10px; border: 1px solid #3D372C; border-radius: 3px; color: #C8C0AE;">development</span>
+          <span style="padding: 4px 10px; border: 1px solid #3D372C; border-radius: 3px; color: #C8C0AE;">leadership</span>
+          <span style="padding: 4px 10px; border: 1px solid #3D372C; border-radius: 3px; color: #C8C0AE;">thinking</span>
+          <span style="padding: 4px 10px; border: 1px solid #3D372C; border-radius: 3px; color: #C8C0AE;">nature</span>
+          <span style="padding: 4px 10px; border: 1px solid #3D372C; border-radius: 3px; color: #C8C0AE;">security</span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+</x-dc>
+</body>
+</html>

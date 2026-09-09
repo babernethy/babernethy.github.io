@@ -1,0 +1,198 @@
+{
+  "pages": [
+    {
+      "id": "page-1",
+      "name": "Deep Field"
+    },
+    {
+      "id": "page-2",
+      "name": "Foundations"
+    },
+    {
+      "id": "page-3",
+      "name": "Field Notes (alt)"
+    }
+  ],
+  "artboards": [
+    {
+      "file": "Main.dc.html",
+      "page": "page-1",
+      "title": "Post — dark",
+      "x": 0,
+      "y": 0,
+      "w": 1280,
+      "h": 2000
+    },
+    {
+      "file": "DeepFieldHome.dc.html",
+      "page": "page-1",
+      "title": "Home — dark",
+      "x": 1360,
+      "y": 0,
+      "w": 1280,
+      "h": 1550
+    },
+    {
+      "file": "DeepFieldArchive.dc.html",
+      "page": "page-1",
+      "title": "Archive — dark",
+      "x": 2720,
+      "y": 0,
+      "w": 1280,
+      "h": 1450
+    },
+    {
+      "file": "DeepFieldLightPost.dc.html",
+      "page": "page-1",
+      "title": "Post — light",
+      "x": 0,
+      "y": 2300,
+      "w": 1280,
+      "h": 2050
+    },
+    {
+      "file": "DeepFieldLightHome.dc.html",
+      "page": "page-1",
+      "title": "Home — light",
+      "x": 1360,
+      "y": 2300,
+      "w": 1280,
+      "h": 1600
+    },
+    {
+      "file": "QuoteStudies.dc.html",
+      "page": "page-2",
+      "title": "Pull quote — spec",
+      "x": 2720,
+      "y": 0,
+      "w": 1280,
+      "h": 1300
+    },
+    {
+      "file": "Palette.dc.html",
+      "page": "page-2",
+      "title": "Color",
+      "x": 0,
+      "y": 0,
+      "w": 1280,
+      "h": 1700
+    },
+    {
+      "file": "Typography.dc.html",
+      "page": "page-2",
+      "title": "Typography",
+      "x": 1360,
+      "y": 0,
+      "w": 1280,
+      "h": 1400
+    },
+    {
+      "file": "FieldNotesPost.dc.html",
+      "page": "page-3",
+      "title": "Post — light",
+      "x": 0,
+      "y": 0,
+      "w": 1280,
+      "h": 1900
+    },
+    {
+      "file": "FieldNotesHome.dc.html",
+      "page": "page-3",
+      "title": "Home — light",
+      "x": 1360,
+      "y": 0,
+      "w": 1280,
+      "h": 1300
+    },
+    {
+      "file": "FieldNotesArchive.dc.html",
+      "page": "page-3",
+      "title": "Archive",
+      "x": 2720,
+      "y": 0,
+      "w": 1280,
+      "h": 1200
+    },
+    {
+      "file": "FieldNotesDarkPost.dc.html",
+      "page": "page-3",
+      "title": "Post — dark",
+      "x": 0,
+      "y": 2100,
+      "w": 1280,
+      "h": 1900
+    },
+    {
+      "file": "FieldNotesDarkHome.dc.html",
+      "page": "page-3",
+      "title": "Home — dark",
+      "x": 1360,
+      "y": 2100,
+      "w": 1280,
+      "h": 1300
+    },
+    {
+      "file": "Topics.dc.html",
+      "page": "page-1",
+      "title": "Topics — flat index",
+      "x": 0,
+      "y": 4550,
+      "w": 1280,
+      "h": 1600
+    }
+  ],
+  "annotations": [
+    {
+      "id": "chosen",
+      "page": "page-1",
+      "x": 0,
+      "y": -210,
+      "w": 420,
+      "text": "DEEP FIELD — CHOSEN\n\nInstrument Serif for display, Literata for reading, JetBrains Mono for meta and code. Ships in both renderings; prefers-color-scheme picks the default.\n\nStill minimal-mistakes underneath: _sass overrides plus one custom header include. No fork."
+    },
+    {
+      "id": "tiers",
+      "page": "page-1",
+      "x": 1360,
+      "y": -210,
+      "w": 420,
+      "text": "TWO TIERS, NOT ONE FEED\n\n209 posts you wrote; 25 curated link roundups. Notes get images and space; links get a compact dated strip in the second accent.\n\nThis replaces the {% unless %} in _layouts/posts.html that currently just hides the roundups from the archive."
+    },
+    {
+      "id": "lightfix",
+      "page": "page-1",
+      "x": 0,
+      "y": 2060,
+      "w": 460,
+      "text": "THE LIGHT RENDERING, LESS MONOTONE\n\nThe greys carried no chroma, so colour only ever appeared as text on a flat field. Fixed three ways:\n\n1. Surfaces tinted toward the lavender — ground #F4F3FA, surface #E9E7F6.\n2. The hero now sits on a tinted band (#EFEDFA) so the page reads as zones rather than one sheet.\n3. Pull quotes carry a filled panel — the tinted-panel treatment, specced on the Foundations page."
+    },
+    {
+      "id": "foundations-note",
+      "page": "page-2",
+      "x": 0,
+      "y": -170,
+      "w": 460,
+      "text": "Both palettes with their counterpart renderings, the type ramps, and the pull-quote spec.\n\nRoles stay fixed across light and dark — ground, surface, text, muted, accent, links accent — which is what lets one set of custom properties drive both.\n\nThe shared rule: one accent for your writing, a second for curated links, never mixed."
+    },
+    {
+      "id": "alt-note",
+      "page": "page-3",
+      "x": 0,
+      "y": -190,
+      "w": 460,
+      "text": "FIELD NOTES — NOT CHOSEN\n\nKept here rather than deleted. Warm paper identity in Newsreader and IBM Plex, both renderings.\n\nIts archive layout is worth stealing even if the identity isn't — the year gutter and the collapsed links row work in either direction."
+    },
+    {
+      "id": "topics-note",
+      "page": "page-1",
+      "x": 1360,
+      "y": 4550,
+      "w": 440,
+      "text": "TOPICS WITHOUT A HEADLINE\n\nEvery card the same size, every tag the same weight, both lists alphabetical. Counts are shown but never drive order or scale — so they stay information rather than hierarchy.\n\nNo topic appears in the primary nav. A blog with no main subject shouldn't pretend to have one.\n\nDark only so far; the light rendering uses the same tokens."
+    }
+  ],
+  "launch": {
+    "view": "canvas",
+    "page": "page-1"
+  }
+}

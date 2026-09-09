@@ -1,0 +1,14 @@
+# One line per category, shown on /topics/.
+# Order here is irrelevant — the page sorts alphabetically on purpose so that
+# nothing is promoted. Counts come from the posts themselves.
+ai: "LLM security, local models, and the tooling growing around them."
+blog: "The site itself — migrations, comments, housekeeping."
+development: "Code, frameworks, and the craft of building things that ship."
+jobs: "Careers, leadership, and models for thinking about skill."
+links: "Weekly roundups — curated, not written."
+nature: "Birds, the yard, and what winters in Michigan."
+personal: "Family, health, the house, and everything that files nowhere else."
+physics: "Two early experiments. Predates *science*; kept so the URLs hold."
+science: "Crystals, telescopes, robotics, and things that got launched."
+tech: "Hardware, gadgets, and the tools that earned their keep."
+ui: "Interfaces, and the question of why some of them work."

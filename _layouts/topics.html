@@ -1,0 +1,50 @@
+---
+layout: archive
+---
+
+{%- comment -%}
+  Every category the same size, every tag the same weight, both lists
+  alphabetical. Counts are shown but never drive order or scale, so they stay
+  information rather than hierarchy. A blog with no headline subject should not
+  pretend to have one.
+{%- endcomment -%}
+
+{{ content }}
+
+{%- assign cats = site.categories | sort -%}
+{%- assign tags = site.tags | sort -%}
+
+<p class="df-topics__rule">{{ cats | size }} categories &middot; alphabetical &middot; none featured</p>
+
+<div class="df-topics">
+  {%- for c in cats -%}
+    {%- assign name = c[0] -%}
+    <a class="df-topic{% if name == 'links' %} df-topic--links{% endif %}"
+       href="{{ '/categories/' | relative_url }}#{{ name | slugify }}">
+      <span class="df-topic__head">
+        <span class="df-topic__name">{{ name }}</span>
+        <span class="df-topic__count">{{ c[1] | size }}</span>
+      </span>
+      {%- if site.data.topics[name] -%}
+        <span class="df-topic__desc">{{ site.data.topics[name] | markdownify | strip_html | strip_newlines }}</span>
+      {%- endif -%}
+    </a>
+  {%- endfor -%}
+</div>
+
+<div class="df-tags">
+  <h2 class="df-tags__title">
+    <span class="df-tags__label">Tags</span>
+    <span class="df-tags__note">{{ tags | size }}, finer grain — a post carries one category and up to three tags</span>
+  </h2>
+  <div class="df-tags__list">
+    {%- for t in tags -%}
+      <a class="df-tag" href="{{ '/tags/' | relative_url }}#{{ t[0] | slugify }}">{{ t[0] }} <span class="df-tag__count">{{ t[1] | size }}</span></a>
+    {%- endfor -%}
+  </div>
+</div>
+
+<div class="df-topics__why">
+  <p class="df-topics__why-label">Why it looks like this</p>
+  <p>Every card is the same size and every tag the same weight, and both lists run alphabetically — so nothing is promoted and the counts stay information rather than hierarchy.</p>
+</div>

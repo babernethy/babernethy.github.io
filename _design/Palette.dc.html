@@ -1,0 +1,204 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+  <style>
+    body { margin: 0; background: #F7F5F0; font-family: 'IBM Plex Sans', system-ui, sans-serif; }
+    a { color: #1B5E57; text-decoration: none; }
+    a:hover { color: #9C4A2F; }
+  </style>
+</helmet>
+
+<div style="width: 1280px; background: #F7F5F0; color: #221F1A; padding: 52px 60px 56px 60px;">
+
+  <div style="display: flex; flex-direction: column; gap: 8px; margin-bottom: 40px;">
+    <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: #6A6357;">Foundations</div>
+    <h1 style="margin: 0; font-family: Newsreader, Georgia, serif; font-size: 42px; font-weight: 500; letter-spacing: -0.018em;">Color</h1>
+  </div>
+
+  <!-- Direction A -->
+  <div style="margin-bottom: 46px;">
+    <div style="display: flex; align-items: baseline; gap: 14px; padding-bottom: 14px; margin-bottom: 22px; border-bottom: 1px solid #E0D9CB;">
+      <span style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase; color: #1B5E57;">A &mdash; Field Notes</span>
+      <span style="font-size: 13.5px; color: #6A6357;">warm paper, juniper, cardinal &middot; maps onto minimal-mistakes skin variables</span>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 16px;">
+      <div style="display: flex; flex-direction: column; gap: 9px;">
+        <div style="height: 92px; background: #FAF7F1; border: 1px solid #E0D9CB; border-radius: 4px;"></div>
+        <div style="display: flex; flex-direction: column; gap: 2px;">
+          <div style="font-size: 12.5px; font-weight: 600;">Paper</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 11px; color: #6A6357;">#FAF7F1</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10px; color: #948C7C;">$background-color</div>
+        </div>
+      </div>
+      <div style="display: flex; flex-direction: column; gap: 9px;">
+        <div style="height: 92px; background: #F3EDE2; border: 1px solid #E0D9CB; border-radius: 4px;"></div>
+        <div style="display: flex; flex-direction: column; gap: 2px;">
+          <div style="font-size: 12.5px; font-weight: 600;">Paper raised</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 11px; color: #6A6357;">#F3EDE2</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10px; color: #948C7C;">cards, links tier</div>
+        </div>
+      </div>
+      <div style="display: flex; flex-direction: column; gap: 9px;">
+        <div style="height: 92px; background: #221F1A; border-radius: 4px;"></div>
+        <div style="display: flex; flex-direction: column; gap: 2px;">
+          <div style="font-size: 12.5px; font-weight: 600;">Ink</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 11px; color: #6A6357;">#221F1A</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10px; color: #948C7C;">$text-color</div>
+        </div>
+      </div>
+      <div style="display: flex; flex-direction: column; gap: 9px;">
+        <div style="height: 92px; background: #6A6357; border-radius: 4px;"></div>
+        <div style="display: flex; flex-direction: column; gap: 2px;">
+          <div style="font-size: 12.5px; font-weight: 600;">Ink muted</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 11px; color: #6A6357;">#6A6357</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10px; color: #948C7C;">$muted-text-color</div>
+        </div>
+      </div>
+      <div style="display: flex; flex-direction: column; gap: 9px;">
+        <div style="height: 92px; background: #1B5E57; border-radius: 4px;"></div>
+        <div style="display: flex; flex-direction: column; gap: 2px;">
+          <div style="font-size: 12.5px; font-weight: 600;">Juniper</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 11px; color: #6A6357;">#1B5E57</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10px; color: #948C7C;">$link-color / $primary</div>
+        </div>
+      </div>
+      <div style="display: flex; flex-direction: column; gap: 9px;">
+        <div style="height: 92px; background: #9C4A2F; border-radius: 4px;"></div>
+        <div style="display: flex; flex-direction: column; gap: 2px;">
+          <div style="font-size: 12.5px; font-weight: 600;">Cardinal</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 11px; color: #6A6357;">#9C4A2F</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10px; color: #948C7C;">links tier only</div>
+        </div>
+      </div>
+    </div>
+
+    <div style="margin-top: 18px; display: flex; gap: 14px; align-items: center; padding: 13px 18px; background: #F1EBDF; border-radius: 4px;">
+      <span style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 11px; color: #6A6357;">contrast</span>
+      <span style="font-size: 12.5px; color: #443F37;">Ink on Paper <strong>15.8:1</strong> &middot; Juniper on Paper <strong>6.4:1</strong> &middot; Cardinal on Paper <strong>5.9:1</strong> &mdash; all pass AA for body text.</span>
+    </div>
+
+    <div style="margin-top: 16px; padding: 16px 20px; background: #1A1815; border-radius: 4px;">
+      <div style="display: flex; align-items: center; gap: 14px; margin-bottom: 14px;">
+        <span style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10.5px; letter-spacing: 0.12em; text-transform: uppercase; color: #A39A87;">Dark counterpart</span>
+        <span style="font-size: 12.5px; color: #B7AE9B;">the same warmth after dark &mdash; walnut, not slate</span>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 14px;">
+        <div style="display: flex; flex-direction: column; gap: 7px;"><div style="height: 48px; background: #1A1815; border: 1px solid #3D372C; border-radius: 3px;"></div><div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10.5px; color: #A39A87;">#1A1815</div></div>
+        <div style="display: flex; flex-direction: column; gap: 7px;"><div style="height: 48px; background: #232019; border: 1px solid #3D372C; border-radius: 3px;"></div><div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10.5px; color: #A39A87;">#232019</div></div>
+        <div style="display: flex; flex-direction: column; gap: 7px;"><div style="height: 48px; background: #EDE7DA; border-radius: 3px;"></div><div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10.5px; color: #A39A87;">#EDE7DA</div></div>
+        <div style="display: flex; flex-direction: column; gap: 7px;"><div style="height: 48px; background: #A39A87; border-radius: 3px;"></div><div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10.5px; color: #A39A87;">#A39A87</div></div>
+        <div style="display: flex; flex-direction: column; gap: 7px;"><div style="height: 48px; background: #6FB5AA; border-radius: 3px;"></div><div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10.5px; color: #A39A87;">#6FB5AA</div></div>
+        <div style="display: flex; flex-direction: column; gap: 7px;"><div style="height: 48px; background: #D98763; border-radius: 3px;"></div><div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10.5px; color: #A39A87;">#D98763</div></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Direction B -->
+  <div>
+    <div style="display: flex; align-items: baseline; gap: 14px; padding-bottom: 14px; margin-bottom: 22px; border-bottom: 1px solid #E0D9CB;">
+      <span style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase; color: #5B4FC7;">B &mdash; Deep Field</span>
+      <span style="font-size: 13.5px; color: #6A6357;">night ground, your lavender promoted to a real accent, sodium amber alongside</span>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 16px;">
+      <div style="display: flex; flex-direction: column; gap: 9px;">
+        <div style="height: 92px; background: #14131C; border-radius: 4px;"></div>
+        <div style="display: flex; flex-direction: column; gap: 2px;">
+          <div style="font-size: 12.5px; font-weight: 600;">Void</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 11px; color: #6A6357;">#14131C</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10px; color: #948C7C;">$background-color</div>
+        </div>
+      </div>
+      <div style="display: flex; flex-direction: column; gap: 9px;">
+        <div style="height: 92px; background: #1E1C29; border-radius: 4px;"></div>
+        <div style="display: flex; flex-direction: column; gap: 2px;">
+          <div style="font-size: 12.5px; font-weight: 600;">Surface</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 11px; color: #6A6357;">#1E1C29</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10px; color: #948C7C;">cards, pull quotes</div>
+        </div>
+      </div>
+      <div style="display: flex; flex-direction: column; gap: 9px;">
+        <div style="height: 92px; background: #E9E5DD; border: 1px solid #DCD5C8; border-radius: 4px;"></div>
+        <div style="display: flex; flex-direction: column; gap: 2px;">
+          <div style="font-size: 12.5px; font-weight: 600;">Bone</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 11px; color: #6A6357;">#E9E5DD</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10px; color: #948C7C;">$text-color</div>
+        </div>
+      </div>
+      <div style="display: flex; flex-direction: column; gap: 9px;">
+        <div style="height: 92px; background: #8B8599; border-radius: 4px;"></div>
+        <div style="display: flex; flex-direction: column; gap: 2px;">
+          <div style="font-size: 12.5px; font-weight: 600;">Dusk</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 11px; color: #6A6357;">#8B8599</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10px; color: #948C7C;">$muted-text-color</div>
+        </div>
+      </div>
+      <div style="display: flex; flex-direction: column; gap: 9px;">
+        <div style="height: 92px; background: #8D8DF3; border-radius: 4px;"></div>
+        <div style="display: flex; flex-direction: column; gap: 2px;">
+          <div style="font-size: 12.5px; font-weight: 600;">Lavender</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 11px; color: #6A6357;">#8D8DF3</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10px; color: #948C7C;">yours, kept</div>
+        </div>
+      </div>
+      <div style="display: flex; flex-direction: column; gap: 9px;">
+        <div style="height: 92px; background: #E0A458; border-radius: 4px;"></div>
+        <div style="display: flex; flex-direction: column; gap: 2px;">
+          <div style="font-size: 12.5px; font-weight: 600;">Sodium</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 11px; color: #6A6357;">#E0A458</div>
+          <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10px; color: #948C7C;">links tier only</div>
+        </div>
+      </div>
+    </div>
+
+    <div style="margin-top: 18px; display: flex; gap: 14px; align-items: center; padding: 13px 18px; background: #F1EBDF; border-radius: 4px;">
+      <span style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 11px; color: #6A6357;">contrast</span>
+      <span style="font-size: 12.5px; color: #443F37;">Bone on Void <strong>14.2:1</strong> &middot; Lavender on Void <strong>7.1:1</strong> &middot; Sodium on Void <strong>8.9:1</strong> &mdash; comfortable AA, and the two accents sit at matched lightness so neither shouts.</span>
+    </div>
+
+    <div style="margin-top: 16px; padding: 16px 20px; background: #F4F3FA; border: 1px solid #D9D5EC; border-radius: 4px;">
+      <div style="display: flex; align-items: center; gap: 14px; margin-bottom: 14px;">
+        <span style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10.5px; letter-spacing: 0.12em; text-transform: uppercase; color: #635E75;">Light counterpart</span>
+        <span style="font-size: 12.5px; color: #4A4560;">stays cool &mdash; the accents darken so they hold contrast on paper</span>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 14px;">
+        <div style="display: flex; flex-direction: column; gap: 7px;"><div style="height: 48px; background: #F4F3FA; border: 1px solid #D9D5EC; border-radius: 3px;"></div><div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10.5px; color: #635E75;">#F4F3FA</div></div>
+        <div style="display: flex; flex-direction: column; gap: 7px;"><div style="height: 48px; background: #E9E7F6; border: 1px solid #D9D5EC; border-radius: 3px;"></div><div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10.5px; color: #635E75;">#E9E7F6</div></div>
+        <div style="display: flex; flex-direction: column; gap: 7px;"><div style="height: 48px; background: #1B1926; border-radius: 3px;"></div><div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10.5px; color: #635E75;">#1B1926</div></div>
+        <div style="display: flex; flex-direction: column; gap: 7px;"><div style="height: 48px; background: #635E75; border-radius: 3px;"></div><div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10.5px; color: #635E75;">#635E75</div></div>
+        <div style="display: flex; flex-direction: column; gap: 7px;"><div style="height: 48px; background: #5B4FC7; border-radius: 3px;"></div><div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10.5px; color: #635E75;">#5B4FC7</div></div>
+        <div style="display: flex; flex-direction: column; gap: 7px;"><div style="height: 48px; background: #A9701F; border-radius: 3px;"></div><div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10.5px; color: #635E75;">#A9701F</div></div>
+      </div>
+    </div>
+
+    <div style="margin-top: 16px; padding: 16px 20px; border: 1px solid #E0D9CB; border-radius: 4px;">
+      <div style="display: flex; align-items: center; gap: 14px; margin-bottom: 14px;">
+        <span style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10.5px; letter-spacing: 0.12em; text-transform: uppercase; color: #6A6357;">Pull-quote tokens</span>
+        <span style="font-size: 12.5px; color: #443F37;">the one place the accents carry a filled surface rather than a line</span>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px;">
+        <div style="display: flex; flex-direction: column; gap: 7px;"><div style="height: 48px; background: #E4E0FA; border: 1px solid #D9D5EC; border-radius: 3px;"></div><div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10.5px; color: #6A6357;">#E4E0FA<span style="color: #948C7C;"> panel, light</span></div></div>
+        <div style="display: flex; flex-direction: column; gap: 7px;"><div style="height: 48px; background: #312A7A; border-radius: 3px;"></div><div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10.5px; color: #6A6357;">#312A7A<span style="color: #948C7C;"> text, light</span></div></div>
+        <div style="display: flex; flex-direction: column; gap: 7px;"><div style="height: 48px; background: #252042; border-radius: 3px;"></div><div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10.5px; color: #6A6357;">#252042<span style="color: #948C7C;"> panel, dark</span></div></div>
+        <div style="display: flex; flex-direction: column; gap: 7px;"><div style="height: 48px; background: #CFC9FF; border-radius: 3px;"></div><div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10.5px; color: #6A6357;">#CFC9FF<span style="color: #948C7C;"> text, dark</span></div></div>
+      </div>
+    </div>
+  </div>
+
+  <div style="margin-top: 34px; padding: 18px 22px; border: 1px solid #E0D9CB; border-radius: 4px; display: flex; flex-direction: column; gap: 7px;">
+    <div style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 10.5px; letter-spacing: 0.12em; text-transform: uppercase; color: #6A6357;">The one rule shared by both</div>
+    <div style="font-size: 14.5px; line-height: 1.55; color: #443F37; max-width: 940px;">One accent carries <strong>your writing</strong>; the second carries <strong>curated links</strong>. Never mix them. That single discipline is what makes 25 roundups stop competing with 209 posts &mdash; and it replaces the three unrelated blues currently in <span style="font-family: 'IBM Plex Mono', ui-monospace, Menlo, monospace; font-size: 13px;">main.scss</span>.</div>
+  </div>
+
+</div>
+</x-dc>
+</body>
+</html>
