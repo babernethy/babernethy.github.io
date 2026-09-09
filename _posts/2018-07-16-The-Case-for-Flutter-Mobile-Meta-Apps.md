@@ -97,8 +97,8 @@ An obvious starter for a “live data” meta app is a **“chat app”** where 
 
 To complete this meta app you’ll need a remote data source that is capable of pushing data (sockets/websockets or equivalent). In the Google world, an obvious source for this data is Google’s Firebase and Cloud solutions. The “memechat” app published by Emily Fortuna.
 
-[**efortuna/memechat**  
-_memechat - playing with flutter_github.com](https://github.com/efortuna/memechat "https://github.com/efortuna/memechat")[](https://github.com/efortuna/memechat)
+[**efortuna/memechat**](https://github.com/efortuna/memechat)  
+_memechat - playing with flutter_ — github.com
 
 > **Flutter Packages**
 
@@ -152,8 +152,8 @@ One example that caught my attention this spring was the 2048 app, which started
 
 ![Image](/assets/images/1__2Zu0gEpTeHsmxba4DZRP7Q.png)
 
-[**Animation Management with Flutter and Flux/Redux**  
-_Edit description_medium.com](https://medium.com/flutter-io/animation-management-with-flutter-and-flux-redux-94729e6585fa "https://medium.com/flutter-io/animation-management-with-flutter-and-flux-redux-94729e6585fa")[](https://medium.com/flutter-io/animation-management-with-flutter-and-flux-redux-94729e6585fa)
+[**Animation Management with Flutter and Flux/Redux**](https://medium.com/flutter-io/animation-management-with-flutter-and-flux-redux-94729e6585fa)  
+_Edit description_ — medium.com
 
 One apparent deficit in the Flutter framework (compared to platform native options) is the ability to access rich and responsive 3D graphics (many times using frameworks like OpenGL). But, as I understand it, **this is by design in Flutter**. Flutter is heavily-engineered for 2D optimization using the Skia graphics engine, for very fluid and performant 2D graphics, effects, and animations. Creating high-quality 2D games is very possible in Flutter — you can control literally every pixel on every screen at a very high frame rate. But if your app is a 3D platformer game, Flutter is not designed for this purpose.
 

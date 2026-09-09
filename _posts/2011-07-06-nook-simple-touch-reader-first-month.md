@@ -10,7 +10,7 @@ redirect_from:
   - /nook-simple-touch-reader-first-month/
 ---
 
-[  ](/assets/images/nooktouch.jpg)For Father’s Day this year I got a new Nook “Simple Touch Reader” so I have had it for about a month – time for a review. I figure it was time when the “battery warning” came on yesterday and it told me I was down to 20% of capacity, so I decided to charge it up. Going for a little over a month on the original 9 hour charge is one of the best aspects of this device.
+[![Nook Simple Touch Reader](/assets/images/nooktouch.jpg)](/assets/images/nooktouch.jpg)For Father’s Day this year I got a new Nook “Simple Touch Reader” so I have had it for about a month – time for a review. I figure it was time when the “battery warning” came on yesterday and it told me I was down to 20% of capacity, so I decided to charge it up. Going for a little over a month on the original 9 hour charge is one of the best aspects of this device.
 
 Getting right to the point, I am very happy with the overall performance and features of the Nook – the size, screen, user experience, format, battery life, price and storage capacity create a great package for casual and serious reading.
 

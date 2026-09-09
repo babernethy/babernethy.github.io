@@ -58,15 +58,15 @@ This gets the core libraries of snap installed for our use.
 
 > sudo snap flutter — classic
 
-[**Install Flutter on Linux | Snap Store**  
-_Get the latest version of Flutter for Linux - Flutter SDK_snapcraft.io](https://snapcraft.io/flutter "https://snapcraft.io/flutter")[](https://snapcraft.io/flutter)
+[**Install Flutter on Linux | Snap Store**](https://snapcraft.io/flutter)  
+_Get the latest version of Flutter for Linux - Flutter SDK_ — snapcraft.io
 
 This is a snap for Flutter on Linux which includes some of the glue needed to make things work in this environment. I am all for shortcuts created by the team.
 
 > sudo apt install code
 
-[**Running Visual Studio Code on Linux**  
-_See the Download Visual Studio Code page for a complete list of available installation options. By downloading and…_code.visualstudio.com](https://code.visualstudio.com/docs/setup/linux "https://code.visualstudio.com/docs/setup/linux")[](https://code.visualstudio.com/docs/setup/linux)
+[**Running Visual Studio Code on Linux**](https://code.visualstudio.com/docs/setup/linux)  
+_See the Download Visual Studio Code page for a complete list of available installation options. By downloading and…_ — code.visualstudio.com
 
 VS Code is a favorite IDE for Flutter (and other coding). Will be an app on Raspberry Pi UI menu (or just type “code”)
 

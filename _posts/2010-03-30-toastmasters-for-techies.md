@@ -10,7 +10,7 @@ redirect_from:
   - /toastmasters-for-techies/
 ---
 
-[  ](/assets/images/Toastmasters.png)About a month ago I started attending a new group forming now in Grand Rapids called “ *Toastmasters for Techies* (link is no longer active)”. I had heard of “Toastmasters” many times in the past as a group that had been around for a long long time to help people get better at speaking in public. Today in 2010, Toastmasters has served over four million people and is growing all the time – case in point being this “Toastmasters for Techies” group.
+[![Toastmasters for Techies](/assets/images/Toastmasters_thumb.png)](/assets/images/Toastmasters.png)About a month ago I started attending a new group forming now in Grand Rapids called “ *Toastmasters for Techies* (link is no longer active)”. I had heard of “Toastmasters” many times in the past as a group that had been around for a long long time to help people get better at speaking in public. Today in 2010, Toastmasters has served over four million people and is growing all the time – case in point being this “Toastmasters for Techies” group.
 
 What drew me to this group was that is was:
 

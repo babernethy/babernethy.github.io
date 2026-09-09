@@ -19,7 +19,7 @@ The first thing you will notice about the islands is how (relatively) few people
 
 [![image](/assets/images/image_thumb_1.png)](/assets/images/image_4.png)So why is this place so great? Let’s start with the obvious – it’s the *\#2 rated beach in the country* (link is no longer active) (and stands up to that rating). I’ve been to Coco Beach, Daytona Beach, Hilton Head Island, Clearwater Beach, Grand Haven, Sleeping Bear Dunes, and a few others and I can say that Caladesi Island is the nicest beach I have ever been to, by a significant margin.
 
-[](/assets/images/image_6.png)[![image](/assets/images/image_thumb_4.png)](/assets/images/image_10.png)Next, since it is a State Park they have done a lot to not only protect wildlife, but also guide you to see it.
+[![image](/assets/images/image_thumb_4.png)](/assets/images/image_10.png)Next, since it is a State Park they have done a lot to not only protect wildlife, but also guide you to see it.
 
 At the entry of Honeymoon Island there is a nature center / ranger station. There they had a huge deck with a bunch of spotting scopes where we could see herons, egrets, owls, hawks, tortoise and a bunch of other wildlife (even a Nine Branded Armadillo).
 
