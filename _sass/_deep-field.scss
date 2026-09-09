@@ -1,0 +1,1312 @@
+/* ==========================================================================
+   Deep Field
+   Token layer, dark rendering, and the components the redesign adds.
+   Imported AFTER the theme, so equal-specificity rules land on top.
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   Tokens
+
+   Six roles carry the identity. Light is the base; the dark block redefines
+   the same six. Nothing else in this file hardcodes a colour.
+   -------------------------------------------------------------------------- */
+
+:root {
+  color-scheme: light dark;
+
+  --df-ground      : #f4f3fa;
+  --df-ground-tint : #efedfa;
+  --df-surface     : #e9e7f6;
+  --df-text        : #1b1926;
+  --df-text-dim    : #635e75;
+  --df-rule        : #d9d5ec;
+  --df-accent      : #5b4fc7;
+  --df-accent-2    : #8f5c14; /* links tier, never used for his own writing.
+                                 #a9701f was only 3.79:1 here — an AA failure. */
+  --df-nav         : #4a4560; /* masthead links: chrome, but interactive, so it
+                                 gets its own token rather than the dim grey */
+
+  --df-quote-bg    : #e4e0fa;
+  --df-quote-text  : #312a7a;
+  --df-quote-mark  : #a06316;
+
+  --df-measure     : 62ch;   /* ~700px at 20px Literata */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --df-ground      : #14131c;
+    --df-ground-tint : #191826;
+    --df-surface     : #1e1c29;
+    --df-text        : #e9e5dd;
+    --df-text-dim    : #8b8599;
+    --df-rule        : #2e2b3d;
+    --df-accent      : #8d8df3;
+    --df-accent-2    : #e0a458;
+    --df-nav         : #a9a3b8; /* 7.56:1 — the dim grey was 5.19:1 and read
+                                   as disabled rather than merely secondary */
+
+    --df-quote-bg    : #252042;
+    --df-quote-text  : #cfc9ff;
+    --df-quote-mark  : #e0a458;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Ground
+   -------------------------------------------------------------------------- */
+
+html,
+body {
+  background-color: var(--df-ground);
+}
+
+body {
+  color: var(--df-text);
+}
+
+/* --------------------------------------------------------------------------
+   Masthead
+
+   The stock nav underlines every link because the old main.scss put a
+   border-bottom on every `a`. Underlines belong in prose, not in navigation.
+   -------------------------------------------------------------------------- */
+
+.masthead {
+  background-color: var(--df-ground);
+  border-bottom: 1px solid var(--df-rule);
+}
+
+.site-title,
+.site-title:visited {
+  font-family: "Instrument Serif", "Times New Roman", Georgia, serif;
+  font-weight: 400;
+  font-size: 1.4em;
+  letter-spacing: 0.005em;
+  color: var(--df-text);
+  border-bottom: 0;
+}
+
+.site-subtitle {
+  font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+  font-size: 0.72em;
+  color: var(--df-text-dim);
+}
+
+.greedy-nav {
+  background: transparent;
+
+  a {
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-size: 0.78em;
+    letter-spacing: 0.02em;
+    color: var(--df-nav);
+    border-bottom: 0;
+
+    &:hover,
+    &:focus-visible {
+      color: var(--df-text);
+    }
+  }
+
+  .visible-links a::before {
+    background: var(--df-accent);
+  }
+
+  button {
+    background-color: var(--df-ground);
+  }
+
+  .hidden-links {
+    background: var(--df-surface);
+    border: 1px solid var(--df-rule);
+
+    a {
+      color: var(--df-nav);
+    }
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Links
+
+   Prose links carry the underline. Everything else does not.
+   -------------------------------------------------------------------------- */
+
+a {
+  color: var(--df-accent);
+  text-decoration: none;
+  border-bottom: 0;
+
+  &:visited {
+    color: var(--df-accent);
+  }
+
+  &:hover {
+    color: var(--df-accent-2);
+  }
+}
+
+.page__content {
+  p, li, dd {
+    > a {
+      border-bottom: 1px solid var(--df-rule);
+
+      &:hover {
+        border-bottom-color: var(--df-accent-2);
+      }
+    }
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Reading column
+   -------------------------------------------------------------------------- */
+
+.page__content {
+  color: var(--df-text);
+
+  /* The theme scales the root from 16px to 22px across breakpoints, so an em
+     value here compounds (1.25em landed at 27.5px). Prose is pinned instead —
+     20px is the design size and reads well on a phone too. */
+  p, li, dd {
+    font-size: 20px;
+    line-height: 1.72;
+  }
+
+  p {
+    max-width: var(--df-measure);
+    text-wrap: pretty;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Instrument Serif", "Times New Roman", Georgia, serif;
+    font-weight: 400;
+    color: var(--df-text);
+    letter-spacing: -0.006em;
+    text-wrap: balance;
+  }
+
+  /* Posts are inconsistent about whether section heads are ## or ###
+     (Seven Stages uses ###, Dark-eyed Junco uses ##), so both need to read
+     as a section head rather than one being visibly demoted. */
+  h2 { font-size: 38px; line-height: 1.16; margin-top: 1.5em; }
+  h3 { font-size: 32px; line-height: 1.18; margin-top: 1.4em; }
+  h4 { font-size: 25px; line-height: 1.25; }
+
+  @media (max-width: 37.5em) {
+    h2 { font-size: 31px; }
+    h3 { font-size: 27px; }
+    h4 { font-size: 22px; }
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Pull quotes — the "tinted panel" treatment
+
+   A bare `>` blockquote is quoted MATERIAL (Bruce uses these for LLM prompt
+   examples in the OWASP and MCP posts, where a decorative quote mark would be
+   wrong). `.pull-quote` is the editorial device.
+   -------------------------------------------------------------------------- */
+
+.page__content blockquote {
+  margin: 1.6em 0;
+  padding: 0.9em 1.2em;
+  background-color: var(--df-surface);
+  border-left: 3px solid var(--df-rule);
+  color: var(--df-text);
+  font-style: normal;
+
+  p {
+    font-size: 18px;
+    line-height: 1.62;
+    max-width: none;
+  }
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+.page__content blockquote.pull-quote {
+  position: relative;
+  margin: 2em 0;
+  padding: 1.5em 1.7em 1.5em 3.9em;
+  background-color: var(--df-quote-bg);
+  border-left: 3px solid var(--df-quote-mark);
+  border-radius: 3px;
+
+  &::before {
+    content: "\201C";
+    position: absolute;
+    left: 0.42em;
+    top: 0.16em;
+    font-family: "Instrument Serif", "Times New Roman", Georgia, serif;
+    font-size: 3.4em;
+    line-height: 1;
+    color: var(--df-quote-mark);
+  }
+
+  p {
+    font-family: "Instrument Serif", "Times New Roman", Georgia, serif;
+    font-size: 29px;
+    line-height: 1.32;
+    color: var(--df-quote-text);
+    max-width: none;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Code
+   -------------------------------------------------------------------------- */
+
+.page__content {
+  code, kbd, samp, pre {
+    font-family: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+  }
+
+  code:not(.highlight code) {
+    background-color: var(--df-surface);
+    color: var(--df-text);
+  }
+
+  pre, .highlight, .highlighter-rouge {
+    background-color: var(--df-surface);
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Post meta
+   -------------------------------------------------------------------------- */
+
+.page__meta,
+.page__date,
+.page__taxonomy,
+.archive__item-excerpt {
+  color: var(--df-text-dim);
+}
+
+.page__meta {
+  font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+  font-size: 0.72em;
+  letter-spacing: 0.02em;
+}
+
+.page__title {
+  font-family: "Instrument Serif", "Times New Roman", Georgia, serif;
+  font-weight: 400;
+  line-height: 1.05;
+  letter-spacing: -0.012em;
+  text-wrap: balance;
+}
+
+.page__lead,
+.page__hero .page__lead {
+  color: var(--df-text-dim);
+}
+
+/* --------------------------------------------------------------------------
+   Table of contents — a rail, not a dark box
+   -------------------------------------------------------------------------- */
+
+.toc {
+  background-color: transparent;
+  box-shadow: none;
+  border: 0;
+
+  .nav__title {
+    background-color: transparent;
+    color: var(--df-text-dim);
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-size: 0.66em;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    border-bottom: 1px solid var(--df-rule);
+    border-radius: 0;
+  }
+
+  .toc__menu {
+    a {
+      font-family: Literata, Georgia, serif;
+      font-size: 0.8em;
+      color: var(--df-text-dim);
+      border-bottom: 0;
+      border-left: 2px solid transparent;
+
+      &:hover {
+        background: transparent;
+        color: var(--df-text);
+      }
+    }
+
+    li.active > a,
+    a.active {
+      background: transparent;
+      color: var(--df-accent);
+      border-left-color: var(--df-accent);
+    }
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Sidebar, footer, rules
+   -------------------------------------------------------------------------- */
+
+.sidebar,
+.author__urls-wrapper .author__urls {
+  background-color: transparent;
+  color: var(--df-text-dim);
+}
+
+.author__name  { color: var(--df-text); }
+.author__bio,
+.author__urls a { color: var(--df-text-dim); }
+.author__urls a:hover { color: var(--df-accent); }
+
+.page__footer {
+  background-color: var(--df-ground-tint);
+  color: var(--df-text-dim);
+  border-top: 1px solid var(--df-rule);
+
+  a { color: var(--df-text-dim); }
+  a:hover { color: var(--df-accent); }
+}
+
+hr,
+.page__hero--overlay + .page__content,
+.archive__item + .archive__item {
+  border-color: var(--df-rule);
+}
+
+/* --------------------------------------------------------------------------
+   Two tiers: his own writing vs curated link roundups
+
+   The links category carries the second accent, everywhere and only there.
+   -------------------------------------------------------------------------- */
+
+.archive__item-title a {
+  font-family: "Instrument Serif", "Times New Roman", Georgia, serif;
+  font-weight: 400;
+  color: var(--df-text);
+  border-bottom: 0;
+
+  &:hover { color: var(--df-accent); }
+}
+
+.link-content {
+  gap: 1.2em;
+  padding: 1.1em 0;
+  border-bottom: 1px solid var(--df-rule);
+}
+
+.link-image {
+  margin: 0;
+  border: 1px solid var(--df-rule);
+}
+
+.link-text a {
+  font-family: "Instrument Serif", "Times New Roman", Georgia, serif;
+  font-size: 1.5em;
+  line-height: 1.2;
+  color: var(--df-text);
+  border-bottom: 0;
+
+  &:hover { color: var(--df-accent); }
+}
+
+.taxonomy__section .archive__subtitle,
+.taxonomy__index {
+  color: var(--df-text-dim);
+  border-color: var(--df-rule);
+}
+
+.archive__subtitle {
+  font-family: "Instrument Serif", "Times New Roman", Georgia, serif;
+  font-weight: 400;
+  color: var(--df-text-dim);
+  border-bottom: 1px solid var(--df-rule);
+}
+
+/* --------------------------------------------------------------------------
+   The mark
+
+   cropped-square_icon-1.png is already a pure-black alpha silhouette — 34%
+   ink, 62% fully transparent — so it does not need redrawing. Masking it and
+   painting the mask with a token lets the same single file render in any
+   colour, and it follows light/dark for free. The `--df-mark` url is set
+   inline by _includes/masthead.html so the path stays Jekyll's to resolve.
+   -------------------------------------------------------------------------- */
+
+.site-logo-mark {
+  display: inline-block;
+  width: 2rem;
+  height: 2rem;
+  vertical-align: middle;
+  background-color: var(--df-text);
+  -webkit-mask: var(--df-mark) center / contain no-repeat;
+  mask: var(--df-mark) center / contain no-repeat;
+}
+
+/* Photographs need a matte on a dark ground or they float as bright holes. */
+.author__avatar img {
+  border: 1px solid var(--df-rule);
+  padding: 3px;
+  background-color: var(--df-surface);
+}
+
+/* Post images are 19 years of screenshots and diagrams drawn for a white page.
+   Of 416 referenced images only 4 carry real transparency, but the opaque ones
+   are mostly white-backed — so on the dark ground they either glow as bright
+   holes or, where transparent, their dark ink sinks into the background.
+   Matting them all on a light plate fixes both at once and reads as a print
+   mount rather than an accident. */
+.page__content img:not(.emoji) {
+  border: 1px solid var(--df-rule);
+  border-radius: 3px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .page__content img:not(.emoji) {
+    background-color: #f4f3fa;
+    padding: 6px;
+    border-color: #2e2b3d;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Byline and eyebrow
+
+   The author sidebar is off for posts (_config.yml), so this row carries the
+   attribution instead — and buys the prose the whole width the sidebar used
+   to occupy.
+   -------------------------------------------------------------------------- */
+
+.df-eyebrow {
+  display: flex;
+  align-items: center;
+  gap: 0.7em;
+  margin: 0 0 0.9em;
+  font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+  font-size: 12px;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--df-text-dim);
+
+  &__kind { color: var(--df-accent); }
+  &__sep  { color: var(--df-rule); }
+  &__note { text-transform: none; letter-spacing: 0.02em; }
+
+  &__cat {
+    color: var(--df-text-dim);
+    border-bottom: 0;
+    &:hover { color: var(--df-accent); }
+  }
+}
+
+/* A curated roundup is a different class of thing, and says so. */
+.df-eyebrow--links .df-eyebrow__kind { color: var(--df-accent-2); }
+
+.df-byline {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.8em;
+  margin: 1.6em 0 0;
+  padding: 0.85em 0;
+  border-top: 1px solid var(--df-rule);
+  border-bottom: 1px solid var(--df-rule);
+  font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+  font-size: 12.5px;
+  color: var(--df-text-dim);
+
+  &__avatar {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    border: 1px solid var(--df-rule);
+    background-color: var(--df-surface);
+    padding: 0;
+  }
+
+  &__name { color: var(--df-text); font-weight: 500; }
+
+  &__sep {
+    width: 3px;
+    height: 3px;
+    border-radius: 50%;
+    background-color: var(--df-rule);
+  }
+
+  &__place { margin-left: auto; }
+
+  @media (max-width: 37.5em) {
+    &__place { margin-left: 0; }
+  }
+}
+
+/* Compact meta on archive teasers. */
+.df-meta {
+  font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+  font-size: 11.5px;
+  letter-spacing: 0.04em;
+  color: var(--df-text-dim);
+
+  &__sep { margin: 0 0.5em; color: var(--df-rule); }
+  &__cat { text-transform: uppercase; letter-spacing: 0.08em; }
+}
+
+.df-meta--links .df-meta__cat { color: var(--df-accent-2); }
+
+/* With the sidebar gone the content column is free to breathe. */
+.page__content > p,
+.page__content > ul,
+.page__content > ol,
+.page__content > blockquote {
+  margin-left: 0;
+}
+
+/* --------------------------------------------------------------------------
+   Reclaiming the sidebar column
+
+   author_profile is off for posts, so the theme still emits an empty .sidebar
+   that would otherwise hold its width. Collapse it and give the space back to
+   the reading column.
+   -------------------------------------------------------------------------- */
+
+/* With author_profile off the theme emits no .sidebar at all, but .page keeps
+   the width it was given to sit beside one — so the vacated column stays as
+   dead space. Give it back only on pages that genuinely have no sidebar. */
+#main:not(:has(> .sidebar)) {
+  > .page,
+  > .archive {
+    @media (min-width: 64em) {
+      width: 100%;
+    }
+  }
+}
+
+/* The theme reserves a right gutter for the table of contents. Archive and
+   taxonomy pages have no TOC, so that gutter is dead space too. */
+.archive:not(:has(.sidebar__right)) {
+  @media (min-width: 64em) {
+    padding-right: 0;
+  }
+}
+
+/* Then hold the prose to one measure, so headings, images and quotes align to
+   the same edge as the paragraphs rather than running the full column. */
+.page__content {
+  max-width: 740px;
+}
+
+.page__content > p {
+  max-width: none;
+}
+
+/* --------------------------------------------------------------------------
+   Year archive
+   -------------------------------------------------------------------------- */
+
+.df-yearjump {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  padding: 0 0 1.6em;
+  margin: 0 0 2em;
+  border-bottom: 1px solid var(--df-rule);
+  list-style: none;
+
+  li { margin: 0; }
+
+  a {
+    display: inline-block;
+    padding: 0.35em 0.8em;
+    border: 1px solid var(--df-rule);
+    border-radius: 3px;
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-size: 12.5px;
+    color: var(--df-text-dim);
+
+    &:hover {
+      color: var(--df-text);
+      border-color: var(--df-accent);
+    }
+
+    strong { font-weight: 500; }
+  }
+
+  .taxonomy__count { color: var(--df-rule); }
+}
+
+.df-year {
+  margin-bottom: 3em;
+
+  .archive__subtitle {
+    font-family: "Instrument Serif", "Times New Roman", Georgia, serif;
+    font-size: 40px;
+    font-weight: 400;
+    color: var(--df-text-dim);
+    margin: 0 0 0.4em;
+    padding-bottom: 0.2em;
+  }
+}
+
+.df-entry {
+  display: flex;
+  align-items: baseline;
+  gap: 1.4em;
+  padding: 0.75em 0;
+  border-bottom: 1px solid var(--df-rule);
+
+  &__date {
+    flex-shrink: 0;
+    width: 3.4em;
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-size: 12.5px;
+    color: var(--df-text-dim);
+  }
+
+  &__title {
+    flex-grow: 1;
+    font-family: "Instrument Serif", "Times New Roman", Georgia, serif;
+    font-size: 25px;
+    line-height: 1.25;
+    color: var(--df-text);
+    border-bottom: 0;
+
+    &:hover { color: var(--df-accent); }
+  }
+
+  &__cat {
+    flex-shrink: 0;
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-size: 10.5px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--df-text-dim);
+  }
+
+  &--link &__title { font-size: 20px; color: var(--df-text-dim); }
+  &--link &__title:hover { color: var(--df-accent-2); }
+
+  @media (max-width: 37.5em) {
+    flex-wrap: wrap;
+    gap: 0.4em 1em;
+    &__title { flex-basis: 100%; font-size: 21px; }
+  }
+}
+
+/* The 25 roundups fold into one row per year rather than swamping the writing. */
+.df-roundups {
+  margin-top: 1.2em;
+  border: 1px solid var(--df-rule);
+  border-radius: 4px;
+  background-color: var(--df-ground-tint);
+
+  &__summary {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    padding: 0.85em 1.1em;
+    cursor: pointer;
+    list-style: none;
+
+    &::-webkit-details-marker { display: none; }
+
+    &::after {
+      content: "";
+      margin-left: auto;
+      width: 0.5em;
+      height: 0.5em;
+      border-right: 1.5px solid var(--df-accent-2);
+      border-bottom: 1.5px solid var(--df-accent-2);
+      transform: rotate(-45deg);
+      transition: transform 0.15s ease;
+    }
+  }
+
+  &[open] &__summary::after { transform: rotate(45deg); }
+
+  &__kind {
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--df-accent-2);
+  }
+
+  &__count { color: var(--df-text-dim); font-size: 17px; }
+
+  &__list {
+    padding: 0 1.1em 0.6em;
+    border-top: 1px solid var(--df-rule);
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Topics
+   -------------------------------------------------------------------------- */
+
+.df-topics__rule {
+  font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+  font-size: 11.5px;
+  letter-spacing: 0.04em;
+  color: var(--df-text-dim);
+  margin: 0 0 1.6em;
+}
+
+.df-topics {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.1em;
+
+  @media (max-width: 64em)   { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  @media (max-width: 37.5em) { grid-template-columns: 1fr; }
+}
+
+.df-topic {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55em;
+  padding: 1.2em 1.3em;
+  background-color: var(--df-ground-tint);
+  border: 1px solid var(--df-rule);
+  border-radius: 4px;
+  border-bottom: 1px solid var(--df-rule);
+  color: var(--df-text);
+
+  &:hover {
+    border-color: var(--df-accent);
+    color: var(--df-text);
+  }
+
+  &__head { display: flex; align-items: baseline; gap: 0.6em; }
+
+  &__name {
+    font-family: "Instrument Serif", "Times New Roman", Georgia, serif;
+    font-size: 27px;
+    line-height: 1.1;
+  }
+
+  &__count {
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-size: 12px;
+    color: var(--df-text-dim);
+  }
+
+  &__desc {
+    font-size: 15px;
+    line-height: 1.5;
+    color: var(--df-text-dim);
+  }
+}
+
+.df-topic--links .df-topic__name { color: var(--df-accent-2); }
+
+.df-tags {
+  margin-top: 2.8em;
+
+  &__title {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.9em;
+    padding-bottom: 0.9em;
+    border-bottom: 1px solid var(--df-rule);
+    margin: 0 0 1.2em;
+  }
+
+  &__label {
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-size: 11.5px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--df-accent);
+  }
+
+  &__note {
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-size: 11.5px;
+    color: var(--df-text-dim);
+    text-transform: none;
+    letter-spacing: 0;
+  }
+
+  &__list { display: flex; flex-wrap: wrap; gap: 0.55em; }
+}
+
+.df-tag {
+  padding: 0.4em 0.75em;
+  background-color: var(--df-surface);
+  border-radius: 3px;
+  font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+  font-size: 12.5px;
+  color: var(--df-text);
+  border-bottom: 0;
+
+  &:hover { color: var(--df-accent); }
+  &__count { color: var(--df-text-dim); }
+}
+
+.df-topics__why {
+  margin-top: 2.6em;
+  padding: 1.1em 1.3em;
+  background-color: var(--df-ground-tint);
+  border: 1px solid var(--df-rule);
+  border-radius: 4px;
+
+  p { font-size: 15px !important; line-height: 1.6; color: var(--df-text-dim); margin: 0; max-width: none; }
+
+  &-label {
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-size: 10.5px !important;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin-bottom: 0.5em !important;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Post header — eyebrow, title, lead, byline
+   -------------------------------------------------------------------------- */
+
+.df-head {
+  max-width: 740px;
+  margin-bottom: 2.2em;
+
+  .page__title {
+    font-size: 62px;
+    line-height: 1.04;
+    margin: 0.1em 0 0;
+
+    a {
+      color: var(--df-text);
+      border-bottom: 0;
+      &:hover { color: var(--df-text); }
+    }
+  }
+
+  @media (max-width: 64em)   { .page__title { font-size: 50px; } }
+  @media (max-width: 37.5em) { .page__title { font-size: 36px; } }
+}
+
+.df-lead {
+  margin: 0.7em 0 0;
+  font-size: 21px;
+  line-height: 1.56;
+  color: var(--df-text-dim);
+  max-width: 34em;
+  text-wrap: pretty;
+}
+
+@media (max-width: 37.5em) {
+  .df-lead { font-size: 18px; }
+}
+
+/* Archive and taxonomy pages use the same display title as posts. */
+.archive .page__title,
+.page__title {
+  font-family: "Instrument Serif", "Times New Roman", Georgia, serif;
+  font-weight: 400;
+}
+
+.archive > .page__title {
+  font-size: 52px;
+  line-height: 1.06;
+  margin-bottom: 0.5em;
+
+  @media (max-width: 37.5em) { font-size: 34px; }
+}
+
+/* The intro paragraph on an archive page is a lead, not body copy. */
+.archive > p:first-of-type {
+  font-size: 20px;
+  line-height: 1.6;
+  color: var(--df-text-dim);
+  max-width: 34em;
+}
+
+/* --------------------------------------------------------------------------
+   Orbital field
+
+   Takes its colour from the tokens, so it is one asset in both renderings.
+   Sits between ground and text in value, which is the register the dark
+   palette was otherwise missing entirely.
+   -------------------------------------------------------------------------- */
+
+.df-orbital {
+  &__rings  { stroke: var(--df-accent);   stroke-width: 1; fill: none; }
+  &__paths  { stroke: var(--df-accent-2); stroke-width: 1; fill: none; }
+  &__nodes  { fill: var(--df-accent); }
+}
+
+/* --------------------------------------------------------------------------
+   Home hero
+   -------------------------------------------------------------------------- */
+
+.df-hero {
+  position: relative;
+  overflow: hidden;
+  padding: 3.4em 0 3em;
+  margin-bottom: 2.6em;
+  border-bottom: 1px solid var(--df-rule);
+
+  > .df-orbital {
+    position: absolute;
+    right: -7%;
+    top: -46%;
+    width: 34em;
+    height: 34em;
+    opacity: 0.55;
+    pointer-events: none;
+  }
+
+  &__inner { position: relative; max-width: 44ch; }
+
+  &__statement {
+    font-family: "Instrument Serif", "Times New Roman", Georgia, serif;
+    font-size: 46px;
+    line-height: 1.16;
+    color: var(--df-text);
+    margin: 0;
+    text-wrap: pretty;
+  }
+
+  &__meta {
+    margin: 1.1em 0 0;
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-size: 12px;
+    color: var(--df-text-dim);
+  }
+
+  &__sep { margin: 0 0.6em; color: var(--df-rule); }
+
+  @media (max-width: 64em) {
+    &__statement { font-size: 36px; }
+    > .df-orbital { opacity: 0.4; }
+  }
+  @media (max-width: 37.5em) {
+    &__statement { font-size: 28px; }
+    > .df-orbital { display: none; }
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Lead card — the one genuinely light, genuinely large element on the page
+   -------------------------------------------------------------------------- */
+
+.df-lead-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr);
+  gap: 2em;
+  align-items: center;
+  padding: 1.6em;
+  margin-bottom: 3em;
+  background-color: var(--df-ground-tint);
+  border: 1px solid var(--df-rule);
+  border-radius: 5px;
+  color: var(--df-text);
+
+  &:hover { border-color: var(--df-accent); color: var(--df-text); }
+
+  &__image {
+    display: block;
+    border-radius: 4px;
+    overflow: hidden;
+    background-color: #f4f3fa;
+    line-height: 0;
+
+    img { width: 100%; height: 100%; object-fit: cover; aspect-ratio: 16 / 10; border: 0; border-radius: 0; padding: 0; }
+  }
+
+  &__body { display: flex; flex-direction: column; gap: 0.6em; }
+
+  &__eyebrow {
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--df-accent);
+  }
+
+  &__title {
+    font-family: "Instrument Serif", "Times New Roman", Georgia, serif;
+    font-size: 40px;
+    line-height: 1.12;
+  }
+
+  &__excerpt { font-size: 17px; line-height: 1.55; color: var(--df-text-dim); }
+
+  &--no-image { grid-template-columns: 1fr; }
+
+  @media (max-width: 64em) {
+    grid-template-columns: 1fr;
+    &__title { font-size: 32px; }
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Following notes
+   -------------------------------------------------------------------------- */
+
+.df-more {
+  margin-bottom: 3em;
+
+  &__title {
+    display: flex;
+    align-items: baseline;
+    gap: 0.9em;
+    padding-bottom: 0.9em;
+    margin: 0 0 1.4em;
+    border-bottom: 1px solid var(--df-rule);
+  }
+
+  &__label {
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-size: 11.5px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--df-accent);
+  }
+
+  &__list {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.2em;
+
+    @media (max-width: 48em) { grid-template-columns: 1fr; }
+  }
+
+  &__all {
+    display: inline-block;
+    margin-top: 1.4em;
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-size: 12.5px;
+    color: var(--df-accent);
+    border-bottom: 0;
+  }
+}
+
+.df-card {
+  display: grid;
+  grid-template-columns: 116px minmax(0, 1fr);
+  gap: 1.1em;
+  padding: 1em;
+  background-color: var(--df-ground-tint);
+  border: 1px solid var(--df-rule);
+  border-radius: 4px;
+  color: var(--df-text);
+
+  &:hover { border-color: var(--df-accent); color: var(--df-text); }
+
+  &__thumb {
+    display: block;
+    width: 116px;
+    height: 88px;
+    border-radius: 3px;
+    overflow: hidden;
+    background-color: var(--df-surface);
+    line-height: 0;
+
+    img { width: 100%; height: 100%; object-fit: cover; border: 0; border-radius: 0; padding: 0; background-color: #f4f3fa; }
+
+    /* No teaser? The orbital stands in, so the row still has a mid-value mark
+       rather than a hole. 204 of 234 posts have no teaser image. */
+    .df-orbital { width: 100%; height: 100%; opacity: 0.5; }
+  }
+
+  &__body { display: flex; flex-direction: column; gap: 0.35em; min-width: 0; }
+
+  &__meta {
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-size: 11px;
+    color: var(--df-text-dim);
+  }
+
+  &__title {
+    font-family: "Instrument Serif", "Times New Roman", Georgia, serif;
+    font-size: 23px;
+    line-height: 1.16;
+  }
+
+  &__excerpt { font-size: 14.5px; line-height: 1.5; color: var(--df-text-dim); }
+}
+
+/* --------------------------------------------------------------------------
+   Links strip — the second tier, in the second accent
+   -------------------------------------------------------------------------- */
+
+.df-linkstrip {
+  padding: 1.6em 1.8em;
+  margin-bottom: 2.5em;
+  background-color: var(--df-surface);
+  border: 1px solid var(--df-rule);
+  border-radius: 5px;
+
+  &__title {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.9em;
+    margin: 0 0 1.2em;
+  }
+
+  &__label {
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-size: 11.5px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--df-accent-2);
+  }
+
+  &__note,
+  &__all {
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-size: 11.5px;
+    color: var(--df-text-dim);
+    text-transform: none;
+    letter-spacing: 0;
+  }
+
+  &__all { margin-left: auto; color: var(--df-accent-2); border-bottom: 0; }
+
+  &__list {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1em;
+
+    @media (max-width: 48em) { grid-template-columns: 1fr; }
+  }
+}
+
+.df-linkcard {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+  padding: 0.9em 1em;
+  background-color: var(--df-ground);
+  border-radius: 3px;
+  color: var(--df-text-dim);
+
+  &:hover { color: var(--df-text); }
+
+  &__date {
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-size: 11px;
+    color: var(--df-accent-2);
+  }
+
+  &__title { font-size: 15px; line-height: 1.4; }
+}
+
+/* ==========================================================================
+   Texture
+
+   Two very quiet layers under everything: a fixed orbital field, and a grain
+   that keeps large flat areas from reading as dead ink. Both are decoration —
+   inert to pointers, hidden from assistive tech, and dropped for print.
+
+   The intensity here is deliberately low. The point is that you should not
+   notice it directly; you should only notice that the page stopped looking
+   flat. Raise --df-field-opacity / --df-grain-opacity to taste.
+   ========================================================================== */
+
+:root {
+  --df-field-opacity: 0.16;
+  --df-grain-opacity: 0.035;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --df-field-opacity: 0.2;
+    --df-grain-opacity: 0.045;
+  }
+}
+
+/* The fixed orbital field ---------------------------------------------------
+   Anchored top-right so it mostly occupies margin rather than measure. */
+.df-field {
+  position: fixed;
+  top: -18vh;
+  right: -14vw;
+  width: 78vw;
+  max-width: 1100px;
+  aspect-ratio: 1;
+  z-index: 0;
+  pointer-events: none;
+  opacity: var(--df-field-opacity);
+
+  .df-orbital { width: 100%; height: 100%; }
+
+  @media (max-width: 48em) {
+    top: -8vh;
+    right: -40vw;
+    width: 130vw;
+  }
+}
+
+/* Grain ---------------------------------------------------------------------
+   feTurbulence rendered inline, so it costs one small data URI and no request.
+   Alpha noise reads the same over a light or a dark ground. */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  opacity: var(--df-grain-opacity);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.82' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* Content sits above both layers. */
+.initial-content,
+.masthead,
+.page__footer,
+.search-content {
+  position: relative;
+  z-index: 1;
+}
+
+/* Panels need their own ground so the field does not show through text. */
+.df-lead-card,
+.df-card,
+.df-linkstrip,
+.df-topic,
+.df-roundups,
+.df-topics__why,
+.page__content blockquote {
+  position: relative;
+  z-index: 1;
+}
+
+@media print {
+  .df-field,
+  body::before { display: none !important; }
+}
+
+/* A section mark. Quietly repeats the motif at structural boundaries rather
+   than only at the top of the site. */
+.df-year .archive__subtitle,
+.df-more__title,
+.df-linkstrip__title,
+.df-tags__title {
+  position: relative;
+}
+
+.page__footer {
+  position: relative;
+  overflow: hidden;
+
+  &::after {
+    content: "";
+    position: absolute;
+    right: -60px;
+    bottom: -140px;
+    width: 320px;
+    height: 320px;
+    border-radius: 50%;
+    border: 1px solid var(--df-accent);
+    opacity: 0.16;
+    pointer-events: none;
+  }
+}

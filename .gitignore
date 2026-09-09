@@ -8,3 +8,7 @@ vendor/
 **/.DS_Store
 **/Thumbs.db
 # Ignore the build folder
+
+# Design canvas build output (regenerable; sources in _design/*.dc.html)
+_design/*.html
+!_design/*.dc.html

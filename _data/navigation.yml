@@ -1,18 +1,9 @@
 main:
   - title: "Popular"
-    url: /popular.html
-  - title: "Posts"
+    url: /popular
+  - title: "Archive"
     url: /year-archive/
   - title: "Links"
-    url: /categories/links
-  - title: "Categories"
-    url: /categories
-  - title: "Tags"
-    url: /tags/
-  # - title: "Pages"
-  #   url: /page-archive/
-  # - title: "Collections"
-  #   url: /collection-archive/
-  # - title: "External Link"
-  #   url: https://google.com
-  #   target: _blank
+    url: /categories/links/
+  - title: "Topics"
+    url: /topics/

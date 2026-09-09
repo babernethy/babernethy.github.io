@@ -5,53 +5,71 @@ search: false
 
 @charset "utf-8";
 
-// $link-color: red;
-$info-color                 : #03a9f4 !default;
-$link-color: mix(#000, $info-color, 20%) !default;
-$link-color-hover: mix(#000, $link-color, 25%) !default;
-$link-color-visited: mix(#fff, $link-color, 15%) !default;
+/* ==========================================================================
+   Deep Field — typography
+   Compile-time, and identical in both renderings.
+   ========================================================================== */
 
+$serif      : Literata, Georgia, "Times New Roman", serif;
+$sans-serif : Literata, Georgia, "Times New Roman", serif;
+$monospace  : "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
 
-a {
-    &:focus {
-      @extend %tab-focus;
-    }
-  
-    &:visited {
-      color: $link-color-visited;
-    }
-  
-    &:hover {
-      color: $link-color-hover;
-     // outline: 0;
-    }
+$global-font-family  : $serif;
+$header-font-family  : "Instrument Serif", "Times New Roman", Georgia, serif;
+$caption-font-family : $serif;
 
-    text-decoration: none; padding-bottom: 1px; border-bottom: 1px solid #8d8df3;
-    text-decoration-color: var(--vivid-vivid-02, #207DE9);
-  }
+/* ==========================================================================
+   Deep Field — colour (compile-time base)
 
+   The theme runs colour math on these variables — mix() and rgba() in
+   _navigation, _tables, _notices, _forms, _page and _search — so they must
+   compile as real colours. Passing var() here breaks the build.
 
-.link-content {
-    display: flex;
-    align-items: flex-start;
-}
+   The LIGHT palette is therefore the compile-time base, and _deep-field.scss
+   layers the custom properties and the dark rendering on top.
+   ========================================================================== */
 
-.link-thumbnail {
-    margin-right: 10px; /* Adjust spacing as needed */
-}
+$background-color        : #F4F3FA;
+$text-color              : #1B1926;
+$muted-text-color        : #635E75;
+$primary-color           : #5B4FC7;
+$border-color            : #D9D5EC;
+$footer-background-color : #E9E7F6;
+$code-background-color   : #E9E7F6;
 
-.link-text {
-    display: flex;
-    flex-direction: column;
-}
-.link-image {
-    max-height: 100px;
-    width:100px;
-    height:100px;
-    margin: 12px 20px 0px 0px;
-    border-radius: 4px;
-    background-size: cover
-}
+$link-color               : #5B4FC7;
+$link-color-hover         : #A9701F;
+$link-color-visited       : #5B4FC7;
+$masthead-link-color      : #1B1926;
+$masthead-link-color-hover: #5B4FC7;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+@import "deep-field";       // tokens, dark rendering, component overrides
+
+/* ==========================================================================
+   Links-category markup (used by _layouts/posts.html)
+   ========================================================================== */
+
+.link-content {
+  display: flex;
+  align-items: flex-start;
+}
+
+.link-thumbnail {
+  margin-right: 10px;
+}
+
+.link-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.link-image {
+  max-height: 100px;
+  width: 100px;
+  height: 100px;
+  margin: 12px 20px 0 0;
+  border-radius: 4px;
+  background-size: cover;
+}
