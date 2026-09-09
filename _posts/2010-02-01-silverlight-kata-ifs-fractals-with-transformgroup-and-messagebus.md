@@ -83,8 +83,8 @@ It means that we can do something like this …
 Two more parts to this coming in the next few days:
 
 - Part 1 – Fractals with TransformGroup and MessageBus
-- [Part 2 – Automating transformations by creating an IFS Content Control](http://blog.bruceabernethy.com/post/Silverlight-Kata-IFS-Fractals-Automating-the-Transforms.aspx)
-- [Part 3 – Wiring up the Iterations using a basic MessageBus implementation.](http://blog.bruceabernethy.com/post/Silverlight-Kata-IFS-Fractals-The-MessageBus.aspx)
+- [Part 2 – Automating transformations by creating an IFS Content Control](/silverlight-kata-ifs-fractals-automating-the-transforms/)
+- [Part 3 – Wiring up the Iterations using a basic MessageBus implementation.](/silverlight-kata-ifs-fractals-the-messagebus/)
 - Part 4 – But will it work for a fractal Fern?
 - Part 5 – Lessons Learned (aka limitations of the MessageBus and recursion in Silverlight)
 

@@ -5,7 +5,7 @@ et_enqueued_post_fonts:
     - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
 ---
 
-Now that we have the idea of what IFS Fractals are from [Part 1](http://blog.bruceabernethy.com/post/Silverlight-Kata-IFS-Fractals-with-TransformGroup-and-MessageBus.aspx), we can move on to automating these iterations via code. Our first step is to encapsulate what an IFS Transform is.
+Now that we have the idea of what IFS Fractals are from [Part 1](/silverlight-kata-ifs-fractals-with-transformgroup-and-messagebus/), we can move on to automating these iterations via code. Our first step is to encapsulate what an IFS Transform is.
 
 <div class="wlWriterEditableSmartContent" id="scid:57F11A72-B0E5-49c7-9094-E3A15BD5B5E6:a091dd59-6504-48b8-bf19-49aa67f8cb93" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">```
 <span style="color: #0000FF;">public</span><span style="color: #000000;"> </span><span style="color: #0000FF;">class</span><span style="color: #000000;"> IFSTransform
@@ -19,7 +19,7 @@ Now that we have the idea of what IFS Fractals are from [Part 1](http://blog.bru
 }</span>
 ```
 
-</div>As detailed [before](http://blog.bruceabernethy.com/post/Silverlight-Kata-IFS-Fractals-with-TransformGroup-and-MessageBus.aspx), an IFS Transform will typically scale the previous iteration (bigger or smaller, and one or both axes), rotate the object, transform/move the object on one or both axes, and will add a probability. The probability is for when the different transformations need to happen more or less often in order to create the desired shape. For example a tree may have many leaves, but less branches; a person may grow more hair than they grow in height. Many of the transforms will be “uniform” and have all the same probability.
+</div>As detailed [before](/silverlight-kata-ifs-fractals-with-transformgroup-and-messagebus/), an IFS Transform will typically scale the previous iteration (bigger or smaller, and one or both axes), rotate the object, transform/move the object on one or both axes, and will add a probability. The probability is for when the different transformations need to happen more or less often in order to create the desired shape. For example a tree may have many leaves, but less branches; a person may grow more hair than they grow in height. Many of the transforms will be “uniform” and have all the same probability.
 
 It is nice that we can enter our transforms in this concise class, but it would also be nice if we could translate these numbers into a XAML TransformGroup like the ones we manually created in the last post. To do this we’ll add a public method to the IFSTransform to accomplish this.
 
@@ -152,8 +152,8 @@ To finish out today, we need to be able to make a clone/copy of each object, to 
 
 Coming next, let’s create Messages we can send off to all the wired-up controls to tell them it is time to do the next iteration.
 
-26. [Part 1 – Fractals with TransformGroup and MessageBus](http://blog.bruceabernethy.com/post/Silverlight-Kata-IFS-Fractals-with-TransformGroup-and-MessageBus.aspx)
-27. [Part 2 – Automating transformations by creating an IFS Content Control](http://blog.bruceabernethy.com/post/Silverlight-Kata-IFS-Fractals-Automating-the-Transforms.aspx)
-28. [Part 3 – Wiring up the Iterations using a basic MessageBus implementation.](http://blog.bruceabernethy.com/post/Silverlight-Kata-IFS-Fractals-The-MessageBus.aspx)
+26. [Part 1 – Fractals with TransformGroup and MessageBus](/silverlight-kata-ifs-fractals-with-transformgroup-and-messagebus/)
+27. [Part 2 – Automating transformations by creating an IFS Content Control](/silverlight-kata-ifs-fractals-automating-the-transforms/)
+28. [Part 3 – Wiring up the Iterations using a basic MessageBus implementation.](/silverlight-kata-ifs-fractals-the-messagebus/)
 29. Part 4 – But will it work for a fractal Fern?
 30. Part 5 – Lessons Learned (aka limitations of the MessageBus and recursion in Silverlight)

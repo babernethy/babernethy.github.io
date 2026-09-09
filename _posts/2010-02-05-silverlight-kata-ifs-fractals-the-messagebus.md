@@ -7,7 +7,7 @@ et_enqueued_post_fonts:
     - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
 ---
 
-We are almost done with this application. What started with [Part 1 ](http://blog.bruceabernethy.com/post/Silverlight-Kata-IFS-Fractals-with-TransformGroup-and-MessageBus.aspx)(intro to Fractals and the Silverlight experiment) and continued with [Part 2](http://blog.bruceabernethy.com/post/Silverlight-Kata-IFS-Fractals-Automating-the-Transforms.aspx) (creating the IFSContentControl) now gets a MessageBus to help communicate to and from the different controls
+We are almost done with this application. What started with [Part 1 ](/silverlight-kata-ifs-fractals-with-transformgroup-and-messagebus/)(intro to Fractals and the Silverlight experiment) and continued with [Part 2](/silverlight-kata-ifs-fractals-automating-the-transforms/) (creating the IFSContentControl) now gets a MessageBus to help communicate to and from the different controls
 
 The EventAggregator and MessageBus patterns have been [described as a pattern](http://martinfowler.com/eaaDev/EventAggregator.html) and [discussed for a while](http://www.enterpriseintegrationpatterns.com/MessageBus.html) and recently implemented by several different frameworks within Silverlight. The basic idea is to decouple messages for common functions from specific classes. If there is a common set of Messages, and a shared MessageBus, then objects with access to the bus and messages can “subscribe” to the messages that they want to “hear” and “publish” messages that they want to send out.
 
@@ -184,8 +184,8 @@ For Iterate all we end up doing is calling OnPropertyChanged for NumStageItems. 
 
 Next we will see how this works for the Serpinski Triangle / Gasket – and see if it will work for a more complex set of iterations a Barnsley Fern.
 
-45. [Part 1 – Fractals with TransformGroup and MessageBus](http://blog.bruceabernethy.com/post/Silverlight-Kata-IFS-Fractals-with-TransformGroup-and-MessageBus.aspx)
-46. [Part 2 – Automating transformations by creating an IFS Content Control](http://blog.bruceabernethy.com/post/Silverlight-Kata-IFS-Fractals-Automating-the-Transforms.aspx)
+45. [Part 1 – Fractals with TransformGroup and MessageBus](/silverlight-kata-ifs-fractals-with-transformgroup-and-messagebus/)
+46. [Part 2 – Automating transformations by creating an IFS Content Control](/silverlight-kata-ifs-fractals-automating-the-transforms/)
 47. Part 3 – Wiring up the Iterations using a basic MessageBus implementation.
 48. Part 4 – But will it work for a fractal Fern?
 49. Part 5 – Lessons Learned (aka limitations of the MessageBus and recursion in Silverlight)

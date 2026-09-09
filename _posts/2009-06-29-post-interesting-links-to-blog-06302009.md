@@ -8,7 +8,7 @@ et_enqueued_post_fonts:
 - [Dell Latitude 2100 Netbook Sold in More Than 500 US School Districts – Dell sees successful launch of Atom-based netbook – Softpedia](http://news.softpedia.com/news/Dell-Latitude-2100-Netbook-Sold-in-More-Than-500-US-School-Districts-115376.shtml)
     
     [tags](http://www.diigo.com/cloud/babernethy): [2100](http://www.diigo.com/user/babernethy/2100), [netbook](http://www.diigo.com/user/babernethy/netbook)
-- [Dell Latitude 2100 “kidbook” – Detailed First Impressions and Tips](http://blog.bruceabernethy.com/post/Dell-Latitude-2100.aspx)
+- [Dell Latitude 2100 “kidbook” – Detailed First Impressions and Tips](/dell-latitude-2100-e2809ckidbooke2809d-detailed-first-impressions-and-tips/)
     
     Getting some good feedback on the Dell 2100 blog post – may need to write a second one with updates and more info.
     
