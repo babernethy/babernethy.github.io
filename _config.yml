@@ -200,7 +200,16 @@ kramdown:
 sass:
   # sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  # Silences deprecation warnings raised from inside the minimal-mistakes gem.
   quiet_deps: true
+  # The three @import rules in assets/css/main.scss are in *our* stylesheet, so
+  # quiet_deps does not cover them. They cannot become @use: the theme relies on
+  # @import's global scope (61 @imports, 101 global mix() calls inside the gem),
+  # so switching would require vendoring and rewriting the whole theme. Silence
+  # them until minimal-mistakes ships a module-based Sass tree.
+  silence_deprecations:
+    - import
+    - global-builtin
 
 
 # Outputting

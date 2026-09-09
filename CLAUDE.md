@@ -118,9 +118,13 @@ behavior comes from upstream:
   deploy artifact. A real `.well-known/` directory would need a hand-built
   artifact. (Bluesky verification currently works via a DNS `TXT` record on
   `_atproto.bruceabernethy.com`, not a served file.)
-- `assets/css/main.scss` uses Sass `@import` and the global `mix()` function.
-  Both are removed in Dart Sass 3.0 and currently emit deprecation warnings on
-  every build.
+- `assets/css/main.scss` uses Sass `@import` and the global `mix()` function,
+  both removed in Dart Sass 3.0. The warnings are suppressed via `sass.quiet_deps`
+  (gem-internal) plus `sass.silence_deprecations: [import, global-builtin]`
+  (our own stylesheet) in `_config.yml`, so builds are clean. This is deferral,
+  not a fix: the theme's Sass is `@import`-based throughout, so a real migration
+  means waiting for minimal-mistakes to ship modules, or vendoring and rewriting
+  its ~40 partials. Revisit before Dart Sass 3.0, which will break the build.
 - `/categories/links/` is declared by both `_pages/links.md` and
   `_categories/links.html`. Jekyll silently picks one with no warning.
 - `_config.yml` declares four collections (`recipes`, `pets`, `portfolio`,
