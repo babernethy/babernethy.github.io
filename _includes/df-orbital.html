@@ -1,0 +1,31 @@
+{%- comment -%}
+  Orbital field.
+
+  Concentric rings crossed by two tilted ellipses, with a few point-nodes.
+  Reads as atom, orbit, or lens depending on how you look at it — which suits
+  nineteen years of fractals, crystals and Wal-mart telescopes.
+
+  Inline SVG rather than an image: it costs nothing to load, scales cleanly,
+  and takes its colour from the tokens, so it follows light and dark for free.
+  It is decoration, so it is hidden from assistive tech.
+{%- endcomment -%}
+<svg class="df-orbital" viewBox="0 0 620 620" fill="none" aria-hidden="true" focusable="false">
+  <g class="df-orbital__rings">
+    <circle cx="310" cy="310" r="46"  stroke-opacity="0.85"></circle>
+    <circle cx="310" cy="310" r="86"  stroke-opacity="0.60"></circle>
+    <circle cx="310" cy="310" r="132" stroke-opacity="0.42"></circle>
+    <circle cx="310" cy="310" r="184" stroke-opacity="0.30"></circle>
+    <circle cx="310" cy="310" r="242" stroke-opacity="0.20"></circle>
+    <circle cx="310" cy="310" r="298" stroke-opacity="0.12"></circle>
+  </g>
+  <g class="df-orbital__paths">
+    <ellipse cx="310" cy="310" rx="248" ry="104" stroke-opacity="0.34" transform="rotate(-22 310 310)"></ellipse>
+    <ellipse cx="310" cy="310" rx="196" ry="82"  stroke-opacity="0.22" transform="rotate(34 310 310)"></ellipse>
+  </g>
+  <g class="df-orbital__nodes">
+    <circle cx="310" cy="310" r="3.4" fill-opacity="0.95"></circle>
+    <circle cx="466" cy="238" r="2.2" fill-opacity="0.70"></circle>
+    <circle cx="176" cy="392" r="2.2" fill-opacity="0.55"></circle>
+    <circle cx="392" cy="466" r="1.8" fill-opacity="0.45"></circle>
+  </g>
+</svg>

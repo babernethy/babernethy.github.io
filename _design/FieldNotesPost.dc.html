@@ -1,0 +1,129 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+  <style>
+    body { margin: 0; background: #FAF7F1; font-family: Newsreader, Georgia, serif; }
+    a { color: #1B5E57; text-decoration: none; }
+    a:hover { color: #9C4A2F; }
+    .prose a { border-bottom: 1px solid #B9CFCB; }
+    .prose a:hover { border-bottom-color: #9C4A2F; }
+  </style>
+</helmet>
+
+<div style="width: 1280px; background: #FAF7F1; color: #221F1A;">
+
+  <!-- masthead -->
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 32px; padding: 22px 72px; border-bottom: 1px solid #E4DCCE;">
+    <div style="display: flex; align-items: center; gap: 14px;">
+      <svg width="30" height="30" viewBox="0 0 30 30" fill="none" stroke="#1B5E57" stroke-width="1.4">
+        <circle cx="15" cy="15" r="4.2"></circle>
+        <ellipse cx="15" cy="15" rx="13" ry="6.4" transform="rotate(-28 15 15)"></ellipse>
+        <ellipse cx="15" cy="15" rx="13" ry="6.4" transform="rotate(38 15 15)"></ellipse>
+      </svg>
+      <div style="display: flex; flex-direction: column; gap: 1px;">
+        <div style="font-size: 19px; font-weight: 600; letter-spacing: -0.01em;">Bruce's Blog</div>
+        <div style="font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 11.5px; color: #6A6357;">Thoughts on software development, leadership, and life.</div>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center; gap: 30px; font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 13.5px; font-weight: 500; color: #443F37;">
+      <span>Notes</span>
+      <span>Links</span>
+      <span>Archive</span>
+      <span>Topics</span>
+      <span style="color: #6A6357;">About</span>
+      <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="#6A6357" stroke-width="1.6">
+        <circle cx="9" cy="9" r="6"></circle><path d="M13.5 13.5 L17 17"></path>
+      </svg>
+    </div>
+  </div>
+
+  <!-- title block, on paper -->
+  <div style="padding: 66px 72px 0 72px;">
+    <div style="max-width: 860px; display: flex; flex-direction: column; gap: 22px;">
+      <div style="display: flex; align-items: center; gap: 12px; font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 11.5px; font-weight: 600; letter-spacing: 0.11em; text-transform: uppercase; color: #1B5E57;">
+        <span>Note</span>
+        <span style="width: 3px; height: 3px; border-radius: 50%; background: #C3BAA9;"></span>
+        <span style="color: #6A6357;">Jobs</span>
+      </div>
+      <h1 style="margin: 0; font-size: 60px; line-height: 1.06; font-weight: 500; letter-spacing: -0.021em; text-wrap: pretty;">The Seven Stages of Job Satisfaction</h1>
+      <p style="margin: 0; font-size: 22px; line-height: 1.5; color: #55503f; max-width: 700px; font-style: italic;">The mental stages job seekers go through over time, and the main factors that influence movement and decisions.</p>
+    </div>
+  </div>
+
+  <!-- byline row: author moved out of the sidebar -->
+  <div style="margin: 40px 72px 0 72px; padding: 16px 0; border-top: 1px solid #E4DCCE; border-bottom: 1px solid #E4DCCE; display: flex; align-items: center; gap: 14px; font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 13px; color: #6A6357;">
+    <div style="width: 34px; height: 34px; border-radius: 50%; background: #E7DFD1; border: 1px solid #D6CBB8;"></div>
+    <span style="color: #221F1A; font-weight: 600;">Bruce Abernethy</span>
+    <span style="width: 3px; height: 3px; border-radius: 50%; background: #C3BAA9;"></span>
+    <span>November 13, 2024</span>
+    <span style="width: 3px; height: 3px; border-radius: 50%; background: #C3BAA9;"></span>
+    <span>10 minute read</span>
+    <span style="flex-grow: 1;"></span>
+    <span style="font-size: 12px;">Grand Rapids, MI</span>
+  </div>
+
+  <!-- body + toc rail -->
+  <div style="display: grid; grid-template-columns: 700px 250px; gap: 78px; padding: 52px 72px 64px 72px;">
+
+    <div class="prose" style="display: flex; flex-direction: column; gap: 26px;">
+      <p style="margin: 0; font-size: 20px; line-height: 1.68; color: #221F1A;">At times in my career, I have been blessed to be &ldquo;In The Zone&rdquo; and seemingly working in my sweet spot&mdash;my &ldquo;dream job.&rdquo; Doing exciting and fulfilling things with other amazing people, having success, and meeting my personal and professional goals.</p>
+      <p style="margin: 0; font-size: 20px; line-height: 1.68; color: #221F1A;">But seasons change, challenges come, and I develop a &ldquo;Wandering Eye,&rdquo; or in a few cases, had to change as the job was changing or ending.</p>
+
+      <div style="margin: 10px 0; padding-left: 26px; border-left: 2px solid #1B5E57;">
+        <p style="margin: 0; font-size: 25px; line-height: 1.42; font-style: italic; color: #1B5E57;">Over time, especially as I got into some technical and people leadership roles, I saw some patterns emerge.</p>
+      </div>
+
+      <h2 style="margin: 16px 0 0 0; font-size: 31px; line-height: 1.2; font-weight: 600; letter-spacing: -0.012em;">Stage 1 &mdash; &ldquo;In The Zone&rdquo;</h2>
+      <p style="margin: 0; font-size: 20px; line-height: 1.68; color: #221F1A;">You are doing work that matters with people you respect. Growth is happening without you forcing it. This is the stage people describe later as <a href="#">the best job I ever had</a>, usually after they have left it.</p>
+      <p style="margin: 0; font-size: 20px; line-height: 1.68; color: #221F1A;">The trap here is assuming it is permanent. It never is&mdash;and knowing that early changes how you treat it.</p>
+
+      <h2 style="margin: 16px 0 0 0; font-size: 31px; line-height: 1.2; font-weight: 600; letter-spacing: -0.012em;">Stage 2 &mdash; &ldquo;Content-ish&rdquo;</h2>
+      <p style="margin: 0; font-size: 20px; line-height: 1.68; color: #221F1A;">Loyal but slightly dissatisfied. Nothing is wrong exactly, and that is precisely what makes this stage so easy to sit in for years.</p>
+
+      <!-- footer of article -->
+      <div style="margin-top: 26px; padding-top: 26px; border-top: 1px solid #E4DCCE; display: flex; flex-direction: column; gap: 20px;">
+        <div style="display: flex; align-items: center; gap: 9px; font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 12px;">
+          <span style="color: #6A6357; margin-right: 4px;">Tagged</span>
+          <span style="padding: 4px 11px; border: 1px solid #DCD3C3; border-radius: 3px; color: #443F37;">popular</span>
+          <span style="padding: 4px 11px; border: 1px solid #DCD3C3; border-radius: 3px; color: #443F37;">jobs</span>
+          <span style="padding: 4px 11px; border: 1px solid #DCD3C3; border-radius: 3px; color: #443F37;">thinking</span>
+        </div>
+        <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px;">
+          <div style="padding: 16px 18px; background: #F3EDE2; border-radius: 4px; display: flex; flex-direction: column; gap: 5px;">
+            <div style="font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 10.5px; letter-spacing: 0.1em; text-transform: uppercase; color: #6A6357;">Previous</div>
+            <div style="font-size: 17px; line-height: 1.32; color: #1B5E57;">M4 Mac, Ollama, and Mandelbrot Sets</div>
+          </div>
+          <div style="padding: 16px 18px; background: #F3EDE2; border-radius: 4px; display: flex; flex-direction: column; gap: 5px;">
+            <div style="font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 10.5px; letter-spacing: 0.1em; text-transform: uppercase; color: #6A6357;">Next</div>
+            <div style="font-size: 17px; line-height: 1.32; color: #1B5E57;">New Top Bird in the yard: Dark-eyed Junco</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- quiet toc rail -->
+    <div style="display: flex; flex-direction: column; gap: 13px; padding-top: 4px;">
+      <div style="font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 10.5px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #6A6357; padding-bottom: 10px; border-bottom: 1px solid #E4DCCE;">On this page</div>
+      <div style="display: flex; flex-direction: column; gap: 11px; font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 13px; line-height: 1.42;">
+        <div style="color: #1B5E57; font-weight: 600; padding-left: 11px; border-left: 2px solid #1B5E57;">In The Zone</div>
+        <div style="color: #6A6357; padding-left: 13px;">Content-ish</div>
+        <div style="color: #6A6357; padding-left: 13px;">Wandering Eye</div>
+        <div style="color: #6A6357; padding-left: 13px;">Peeking Over the Fence</div>
+        <div style="color: #6A6357; padding-left: 13px;">Plotting the Escape</div>
+        <div style="color: #6A6357; padding-left: 13px;">Packing for the Move</div>
+        <div style="color: #6A6357; padding-left: 13px;">Necessary Ending</div>
+      </div>
+    </div>
+
+  </div>
+</div>
+</x-dc>
+</body>
+</html>

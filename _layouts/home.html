@@ -2,50 +2,98 @@
 layout: archive
 ---
 
-{{ content }}
+{%- comment -%}
+  Home.
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+  The previous version of this file rendered `content` twice and carried a
+  leftover block from Jekyll's Minima theme — .post-list, site.minima.*, an RSS
+  line — which listed all 234 posts a second time below the recent ones. Both
+  are gone.
 
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
+  Structure now: a statement over the orbital field, one lead post carrying its
+  teaser image, a tighter list beneath it, and the curated roundups kept to
+  their own strip in the second accent.
+{%- endcomment -%}
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% include documents-collection.html entries=posts type=entries_layout %}
-</div>
+{%- assign notes     = site.posts | where_exp: "p", "p.category != 'links'" -%}
+{%- assign roundups  = site.posts | where_exp: "p", "p.category == 'links'" -%}
+{%- assign lead      = notes | first -%}
+{%- assign following = notes | slice: 1, 6 -%}
 
-<div class="home">
-    {%- if page.title -%}
-      <h1 class="page-heading">{{ page.title }}</h1>
-    {%- endif -%}
-  
+<section class="df-hero">
+  {% include df-orbital.html %}
+  <div class="df-hero__inner">
+    <p class="df-hero__statement">{{ site.author.bio | default: site.description }}</p>
+    <p class="df-hero__meta">
+      {% if site.author.location %}{{ site.author.location }}<span class="df-hero__sep">/</span>{% endif %}
+      since 2007<span class="df-hero__sep">/</span>{{ site.posts | size }} posts
+    </p>
     {{ content }}
-  
-    {%- if site.posts.size > 0 -%}
-      <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-      <ul class="post-list">
-        {%- for post in site.posts -%}
-        <li>
-          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
-          <h3>
-            <a class="post-link" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}
-            </a>
-          </h3>
-          {%- if site.show_excerpts -%}
-            {{ post.excerpt }}
-          {%- endif -%}
-        </li>
-        {%- endfor -%}
-      </ul>
-  
-      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-    {%- endif -%}
-  
   </div>
+</section>
+
+{%- if lead -%}
+  {%- assign lead_teaser = lead.header.teaser | default: site.teaser -%}
+  <a class="df-lead-card{% unless lead_teaser %} df-lead-card--no-image{% endunless %}" href="{{ lead.url | relative_url }}">
+    {%- if lead_teaser -%}
+      <span class="df-lead-card__image"><img src="{{ lead_teaser | relative_url }}" alt="" loading="lazy"></span>
+    {%- endif -%}
+    <span class="df-lead-card__body">
+      <span class="df-lead-card__eyebrow">
+        Latest{% if lead.category %}<span class="df-hero__sep">/</span>{{ lead.category }}{% endif %}
+      </span>
+      <span class="df-lead-card__title">{{ lead.title }}</span>
+      {%- if lead.excerpt -%}
+        <span class="df-lead-card__excerpt">{{ lead.excerpt | markdownify | strip_html | strip_newlines | truncate: 170 }}</span>
+      {%- endif -%}
+    </span>
+  </a>
+{%- endif -%}
+
+{%- if following.size > 0 -%}
+  <section class="df-more">
+    <h2 class="df-more__title"><span class="df-more__label">More notes</span></h2>
+    <div class="df-more__list">
+      {%- for post in following -%}
+        {%- assign teaser = post.header.teaser | default: site.teaser -%}
+        <a class="df-card" href="{{ post.url | relative_url }}">
+          <span class="df-card__thumb">
+            {%- if teaser -%}
+              <img src="{{ teaser | relative_url }}" alt="" loading="lazy">
+            {%- else -%}
+              {% include df-orbital.html %}
+            {%- endif -%}
+          </span>
+          <span class="df-card__body">
+            <span class="df-card__meta">{{ post.date | date: "%Y.%m.%d" }}{% if post.category %}<span class="df-hero__sep">/</span>{{ post.category }}{% endif %}</span>
+            <span class="df-card__title">{{ post.title }}</span>
+            {%- if post.excerpt -%}
+              <span class="df-card__excerpt">{{ post.excerpt | markdownify | strip_html | strip_newlines | truncate: 120 }}</span>
+            {%- endif -%}
+          </span>
+        </a>
+      {%- endfor -%}
+    </div>
+    <a class="df-more__all" href="{{ '/year-archive/' | relative_url }}">All {{ notes | size }} notes &rarr;</a>
+  </section>
+{%- endif -%}
+
+{%- if roundups.size > 0 -%}
+  <section class="df-linkstrip">
+    <h2 class="df-linkstrip__title">
+      <span class="df-linkstrip__label">Links</span>
+      <span class="df-linkstrip__note">weekly roundups &mdash; curated, not written</span>
+      <a class="df-linkstrip__all" href="{{ '/categories/links/' | relative_url }}">all {{ roundups | size }} &rarr;</a>
+    </h2>
+    <div class="df-linkstrip__list">
+      {%- for post in roundups limit: 3 -%}
+        <a class="df-linkcard" href="{{ post.url | relative_url }}">
+          <span class="df-linkcard__date">{{ post.date | date: "%Y-%m-%d" }}</span>
+          <span class="df-linkcard__title">{{ post.excerpt | markdownify | strip_html | strip_newlines | truncate: 80 }}</span>
+        </a>
+      {%- endfor -%}
+    </div>
+  </section>
+{%- endif -%}
 
 {% include paginator.html %}

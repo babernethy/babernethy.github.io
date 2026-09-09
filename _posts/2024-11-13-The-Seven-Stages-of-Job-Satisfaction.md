@@ -4,7 +4,6 @@ excerpt: 'The mental stages job seekers go through over time, and the main facto
 description: 'The mental stages job seekers go through over time, and the main factors that influence movement and decisions.'
 comments: true
 header:
-  overlay_color: "#333"
   teaser: /assets/images/1__yhN__HoiuXBt2ir27AYSb1Q.png
   tagline: 'The mental stages job seekers go through over time, and the main factors that influence movement and decisions.'
 toc: true

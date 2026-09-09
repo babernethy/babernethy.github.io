@@ -43,7 +43,7 @@ comments:
     category_id          : "DIC_kwDONHgQ2M4DFOvn" # Shown during giscus setup at https://giscus.app
     discussion_term      : "pathname" # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : '1' # '1' for enabled (default), '0' for disabled
-    theme                : "dark_dimmed" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    theme                : "preferred_color_scheme" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
@@ -132,6 +132,7 @@ include:
 exclude:
   - CLAUDE.md
   - bin
+  - _design
   - _templates
   - wpmigration
   - letsencrypt
@@ -288,8 +289,12 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      # The author sidebar is replaced by the byline row in
+      # _includes/page__meta.html, which frees the left column for the
+      # reading measure. The full profile lives on /topics/ and the feed.
+      author_profile: false
       read_time: true
+      show_date: true
       share: true
       related: true
       comments: true
