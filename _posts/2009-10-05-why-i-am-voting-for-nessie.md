@@ -3,19 +3,17 @@ title: 'Why I am voting for Nessie'
 date: '2009-10-05T03:37:03+00:00'
 dsq_thread_id:
     - '392034917'
-et_enqueued_post_fonts:
-    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
 category: "personal"
 tags: ["art", "family", "fun"]
 redirect_from:
   - /why-i-am-voting-for-nessie/
 ---
 
-<div style="margin: 15px; float: right"><iframe align="center" frameborder="0" height="300" scrolling="no" src="http://www.flickr.com/photos/41391628@N02/show/"></iframe></div>My family has had a great time at ArtPrize these last few weeks visiting as many of the different venues and artists as possible. The final vote is upon us this week and I feel strongly enough about one of the top 10 that I am going to make my intended vote public and let others know why.
+<div style="margin: 15px; float: right">*{missing-embed:Flickr slideshow — legacy Flash slideshow API retired}*</div>My family has had a great time at ArtPrize these last few weeks visiting as many of the different venues and artists as possible. The final vote is upon us this week and I feel strongly enough about one of the top 10 that I am going to make my intended vote public and let others know why.
 
 First, full disclosure, I am a full 50% Scottish, have been to Loch Ness, and have seriously considered the matter of whether there is or has been a Plesiosaurish orphan in the deep waters (not fully decided either way). Beyond this heritage, I have no other connections with the artists themselves or any of the others or the contest.
 
-Let me list my Top 5 reasons that I think ["Nessie on the Grand"](http://www.artprize.org/artist/id/3403) tops the Top 10 for ArtPrize.
+Let me list my Top 5 reasons that I think *"Nessie on the Grand"* (link is no longer active) tops the Top 10 for ArtPrize.
 
 Let me start by saying my enthusiasm for Nessie in no way minimizes my respect for the other artists in the contest. In my mind, anyone why was able to pull a piece together and find a venue to show it off, is already a winner. Of the amazing artists in the Top 10, I have seen all but 2 and feel badly that I did not have more time planned to see them all.
 

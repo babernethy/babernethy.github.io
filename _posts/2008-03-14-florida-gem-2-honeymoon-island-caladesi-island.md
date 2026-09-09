@@ -3,8 +3,6 @@ title: 'Florida Gem #2 &#8211; Honeymoon Island / Caladesi Island'
 date: '2008-03-14T03:51:48+00:00'
 dsq_thread_id:
     - '378724941'
-et_enqueued_post_fonts:
-    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
 category: "personal"
 tags: ["family", "nature"]
 redirect_from:
@@ -19,9 +17,9 @@ If you are on the “gulf side” of Florida, and anywhere in driving range of t
 
 The first thing you will notice about the islands is how (relatively) few people will be there (compared to Clearwater Beach or other public beaches). This is for, in my opinion, three reasons. First, it is out of the way a bit – you need to drive a little ways to get there, and it is away from any major city. Second, there are no hotels, motels, restaurants, bars, etc. on the islands – bring a lunch/drinks with you (or settle for the “snack bar” type food there). Finally, you have to pay to get in – only $5 per car to Honeymoon Island, add $9/adult and $5.50/child to take the ferry to Caladesi Island (yes you can only get there by boat, but it is worth it (see below). My point is, you need to make an effort (in driving and money) to get there which many/most people will not do.
 
-[![image](/assets/images/image_thumb_1.png)](/assets/images/image_4.png)So why is this place so great? Let’s start with the obvious – it’s the [\#2 rated beach in the country](http://travelwithkids.about.com/od/beachvacations/ss/top_beaches_3.htm) (and stands up to that rating). I’ve been to Coco Beach, Daytona Beach, Hilton Head Island, Clearwater Beach, Grand Haven, Sleeping Bear Dunes, and a few others and I can say that Caladesi Island is the nicest beach I have ever been to, by a significant margin.
+[![image](/assets/images/image_thumb_1.png)](/assets/images/image_4.png)So why is this place so great? Let’s start with the obvious – it’s the *\#2 rated beach in the country* (link is no longer active) (and stands up to that rating). I’ve been to Coco Beach, Daytona Beach, Hilton Head Island, Clearwater Beach, Grand Haven, Sleeping Bear Dunes, and a few others and I can say that Caladesi Island is the nicest beach I have ever been to, by a significant margin.
 
-[](/assets/images/image_6.png)[![image](/assets/images/image_thumb_4.png)](/assets/images/image_10.png)Next, since it is a State Park they have done a lot to not only protect wildlife, but also guide you to see it.
+[![image](/assets/images/image_thumb_4.png)](/assets/images/image_10.png)Next, since it is a State Park they have done a lot to not only protect wildlife, but also guide you to see it.
 
 At the entry of Honeymoon Island there is a nature center / ranger station. There they had a huge deck with a bunch of spotting scopes where we could see herons, egrets, owls, hawks, tortoise and a bunch of other wildlife (even a Nine Branded Armadillo).
 

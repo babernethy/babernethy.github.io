@@ -1,8 +1,6 @@
 ---
 title: 'BlogEngine.NET 1.3 released'
 date: '2007-12-27T00:05:58+00:00'
-et_enqueued_post_fonts:
-    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
 category: "blog"
 tags: ["blog", "microsoft"]
 redirect_from:
@@ -21,4 +19,4 @@ There is a nice guide here … [http://www.nyveldt.com/blog/post/BlogEngineNET-1
 
 I need to update my “Talk Like a Pirate” extension soon to make sure it is ready for the fall – Extensions are easier to develop/test/install/configure now.
 
-[BlogEngine.NET 1.3 released](http://www.dotnetblogengine.net/post/BlogEngineNET-13-released.aspx)
+*BlogEngine.NET 1.3 released* (link is no longer active)

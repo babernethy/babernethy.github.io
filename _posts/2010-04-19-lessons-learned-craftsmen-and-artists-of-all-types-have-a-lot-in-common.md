@@ -3,15 +3,13 @@ title: 'Lessons Learned: Craftsmen and artists of all types have a lot in common
 date: '2010-04-19T01:41:44+00:00'
 dsq_thread_id:
     - '362174284'
-et_enqueued_post_fonts:
-    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
 category: "jobs"
 tags: ["art", "inspiration", "thinking"]
 redirect_from:
   - /lessons-learned-craftsmen-and-artists-of-all-types-have-a-lot-in-common/
 ---
 
-I spent last Thursday, Friday and Saturday at the [Festival of Faith and Writing](http://www.calvin.edu/academic/engl/festival/) which is a conference for authors, playwrights, publishers, readers, teachers, etc. I’ve been going to the conference since 1996, which was three years after I wrote my last/only book, but was right in the middle of the nine years I was writing monthly articles on technology in education. So if it has been four years now since I have written anything (for money), why keep going to the conference?
+I spent last Thursday, Friday and Saturday at the *Festival of Faith and Writing* (link is no longer active) which is a conference for authors, playwrights, publishers, readers, teachers, etc. I’ve been going to the conference since 1996, which was three years after I wrote my last/only book, but was right in the middle of the nine years I was writing monthly articles on technology in education. So if it has been four years now since I have written anything (for money), why keep going to the conference?
 
 The short answer is that I always learn something new, and always am reminded of things I had learned before but have forgotten (or stopped paying attention to). I think all creative people who are working in their chosen craft share a lot of the same struggles. These craftsmen can learn a lot from each other, whether they be authors, film makers, musicians, artists, or even people trying to create a good user interface or user experience using web sites and computer software.
 

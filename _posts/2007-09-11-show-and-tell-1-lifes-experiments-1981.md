@@ -1,8 +1,6 @@
 ---
 title: 'Show and Tell #1: Life&#8217;s Experiments (1981)'
 date: '2007-09-11T17:49:35+00:00'
-et_enqueued_post_fonts:
-    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
 category: "personal"
 tags: ["family", "science"]
 redirect_from:
@@ -15,7 +13,7 @@ Anyway, I found some very interesting stuff in my boxes and containers that I ch
 
 ### So here is Exhibit #1 – “Floppy Diskette, circa 1981”
 
-[![lifes_experiments](http://blog.bruceabernethy.com/mirror/ShowandTell1LifesExperiments_12F69/lifes_experiments_thumb.jpg)](http://blog.bruceabernethy.com/mirror/ShowandTell1LifesExperiments_12F69/lifes_experiments.jpg)
+_*{missing-image:lifes_experiments_thumb.jpg}*_ *{missing-image:lifes_experiments.jpg}*
 
 Yes, there used to be such a thing as “floppy disks” and they were floppy. I have one 8″ and two 5 1/4″ disks remaining – I have no idea if they are even readable any more. This disk is labeled (if you look closely) “Life’s Experiments”. How ironic. I guess if you are 13 years old and have compiled 3-4 years worth of of AppleSoft BASIC programs onto one Single-Sided, Double-Density (SSDD) disk (off of cassette tapes and print outs (yes we did retype a lot when necessary)) then it seems like a monumental task. There were three apps in particular that were worth saving: **“The Lord of the Rings Adventure”** (text-based, based on the books, very limited parser), **“Gurder”** a high-resolution graphics program based on a popular game at the time involving a plumber and a big monkey (never did get the collision detection working), and **“The Billings Murders”** an mystery adventure program written in Apple Pascal which I worked on for countless hours with Andy over gallons of Mountain Dew – the app included cutting edge sound effects with the MockingBoard (foot steps, creaking doors) and an updated version of the LOTR-A parser 🙂 .
 

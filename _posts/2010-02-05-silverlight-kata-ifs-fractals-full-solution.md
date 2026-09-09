@@ -3,8 +3,6 @@ title: 'Silverlight Kata: IFS Fractals: Full Solution'
 date: '2010-02-05T09:23:28+00:00'
 dsq_thread_id:
     - '477582954'
-et_enqueued_post_fonts:
-    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
 category: "development"
 tags: ["silverlight", "development", "science"]
 redirect_from:
@@ -15,13 +13,13 @@ If you have been following along with [Part 1](/silverlight-kata-ifs-fractals-wi
 
 ## Complete Code Solution
 
-So we are ready to put it all together: \[ [Download Source Code (if desired) IFSContentControl.zip (1.4Mb)](http://blog.bruceabernethy.com/mirror/IFSContentControl.zip) \]
+So we are ready to put it all together: \[ *Download Source Code (if desired) IFSContentControl.zip (1.4Mb)* *{missing-file:IFSContentControl.zip}* \]
 
 And, since you’ve been so patient, here is a live demo of the application.
 
 ## Live Demo (Requires Silverlight 3)
 
- <object data="data:application/x-silverlight-2," height="600" type="application/x-silverlight-2" width="475"><param name="source" value="http://blog.bruceabernethy.com/ClientBin/SerpinskiMessage.xap"></param><param name="onError" value="onSilverlightError"></param><param name="background" value="white"></param><param name="minRuntimeVersion" value="3.0.40624.0"></param><param name="autoUpgrade" value="true"></param>[ ![Get Microsoft Silverlight](http://go.microsoft.com/fwlink/?LinkId=108181) ](http://go.microsoft.com/fwlink/?LinkID=149156&v=3.0.40624.0)</object>
+ *{missing-embed:live Silverlight IFS fractal demo — Silverlight is no longer supported}*
 
 ## Pulling it Together
 
@@ -29,73 +27,71 @@ So, once we had the idea, the IFSContentControl, and the MessageBus wired up, pu
 
 In “polishing” this up a little I did add a few more Messages.
 
-<div class="wlWriterEditableSmartContent" id="scid:57F11A72-B0E5-49c7-9094-E3A15BD5B5E6:e98a13a2-7119-41fe-8b01-5b5258ffb613" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">```
-<span style="color: #0000FF;">public</span><span style="color: #000000;"> </span><span style="color: #0000FF;">class</span><span style="color: #000000;"> SetStartupIFSControl : CompositePresentationEvent</span><span style="color: #000000;"><</span><span style="color: #000000;">IFSControl</span><span style="color: #000000;">></span><span style="color: #000000;"> { }
-</span><span style="color: #0000FF;">public</span><span style="color: #000000;"> </span><span style="color: #0000FF;">class</span><span style="color: #000000;"> SelfDestruct : CompositePresentationEvent</span><span style="color: #000000;"><</span><span style="color: #000000;">DateTime</span><span style="color: #000000;">></span><span style="color: #000000;"> { }</span>
+```csharp
+public class SetStartupIFSControl : CompositePresentationEvent<IFSControl> { }
+public class SelfDestruct : CompositePresentationEvent<DateTime> { }
 ```
 
-</div>Adding SetStartupIFSControl let me add the ability to have the three buttons at the bottom with different “starter” IFS Objects.
+Adding SetStartupIFSControl let me add the ability to have the three buttons at the bottom with different “starter” IFS Objects.
 
 The “Serpinski Triangle / Gasket” that I’ve been showing since Part 1 was defined like this …
 
-<div class="wlWriterEditableSmartContent" id="scid:57F11A72-B0E5-49c7-9094-E3A15BD5B5E6:b7514783-b11c-4935-954b-34de72decb7a" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">```
-<span style="color: #0000FF;">public</span><span style="color: #000000;"> </span><span style="color: #0000FF;">static</span><span style="color: #000000;"> IFSControl StarterSerpinski()
+```csharp
+public static IFSControl StarterSerpinski()
 {
-  var starter </span><span style="color: #000000;">=</span><span style="color: #000000;"> </span><span style="color: #0000FF;">new</span><span style="color: #000000;"> IFSControl
+  var starter = new IFSControl
                     {
-                        IsProbabalistic </span><span style="color: #000000;">=</span><span style="color: #000000;"> </span><span style="color: #0000FF;">false</span><span style="color: #000000;">,
-                        Background </span><span style="color: #000000;">=</span><span style="color: #000000;"> </span><span style="color: #0000FF;">new</span><span style="color: #000000;"> SolidColorBrush(Colors.LightGray),
-                        XOffset </span><span style="color: #000000;">=</span><span style="color: #000000;"> </span><span style="color: #800080;">25</span><span style="color: #000000;">,
-                        Age </span><span style="color: #000000;">=</span><span style="color: #000000;"> </span><span style="color: #800080;">1</span><span style="color: #000000;">
+                        IsProbabalistic = false,
+                        Background = new SolidColorBrush(Colors.LightGray),
+                        XOffset = 25,
+                        Age = 1
                     };
 
-  starter.Content </span><span style="color: #000000;">=</span><span style="color: #000000;"> starter.MyRootControl;
+  starter.Content = starter.MyRootControl;
 
-  starter.IFSTransforms.Transforms.Add(</span><span style="color: #0000FF;">new</span><span style="color: #000000;"> IFSTransform(.</span><span style="color: #800080;">5</span><span style="color: #000000;">, .</span><span style="color: #800080;">5</span><span style="color: #000000;">, </span><span style="color: #800080;">0</span><span style="color: #000000;">, </span><span style="color: #800080;">0</span><span style="color: #000000;">, </span><span style="color: #800080;">0</span><span style="color: #000000;">, </span><span style="color: #800080;">1</span><span style="color: #000000;">));
-  starter.IFSTransforms.Transforms.Add(</span><span style="color: #0000FF;">new</span><span style="color: #000000;"> IFSTransform(.</span><span style="color: #800080;">5</span><span style="color: #000000;">, .</span><span style="color: #800080;">5</span><span style="color: #000000;">, </span><span style="color: #800080;">0</span><span style="color: #000000;">, </span><span style="color: #800080;">200</span><span style="color: #000000;">, </span><span style="color: #800080;">0</span><span style="color: #000000;">, </span><span style="color: #800080;">1</span><span style="color: #000000;">));
-  starter.IFSTransforms.Transforms.Add(</span><span style="color: #0000FF;">new</span><span style="color: #000000;"> IFSTransform(.</span><span style="color: #800080;">5</span><span style="color: #000000;">, .</span><span style="color: #800080;">5</span><span style="color: #000000;">, </span><span style="color: #800080;">0</span><span style="color: #000000;">, </span><span style="color: #800080;">100</span><span style="color: #000000;">, </span><span style="color: #800080;">200</span><span style="color: #000000;">, </span><span style="color: #800080;">1</span><span style="color: #000000;">));
+  starter.IFSTransforms.Transforms.Add(new IFSTransform(.5, .5, 0, 0, 0, 1));
+  starter.IFSTransforms.Transforms.Add(new IFSTransform(.5, .5, 0, 200, 0, 1));
+  starter.IFSTransforms.Transforms.Add(new IFSTransform(.5, .5, 0, 100, 200, 1));
 
-  </span><span style="color: #0000FF;">return</span><span style="color: #000000;"> starter;
-}</span>
+  return starter;
+}
 ```
 
-</div>The more complex “Barnsley Fern” looks like this …
+The more complex “Barnsley Fern” looks like this …
 
-<div class="wlWriterEditableSmartContent" id="scid:57F11A72-B0E5-49c7-9094-E3A15BD5B5E6:15709a58-47eb-4a94-9d1d-c343f5c2cfa3" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">```
-<span style="color: #0000FF;">public</span><span style="color: #000000;"> </span><span style="color: #0000FF;">static</span><span style="color: #000000;"> IFSControl BarnsleyFern()
+```csharp
+public static IFSControl BarnsleyFern()
 {
 
-  var starter </span><span style="color: #000000;">=</span><span style="color: #000000;"> </span><span style="color: #0000FF;">new</span><span style="color: #000000;"> IFSControl
+  var starter = new IFSControl
                     {
-                        IsProbabalistic </span><span style="color: #000000;">=</span><span style="color: #000000;"> </span><span style="color: #0000FF;">false</span><span style="color: #000000;">,
-                        Background </span><span style="color: #000000;">=</span><span style="color: #000000;"> </span><span style="color: #0000FF;">new</span><span style="color: #000000;"> SolidColorBrush(Colors.Black),
-                        XOffset </span><span style="color: #000000;">=</span><span style="color: #000000;"> </span><span style="color: #800080;">100</span><span style="color: #000000;">,
-                        Age </span><span style="color: #000000;">=</span><span style="color: #000000;"> </span><span style="color: #800080;">1</span><span style="color: #000000;">
+                        IsProbabalistic = false,
+                        Background = new SolidColorBrush(Colors.Black),
+                        XOffset = 100,
+                        Age = 1
                     };
 
-  starter.RectangleTemplate </span><span style="color: #000000;">=</span><span style="color: #000000;"> </span><span style="color: #0000FF;">new</span><span style="color: #000000;"> Rectangle
+  starter.RectangleTemplate = new Rectangle
                                   {
-                                      Height </span><span style="color: #000000;">=</span><span style="color: #000000;"> </span><span style="color: #800080;">400</span><span style="color: #000000;">,
-                                      Width </span><span style="color: #000000;">=</span><span style="color: #000000;"> </span><span style="color: #800080;">200</span><span style="color: #000000;">,
-                                      Stroke </span><span style="color: #000000;">=</span><span style="color: #000000;"> </span><span style="color: #0000FF;">new</span><span style="color: #000000;"> SolidColorBrush(Colors.Green),
-                                      Fill </span><span style="color: #000000;">=</span><span style="color: #000000;"> </span><span style="color: #0000FF;">new</span><span style="color: #000000;"> SolidColorBrush(Color.FromArgb(</span><span style="color: #800080;">200</span><span style="color: #000000;">, </span><span style="color: #800080;">128</span><span style="color: #000000;">, </span><span style="color: #800080;">255</span><span style="color: #000000;">, </span><span style="color: #800080;">128</span><span style="color: #000000;">)),
-                                      StrokeThickness </span><span style="color: #000000;">=</span><span style="color: #000000;"> </span><span style="color: #800080;">8</span><span style="color: #000000;">
+                                      Height = 400,
+                                      Width = 200,
+                                      Stroke = new SolidColorBrush(Colors.Green),
+                                      Fill = new SolidColorBrush(Color.FromArgb(200, 128, 255, 128)),
+                                      StrokeThickness = 8
                                   };
 
-  starter.Content </span><span style="color: #000000;">=</span><span style="color: #000000;"> starter.MyRootControl;
+  starter.Content = starter.MyRootControl;
 
-  starter.IFSTransforms.Transforms.Add(</span><span style="color: #0000FF;">new</span><span style="color: #000000;"> IFSTransform(.</span><span style="color: #800080;">01</span><span style="color: #000000;">, .</span><span style="color: #800080;">16</span><span style="color: #000000;">, </span><span style="color: #800080;">0</span><span style="color: #000000;">, </span><span style="color: #800080;">0</span><span style="color: #000000;">, </span><span style="color: #800080;">0</span><span style="color: #000000;">, </span><span style="color: #800080;">1</span><span style="color: #000000;">));
-  starter.IFSTransforms.Transforms.Add(</span><span style="color: #0000FF;">new</span><span style="color: #000000;"> IFSTransform(.</span><span style="color: #800080;">34</span><span style="color: #000000;">, .</span><span style="color: #800080;">3</span><span style="color: #000000;">, </span><span style="color: #000000;">-</span><span style="color: #800080;">50</span><span style="color: #000000;">, </span><span style="color: #800080;">2</span><span style="color: #000000;">, </span><span style="color: #800080;">50</span><span style="color: #000000;">, </span><span style="color: #800080;">7</span><span style="color: #000000;">));
-  starter.IFSTransforms.Transforms.Add(</span><span style="color: #0000FF;">new</span><span style="color: #000000;"> IFSTransform(.</span><span style="color: #800080;">36</span><span style="color: #000000;">, .</span><span style="color: #800080;">28</span><span style="color: #000000;">, </span><span style="color: #800080;">40</span><span style="color: #000000;">, </span><span style="color: #000000;">-</span><span style="color: #800080;">2</span><span style="color: #000000;">, </span><span style="color: #800080;">50</span><span style="color: #000000;">, </span><span style="color: #800080;">7</span><span style="color: #000000;">));
-  starter.IFSTransforms.Transforms.Add(</span><span style="color: #0000FF;">new</span><span style="color: #000000;"> IFSTransform(.</span><span style="color: #800080;">85</span><span style="color: #000000;">, .</span><span style="color: #800080;">85</span><span style="color: #000000;">, </span><span style="color: #000000;">-</span><span style="color: #800080;">3</span><span style="color: #000000;">, </span><span style="color: #000000;">-</span><span style="color: #800080;">0</span><span style="color: #000000;">, </span><span style="color: #800080;">50</span><span style="color: #000000;">, </span><span style="color: #800080;">75</span><span style="color: #000000;">));
+  starter.IFSTransforms.Transforms.Add(new IFSTransform(.01, .16, 0, 0, 0, 1));
+  starter.IFSTransforms.Transforms.Add(new IFSTransform(.34, .3, -50, 2, 50, 7));
+  starter.IFSTransforms.Transforms.Add(new IFSTransform(.36, .28, 40, -2, 50, 7));
+  starter.IFSTransforms.Transforms.Add(new IFSTransform(.85, .85, -3, -0, 50, 75));
 
-
-
-  </span><span style="color: #0000FF;">return</span><span style="color: #000000;"> starter;
-}</span>
+  return starter;
+}
 ```
 
-</div>These are both in the StarterIFSObjects static class.
+These are both in the StarterIFSObjects static class.
 
 The RectangleTemplate allowed for different shape Rectangles (which the “fern” required”) and also gave me a place to put the foreground and background colors – which is nice. I added “Age” so I could tell how many iterations each object had gone through (surfaces as a ToolTip).
 

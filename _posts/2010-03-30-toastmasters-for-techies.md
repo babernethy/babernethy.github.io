@@ -3,22 +3,21 @@ title: 'Toastmasters for Techies'
 date: '2010-03-30T08:52:28+00:00'
 dsq_thread_id:
     - '366676817'
-et_enqueued_post_fonts:
-    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
-image: /wp-content/uploads/2011/07/t4t.png
+header:
+  teaser: /assets/images/t4t.png
 category: "jobs"
 tags: ["presentations", "jobs", "thinking"]
 redirect_from:
   - /toastmasters-for-techies/
 ---
 
-[  ](/assets/images/Toastmasters.png)About a month ago I started attending a new group forming now in Grand Rapids called “ [Toastmasters for Techies](http://tmfortechies.freetoasthost.org/)”. I had heard of “Toastmasters” many times in the past as a group that had been around for a long long time to help people get better at speaking in public. Today in 2010, Toastmasters has served over four million people and is growing all the time – case in point being this “Toastmasters for Techies” group.
+[![Toastmasters for Techies](/assets/images/Toastmasters_thumb.png)](/assets/images/Toastmasters.png)About a month ago I started attending a new group forming now in Grand Rapids called “ *Toastmasters for Techies* (link is no longer active)”. I had heard of “Toastmasters” many times in the past as a group that had been around for a long long time to help people get better at speaking in public. Today in 2010, Toastmasters has served over four million people and is growing all the time – case in point being this “Toastmasters for Techies” group.
 
 What drew me to this group was that is was:
 
 1. just getting started (didn’t want to be “behind”)
 2. “unbranded” (some groups are part of businesses or organizations that I am not a part of)
-3. local / close (meets downtown at Wealthy/Diamond at [Atomic Object](http://www.atomicobject.com/pages/Find+Us))
+3. local / close (meets downtown at Wealthy/Diamond at *Atomic Object* (link is no longer active))
 4. focused on techies (not just “nerds” getting together and giving speeches, but better yet “geeks” getting together and giving speeches)
 5. and I knew a few of the people who were already going and knew they were good people
 
@@ -36,4 +35,4 @@ I’ll be the first to stand up and testify that I need help being a better spea
 
 Each Toastmasters Club needs to recruit 20 members to be formally established, and the group is almost half way there. I hope if you are a local “techie” that you are interested in improving your speaking skills, that you would consider stopping by on Monday over lunch as an “honored guest” at one of our meetings.
 
-Feel free to check out our [web site](http://tmfortechies.freetoasthost.org/) or our [Twitter account](http://twitter.com/toast4tech) for more info.
+Feel free to check out our *web site* (link is no longer active) or our [Twitter account](http://twitter.com/toast4tech) for more info.

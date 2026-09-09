@@ -1,7 +1,8 @@
 ---
 title: 'Password guidelines from NIST preview major changes'
 date: '2017-05-25T09:09:30+00:00'
-image: /assets/images/nist_logo_thumb.png
+header:
+  teaser: /assets/images/nist_logo.png
 category: "tech"
 tags: ["security", "thinking"]
 redirect_from:

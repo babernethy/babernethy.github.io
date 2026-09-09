@@ -18,6 +18,6 @@ tags: ["ui", "microsoft", "development"]
 
 *Family.Show is a genealogy program that demonstrates the usage of WPF for a complex, realistic scenario. If you're a fledgling WPF developer who wants to pore over some code that demonstrates best practices for application construction, there's nothing better out there today.*
 
-If you've not yet tried out Family.Show, you can run it from here: http://www.vertigo.com/downloads/familyshow/familyshow.application (now dead link)
+If you've not yet tried out Family.Show, you can run it from here: *http://www.vertigo.com/downloads/familyshow/familyshow.application* (link is no longer active)
 
 Sources are availible from here: <http://www.codeplex.com/familyshow>

@@ -162,8 +162,8 @@ Overall I’d give the 2100 “4 of 5 stars” or a solid B+, which means there 
 
 This is already 2 or 3 times the size of a good blog post, but I plan to add another post at some point about the implications of netbooks in the marketplace. Some technology analysts predict that in 5 years 50% of internet connected computers will be netbooks. Software and services targeting (or at least supporting) netbooks will be an important market. Software distributed via the network, or better yet delivered in real-time over the network, will be in demand. Also, software that can adapt to the screen size of the user (from 10” netbook to 30” desktop monitor) will be popular to enable use and features based on the power and size of the particular install. Some examples of recent posts on products of this type are below. I’ll have to also post some samples of what we are doing with Silverlight and dock panels and view boxes to show some of the latest technology to help enable functionality in installations on different screen resolutions.
 
-<http://eeepc.net/netbook-office-suite-launched-by-corel/>
+*http://eeepc.net/netbook-office-suite-launched-by-corel/* (link is no longer active)
 
-<http://eeepc.net/thinkfree-office-suite-available-for-purchase/>
+*http://eeepc.net/thinkfree-office-suite-available-for-purchase/* (link is no longer active)
 
 **UPDATE:** Had to fix the URL “slug” it was messing things up (never include a quote in a slug).

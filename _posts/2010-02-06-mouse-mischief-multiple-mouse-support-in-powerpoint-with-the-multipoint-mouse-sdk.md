@@ -3,8 +3,6 @@ title: 'Mouse Mischief: Multiple Mouse Support in PowerPoint with the MultiPoint
 date: '2010-02-06T04:15:05+00:00'
 dsq_thread_id:
     - '360728409'
-et_enqueued_post_fonts:
-    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
 category: "tech"
 tags: ["microsoft", "education", "presentations"]
 redirect_from:
@@ -13,7 +11,7 @@ redirect_from:
 
 I am trying to spend the early hours of Saturday morning experimenting and learning about something that interests me, with the only requirement being that is has no immediate practical value other than learning (i.e. it is not linked to work or other side projects). If it seems interesting enough, I’ll blog it. This was fun. Also, this post will be much less technical than the last set, no programming needed for this one, in fact anyone with PowerPoint will be able to take advantage and use the tools here. There may be a follow on post that will be more technical, but I wanted to alternate between tech anyone can use, and tech that really only developers could appreciate.
 
-Back on January 18th, [Scott Hansleman](http://twitter.com/shanselman) tweeted about the new [Windows MultiPoint Mouse SDK](http://www.microsoft.com/multipoint/mouse-sdk/default.aspx) by teasing “Want your application to support TWO mice at a time?” This is something I remember doing waaay back with the early Macintosh computers having multiple students with different mice interacting with a single HyperCard stack. Now we can do this again, in code wit, and with a cool PowerPoint plugin called “Mouse Mischief”.
+Back on January 18th, [Scott Hansleman](http://twitter.com/shanselman) tweeted about the new *Windows MultiPoint Mouse SDK* (link is no longer active) by teasing “Want your application to support TWO mice at a time?” This is something I remember doing waaay back with the early Macintosh computers having multiple students with different mice interacting with a single HyperCard stack. Now we can do this again, in code wit, and with a cool PowerPoint plugin called “Mouse Mischief”.
 
 Then on January 26th woot.com had $.99 refurbished mice for sale on a Woot-Off – why would anyone buy three mice that had been returned and refurbished? For just such an experiment.
 
@@ -59,4 +57,4 @@ When the presentation is complete, you need to end the presentation with the pre
 
 The ability to use multiple mice on once screen is great – and this “Mouse Mischief” plug-in tool for PowerPoint gets you started right away.
 
-In Part 2 of this series, I will show how a developer can add multi-mouse support to their own applications using the MultiPoint Mouse SDK – if you want to get started early, check out the [MultiPoint Mouse SDK Developer](http://www.microsoft.com/multipoint/mouse-sdk/developer.aspx) Info page.
+In Part 2 of this series, I will show how a developer can add multi-mouse support to their own applications using the MultiPoint Mouse SDK – if you want to get started early, check out the *MultiPoint Mouse SDK Developer* (link is no longer active) Info page.

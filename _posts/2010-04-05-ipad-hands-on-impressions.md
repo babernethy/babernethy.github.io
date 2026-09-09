@@ -3,8 +3,6 @@ title: 'iPad Hands-On Impressions'
 date: '2010-04-05T05:11:56+00:00'
 dsq_thread_id:
     - '445545076'
-et_enqueued_post_fonts:
-    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
 category: "tech"
 tags: ["mobile", "hardware", "ui"]
 redirect_from:
@@ -40,7 +38,7 @@ So every application on your iPod Touch or iPhone that you ever wanted to be “
 
 ## The iPad’s issues to resolve
 
-- Even with the iPad’s ancestors in the iPhone and iPod Touch, it is still a “1.0” device. There are [already reports](http://www.pcworld.com/article/193434/ipad_fail_users_experiencing_issues.html) of issues with WiFi reception and charging via the USB connection. Apple has been very good in the past at working with people to resolve issues and updating the hardware in future releases. And with 3/4 of a million of these devices already out there, I am sure they will get a lot of feedback.
+- Even with the iPad’s ancestors in the iPhone and iPod Touch, it is still a “1.0” device. There are *already reports* (link is no longer active) of issues with WiFi reception and charging via the USB connection. Apple has been very good in the past at working with people to resolve issues and updating the hardware in future releases. And with 3/4 of a million of these devices already out there, I am sure they will get a lot of feedback.
 - While the 9.7” beautiful glass screen is its #1 feature it is also potentially the iPad’s #1 problem. How do you keep it from scratching when there is no cover? If it is in a backpack or bag with other things it’ll get scratchy pretty quickly. Along with added size is added mass. If this thing falls off a table and hits one of the edges (even on carpet) I think you will start to see some cracked or shattered devices. I don’t know if this is repairable or if it needs to be replaced. In my mind I see some kind of leather flap or cover (like an executive leather folder) with perhaps a clasp or zipper to protect the device in transit. The iPhone still fits nicely in a pocket or holster and I think that becomes a selling point now over the iPad. **UPDATE**: Search found that they have thought of this [$40 case with some protection here](http://store.apple.com/us/product/MC361ZM/A). This will be available in Late April. Good.
 - Battery life. I know my iPod Touch after a couple years of solid use now needs to be recharged at least once a day. I don’t know how long the 9-10 hours of battery life will be true for the iPad.
 - Customer choice for applications and content.

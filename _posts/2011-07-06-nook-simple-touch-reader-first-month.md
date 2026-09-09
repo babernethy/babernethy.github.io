@@ -3,16 +3,15 @@ title: 'Nook Simple Touch Reader &#8211; First Month'
 date: '2011-07-06T15:51:33+00:00'
 dsq_thread_id:
     - '357996666'
-et_enqueued_post_fonts:
-    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
-image: /wp-content/uploads/2011/07/nooktouch.jpg
+header:
+  teaser: /assets/images/nooktouch.jpg
 category: "tech"
 tags: ["eink", "books", "hardware"]
 redirect_from:
   - /nook-simple-touch-reader-first-month/
 ---
 
-[  ](/assets/images/nooktouch.jpg)For Father’s Day this year I got a new Nook “Simple Touch Reader” so I have had it for about a month – time for a review. I figure it was time when the “battery warning” came on yesterday and it told me I was down to 20% of capacity, so I decided to charge it up. Going for a little over a month on the original 9 hour charge is one of the best aspects of this device.
+[![Nook Simple Touch Reader](/assets/images/nooktouch.jpg)](/assets/images/nooktouch.jpg)For Father’s Day this year I got a new Nook “Simple Touch Reader” so I have had it for about a month – time for a review. I figure it was time when the “battery warning” came on yesterday and it told me I was down to 20% of capacity, so I decided to charge it up. Going for a little over a month on the original 9 hour charge is one of the best aspects of this device.
 
 Getting right to the point, I am very happy with the overall performance and features of the Nook – the size, screen, user experience, format, battery life, price and storage capacity create a great package for casual and serious reading.
 

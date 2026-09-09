@@ -3,16 +3,15 @@ title: 'Rebooting the blog in WordPress'
 date: '2011-06-30T18:21:49+00:00'
 dsq_thread_id:
     - '448831577'
-et_enqueued_post_fonts:
-    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
-image: /wp-content/uploads/2011/07/be2wp.png
+header:
+  teaser: /assets/images/be2wp.png
 category: "blog"
 tags: ["blog"]
 redirect_from:
   - /rebooting-the-blog-in-wordpress/
 ---
 
-I had a goal to get my blog up and running again by the end of June – so I figured I’d get a head start today ![Smile](http://www.agileeducation.net/myblog/wp-content/uploads/2011/06/wlEmoticon-smile.png)
+I had a goal to get my blog up and running again by the end of June – so I figured I’d get a head start today 🙂
 
 I’ve been away from blogging for a while – first because of a major technical snafu at my previous hosting provider (WebHost4Life – ironic name), but then because of my lack of time and focus regarding blog posts. Recently there has been so much going on and nowhere to blog, so I decided to start blogging again.
 

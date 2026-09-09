@@ -3,8 +3,6 @@ title: 'CodeMash Apps for iPhone'
 date: '2010-01-07T03:35:23+00:00'
 dsq_thread_id:
     - '430893019'
-et_enqueued_post_fonts:
-    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
 category: "development"
 tags: ["mobile", "development", "presentations"]
 redirect_from:
@@ -101,7 +99,7 @@ Many/most speakers who have PowerPoint decks or code samples as part of their se
 
 And then you end up saying “If this can be done for CodeMash, couldn’t there be a framework or platform that could be used at the 1000s of conferences that go on every year?” Wouldn’t it be cool if a standard schema could be agreed on for sessions, speakers, venues, news, etc. that the major conferences, even just technology conferences, could all use so that all the work these developers have put into these apps could “pay if forward” and be used beneficially in the future.
 
-In summary, great job to all the developers – Jonathan Penn (<http://wavethenavel.com>) for iCodeMash, SRT Solutions with Jay Wren ([http://jrwren.wrenfam.com/blog/](http://jrwren.wrenfam.com/blog/ "http://jrwren.wrenfam.com/blog/") <http://mobimash.org> ) for MobiMash, and QuickSolutions (<http://www.quicksolutions.com>) for CodeMash iPhone Scheduler. Thanks for creating great resources and inspiring others with your implementations.
+In summary, great job to all the developers – Jonathan Penn (<http://wavethenavel.com>) for iCodeMash, SRT Solutions with Jay Wren ([http://jrwren.wrenfam.com/blog/](http://jrwren.wrenfam.com/blog/ "http://jrwren.wrenfam.com/blog/") *http://mobimash.org* (link is no longer active) ) for MobiMash, and QuickSolutions (<http://www.quicksolutions.com>) for CodeMash iPhone Scheduler. Thanks for creating great resources and inspiring others with your implementations.
 
 **Connected / Disconnected**
 

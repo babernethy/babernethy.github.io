@@ -3,16 +3,15 @@ title: 'TalkTimer app for WP7'
 date: '2011-07-06T21:35:37+00:00'
 dsq_thread_id:
     - '374385947'
-et_enqueued_post_fonts:
-    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
-image: /wp-content/uploads/2011/07/tt_icon.png
+header:
+  teaser: /assets/images/tt_icon.png
 category: "development"
 tags: ["mobile", "microsoft", "presentations"]
 redirect_from:
   - /talktimer-app-for-wp7-published/
 ---
 
-I have been part of the[ Toastmasters for Techies ](http://tmfortechies.freetoasthost.org/) group in Grand Rapids since starting with the group about a year ago. In fact I am Vice President in charge of Public Relations, so let me mention now that everyone should attend if they communicate or present ideas in their current job (which is everyone by the way).
+I have been part of the *Toastmasters for Techies* (link is no longer active) group in Grand Rapids since starting with the group about a year ago. In fact I am Vice President in charge of Public Relations, so let me mention now that everyone should attend if they communicate or present ideas in their current job (which is everyone by the way).
 
 One of the tasks at Toastmasters is the Timer – this person typically has a stop watch and a set of cards that are Green, Yellow, and Red. If a particular talk is supposed to be 5 to 7 minutes long, the timer waits until the minimum time (5:00) and then shows the green card (letting the speaker know they have reached the minimum), then at the mid-point of the time (6:00) they show the yellow card (wrap it up), and at (7:00) the red card comes out and you technically have 30 seconds to wrap up (if not, we’re just learning). Another important point about this position is that you need to record the time for each person during the meeting and report the times at the and of the meeting.
 

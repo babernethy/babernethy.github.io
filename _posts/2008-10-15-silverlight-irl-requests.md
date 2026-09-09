@@ -1,8 +1,6 @@
 ---
 title: 'Silverlight IRL &#8211; Requests'
 date: '2008-10-15T23:00:19+00:00'
-et_enqueued_post_fonts:
-    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
 category: "development"
 tags: ["silverlight", "microsoft", "presentations"]
 redirect_from:
@@ -25,4 +23,4 @@ Since the Microsoft Professional Developers Conference is getting underway in ab
 
 ***\[Updated – forgot one\]*** #6) **Offline and/or out-of-browser execution:** This goes away from the traditional use of a "browser plug-in", but it would be great if the Silverlight code could be used while offline (yes there are places without wireless connectivity). Also, the ability to (optionally) "install" the application so it can run in its own window with a shortcut, icon, etc. would be really useful- ala Chrome application settings and Adobe AIR. I guess you could get this functionality today by using Chrome to view the Silverlight page and saving it as an application with settings, but it would be best if Silverlight could do this natively without a particular browser.
 
-More coming soon, and I’ll post the PowerPoint stack as well – [here is a link to the pptPlex site with downloads](http://www.officelabs.com/projects/pptPlex/Pages/default.aspx) for those who were interested in trying out that cool PowerPoint plug-in.
+More coming soon, and I’ll post the PowerPoint stack as well – *here is a link to the pptPlex site with downloads* (link is no longer active) for those who were interested in trying out that cool PowerPoint plug-in.

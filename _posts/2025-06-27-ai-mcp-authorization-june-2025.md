@@ -13,8 +13,6 @@ tags: ["ai", "development", "security"]
 
 ![Image](/assets/images/ai-mcp-june-2025-header.png)
 
-# MCP Security Framework - June 2025 Updates
-
 The MCP specification is less than a year old, so it will continue to evolve, and an important part of this is the necessary security layers. If you’re building on MCP (Model Context Protocol), or integrating its services into a production system, it’s time to pay close attention to the recent [Authorization Framework update](https://modelcontextprotocol.io/specification/2025-06-18/basic/authorization). This June 2025 revision doesn’t just clarify the standard, it also explains a lot better how to secure context-aware services. And if you have created say REST-base APIs, then it feels very familiar.
 
 First, it says that "Authorization is Optional for MCP Implementations" ... let's say that it is optional "for the specification" but really shouldn't be optional for almost any production MCP server.  Even if you have a free and public MCP server you should have folks sign up for a free account and api key/token to use the MCP server.  Then if you do end up tracking negative behavior to a bad actor you can shut them down.  A "free pass" is still a pass that you can control and throttle.
