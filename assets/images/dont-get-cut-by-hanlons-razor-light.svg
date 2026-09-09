@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="rz-title-light rz-desc-light">
+  <!-- LIGHT rendering. Placeholder artwork - replace with the final
+       hand-edited razor. Keep the viewBox at 1200x630 so the teaser and
+       og:image crops stay put. -->
+  <title id="rz-title-light">Don't Get Cut by Hanlon's Razor</title>
+  <desc id="rz-desc-light">The competence and confidence curves from the Dreyfus chart, drawn as the silhouette of a straight razor. The blade opens wide at the novice end where confidence runs far ahead of competence, pinches shut where the two lines cross, and opens again toward the expert end. Its cutting edge is the competence curve.</desc>
+
+  <style>
+    .blade   { fill: url(#steel-light); }
+    .outline { fill: none; stroke: #1B1926; stroke-width: 12;
+               stroke-linecap: round; stroke-linejoin: round; }
+    .honed   { fill: none; stroke: #A9701F; stroke-width: 3.5; opacity: .9;
+               stroke-linecap: round; stroke-linejoin: round; }
+
+    text { font-family: Literata, Georgia, "Times New Roman", serif; fill: #1B1926; }
+    .lede { font-size: 66px; letter-spacing: 4px; }
+    .sub  { font-size: 23px; letter-spacing: 3px; fill: #635E75; }
+  </style>
+
+  <defs>
+    <linearGradient id="steel-light" x1="0.1" y1="0" x2="0.4" y2="1">
+      <stop offset="0%"   stop-color="#E7E4F1"/>
+      <stop offset="48%"  stop-color="#CFCADF"/>
+      <stop offset="100%" stop-color="#B3ADCC"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="#F4F3FA"/>
+
+  <!-- The blade is the area between the two curves. The heel opens wide at
+       novice, where confidence runs far ahead of competence; the shape pinches
+       shut where the lines cross and opens again through proficient and expert.
+       Stages sit at x = 70, 350, 630, 910, 1150. -->
+  <g id="razor">
+    <polygon class="blade" points="70,260 316.2,407.7 70,464"/>
+    <polygon class="blade" points="316.2,407.7 350,400 630,300 910,212 1150,156 1150,220 910,252 630,300 350,428"/>
+
+    <!-- Cutting edge: competence. -->
+    <polyline class="outline" points="70,464 350,400 630,300 910,212 1150,156"/>
+    <!-- Spine: confidence. -->
+    <polyline class="outline" points="70,260 350,428 630,300 910,252 1150,220"/>
+    <line class="outline" x1="70" y1="260" x2="70" y2="464"/>
+    <line class="outline" x1="1150" y1="156" x2="1150" y2="220"/>
+
+    <polyline class="honed" points="70,464 350,400 630,300 910,212 1150,156"/>
+  </g>
+
+  <g id="wordmark">
+    <text class="lede" x="70" y="112">DON&#8217;T GET CUT BY</text>
+    <text class="lede" x="70" y="184">HANLON&#8217;S RAZOR</text>
+  </g>
+
+  <text class="sub" x="1150" y="536" text-anchor="end">LET DREYFUS, DUNNING, AND KRUGER GUIDE YOU</text>
+</svg>
