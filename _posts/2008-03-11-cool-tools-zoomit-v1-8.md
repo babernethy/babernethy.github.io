@@ -9,13 +9,13 @@ I occasionally run into some cool software tools that I end up using a lot, and 
 
 I have a few that I want to post soon – here is the first.
 
-[![image](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/CoolToolsZoomItv1.8_B34A/image_thumb.png)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/CoolToolsZoomItv1.8_B34A/image_2.png)[ZoomIt](http://www.microsoft.com/technet/sysinternals/Miscellaneous/ZoomIt.mspx) is a simple free utility developed by Mark Russinovich at Sysinternals and distributed by Microsoft. It basically does three things, and only three things, but it does them very well.
+[![image](/assets/images/image_thumb.png)](/assets/images/image_2.png)[ZoomIt](http://www.microsoft.com/technet/sysinternals/Miscellaneous/ZoomIt.mspx) is a simple free utility developed by Mark Russinovich at Sysinternals and distributed by Microsoft. It basically does three things, and only three things, but it does them very well.
 
 I use [ZoomIt](http://www.microsoft.com/technet/sysinternals/Miscellaneous/ZoomIt.mspx) primarily when doing presentations (on a projector or working with several people on a single computer). When you press a pre-determined key sequence (Ctrl + 1 as a default). The screen will zoom in 2x centered on your current mouse location. It is a nice animated zoom that clearly shows what is being magnified. If you want to increase (or decrease) the level of zoom you can use the mouse-wheel or up/down arrow keys. Hitting the ESC key or right-mouse button returns you to normal operation. This enables you to quickly zoom up on some text or controls that may be too small to see (or see well) on the screen. This is allI use ZoomIt for 95% of the time.
 
 But for completeness there are two other functions that exist. The next is “Draw” mode. This is kind of a “John Madden” draw-over markup of the current screen. If you want to highlight, circle, point to, or even type on the screen (in 5 fabulous colors) you can with this function. It will remind you of working with a very limited paint program, but can be very effective at drawing attention where you want peoples attention (bad example below).
 
-[![image](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/CoolToolsZoomItv1.8_B34A/image_thumb_4.png)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/CoolToolsZoomItv1.8_B34A/image_10.png)
+[![image](/assets/images/image_thumb_4.png)](/assets/images/image_10.png)
 
 You can also type “w” or “k” to wipe out the screen and turn it in to a temporary whiteboard or blackboard.
 

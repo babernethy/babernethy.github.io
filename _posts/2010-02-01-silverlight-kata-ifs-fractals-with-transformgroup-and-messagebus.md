@@ -16,7 +16,7 @@ This post isn’t intended to be a detailed primer on fractals, and specifically
 
 Start with a square.
 
-[![fractal_it1](http://www.bruceabernethy.com/wp-content/uploads/fractal_it1_thumb.png "fractal_it1")](http://www.bruceabernethy.com/wp-content/uploads/fractal_it1.png)
+[![fractal_it1](/assets/images/fractal_it1_thumb.png "fractal_it1")](/assets/images/fractal_it1.png)
 
 The shape you start with really doesn’t matter. What you end up with is making a “collage” of whatever shape you start with, a square is simple and fills the space nicely (which will be important later).
 
@@ -30,17 +30,17 @@ In this case each of the three translations will scale 50% on both axes and have
 2. The second will be a full width horizontally away (width, 0).
 3. The third will be a full width vertically away and a half-width horizontally away (width/2, width)
 
-[![fractal_it2](http://www.bruceabernethy.com/wp-content/uploads/fractal_it2_thumb.png "fractal_it2")](http://www.bruceabernethy.com/wp-content/uploads/fractal_it2.png)
+[![fractal_it2](/assets/images/fractal_it2_thumb.png "fractal_it2")](/assets/images/fractal_it2.png)
 
 These then are the simple rules that this system will run by. Each square in the system will know these rules and know how to apply them to themselves. So when told to “iterate” each square should execute each rule by creating a clone of itself, and applying the rule to it. After the iteration, the original square(s) should self-destruct as their short life is now over.
 
 So what would happen with the next iteration?
 
-[![fractal_it3](http://www.bruceabernethy.com/wp-content/uploads/fractal_it3_thumb.png "fractal_it3")](http://www.bruceabernethy.com/wp-content/uploads/fractal_it3.png)
+[![fractal_it3](/assets/images/fractal_it3_thumb.png "fractal_it3")](/assets/images/fractal_it3.png)
 
 And so on and so on. What if we did this 7 times?
 
-[![fractal_it7](http://www.bruceabernethy.com/wp-content/uploads/fractal_it7_thumb.png "fractal_it7")](http://www.bruceabernethy.com/wp-content/uploads/fractal_it7.png)
+[![fractal_it7](/assets/images/fractal_it7_thumb.png "fractal_it7")](/assets/images/fractal_it7.png)
 
 Starts looking far different that you might have expected.
 

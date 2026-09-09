@@ -7,7 +7,7 @@ et_enqueued_post_fonts:
 
 So I have been looking at printers for home since my old HP multifunction printer died in the spring, and used some birthday money and a great sale at OfficeMax to get a new one. I decided on a color laser printer, the [Brother HL-4040CDN](http://www.brother-usa.com/Printer/modeldetail.aspx?PRODUCTID=hl4040cdn&tab=spec).
 
-[![Picture 1](http://www.bruceabernethy.com/wp-content/uploads/Picture%201_thumb.jpg "Picture 1")](http://www.bruceabernethy.com/wp-content/uploads/Picture%201.jpg)
+[![Picture 1](/assets/images/Picture%201_thumb.jpg "Picture 1")](/assets/images/Picture%201.jpg)
 
 Now you might be thinking “color laser printer” isn’t that overkill and/or really expensive. I first used a color laser printer in the mid-90s – the HP Color Laser Printer. It was terribly slow, needed a lot of maintenance, cost a ton to buy (close to $10,000) and the supplies were prohibitively expensive (~1.50/page). Needless to say this was not for home/personal use. Today this color laser printer is $279 and costs far less than an ink jet printer to operate, oh and it prints about 20 pages per minute.
 
@@ -34,7 +34,7 @@ In this, color is actually not a requirement, but is very nice to have. The prob
 
 - Size, weight – huge. Even when the Office Max guy de-boxed the thing with me it barely fit in my car. This thing is a monster and the box it comes in could be a kids play house. In case you think I am exaggerating, the carton size is 22.4" x 24.6" x 22.2" and weighs 74lbs. The unit alone is 16.5" x 18.7" x 12.5" and weighs 65lbs.
 
- [![Picture 2](http://www.bruceabernethy.com/wp-content/uploads/Picture%202_thumb.jpg "Picture 2")](http://www.bruceabernethy.com/wp-content/uploads/Picture%202.jpg)
+ [![Picture 2](/assets/images/Picture%202_thumb.jpg "Picture 2")](/assets/images/Picture%202.jpg)
 
 - Ethernet, but no wifi. Fortunately where I was going to put the printer was next to a network hub, but others may need to put it somewhere unwired. It should be a feature that could be added, but I don’t see that anywhere.
 - Features I won’t use, like direct USB printing of PDF, Jpeg, PictBridge. For the price and added tech to support these rather useless features I would have rather had WiFi.

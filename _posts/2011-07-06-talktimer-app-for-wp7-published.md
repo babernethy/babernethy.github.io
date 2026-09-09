@@ -14,23 +14,23 @@ One of the tasks at Toastmasters is the Timer – this person typically has a st
 
 So I wanted to get a quick app done for the Windows Phone 7 app store and I picked this need for my first app. It is called TalkTimer, it’s free, and has about 250 downloads in the first week (not amazing, but a start – getting some good feedback for a few new features). Here is the app in a nutshell.
 
-[![](http://www.bruceabernethy.com/wp-content/uploads/2011/07/tt_1-180x300.png "tt_1")](http://www.bruceabernethy.com/wp-content/uploads/2011/07/tt_1.png)
+[![](/assets/images/tt_1.png "tt_1")](/assets/images/tt_1.png)
 
 Pick your type of talk – wanted to include Lightening talks, TEDx talks, 5×5 and other formats in addition to Toastmasters
 
-[![](http://www.bruceabernethy.com/wp-content/uploads/2011/07/tt_3-180x300.png "tt_3")](http://www.bruceabernethy.com/wp-content/uploads/2011/07/tt_3.png)
+[![](/assets/images/tt_3.png "tt_3")](/assets/images/tt_3.png)
 
 Pick the type of talk (which automatically has the minimum, mid-point, and maximum length)
 
-[![](http://www.bruceabernethy.com/wp-content/uploads/2011/07/tt_4-180x300.png "tt_4")](http://www.bruceabernethy.com/wp-content/uploads/2011/07/tt_4.png)
+[![](/assets/images/tt_4.png "tt_4")](/assets/images/tt_4.png)
 
 A nifty digital timer awaits your pushing the “start” arrow.
 
-[![](http://www.bruceabernethy.com/wp-content/uploads/2011/07/tt_5-180x300.png "tt_5")](http://www.bruceabernethy.com/wp-content/uploads/2011/07/tt_5.png)
+[![](/assets/images/tt_5.png "tt_5")](/assets/images/tt_5.png)
 
 The countdown timer turns green, yellow, red when your time is running out (only counts the full minutes before the last 30 to minimize distractions).
 
-[![](http://www.bruceabernethy.com/wp-content/uploads/2011/07/tt_6-180x300.png "tt_6")](http://www.bruceabernethy.com/wp-content/uploads/2011/07/tt_6.png)\\
+[![](/assets/images/tt_6.png "tt_6")](/assets/images/tt_6.png)\\
 
 Then a you can save the result to a log and list, by ironically clicking an icon that looks like a floppy disk (“What’s a floppy disk daddy?”)
 

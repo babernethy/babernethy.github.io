@@ -9,7 +9,7 @@ et_enqueued_post_fonts:
 
 Sometimes a picture does say 1000 words. This outlines the problem many American schools had with $1000 laptops – could easily be the same thing with “$100” laptops.
 
- [![1034](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/TheJoyofTechcomic.laughteristhebestte_5F65/1034_thumb.gif)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/TheJoyofTechcomic.laughteristhebestte_5F65/1034_2.gif)
+ [![1034](/assets/images/1034_thumb.gif)](/assets/images/1034_2.gif)
 
 The problem with education isn’t a lack of technology, or even a lack of information. Crossing the “digital divide” means nothing if there isn’t educational change to go along with it.
 

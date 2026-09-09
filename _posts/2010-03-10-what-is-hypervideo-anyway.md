@@ -11,7 +11,7 @@ If you know me or follow this blog at all you will probably know a few things ab
 
 ## What did “hypertext” do for “text” with HTML?
 
-[![samplehtml](http://www.bruceabernethy.com/wp-content/uploads/samplehtml_thumb.png "samplehtml")](http://www.bruceabernethy.com/wp-content/uploads/samplehtml.png) We are so used to hypertext and the world-wide web, that we really don’t think about the technology and features behind it any more, but let’s take a second to “review the obvious”. The hypertext-markup language (HTML) is the coding behind the world-wide web. It is used to take the raw text and put a structure around the text and within the text. What started as a simple text file now gains things like:
+[![samplehtml](/assets/images/samplehtml_thumb.png "samplehtml")](/assets/images/samplehtml.png) We are so used to hypertext and the world-wide web, that we really don’t think about the technology and features behind it any more, but let’s take a second to “review the obvious”. The hypertext-markup language (HTML) is the coding behind the world-wide web. It is used to take the raw text and put a structure around the text and within the text. What started as a simple text file now gains things like:
 
 - a “title”,
 - “headings”,
@@ -35,11 +35,11 @@ Well, we can.
 
 My favorite current example of hypervideo ideas is [Project TUVA](http://research.microsoft.com/apps/tools/tuva/) . For one, the main content is Dr. Richard Feynman’s wonderful physics lecture series at Cornell in the ‘60s (and who doesn’t like some good physics every so often). But, for me, it is also nice to know that it is built with Silverlight, which is a toolset that I am very aware of, so I know I could use many of these features myself down the road.
 
-[![tuva1](http://www.bruceabernethy.com/wp-content/uploads/tuva1_thumb.png "tuva1")](http://www.bruceabernethy.com/wp-content/uploads/tuva1.png)
+[![tuva1](/assets/images/tuva1_thumb.png "tuva1")](/assets/images/tuva1.png)
 
 At the core of the player you will see something that looks very common for videos on the internet. There are the standard “VCR” controls, volume, and full-screen buttons – nothing really special so far.
 
-[![tuvadetails](http://www.bruceabernethy.com/wp-content/uploads/tuvadetails_thumb.png "tuvadetails")](http://www.bruceabernethy.com/wp-content/uploads/tuvadetails.png)
+[![tuvadetails](/assets/images/tuvadetails_thumb.png "tuvadetails")](/assets/images/tuvadetails.png)
 
 But it doesn’t take long to see just how much else can be added to the video player when you start thinking about hypervideo concepts of linking, navigation, chapters, notes, and more.
 
@@ -55,7 +55,7 @@ Since this player was designed for an educational setting, the ability for the v
 
 We’ve all seen closed-captioning on television shows where what is being said in a particular show is displayed on the screen for those who are hearing impaired or for situations where the ambient noise in a room is such that the television can’t be heard.
 
-[![tuvatranscript](http://www.bruceabernethy.com/wp-content/uploads/tuvatranscript_thumb.png "tuvatranscript")](http://www.bruceabernethy.com/wp-content/uploads/tuvatranscript.png)
+[![tuvatranscript](/assets/images/tuvatranscript_thumb.png "tuvatranscript")](/assets/images/tuvatranscript.png)
 
 The “Tuva” interface takes closed-captioning one step further and turns it into a full transcript of the talk being given. You can literally read through all the different close captioning entries in a scrollable textbox. Not only can you read through the captioning, but each of the captions itself is now a hyperlink that will take you to the time in the video where that caption was on screen.
 
@@ -63,7 +63,7 @@ But wait. If we have all this text now, linked to the video, can’t we search t
 
 ### Search
 
-[![tuvasearch](http://www.bruceabernethy.com/wp-content/uploads/tuvasearch_thumb.png "tuvasearch")](http://www.bruceabernethy.com/wp-content/uploads/tuvasearch.png)
+[![tuvasearch](/assets/images/tuvasearch_thumb.png "tuvasearch")](/assets/images/tuvasearch.png)
 
 The interactive search box in the “Tuva” interface will allow the user to search the transcripts of all of the chapters of all of the videos for a keyword or phrase. Then all of the “hits” can be displayed, and yes, they are clickable hyperlinks.
 
@@ -75,21 +75,21 @@ The other notable feature of this interface is the “Extras” which are shown 
 
 But how might this technology look in a less “academic” and non-research or prototype situation – how about the 2010 Winter Olympics?
 
-[![nbco1](http://www.bruceabernethy.com/wp-content/uploads/nbco1_thumb.png "nbco1")](http://www.bruceabernethy.com/wp-content/uploads/nbco1.png)
+[![nbco1](/assets/images/nbco1_thumb.png "nbco1")](/assets/images/nbco1.png)
 
 NBC created an online player that would stream live and pre-recorded events to viewers everywhere. They created a nice “blue-ice” themed player with all the functions you would expect from a modern player. A Play/Pause button, Fast Forward, Rewind, Jump Back, Volume, Full-Screen, and even a humorous “Boss” button that filled your screen with a Windows 7 desktop with an open Excel spreadsheet – cute.
 
 But if you look a little closer you will see some components are are not, yet, very typical of video players online.
 
-[![nbc02](http://www.bruceabernethy.com/wp-content/uploads/nbc02_thumb.png "nbc02")](http://www.bruceabernethy.com/wp-content/uploads/nbc02.png)
+[![nbc02](/assets/images/nbc02_thumb.png "nbc02")](/assets/images/nbc02.png)
 
 Clicking on the “Key Events” button for this Snowboarding video pops-up a scrollable list of all of the heats within this pre-recorded event. So that if I scroll through the list and want to find the round with Nick Baumgartner from the USA, I can find him in Heat 8 – clicking on this item takes me directly to that time in the video.
 
-[![nbco3](http://www.bruceabernethy.com/wp-content/uploads/nbco3_thumb.png "nbco3")](http://www.bruceabernethy.com/wp-content/uploads/nbco3.png)
+[![nbco3](/assets/images/nbco3_thumb.png "nbco3")](/assets/images/nbco3.png)
 
 Similarly, the time bar at the bottom of the player has small lines at particular times, that you might not even see if you weren’t looking for them. In this example I was trying to find the quarter-final with Wescott and Holland from the USA – clicking on that bookmark took me directly to that point.
 
-[![nbco4](http://www.bruceabernethy.com/wp-content/uploads/nbco4_thumb.png "nbco4")](http://www.bruceabernethy.com/wp-content/uploads/nbco4.png)
+[![nbco4](/assets/images/nbco4_thumb.png "nbco4")](/assets/images/nbco4.png)
 
 One more interesting use of “metadata” here is the “Play By Play” pane that you can also call up on the player. This allows for you to see interesting details about each event as it occurs. For example here, we can see that the skier has achieved 54.7mph on the ramp before taking off – crazy.
 

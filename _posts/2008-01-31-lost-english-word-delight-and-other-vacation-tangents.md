@@ -13,7 +13,7 @@ I’ll go with this tangent for a second. Brazil is on "summer vacation" right n
 
 Anyway, back to "delight" – the first mention of it was from a British woman speaking about how enjoyable one of the rides was. (BTW, some of the British families here make "the Dursleys" look well-adjusted). Next came this kiosk.
 
-[![delights](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/LostEnglishworddelight_12EDB/delights_thumb.png)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/LostEnglishworddelight_12EDB/delights_2.png)
+[![delights](/assets/images/delights_thumb.png)](/assets/images/delights_2.png)
 
 It was a "fruity drink" vendor (hard to keep hydrated in the 82 degree heat …. how’s the snow?) And it occurred to me that the word "delight" often comes in the context of food (e.g. Turkish Delight).
 

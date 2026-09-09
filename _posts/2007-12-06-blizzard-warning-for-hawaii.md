@@ -7,6 +7,6 @@ et_enqueued_post_fonts:
 
 Now that’s something you don’t hear every day.
 
-[![hawaiisnow](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/BlizzardWarningFORHAWAII_F145/hawaiisnow_3.jpg)](http://blogs.woodtv.com/?p=2946)
+[![hawaiisnow](/assets/images/hawaiisnow_3.jpg)](http://blogs.woodtv.com/?p=2946)
 
 [24 Hour News 8 Blogs » Blizzard Warning!! FOR HAWAII!!](http://blogs.woodtv.com/?p=2946)

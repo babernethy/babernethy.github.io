@@ -11,7 +11,7 @@ Now we’re ~3 weeks before the vacation and all we’ve really decided is that 
 
 So I’m looking for input, and I need it fast, for what to do “south of Michigan” and what to do on the drive down.
 
-[![vacation_map](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/HeadingSouthAnyIdeas_C000/vacation_map_thumb.png)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/HeadingSouthAnyIdeas_C000/vacation_map_2.png)
+[![vacation_map](/assets/images/vacation_map_thumb.png)](/assets/images/vacation_map_2.png)
 
 This’ll be our fourth road trip as a family in the big van. First we went south-southeast and spent some time in Indianapolis, Nashville and Chattanooga (red on the map). Next we went to Florida via Charleston, Hilton Head, Jacksonville, St. Augustine, to Orlando (Disney / Sea World) (blue on the map). Then we went to Williamsburg/Jamestown/Yorktown, Virginia Beach, Chincoteague/Asateague, Lancaster, Gettysburg, etc.
 

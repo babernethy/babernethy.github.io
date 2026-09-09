@@ -9,11 +9,11 @@ et_enqueued_post_fonts:
 
 I have to admit, I’ve never done the “grow the crystals on a string” experiment before. Seems like everyone I talk to is saying “oh,yeah, I remember doing that as a kid.”. One of the great bonuses about having children is filling in the “gaps” in your experiences (and learning) and having a great excuse to do some things all over again (e.g. Legos, model rockets, etc.)
 
-[![nathan_crystal_1](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/CrystalExperimentTake1_6DDF/nathan_crystal_1_thumb.jpg)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/CrystalExperimentTake1_6DDF/nathan_crystal_1.jpg)
+[![nathan_crystal_1](/assets/images/nathan_crystal_1_thumb.jpg)](/assets/images/nathan_crystal_1.jpg)
 
 If you look in the middle of the picture below ….
 
-[![natan_crystal_2](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/CrystalExperimentTake1_6DDF/natan_crystal_2_thumb.jpg)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/CrystalExperimentTake1_6DDF/natan_crystal_2.jpg)
+[![natan_crystal_2](/assets/images/natan_crystal_2_thumb.jpg)](/assets/images/natan_crystal_2.jpg)
 
 … you will see the “starter rock” with the “sharp edges” which, in theory, the crystal will form on as the alum-saturated water evaporates. It can take 4-6 weeks to really get big enough to care about. That may be one of the biggest lessons of this experiment – patience. So many other projects and experiments have immediate gratification. This will take a while.It is really quite a small rock (40-50mm) but looks bigger in the picture.
 

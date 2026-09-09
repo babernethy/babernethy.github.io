@@ -9,4 +9,4 @@ This was such an amazing and surprising picture – Narwhals in Arctic Bay, Cana
 
 [http://www.boston.com/bigpicture/2008/10/world\_animal\_day.html](http://www.boston.com/bigpicture/2008/10/world_animal_day.html)
 
-[![boston_narwhals](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/WorldAnimalDayboston.com_EA43/boston_narwhals_thumb.jpg "boston_narwhals")](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/WorldAnimalDayboston.com_EA43/boston_narwhals_2.jpg)
+[![boston_narwhals](/assets/images/boston_narwhals_thumb.jpg "boston_narwhals")](/assets/images/boston_narwhals_2.jpg)

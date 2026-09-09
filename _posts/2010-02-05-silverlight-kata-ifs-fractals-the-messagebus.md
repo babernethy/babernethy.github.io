@@ -21,15 +21,15 @@ So, then, what are the messages that we will want to have in this application?
 
 So to start out we’d have this …
 
-[![messagebus1](http://www.bruceabernethy.com/wp-content/uploads/messagebus1_thumb.png "messagebus1")](http://www.bruceabernethy.com/wp-content/uploads/messagebus1.png)
+[![messagebus1](/assets/images/messagebus1_thumb.png "messagebus1")](/assets/images/messagebus1.png)
 
 The IFSContentControl would clone itself and apply each transform (3 in this example). These new controls would then also Subscribe to the “Iterate” Message.
 
-[![messagebus2](http://www.bruceabernethy.com/wp-content/uploads/messagebus2_thumb.png "messagebus2")](http://www.bruceabernethy.com/wp-content/uploads/messagebus2.png)
+[![messagebus2](/assets/images/messagebus2_thumb.png "messagebus2")](/assets/images/messagebus2.png)
 
 So the next click of the button that publishes the message will now be “heard” by three different objects ….
 
-[![messagebus3](http://www.bruceabernethy.com/wp-content/uploads/messagebus3_thumb.png "messagebus3")](http://www.bruceabernethy.com/wp-content/uploads/messagebus3.png)
+[![messagebus3](/assets/images/messagebus3_thumb.png "messagebus3")](/assets/images/messagebus3.png)
 
 And so on … and so on …
 
@@ -37,7 +37,7 @@ To fully make this work though, we’ll need to (1) get the new controls onto ou
 
 So we’ll add two more Messages: (1) AddIFSControl (to add the new IFSControls to the Container) and (2) RemoveIFSControl (to remove the current control from the Container once the Iteration is complete).
 
-[![messagebus4](http://www.bruceabernethy.com/wp-content/uploads/messagebus4_thumb.png "messagebus4")](http://www.bruceabernethy.com/wp-content/uploads/messagebus4.png)
+[![messagebus4](/assets/images/messagebus4_thumb.png "messagebus4")](/assets/images/messagebus4.png)
 
 So our messages end up looking like this …
 

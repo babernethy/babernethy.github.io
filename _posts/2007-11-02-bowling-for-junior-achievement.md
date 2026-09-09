@@ -7,7 +7,7 @@ et_enqueued_post_fonts:
 
 Straight to the point – I am on a bowling team next Wednesday in the **22nd Annual Coconut Bowl** **Bowling Classic** to support Junior Achievement (no we don’t bowl with coconuts (do we?)).
 
-[![jabowling](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/BowlingforJuniorAchievement_BF4B/jabowling_3.png)](https://www.firstgiving.com/bruceabernethy)
+[![jabowling](/assets/images/jabowling_3.png)](https://www.firstgiving.com/bruceabernethy)
 
 JA reaches over 60,000 students (just in West Michigan alone) a year. It is a great connection between local businesses and students.
 

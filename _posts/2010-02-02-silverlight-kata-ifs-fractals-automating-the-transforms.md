@@ -44,7 +44,7 @@ It is nice that we can enter our transforms in this concise class, but it would 
 
 </div>That will do nicely, and will help us get started on the XAML IFS Control itself.
 
-[![IFSContentControl](http://www.bruceabernethy.com/wp-content/uploads/IFSContentControl_thumb.png "IFSContentControl")](http://www.bruceabernethy.com/wp-content/uploads/IFSContentControl.png)
+[![IFSContentControl](/assets/images/IFSContentControl_thumb.png "IFSContentControl")](/assets/images/IFSContentControl.png)
 
 In order to handle multiple iterations, what we’d really like is a control that contains the object that we are copying, then applies a series of transforms from all the previous iterations.
 

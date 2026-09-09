@@ -7,7 +7,7 @@ et_enqueued_post_fonts:
 
 He he – kind of on the “when life gives you lemons, make lemonade” theme …
 
-[![bug_vs_feature](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/Bugvs.Feature_E312/bug_vs_feature_thumb.gif)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/Bugvs.Feature_E312/bug_vs_feature_2.gif)
+[![bug_vs_feature](/assets/images/bug_vs_feature_thumb.gif)](/assets/images/bug_vs_feature_2.gif)
 
 Too true.
 

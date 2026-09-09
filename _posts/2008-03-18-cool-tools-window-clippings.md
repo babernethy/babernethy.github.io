@@ -13,7 +13,7 @@ Second, it does the most common things I need with a simple click of the mouse. 
 
 Third, Window Clippings gives you options of what to do with the captured image.
 
-[![image](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/CoolToolsWindowClippings_77EC/image_thumb.png)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/CoolToolsWindowClippings_77EC/image_2.png)
+[![image](/assets/images/image_thumb.png)](/assets/images/image_2.png)
 
 You can copy the image to the clipboard, save the image to a file (even pick the file type – PNG, JPEG, TIFF, BMP), and even add a “post-save event” to post-process the image once you have taken the picture (never done that – sounds interesting).
 

@@ -17,11 +17,11 @@ Over the 4th of July weekend I saw a guy selling Kubb sets at a craft show for $
 
 Here is a pic and a [PDF of the basic instructions](http://blog.bruceabernethy.com/mirror/kubb.pdf) for what we did.
 
-[![KubbPlans](http://www.bruceabernethy.com/wp-content/uploads/KubbPlans.png "KubbPlans")](http://blog.bruceabernethy.com/mirror/kubb.pdf)
+[![KubbPlans](/assets/images/KubbPlans.png "KubbPlans")](http://blog.bruceabernethy.com/mirror/kubb.pdf)
 
-[![Kubb Final Set](http://www.bruceabernethy.com/wp-content/uploads/kubbfinal_thumb.png "Kubb Final Set")](http://www.bruceabernethy.com/wp-content/uploads/kubbfinal.png)
+[![Kubb Final Set](/assets/images/kubbfinal_thumb.png "Kubb Final Set")](/assets/images/kubbfinal.png)
 
-[![wood](http://www.bruceabernethy.com/wp-content/uploads/wood_thumb.png "wood")](http://www.bruceabernethy.com/wp-content/uploads/wood.png) The first thing to remember is that Kubb sets vary quite a bit. Some use round/cylinder pieces, some use squared off pieces, and the sizes vary quite a bit. Sure there are the [World Championship Rules](http://www.vmkubb.com/rules/english.pdf) if you want exact dimensions. But since they are in meters, cm and even mm, and my stores (and measuring tape) do not use metric, I used English measurements. My plans (above) are within 97% of the “official” rules and are probably much more practical for home use.
+[![wood](/assets/images/wood_thumb.png "wood")](/assets/images/wood.png) The first thing to remember is that Kubb sets vary quite a bit. Some use round/cylinder pieces, some use squared off pieces, and the sizes vary quite a bit. Sure there are the [World Championship Rules](http://www.vmkubb.com/rules/english.pdf) if you want exact dimensions. But since they are in meters, cm and even mm, and my stores (and measuring tape) do not use metric, I used English measurements. My plans (above) are within 97% of the “official” rules and are probably much more practical for home use.
 
 ## Wood
 
@@ -31,7 +31,7 @@ A word about which wood to use. Online and crafty sets come in pine, oak, cedar,
 
 You can make a basic Kubb set with just the wood described in the plans and a miter saw / box. Just cut the King and Kubbs from the 4×4 and cut the dowels to size. You will have a fully usable and fun Kubb set then with about 20 cuts on the wood you bought home – done. You will need 4 stakes/sticks to mark the corners of the playing area, and you are off.
 
-[![kubbs](http://www.bruceabernethy.com/wp-content/uploads/kubbs_thumb.png "kubbs")](http://www.bruceabernethy.com/wp-content/uploads/kubbs.png)If you want to take it one more step, you can cut down the Kubbs so that they are 2 3/4” x 2 3/4” x 6”. This makes them a little “leaner” than the King. You’ll need a table saw to do this, and of course my simple one will not cut all the way through a 4×4. This ended up being the most work (and mess) of our whole project, and 3 1/2” x 3 1/2” x 6” Kubbs probably work just fine.
+[![kubbs](/assets/images/kubbs_thumb.png "kubbs")](/assets/images/kubbs.png)If you want to take it one more step, you can cut down the Kubbs so that they are 2 3/4” x 2 3/4” x 6”. This makes them a little “leaner” than the King. You’ll need a table saw to do this, and of course my simple one will not cut all the way through a 4×4. This ended up being the most work (and mess) of our whole project, and 3 1/2” x 3 1/2” x 6” Kubbs probably work just fine.
 
 The final/finishing step is putting a quick crown on the King to make him look a little more important. This could easily be done with some paint or even a Sharpie (or skipped altogether). I cut a double-V on both faces of the top for a simple crown and a little v-shaped notch on each side for the “neck”.
 

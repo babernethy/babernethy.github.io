@@ -7,11 +7,11 @@ et_enqueued_post_fonts:
 
 Thanks to Chris for the heads-up on the $50 (after rebate) “cyber-Monday” memory deal at NewEgg – arrives on Thursday, can’t beat that.
 
-[![6gig](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/6Gbofmemorynowwhat_13BE3/6gig_thumb.png)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/6Gbofmemorynowwhat_13BE3/6gig_2.png)
+[![6gig](/assets/images/6gig_thumb.png)](/assets/images/6gig_2.png)
 
 2 2Gb sticks brings me to 6Gb.
 
-[![vista_sidebar](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/6Gbofmemorynowwhat_13BE3/vista_sidebar_thumb.png)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/6Gbofmemorynowwhat_13BE3/vista_sidebar_2.png) It is strange how much pressure I feel now having a system I could only dream about even 3-4 years ago. It is a lot of responsibility having so much raw computing power.
+[![vista_sidebar](/assets/images/vista_sidebar_thumb.png)](/assets/images/vista_sidebar_2.png) It is strange how much pressure I feel now having a system I could only dream about even 3-4 years ago. It is a lot of responsibility having so much raw computing power.
 
 I spend the majority of the time reading and writing which my Windows 98 computer did just fine with an old Pentium 3.
 
@@ -21,11 +21,11 @@ It’s weird (and cool) that today when I’m wondering what to do with the extr
 
 I downloaded the samples and started playing with them tonight, and they are very cool. The examples are classic CPU-intensive tasks like matrix-math, ray-tracing, searching, sorting, solving Soduku puzzles (some are very hard).
 
-[![parallel](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/6Gbofmemorynowwhat_13BE3/parallel_thumb.png)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/6Gbofmemorynowwhat_13BE3/parallel_2.png)
+[![parallel](/assets/images/parallel_thumb.png)](/assets/images/parallel_2.png)
 
 It is satisfying to see all the processors spike and the memory get eaten up (still haven’t crossed the 4Gb threshold yet. Tonight was all about making processors “dance”.
 
-| [![processor_dance](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/6Gbofmemorynowwhat_13BE3/processor_dance_thumb.png)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/6Gbofmemorynowwhat_13BE3/processor_dance_2.png) | I’m guessing the processor in the bottom-right had the primary application thread in it and the others were open for the parallel processing. |
+| [![processor_dance](/assets/images/processor_dance_thumb.png)](/assets/images/processor_dance_2.png) | I’m guessing the processor in the bottom-right had the primary application thread in it and the others were open for the parallel processing. |
 |---|---|
 
 I have a project right now that this would be terribly useful on, but the OS and hardware are already in place – lowly 2Gb dual-core server 🙂 – and you need .NET Framework 3.5 (plus these CTP (i.e. pre-release) extensions) to make it work. Maybe next time.

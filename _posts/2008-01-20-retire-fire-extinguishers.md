@@ -7,7 +7,7 @@ et_enqueued_post_fonts:
     - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
 ---
 
-[![fireext](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/RetireFireExtinguishers_13B3D/fireext_thumb.png)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/RetireFireExtinguishers_13B3D/fireext_2.png) So I assume this happens to many people, every so often – you need to retire a fire extinguisher as it is past its "last good date" (sometimes by almost a year). So you collect the one(s) that is being put out to pasture and get replacement(s).
+[![fireext](/assets/images/fireext_thumb.png)](/assets/images/fireext_2.png) So I assume this happens to many people, every so often – you need to retire a fire extinguisher as it is past its "last good date" (sometimes by almost a year). So you collect the one(s) that is being put out to pasture and get replacement(s).
 
 Now what do you do with the old ones? You clearly can’t just throw them in the trash – they can/will explode when they get compressed.
 

@@ -9,18 +9,18 @@ This is really creative – with all the people using Google Maps and Google Ear
 
 Garden of Eden
 
-[![godseyeviewedensm](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/TheBibleAccordingToGoogleEarth_74E5/godseyeviewedensm_thumb.jpg)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/TheBibleAccordingToGoogleEarth_74E5/godseyeviewedensm_2.jpg)
+[![godseyeviewedensm](/assets/images/godseyeviewedensm_thumb.jpg)](/assets/images/godseyeviewedensm_2.jpg)
 
 Noah’s Ark (the “after” picture)
 
-[![godseyeviewarksm](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/TheBibleAccordingToGoogleEarth_74E5/godseyeviewarksm_thumb.jpg)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/TheBibleAccordingToGoogleEarth_74E5/godseyeviewarksm_2.jpg)
+[![godseyeviewarksm](/assets/images/godseyeviewarksm_thumb.jpg)](/assets/images/godseyeviewarksm_2.jpg)
 
 Moses parting the Red Sea (my favorite)
 
-[![godseyeviewmosessm](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/TheBibleAccordingToGoogleEarth_74E5/godseyeviewmosessm_thumb.jpg)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/TheBibleAccordingToGoogleEarth_74E5/godseyeviewmosessm_2.jpg)
+[![godseyeviewmosessm](/assets/images/godseyeviewmosessm_thumb.jpg)](/assets/images/godseyeviewmosessm_2.jpg)
 
 The Crucifixion (powerful)
 
-[![godseyeviewcrosssm](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/TheBibleAccordingToGoogleEarth_74E5/godseyeviewcrosssm_thumb.jpg)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/TheBibleAccordingToGoogleEarth_74E5/godseyeviewcrosssm_2.jpg)
+[![godseyeviewcrosssm](/assets/images/godseyeviewcrosssm_thumb.jpg)](/assets/images/godseyeviewcrosssm_2.jpg)
 
 [CR Blog » Blog Archive » The Bible According To Google Earth](http://www.creativereview.co.uk/crblog/the-bible-according-to-google-earth/)

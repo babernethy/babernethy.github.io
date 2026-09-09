@@ -15,7 +15,7 @@ At this time there are apps using many different platforms and technologies, but
 
 Our team is taking five members to CodeMash this year, so we are getting together today to go over the schedule and decide which sessions we should try to all get to together and which ones we could “divide and conquer”, so I added the 3 iPod applications that I could find today to my Touch.
 
-[![threeicons](http://www.bruceabernethy.com/wp-content/uploads/threeicons_thumb.png "threeicons")](http://www.bruceabernethy.com/wp-content/uploads/threeicons.png)
+[![threeicons](/assets/images/threeicons_thumb.png "threeicons")](/assets/images/threeicons.png)
 
 The three apps I could find for the iPhone were iCodeMash, MobiMash, and a “CodeMash 2010 Scheduler”. The first is a web offline HTML application, and the other two are available in the AppStore (search on CodeMash). I was wondering if the offline HTML application would be able to have the same functionality as a “full iPhone application” and I have to say that I was really impressed with how much can be done using the tools available.
 
@@ -23,13 +23,13 @@ This will really not be a review/recommendation for these applications – they 
 
 ## Splash Screen
 
-[![IMG_0042](http://www.bruceabernethy.com/wp-content/uploads/IMG_0042_thumb.png "IMG_0042")](http://www.bruceabernethy.com/wp-content/uploads/IMG_0042.png) [![IMG_0043](http://www.bruceabernethy.com/wp-content/uploads/IMG_0043_thumb.png "IMG_0043")](http://www.bruceabernethy.com/wp-content/uploads/IMG_0043.png) [![IMG_0051](http://www.bruceabernethy.com/wp-content/uploads/IMG_0051_thumb.png "IMG_0051")](http://www.bruceabernethy.com/wp-content/uploads/IMG_0051.png)
+[![IMG_0042](/assets/images/IMG_0042_thumb.png "IMG_0042")](/assets/images/IMG_0042.png) [![IMG_0043](/assets/images/IMG_0043_thumb.png "IMG_0043")](/assets/images/IMG_0043.png) [![IMG_0051](/assets/images/IMG_0051_thumb.png "IMG_0051")](/assets/images/IMG_0051.png)
 
 I only mention this “feature” because it was interesting how similar things were, using the same source material.
 
 ## Home / Start Screen
 
-[![IMG_0035](http://www.bruceabernethy.com/wp-content/uploads/IMG_0035_thumb.png "IMG_0035")](http://www.bruceabernethy.com/wp-content/uploads/IMG_0035.png) [![IMG_0044](http://www.bruceabernethy.com/wp-content/uploads/IMG_0044_thumb.png "IMG_0044")](http://www.bruceabernethy.com/wp-content/uploads/IMG_0044.png) [![IMG_0052](http://www.bruceabernethy.com/wp-content/uploads/IMG_0052_thumb.png "IMG_0052")](http://www.bruceabernethy.com/wp-content/uploads/IMG_0052.png)
+[![IMG_0035](/assets/images/IMG_0035_thumb.png "IMG_0035")](/assets/images/IMG_0035.png) [![IMG_0044](/assets/images/IMG_0044_thumb.png "IMG_0044")](/assets/images/IMG_0044.png) [![IMG_0052](/assets/images/IMG_0052_thumb.png "IMG_0052")](/assets/images/IMG_0052.png)
 
 Other than the obvious different color palettes, this is where the applications (with the same back-end data) start to diverge.
 
@@ -41,15 +41,15 @@ The Scheduler application starts with a menu featuring links to sessions, but ad
 
 ## Pick Sessions
 
-[![IMG_0036](http://www.bruceabernethy.com/wp-content/uploads/IMG_0036_thumb.png "IMG_0036")](http://www.bruceabernethy.com/wp-content/uploads/IMG_0036.png) [![IMG_0037](http://www.bruceabernethy.com/wp-content/uploads/IMG_0037_thumb.png "IMG_0037")](http://www.bruceabernethy.com/wp-content/uploads/IMG_0037.png) [![IMG_0038](http://www.bruceabernethy.com/wp-content/uploads/IMG_0038_thumb.png "IMG_0038")](http://www.bruceabernethy.com/wp-content/uploads/IMG_0038.png)
+[![IMG_0036](/assets/images/IMG_0036_thumb.png "IMG_0036")](/assets/images/IMG_0036.png) [![IMG_0037](/assets/images/IMG_0037_thumb.png "IMG_0037")](/assets/images/IMG_0037.png) [![IMG_0038](/assets/images/IMG_0038_thumb.png "IMG_0038")](/assets/images/IMG_0038.png)
 
 iCodeMash approaches the sessions from a day/time standpoint. You need to pick a day (Thursday or Friday) and then you will see a list of all the titles of sessions at that time. If you pick a session title, then you will see the details for that session. If you select the “star” symbol on the description then this one will become a selection/favorite (very much like many Google apps use). Also in the description is a link to the room that this session is taking place in, with the specific room highlighted with a blue dot. This is a nice feature for when moving between sessions at the conference. I could not find a way to filter by level or track or access the speaker/bio information.
 
-[![IMG_0045](http://www.bruceabernethy.com/wp-content/uploads/IMG_0045_thumb.png "IMG_0045")](http://www.bruceabernethy.com/wp-content/uploads/IMG_0045.png) [![IMG_0046](http://www.bruceabernethy.com/wp-content/uploads/IMG_0046_thumb.png "IMG_0046")](http://www.bruceabernethy.com/wp-content/uploads/IMG_0046.png)
+[![IMG_0045](/assets/images/IMG_0045_thumb.png "IMG_0045")](/assets/images/IMG_0045.png) [![IMG_0046](/assets/images/IMG_0046_thumb.png "IMG_0046")](/assets/images/IMG_0046.png)
 
 MobiMash provides a complete list of all the sessions. The session abstract is included as well as the location and level of the session. The speaker’s name is a hyperlink to the speaker/bio information. A hyperlink by the session title enables you to add/remove the session from your list of favorites. This screen feels and works much like a web page. At the bottom of the session description is a unique feature to rate the session if you have attended it. I am not sure where this information surfaces, but it takes the application into the feedback/recap part of the process
 
-[![IMG_0053](http://www.bruceabernethy.com/wp-content/uploads/IMG_0053_thumb.png "IMG_0053")](http://www.bruceabernethy.com/wp-content/uploads/IMG_0053.png) [![IMG_0056](http://www.bruceabernethy.com/wp-content/uploads/IMG_0056_thumb.png "IMG_0056")](http://www.bruceabernethy.com/wp-content/uploads/IMG_0056.png)
+[![IMG_0053](/assets/images/IMG_0053_thumb.png "IMG_0053")](/assets/images/IMG_0053.png) [![IMG_0056](/assets/images/IMG_0056_thumb.png "IMG_0056")](/assets/images/IMG_0056.png)
 
 Scheduler provides either a complete list or a filtered list (level/track) of the sessions. From the formatted description you can access the speaker/bio information or Add the session to your My Sessions list.
 
@@ -57,7 +57,7 @@ Scheduler provides either a complete list or a filtered list (level/track) of th
 
 Viewing the list of sessions and their descriptions is a great feature (and would really be “enough” for any of these to be useful at the conference), but all add the ability to tag sessions you are interested in attending and review those selections later.
 
-[![IMG_0040](http://www.bruceabernethy.com/wp-content/uploads/IMG_0040_thumb.png "IMG_0040")](http://www.bruceabernethy.com/wp-content/uploads/IMG_0040.png) [![IMG_0047](http://www.bruceabernethy.com/wp-content/uploads/IMG_0047_thumb.png "IMG_0047")](http://www.bruceabernethy.com/wp-content/uploads/IMG_0047.png) [![IMG_0057](http://www.bruceabernethy.com/wp-content/uploads/IMG_0057_thumb.png "IMG_0057")](http://www.bruceabernethy.com/wp-content/uploads/IMG_0057.png)
+[![IMG_0040](/assets/images/IMG_0040_thumb.png "IMG_0040")](/assets/images/IMG_0040.png) [![IMG_0047](/assets/images/IMG_0047_thumb.png "IMG_0047")](/assets/images/IMG_0047.png) [![IMG_0057](/assets/images/IMG_0057_thumb.png "IMG_0057")](/assets/images/IMG_0057.png)
 
 iCodeMash continues to provide data in a day/time format in reviewing your session Favorites. This is most helpful in this view as this is probably how you will be using the data at the conference.
 
@@ -67,11 +67,11 @@ MobiMash and Scheduler provide a list of those items you have selected; MobiMash
 
 All three apps do a good job of implementing the “big 3” for conference sessions: finding, tagging, and reviewing. I would expect anyone at CodeMash with an iPhone/Touch to take advantage of one or more of these. Beyond these features were a few unexpected bonuses.
 
-[![IMG_0039](http://www.bruceabernethy.com/wp-content/uploads/IMG_0039_thumb.png "IMG_0039")](http://www.bruceabernethy.com/wp-content/uploads/IMG_0039.png) [![IMG_0048](http://www.bruceabernethy.com/wp-content/uploads/IMG_0048_thumb.png "IMG_0048")](http://www.bruceabernethy.com/wp-content/uploads/IMG_0048.png)
+[![IMG_0039](/assets/images/IMG_0039_thumb.png "IMG_0039")](/assets/images/IMG_0039.png) [![IMG_0048](/assets/images/IMG_0048_thumb.png "IMG_0048")](/assets/images/IMG_0048.png)
 
 Maps – iCodeMash and MobiMash both a venue map of the Kalahari conference center. MobiMash enables this on the button bar at the bottom. iCodeMash includes a link from the session description. iCodeMash goes one step more and includes a little blue dot highlighting the room that the selected session which is very thoughtful.
 
-[![IMG_0050](http://www.bruceabernethy.com/wp-content/uploads/IMG_0050_thumb.png "IMG_0050")](http://www.bruceabernethy.com/wp-content/uploads/IMG_0050.png)
+[![IMG_0050](/assets/images/IMG_0050_thumb.png "IMG_0050")](/assets/images/IMG_0050.png)
 
 Twitter – MobiMash includes a current sampling of Twitter postings using the #CodeMash hashtag. This is also quite cool and may be the way to find the most current info from the cloud at the Conference
 

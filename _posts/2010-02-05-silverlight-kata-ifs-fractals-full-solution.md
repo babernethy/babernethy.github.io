@@ -99,25 +99,25 @@ The RectangleTemplate allowed for different shape Rectangles (which the “fern�
 
 For the Serpinski Triangle / Gasket, I was very pleased:
 
-[![triangle8it](http://www.bruceabernethy.com/wp-content/uploads/triangle8it_thumb.png "triangle8it")](http://www.bruceabernethy.com/wp-content/uploads/triangle8it.png)
+[![triangle8it](/assets/images/triangle8it_thumb.png "triangle8it")](/assets/images/triangle8it.png)
 
 After 8 iterations, we have a fine (nearly textbook) example of what we were looking for.
 
 For the “Checkered ‘X’”, also very nice:
 
-[![cross5it](http://www.bruceabernethy.com/wp-content/uploads/cross5it_thumb.png "cross5it")](http://www.bruceabernethy.com/wp-content/uploads/cross5it.png)
+[![cross5it](/assets/images/cross5it_thumb.png "cross5it")](/assets/images/cross5it.png)
 
 More predictable, in my opinion, than the triangle, but after only 5 iterations we have the multi-layered self-similar “X”
 
 But for the Barnsley Fern:
 
-[![fern7it](http://www.bruceabernethy.com/wp-content/uploads/fern7it_thumb.png "fern7it")](http://www.bruceabernethy.com/wp-content/uploads/fern7it.png)
+[![fern7it](/assets/images/fern7it_thumb.png "fern7it")](/assets/images/fern7it.png)
 
 Not what I was hoping for. Even after 7 iterations (creating 16384 IFSContentControls), this is only starting to look like what I was hoping for. Iterating one more time left the browser “Not Responding” and was not generally a good idea.
 
 The fern has many intricate details that do not surface well with this algorithm. There are “bitmap” algorithms that create very nice ferns in a short amount of time (“classic” GDI+ routines) …
 
-[![bitmapfern](http://www.bruceabernethy.com/wp-content/uploads/bitmapfern_thumb.png "bitmapfern")](http://www.bruceabernethy.com/wp-content/uploads/bitmapfern.png)
+[![bitmapfern](/assets/images/bitmapfern_thumb.png "bitmapfern")](/assets/images/bitmapfern.png)
 
 But these do not track each translation and each message going out, which was what I was hoping to learn about from this.
 

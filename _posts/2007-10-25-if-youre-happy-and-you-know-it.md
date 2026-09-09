@@ -7,6 +7,6 @@ et_enqueued_post_fonts:
 
 I laughed audibly when I saw this – had to share. Some days you just need a little laugh (even geek humor).
 
-[![if_youre_happy_and_you_know_it](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/IfYoureHappyandYouKnowIt_DBE5/if_youre_happy_and_you_know_it_thumb.jpg)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/IfYoureHappyandYouKnowIt_DBE5/if_youre_happy_and_you_know_it_2.jpg)
+[![if_youre_happy_and_you_know_it](/assets/images/if_youre_happy_and_you_know_it_thumb.jpg)](/assets/images/if_youre_happy_and_you_know_it_2.jpg)
 
 [Global Nerdy » Blog Archive » If You’re Happy and You Know It…](http://globalnerdy.com/2007/10/24/if-youre-happy-and-you-know-it/)

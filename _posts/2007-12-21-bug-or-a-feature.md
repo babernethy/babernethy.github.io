@@ -7,4 +7,4 @@ et_enqueued_post_fonts:
 
  I don’t know why images are getting to me so much today, but I laughed out lout today (while trying to get some software projects “out the door” by the end of the year).
 
-[![bug_vs_feature](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/BugoraFeature_7635/bug_vs_feature_thumb.gif)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/BugoraFeature_7635/bug_vs_feature_2.gif)
+[![bug_vs_feature](/assets/images/bug_vs_feature_thumb.gif)](/assets/images/bug_vs_feature_2.gif)

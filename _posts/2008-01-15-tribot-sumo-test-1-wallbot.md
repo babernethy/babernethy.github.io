@@ -17,13 +17,13 @@ The basic ideas were:
 
 So here is what I came up with – I just call it the “WallBot”…
 
-[![trisumopersp](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/TribotSumo1WallBot_687A/trisumopersp_thumb.jpg)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/TribotSumo1WallBot_687A/trisumopersp_2.jpg)
+[![trisumopersp](/assets/images/trisumopersp_thumb.jpg)](/assets/images/trisumopersp_2.jpg)
 
-[![trtsumofront](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/TribotSumo1WallBot_687A/trtsumofront_thumb.jpg)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/TribotSumo1WallBot_687A/trtsumofront_2.jpg)Pretty basic and simple (that was the plan) – from the motors back it is all stock Tribot from the book. The front is mostly “wall” and stuff holding the wall on/up.
+[![trtsumofront](/assets/images/trtsumofront_thumb.jpg)](/assets/images/trtsumofront_2.jpg)Pretty basic and simple (that was the plan) – from the motors back it is all stock Tribot from the book. The front is mostly “wall” and stuff holding the wall on/up.
 
 What the other robot(s) should see is just a wall of LEGOs coming towards it – the only thing other than wall is the distance/ultrasonic sensor peeking through to “look for” the other robots and go after them. It is pretty solid and can push a robot of the same weight quite a ways.
 
-[![trisumobottom](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/TribotSumo1WallBot_687A/trisumobottom_thumb.jpg)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/TribotSumo1WallBot_687A/trisumobottom_2.jpg)
+[![trisumobottom](/assets/images/trisumobottom_thumb.jpg)](/assets/images/trisumobottom_2.jpg)
 
 The only thing extra you really see by looking “under” is the light sensor which will look for the edge of the ring. You also see that the only thing holding the front on are four pins (two left, two right) so the front comes off in only a few seconds, which is nice to show people how it goes together and for maintenance.
 

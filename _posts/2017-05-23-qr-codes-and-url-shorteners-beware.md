@@ -12,7 +12,7 @@ The full URL for this blog post is **http://www.bruceabernethy.com/2017/05/qr-co
 
 The bit.ly shortcode is only **http://bit.ly/QRShort**
 
-Which would you rather share with someone to type in?![](http://www.bruceabernethy.com/wp-content/uploads/2017/05/qrcode_article_code.png)
+Which would you rather share with someone to type in?![](/assets/images/qrcode_article_code.png)
 
 Better yet, how about a QR code – this code people don’t even have to type in. Some smartphones have the ability to read these codes natively and any phone, tablet or computer with a camera has an app that can read these. Very easy, very quick.
 

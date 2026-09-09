@@ -9,7 +9,7 @@ Well the last "missing piece" of our vacation arrived today – the passes to vi
 
 I know Shuttle launches are often delayed – this launch has already been delayed at least three times. So if we can’t see the launch on the 7th we’ll still do the tour, IMAX movie, visitors center, etc. But I would really like to see the launch in person.
 
-[![spacetickets](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/ShuttleLaunchStuffArrived_13B04/spacetickets_thumb.png)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/ShuttleLaunchStuffArrived_13B04/spacetickets_2.png)
+[![spacetickets](/assets/images/spacetickets_thumb.png)](/assets/images/spacetickets_2.png)
 
 The packet is much more involved than I thought. The launch is scheduled for after 2:00pm, but they want you to get there by 9:00am. No one is allowed into the access roads on the day of the launch without a placard in the front window. Then you need a photo id that matches the names on the tickets and a whole bunch of security precautions that make the TSA sound reasonable. No bags or backpacks of any kind, metal detectors, purses if necessary but with a full search, and all the "pointy stuff" restrictions (but you can bring a telescope).
 

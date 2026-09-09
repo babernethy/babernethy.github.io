@@ -31,7 +31,7 @@ When we approached the Henry Ford Museum at about 9:15 the traffic was already s
 
 The “hands-on” nature was further emphasized as we all signed a safety waiver and got a bracelet before going further (not an experience for the timid, or a “padded playground” here).
 
-[![](http://www.bruceabernethy.com/wp-content/uploads/2011/08/bigbike-218x300.jpg "bigbike")](http://www.bruceabernethy.com/wp-content/uploads/2011/08/bigbike.jpg)[![](http://www.bruceabernethy.com/wp-content/uploads/2011/08/bike47-300x218.jpg "bike47")](http://www.bruceabernethy.com/wp-content/uploads/2011/08/bike47.jpg)[![](http://www.bruceabernethy.com/wp-content/uploads/2011/08/wheelbike-300x238.jpg "wheelbike")](http://www.bruceabernethy.com/wp-content/uploads/2011/08/wheelbike.jpg)
+[![](/assets/images/bigbike.jpg "bigbike")](/assets/images/bigbike.jpg)[![](/assets/images/bike47.jpg "bike47")](/assets/images/bike47.jpg)[![](/assets/images/wheelbike.jpg "wheelbike")](/assets/images/wheelbike.jpg)
 
 The first area we explored included just about every kind of wheeled transportation imaginable – and nearly all were hands-on (with a bracelet). These included bikes with tires that were 10 feet high, we fit all of us on a “bicycle built for 7”, and Anna sat in (but didn’t ride around this time) on a motorbike where you actually ride inside the wheel.
 
@@ -39,7 +39,7 @@ The first area we explored included just about every kind of wheeled transportat
 
 The “Maker Shed” (and there were several large “circus tent” style areas with different exhibits) was really the “science fair” feel part of the Faire. We saw everything from embedded electronics, to plans for backyard [geodesic domes](http://en.wikipedia.org/wiki/Geodesic_dome), to solutions to cast/mold props for movie sets (including masks and forms to create any kind of alien or creature).
 
-[![](http://www.bruceabernethy.com/wp-content/uploads/2011/08/ezcheezeprinter-300x218.jpg "ezcheezeprinter")](http://www.bruceabernethy.com/wp-content/uploads/2011/08/ezcheezeprinter.jpg)[![](http://www.bruceabernethy.com/wp-content/uploads/2011/08/biofuels-300x218.jpg "biofuels")](http://www.bruceabernethy.com/wp-content/uploads/2011/08/biofuels.jpg)[![](http://www.bruceabernethy.com/wp-content/uploads/2011/08/knitfrog-300x218.jpg "knitfrog")](http://www.bruceabernethy.com/wp-content/uploads/2011/08/knitfrog.jpg)
+[![](/assets/images/ezcheezeprinter.jpg "ezcheezeprinter")](/assets/images/ezcheezeprinter.jpg)[![](/assets/images/biofuels.jpg "biofuels")](/assets/images/biofuels.jpg)[![](/assets/images/knitfrog.jpg "knitfrog")](/assets/images/knitfrog.jpg)
 
 A few examples … yes, if you look closely, that is an “Easy Cheeze Printer” that you could print your name in cheese on a cracker. Next is me talking to a guy who really reminded me of LeVarr Burton explaining how he used a fairly simple process to work with kids to create BioFuels from corn and other organic materials. And, at first glance you might think that is a frog undergoing dissection, but actually it is an art project representing a frog dissection using knitting (did I mention there were a huge number of crafts and craftsman at the Faire?).
 
@@ -49,7 +49,7 @@ We took a planned break from the heat (95 in direct sunlight for most of the mor
 
 We caught the end of a presentation by Sean Casey and his Tornado Intercept Vehicle (TIV) (borrowed an image from the web)
 
-[![](http://www.bruceabernethy.com/wp-content/uploads/2011/08/tornadoArmor-300x179.jpg "tornadoArmor")](http://www.bruceabernethy.com/wp-content/uploads/2011/08/tornadoArmor.jpg)
+[![](/assets/images/tornadoArmor.jpg "tornadoArmor")](/assets/images/tornadoArmor.jpg)
 
 This is a highly modified SUV with heavy weights and ground effects (to stop the tornado from lifting the vehicle). The “turret” on top is actually a mounted IMAX camera which enabled him to get some never-before-seen-and-lived type footage from the base of a tornado cell – which just happened to be showing at the IMAX theater in the museum as well.
 
@@ -59,11 +59,11 @@ We stayed through the following presentation which was a very well assembled and
 
 After a nice lunch and a chance meetup with some old friends (hey Bill and Ethan!) we headed outside to view the MouseTrap and the [Power Racing Series](http://www.powerracingseries.org/).
 
-[![](http://www.bruceabernethy.com/wp-content/uploads/2011/08/mousetrap-300x218.jpg "mousetrap")](http://www.bruceabernethy.com/wp-content/uploads/2011/08/mousetrap.jpg)
+[![](/assets/images/mousetrap.jpg "mousetrap")](/assets/images/mousetrap.jpg)
 
 The MouseTrap really escapes easy description – if you’ve seen the board game, and can imagine scaling everything up to “people-size” (i.e. the marbles in the game are now full-sized bowling balls and the crane/towers in the game are now 3-5 stories high) and then you add a carnival/gypsy-style music/performance, then you can approach what we saw there. It was very cool seeing how they geared, and levered, and propelled, and dropped, and flung around the bowling balls through a “[Rube Goldberg](http://en.wikipedia.org/wiki/Rube_Goldberg_machine)” style machine that ended up dropping a 2-ton actual bank safe to simulate the smashing of the mouse in the trap. The “take away” from this was probably that anything in your imagination is possible, even if you have a fairly twisted imagination, and as long as you have a lot of time on your hands.
 
-[![](http://www.bruceabernethy.com/wp-content/uploads/2011/08/powerracers-300x218.jpg "powerracers")](http://www.bruceabernethy.com/wp-content/uploads/2011/08/powerracers.jpg)
+[![](/assets/images/powerracers.jpg "powerracers")](/assets/images/powerracers.jpg)
 
 Right afterwards it was on to the Power Racing Series races. This was really fun, and something it would be fairly straightforward to get into. Imagine (or if you were there remember) taking one of those Power Racer toys that kids have been getting for Christmas over the last 5-6+ years – you know the ones like the Jeep or Barbie car that looks like a mini-version of the vehicle but runs on a rechargeable battery and goes 1-2 miles per hour and runs over pets, etc. So get a used Power Wheels vehicle (people nearly give them away when the first battery runs out or they have to store it for a season) and spend up to $500 fixing it up (save the receipts, re-use/recycle parts to save money) and then race it against a bunch of other crazy people who are doing the same thing. This means hacking these toys to go 15-20+ miles per hour, with actual rubber tires, upgraded motors, welded up frames, and more (but clearly little “wasted” on safety devices). It was a very entertaining event (with bonus points given for crowd-pleasing performances (even if you “lost” the race)) and, again, a success because the discussions of “we could do that” or “how did they do that” or “I think my cousin has one of those in the attic” started almost immediately. Competition, fun, and engineering hacking – all coming together in a really fun event – win-win.
 
@@ -71,7 +71,7 @@ Right afterwards it was on to the Power Racing Series races. This was really fun
 
 A highlight just because of its scale and dramatic effect was the Gon-KiRin fire-breathing dragon
 
-[![](http://www.bruceabernethy.com/wp-content/uploads/2011/08/dragon-300x218.jpg "dragon")](http://www.bruceabernethy.com/wp-content/uploads/2011/08/dragon.jpg)
+[![](/assets/images/dragon.jpg "dragon")](/assets/images/dragon.jpg)
 
 [MLive got some good video and follow up on this here](http://videos.mlive.com/mlive/2011/07/maker_faire_detroit_gon-kirin_1.html).
 
@@ -79,11 +79,11 @@ A highlight just because of its scale and dramatic effect was the Gon-KiRin fire
 
 Heading back inside we visited the First LEGO Robotics and FRC (full-scale robots) display.
 
-[![](http://www.bruceabernethy.com/wp-content/uploads/2011/08/frc-300x238.jpg "frc")](http://www.bruceabernethy.com/wp-content/uploads/2011/08/frc.jpg)
+[![](/assets/images/frc.jpg "frc")](/assets/images/frc.jpg)
 
 The FRC bots were demonstrating their ability to recognize different inflatable rings and shapes of different colors, and manipulate them in many cool ways (shown here stacking just the circles). These were quite impressive. The contrast here, to me, was that the budgets for teams like this are in the $10,000-$40,000 range and the time they spend on the projects is in the 100s-1000s of hours. Still quite impressive, and an accomplishment to be sure, with an obvious contrast with the Power Racers outside. The nice thing about the Maker Faire is that it has the whole range of items and projects from the Makers/Hackers (e.g. Power Racers) to the higher-end Engineers (FIRST Robotics).
 
-[![](http://www.bruceabernethy.com/wp-content/uploads/2011/08/cloudpic-300x239.jpg "cloudpic")](http://www.bruceabernethy.com/wp-content/uploads/2011/08/cloudpic.jpg)
+[![](/assets/images/cloudpic.jpg "cloudpic")](/assets/images/cloudpic.jpg)
 
 Finally found the Kinect with Lifelong Learning exhibit built by friend and hacker Don Burnett, but just in time to miss him at the event. They created a very fun (with a nice line up to try it out) kiosk with a Kinect that Washtenaw Community College has built and used to foster education and creative thinking.
 
@@ -91,7 +91,7 @@ This is also when the second of two camera batteries decided to die for the day 
 
 ## Coke Zero and Mentos to end the Day
 
-[![](http://www.bruceabernethy.com/wp-content/uploads/2011/08/cokementos-300x158.png "cokementos")](http://www.bruceabernethy.com/wp-content/uploads/2011/08/cokementos.png)
+[![](/assets/images/cokementos.png "cokementos")](/assets/images/cokementos.png)
 
 Right at 5:00 the guys from [Eepybird](http://www.eepybird.com) gave a wonderful educational and entertaining presentation on the wonderful world of Coke Zero and Mentos eruptions. Throughout the day kids were able to shoot off a Coke Zero Rocket Car (Anna’s shot out over 200ft – the temperature supposedly has a lot to do with the reaction). At the end of the day there was a “performance” including 160 or so bottles and 600+ Mentos. I found a nice [YouTube of this event here](http://www.youtube.com/watch?v=7q0en9WYpKc).
 

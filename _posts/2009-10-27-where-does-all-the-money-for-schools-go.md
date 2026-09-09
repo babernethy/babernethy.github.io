@@ -11,15 +11,15 @@ So the Michigan budget woes have brought up the issue of school funding again �
 
 Let me break this down to start the discussion. In order to do this math I am going to try to use approximate numbers – I’ll try to use a lower/fair number to keep the discussion fair. Let’s say that students in Michigan get $8,000 each per year for school.
 
-![8kperstudent](http://www.bruceabernethy.com/wp-content/uploads/8kperstudent.png "8kperstudent")
+![8kperstudent](/assets/images/8kperstudent.png "8kperstudent")
 
 That’s sounds like a decent amount to get an education. It isn’t a fortune but it has potential. Especially if you match it with some other students in a classroom. When I was in school we had about 30 kids in a classroom 5×6 grid of desks – this is too many. Let’s say you had a classroom of 28 students in it, how much money would we have then?
 
-[![224kperclassroom](http://www.bruceabernethy.com/wp-content/uploads/224kperclassroom_thumb.png "224kperclassroom")](http://www.bruceabernethy.com/wp-content/uploads/224kperclassroom.png)
+[![224kperclassroom](/assets/images/224kperclassroom_thumb.png "224kperclassroom")](/assets/images/224kperclassroom.png)
 
 Nice jump – up to $224,000 – nearing a quarter million dollars for a classroom of students. Now we are talking. Let’s say we had a school then with two classrooms per grade K-6. This is a nice sized school, but not overly big – again, like I remember from growing up. How much money would we have then? Well that is 14 classrooms so ……
 
-[![3milperschool](http://www.bruceabernethy.com/wp-content/uploads/3milperschool_thumb.png "3milperschool")](http://www.bruceabernethy.com/wp-content/uploads/3milperschool.png)
+[![3milperschool](/assets/images/3milperschool_thumb.png "3milperschool")](/assets/images/3milperschool.png)
 
 OK, now we are talking – $3.126 million dollars. Almost took out my computer copying and pasting that many virtual $1000 bills.
 

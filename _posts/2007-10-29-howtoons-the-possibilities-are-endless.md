@@ -9,7 +9,7 @@ I had forgotten that I preordered [this book from Amazon](http://www.amazon.com/
 
 The Howtoons book is really well done. You can get a basic idea of the premise of the book by visiting the [Howtoons site online](http://www.howtoons.com/) or looking through some back issues of [Make magazine](http://www.makezine.com/). But basically it is a creative way (comics with a story) of getting kids actively involved in working on hands-on science and construction projects.
 
-[![howtunesbook](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/HowtoonsThePossibilitiesAreEndless_7672/howtunesbook_thumb_1.png)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/HowtoonsThePossibilitiesAreEndless_7672/howtunesbook_4.png)
+[![howtunesbook](/assets/images/howtunesbook_thumb_1.png)](/assets/images/howtunesbook_4.png)
 
 One of the things that was a very positive surprise about the book, was that the book was not just a recap and compilation of their existing strips (which would have been worth the price anyway). They also got into the whole “background story” of what helps enable kids to be creative and constructive. There are a number of pages written (and drawn) to promote the idea of kids having a “workshop” (or just a workbench) where they can work on projects, and where a little bit of paint or glue would just “add character” to the place rather than “mess it up”. They also cover building up a good “tool bucket” and have a nice section on making and using protective eyewear for safety.
 

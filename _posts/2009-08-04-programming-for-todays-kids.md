@@ -24,7 +24,7 @@ I have made no conclusions here, but I wanted to list the environments I am usin
 
 ## Kodu: Game Programming Lab (XBox 360, PC (in Beta)) – 400 XBox “points”
 
-[![kodu](http://www.bruceabernethy.com/wp-content/uploads/kodu_thumb.jpg "kodu")](http://www.bruceabernethy.com/wp-content/uploads/kodu.jpg)
+[![kodu](/assets/images/kodu_thumb.jpg "kodu")](/assets/images/kodu.jpg)
 
 The latest item on my list is [Kodu: Game Programming Lab from Microsoft Research](http://research.microsoft.com/en-us/projects/kodu/). I put it first mainly because that is what I’ve been “talking” about on Twitter/Facebook which lead to this post (i.e. can’t explain all of this in 140 characters). [Kodu is available today for the XBox 360](http://marketplace.xbox.com/en-US/games/offers/00000001-0000-4000-8000-00005855024c?partner=RSS) and and Academic version is in beta test for the PC for release in the near future. As of today I have the PC version running on my laptop and I will be working with that more over the weekend. We’ve been using the XBox 360 version for just under a month, and all of my kids really love playing with it and are making their own games – in fact they’d rather “play” Kodu than many of the other “real” games.
 
@@ -40,7 +40,7 @@ There are a whole series of posts that could be written just about this environm
 
 ## NXT-G: Lego Mindstorms (PC, Mac) – Included with LEGO Mindstorms Kit ($275)
 
-[![nxt-g](http://www.bruceabernethy.com/wp-content/uploads/nxt-g_thumb.jpg "nxt-g")](http://www.bruceabernethy.com/wp-content/uploads/nxt-g.jpg)
+[![nxt-g](/assets/images/nxt-g_thumb.jpg "nxt-g")](/assets/images/nxt-g.jpg)
 
 [NXT-G is the graphical programming environment that comes with the LEGO Mindstorms Robotics kits](http://mindstorms.lego.com/overview/NXT_Software.aspx). The environment is a “click and drag” programming surface where programs are created by stacking and ordering blocks on the screen (much like building LEGO buildings, hmmm). Blocks are called “Move”, “Loop”, and have sensor blocks that correspond to the robotic sensors in the kit (e.g. touch sensor, ultrasonic (distance) sensor, sound, light, and now color in the 2.0 kit). The NXT-G application is actually an implementation of National Instruments LabVIEW graphical programming software which is used professionally by engineers and scientists. In fact, you can use [LabVIEW to do some advanced things](http://www.ni.com/academic/mindstorms/) with the robots that NXT-G will not handle.
 
@@ -50,7 +50,7 @@ Dragging and dropping controls is quite easy for most students – in fact the b
 
 ## Small Basic (PC) – Free
 
-[![smallbasic](http://www.bruceabernethy.com/wp-content/uploads/smallbasic_thumb.png "smallbasic")](http://www.bruceabernethy.com/wp-content/uploads/smallbasic.png)
+[![smallbasic](/assets/images/smallbasic_thumb.png "smallbasic")](/assets/images/smallbasic.png)
 
 [Small Basic came out of Microsoft’s DevLabs](http://msdn.microsoft.com/en-us/devlabs/cc950524.aspx) as a simple programming language for kids to get started with. It is unique among many of the rest in that it allows for the direct entering of programming code, whereas most of the others have gone to a graphical programming language. It also preserves a lot of the BASIC syntax (15 keywords) so it will be comfortable for many adults that are assisting and mentoring kids who are starting to program. It also means that the age range probably scoots up a few to perhaps 10-16.
 
@@ -58,7 +58,7 @@ The power of Small Basic comes in it’s simplicity (look at the tool bar compar
 
 ## Scratch (PC, Mac) – Free
 
-[![scratch](http://www.bruceabernethy.com/wp-content/uploads/scratch.jpg "scratch")](http://scratch.mit.edu/)
+[![scratch](/assets/images/scratch.jpg "scratch")](http://scratch.mit.edu/)
 
 [Scratch has been developed by the Lifelong Kindergarten Group at the MIT Media Lab](http://scratch.mit.edu/) as programming language for kids 8 and up.
 
@@ -72,7 +72,7 @@ One of the other programs, besides BASIC, that I really miss is “Storybook Wea
 
 ## Alice (PC, Mac – Java) – Free
 
-[![alice](http://www.bruceabernethy.com/wp-content/uploads/alice_thumb.jpg "alice")](http://www.bruceabernethy.com/wp-content/uploads/alice.jpg)
+[![alice](/assets/images/alice_thumb.jpg "alice")](/assets/images/alice.jpg)
 
 [Alice is unique programming environment out of Carnegie Mellon](http://www.alice.org/) in that allows creation and manipulation of custom 3D characters and objects – which is really cool. Creating 3D objects is hard but not impossible, and better tools are coming out all the time. There are freely available 3D models that are being created by the community for use by others in Alice.
 

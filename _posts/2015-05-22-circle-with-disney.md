@@ -6,7 +6,7 @@ et_enqueued_post_fonts:
 image: /wp-content/uploads/2015/12/circle_thumb.jpg
 ---
 
-[![circle](http://www.bruceabernethy.com/wp-content/uploads/2015/12/circle_thumb.jpg "circle")](http://www.bruceabernethy.com/wp-content/uploads/2015/12/circle.jpg)The internet is a wonderful resource – more information, ideas, resources, entertainment, etc. at our fingertips than ever before in history. It can also be a huge distraction.
+[![circle](/assets/images/circle_thumb.jpg "circle")](/assets/images/circle.jpg)The internet is a wonderful resource – more information, ideas, resources, entertainment, etc. at our fingertips than ever before in history. It can also be a huge distraction.
 
 The [Circle with Disney](https://meetcircle.com/) is a
 

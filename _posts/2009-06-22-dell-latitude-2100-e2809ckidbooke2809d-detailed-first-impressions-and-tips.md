@@ -7,7 +7,7 @@ date: '2009-06-22T23:51:00+00:00'
 
 I wrote almost a year ago of how I’ve been looking for a netbook that would meet some basic requirements for use by kids for their daily work. There have been a lot of netbook models which are basically all the same specs, but none have really stood out as something that was designed and intended for kids, especially younger kids, to use on a daily basis. Enter the Dell Latitude 2100 “kidbook”. I’m calling it a kidbook because it adds some important features.
 
-[![05running](http://www.bruceabernethy.com/wp-content/uploads/05running_thumb.png "05running")](http://www.bruceabernethy.com/wp-content/uploads/05running.png)
+[![05running](/assets/images/05running_thumb.png "05running")](/assets/images/05running.png)
 
 The 2100 is designed from the ground up for daily use in schools – it is not generally intended to be a consumer netbook. This means some important things. First, it amazingly comes with no promo/demo/annoyware installed. While this isn’t really a feature, it saves perhaps an hour or more of uninstalling to get up and running.
 
@@ -21,7 +21,7 @@ Finally the 2100 is very budget conscious – starting under $400, about $450 wi
 
 Let’s get right to my biggest concern about the units the screen resolution – 1024 x 574? Huh? Computer monitors have traditionally been in a 4:3 ratio (e.g. 640×480, 800×600) and more recently 16:9 (1280×720) but netbooks have commonly chosen WSVGA resolution of 1024×600. This is trouble enough as it doesn’t match any typical resolutions of monitors, but by the 2100 dropping a mysterious 26 pixels off of this causes additional problems.
 
-[![screenres](http://www.bruceabernethy.com/wp-content/uploads/screenres_thumb.png "screenres")](http://www.bruceabernethy.com/wp-content/uploads/screenres.png)
+[![screenres](/assets/images/screenres_thumb.png "screenres")](/assets/images/screenres.png)
 
 Many web sites are expecting at least 700 pixel vertical resolution, so you end up having to scroll down to get to the active parts of many web sites. But this is true of all netbooks and web sites are adapting to the netbook trend.
 
@@ -29,17 +29,17 @@ However, software installers can check minimum resolution before installing or s
 
 But, 1024×576 is not one of the choices in the typical “Display Properties” dialog box – so how do you switch back. It turns out it is not that straightforward, but here is the scoop.
 
-[![06graphics](http://www.bruceabernethy.com/wp-content/uploads/06graphics_thumb.png "06graphics")](http://www.bruceabernethy.com/wp-content/uploads/06graphics.png) [![06aintel](http://www.bruceabernethy.com/wp-content/uploads/06aintel_thumb.png "06aintel")](http://www.bruceabernethy.com/wp-content/uploads/06aintel.png)
+[![06graphics](/assets/images/06graphics_thumb.png "06graphics")](/assets/images/06graphics.png) [![06aintel](/assets/images/06aintel_thumb.png "06aintel")](/assets/images/06aintel.png)
 
 In “Display Properties” Settings, choose the Advanced Button. One of the Tabs will now be called “Intel Graphics Media Accelerator Driver for Mobile”. Here there are two things: 1) the button that takes you to the actual screen you need, and 2) a “Show Tray Icon” checkbox that will enable access to this panel directly from the System Tray. If you find yourself needing to switch resolutions to support certain software, having easy access to his panel will be helpful.
 
-[![06bintel2](http://www.bruceabernethy.com/wp-content/uploads/06bintel2_thumb.png "06bintel2")](http://www.bruceabernethy.com/wp-content/uploads/06bintel2.png)
+[![06bintel2](/assets/images/06bintel2_thumb.png "06bintel2")](/assets/images/06bintel2.png)
 
 On this screen, finally, you can find the “native” resolution of the 2100 (1024×576).
 
 An additional tip, the new Chrome web browser from Google has a unique functionality (that I hope gets picked up by IE, Firefox, etc.) that allows you to find a page on the web and then “Create Application Shortcuts”. This does two important things: 1) Drops an icon on the desktop, start menu, quick-launch bar, etc. for that web site (and picks up the favicon as an icon for the shortcut) and 2) removes all the UI chrome at the top (i.e. no address bar, tabs, menus, just the window title). This enables kids to get to pre-selected sites very quickly and maximizes the vertical “real estate” on the screen for maximum use.
 
-[![09chromewikipedia](http://www.bruceabernethy.com/wp-content/uploads/09chromewikipedia_thumb.png "09chromewikipedia")](http://www.bruceabernethy.com/wp-content/uploads/09chromewikipedia.png)
+[![09chromewikipedia](/assets/images/09chromewikipedia_thumb.png "09chromewikipedia")](/assets/images/09chromewikipedia.png)
 
 ## Touch Screen
 
@@ -59,11 +59,11 @@ We also opted for the integrated webcam and digital microphone. I was very pleas
 
 The one trick we found was actually enabling the integrated digital microphone in applications like Skype and Audacity (audio/podcasting). There is only one microphone driver/input in the software but there is an external jack for microphones and an internal digital microphone. I only found one place to switch between the two. If you open the control panels there will be one called the “Realtek HD Sound Effect Manager”.
 
-[![07sound](http://www.bruceabernethy.com/wp-content/uploads/07sound_thumb.png "07sound")](http://www.bruceabernethy.com/wp-content/uploads/07sound.png)
+[![07sound](/assets/images/07sound_thumb.png "07sound")](/assets/images/07sound.png)
 
 Opening this up you will find a tab called “Mixer”. Once selected you will have the option to select the radio button for either the external or integrated/digital mic.
 
-[![07adigmic](http://www.bruceabernethy.com/wp-content/uploads/07adigmic_thumb.png "07adigmic")](http://www.bruceabernethy.com/wp-content/uploads/07adigmic.png)
+[![07adigmic](/assets/images/07adigmic_thumb.png "07adigmic")](/assets/images/07adigmic.png)
 
 ## Memory
 
@@ -71,11 +71,11 @@ There are really four configurations of memory in the 2100: 512Mb, 1Gb, 1.5Gb, a
 
 Adding the second sticks of memory turns out to be more involved than any laptop I have ever used or owned, and this is saying a lot. It turns out that you first need to remove the keyboard (2 screws) to get to the internal screws attaching the bottom cover (3 screws) and then you need to remove the bottom access cover (4 screws). One note here is to be careful with the keyboard cable clip.
 
-[![02akeyclip](http://www.bruceabernethy.com/wp-content/uploads/02akeyclip_thumb.png "02akeyclip")](http://www.bruceabernethy.com/wp-content/uploads/02akeyclip.png)
+[![02akeyclip](/assets/images/02akeyclip_thumb.png "02akeyclip")](/assets/images/02akeyclip.png)
 
 This clip opens upwards (see above) and stays attached – or should stay attached. One one of the units I had this clip (the white part) completely detach which lead to 20 minutes or so of anxiety before my wife (with better eyes and smaller fingers) got the clip to click back on (thanks Laura).
 
-[![02bkeygone](http://www.bruceabernethy.com/wp-content/uploads/02bkeygone_thumb.png "02bkeygone")](http://www.bruceabernethy.com/wp-content/uploads/02bkeygone.png)[![02keyboard](http://www.bruceabernethy.com/wp-content/uploads/02keyboard_thumb.png "02keyboard")](http://www.bruceabernethy.com/wp-content/uploads/02keyboard.png) [![03aimagelocation](http://www.bruceabernethy.com/wp-content/uploads/03aimagelocation_thumb.png "03aimagelocation")](http://www.bruceabernethy.com/wp-content/uploads/03aimagelocation.png)
+[![02bkeygone](/assets/images/02bkeygone_thumb.png "02bkeygone")](/assets/images/02bkeygone.png)[![02keyboard](/assets/images/02keyboard_thumb.png "02keyboard")](/assets/images/02keyboard.png) [![03aimagelocation](/assets/images/03aimagelocation_thumb.png "03aimagelocation")](/assets/images/03aimagelocation.png)
 
 The second 2100 memory upgrade went fine with the keyboard clip but the memory did not “seat” correctly so I had to re-remove the 9 screws, keyboard, panel, etc. and do it all over again – good experience, but, again, not as “friendly” as many other laptops. Perhaps having Dell install the 1Gb when building the machine is worth saving $10 on memory.
 
@@ -95,7 +95,7 @@ So Windows XP SP3 is probably the most stable and understood Windows operating s
 
 Unsurprisingly the 2100 supports Wi-Fi and wired connections (no 3G or WiMax, but not needed). But surprisingly it supports 802.11n high-speed Wi-Fi and 1000 Gigabit Ethernet wired connections which are not common on typical netbooks. They also have the ability to “wake on LAN” which enables solutions like the upcoming “Managed Mobile Computing Station”.
 
-[![09mobilestation](http://www.bruceabernethy.com/wp-content/uploads/09mobilestation_thumb.png "09mobilestation")](http://www.bruceabernethy.com/wp-content/uploads/09mobilestation.png)
+[![09mobilestation](/assets/images/09mobilestation_thumb.png "09mobilestation")](/assets/images/09mobilestation.png)
 
 This unit enables 24 of the 2100s to be docked for charging, storage/security, and remote updates (even includes it’s own wireless router so you can plug in one Ethernet cable and wirelessly power a room). But at close to $4,000 this kind of kills the whole “on budget” theme for a classroom – hmm, 10 more 2100s or a fancy cart.
 
@@ -103,7 +103,7 @@ Bluetooth 2.1 is available as an added option (we didn’t opt-in). This was tem
 
 One other thing is the somewhat hyped feature of the Network Activity Light.
 
-[![10activitylight](http://www.bruceabernethy.com/wp-content/uploads/10activitylight_thumb.png "10activitylight")](http://www.bruceabernethy.com/wp-content/uploads/10activitylight.png)
+[![10activitylight](/assets/images/10activitylight_thumb.png "10activitylight")](/assets/images/10activitylight.png)
 
 This is included on the cover of the netbook and shows if any network interface is being used (i.e. light on if activity, light off if no activity). I’ll stop short of calling this a “gimmick” but in our experience the light is always on because the network is always on. If there were an easier way for kids to turn the network on and off, or some software uses this for other purposes (a promised API from Dell for educational software programmers may be coming soon), then this may have a larger use and impact.
 
@@ -121,7 +121,7 @@ Sometimes there is no getting away from using external media. Ironically all the
 
 The first is an external CD/DVD drive. The best of these will require no external power and can be powered directly from the USB port. Dell has an option for this when building the machines for $90 which includes PowerDVD (playing DVDs) and Roxio Creator software (burning discs). I was watching for deals and found a Samsung drive on sale at NewEgg for $49 which included Nero 8 (playing and burning). This has worked well for installing software, running CDs, and playing DVDs – I was impressed that the laptop played the DVDs so well with the limited power. I am sure when you are running off of battery power that this would significantly reduce battery run time.
 
-[![04drives](http://www.bruceabernethy.com/wp-content/uploads/04drives_thumb.png "04drives")](http://www.bruceabernethy.com/wp-content/uploads/04drives.png)
+[![04drives](/assets/images/04drives_thumb.png "04drives")](/assets/images/04drives.png)
 
 The other option is to use disc images on the hard drive. Utilities such as PowerISO will allow you to create an image of most CDs/DVDs and store them on the hard drive, and later mount these images as virtual disks. This essentially mirrors the content of the CD/DVD to the hard drive. This image can then be run using just the hard drive. This raises all kinds of copyright issues and licensing headaches. This is a topic for another post, but make sure your licensing allows for this type of use and that you are covered for the number of simultaneous installs and users that you have. Some discs have copy protection on them and will not work with this method of mounting – this clearly shows the intent of the publisher – contact them directly as I am sure this will be a common issue going forward.
 

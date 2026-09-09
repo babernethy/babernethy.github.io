@@ -13,11 +13,11 @@ This Saturday (March 22, 2008) we attended the West Michigan FIRST Robotics Regi
 
 We got to the competition with the preliminaries already underway. The rules are quite complex, but [here is a link if you are interested](http://www.usfirst.org/uploadedFiles/Community/FRC/FRC_Documents_and_Updates/2008_Assets/Manual/7%20-The%20Game-RevG.pdf).
 
-[![robo_arena](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/WestMichiganFIRSTRoboticsRegionalCompeti_6D21/robo_arena_thumb.png)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/WestMichiganFIRSTRoboticsRegionalCompeti_6D21/robo_arena_2.png)
+[![robo_arena](/assets/images/robo_arena_thumb.png)](/assets/images/robo_arena_2.png)
 
 Then we visited the "pits" where many of the teams were willing to show us their robots close up (safety glasses please) and explain how they worked (and give out their team pin – which were cool to collect).
 
-[![robo_wobot](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/WestMichiganFIRSTRoboticsRegionalCompeti_6D21/robo_wobot_thumb.png)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/WestMichiganFIRSTRoboticsRegionalCompeti_6D21/robo_wobot_2.png)
+[![robo_wobot](/assets/images/robo_wobot_thumb.png)](/assets/images/robo_wobot_2.png)
 
 This is the "WO-Bot" from West Ottawa High School (near Holland) – this was Nathan’s favorite as it tossed the ball over the divide.
 

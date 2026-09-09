@@ -7,4 +7,4 @@ et_enqueued_post_fonts:
 
 I can’t imagine posting again before Christmas, so I wanted to wish everyone a safe and blessed Christmas.
 
- [![christmas2](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/MerryChristmas_BD52/christmas2_thumb.jpg)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/MerryChristmas_BD52/christmas2_2.jpg)
+ [![christmas2](/assets/images/christmas2_thumb.jpg)](/assets/images/christmas2_2.jpg)

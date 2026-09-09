@@ -7,7 +7,7 @@ et_enqueued_post_fonts:
 
 I learned a couple of interesting new things over the weekend. (1) Wal-mart carries pretty cool Meade telescopes and (2) my camera phone actually takes decent pictures.
 
-[![09-01-07_1226](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/WalmartTelescopes_6602/09-01-07_1226_thumb.jpg)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/WalmartTelescopes_6602/09-01-07_1226.jpg)
+[![09-01-07_1226](/assets/images/09-01-07_1226_thumb.jpg)](/assets/images/09-01-07_1226.jpg)
 
 The girls were shopping for some gymnastics clothes so Nathan and I were just wandering around the Wal-mart in Cadillac on our way up north this weekend, when we can upon the Meade “Backpack Observatory” amongst some random craft/hobby items (see the nice planogram with the telescopes right inline with the candles).
 

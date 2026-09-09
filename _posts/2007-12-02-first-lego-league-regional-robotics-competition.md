@@ -15,6 +15,6 @@ Overall a very worthwhile group that I am trying to figure out how to get more i
 
 A special “shout out” to team #22, Legos in Paradise who took 2nd place and are one of the [nine regional teams](http://www.grandvilleboosters.org/3_Tournament%20Winners%20Photos.html) on their way to the state competition in two weeks.
 
-[![lipteam](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/StudentinventorscompeteinGrandvilleTheGr_64AF/lipteam_thumb.jpg)](http://www.bruceabernethy.com/wp-content/uploads/WindowsLiveWriter/StudentinventorscompeteinGrandvilleTheGr_64AF/lipteam_2.jpg)
+[![lipteam](/assets/images/lipteam_thumb.jpg)](/assets/images/lipteam_2.jpg)
 
 [Student inventors compete in Grandville – Latest News – The Grand Rapids Press – MLive.com](http://blog.mlive.com/grpress/2007/12/student_inventors_compete_in_g.html)
