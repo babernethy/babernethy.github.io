@@ -15,7 +15,7 @@ title_separator          : "-"
 subtitle                 : "Thoughts on software development, leadership, and life."
 name                     : "Bruce Abernethy"
 description              : "Blog of Bruce Abernethy - Software developer, director, dad, and husband.  Ocassional writer, speaker, and teacher."
-url                      : https://www.bruceabernethy.com
+url                      : https://bruceabernethy.com
 baseurl                  : "/"
 repository               : "babernethy/babernethy.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
