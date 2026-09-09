@@ -3,8 +3,6 @@ title: 'Silverlight Kata: IFS Fractals: The MessageBus'
 excerpt: 'Part three of the fractal kata - wiring up a MessageBus so the controls stop knowing about each other.'
 description: 'Part three of the fractal kata - wiring up a MessageBus so the controls stop knowing about each other.'
 date: '2010-02-05T03:20:13+00:00'
-dsq_thread_id:
-    - '518626049'
 category: "development"
 tags: ["silverlight", "development"]
 redirect_from:

@@ -3,8 +3,6 @@ title: 'Tribot Sumo Test #1 &#8211; WallBot'
 excerpt: 'A LEGO sumo robot built in one sitting - mostly a wall, with one sensor peeking through.'
 description: 'A LEGO sumo robot built in one sitting - mostly a wall, with one sensor peeking through.'
 date: '2008-01-15T23:39:05+00:00'
-dsq_thread_id:
-    - '566546083'
 category: "science"
 tags: ["robotics", "family", "development"]
 redirect_from:

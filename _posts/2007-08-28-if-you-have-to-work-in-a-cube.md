@@ -3,8 +3,6 @@ title: 'If you have to work in a cube &#8230;'
 excerpt: 'If I have to work in a cube, I want one like this - separate from the house and steps from fresh air.'
 description: 'If I have to work in a cube, I want one like this - separate from the house and steps from fresh air.'
 date: '2007-08-28T11:46:25+00:00'
-dsq_thread_id:
-    - '360438958'
 category: "jobs"
 tags: ["jobs", "design"]
 redirect_from:

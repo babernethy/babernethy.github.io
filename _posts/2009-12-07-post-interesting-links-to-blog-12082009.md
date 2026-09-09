@@ -3,8 +3,6 @@ title: 'Post Interesting Links to Blog 12/08/2009'
 excerpt: 'Links saved from Diigo - the college football bowl schedule.'
 description: 'Links saved from Diigo - the college football bowl schedule.'
 date: '2009-12-07T17:30:35+00:00'
-dsq_thread_id:
-    - '548673663'
 category: "links"
 tags: ["general"]
 redirect_from:
@@ -16,6 +14,6 @@ redirect_from:
     [tags](http://www.diigo.com/cloud/babernethy): [no\_tag](http://www.diigo.com/user/babernethy/no_tag)
     
     
-    - <div class="diigoContent"><div class="diigoContentInner">**GMAC**</div></div>
+    - **GMAC**
 
 Posted from [Diigo](http://www.diigo.com). The rest of my [favorite links](http://www.diigo.com/user/babernethy) are here.

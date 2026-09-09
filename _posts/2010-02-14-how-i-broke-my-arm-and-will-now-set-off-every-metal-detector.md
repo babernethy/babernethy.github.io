@@ -3,8 +3,6 @@ title: 'How I broke my arm and will now set off every metal detector'
 excerpt: 'Ice under snow at the end of the driveway, and my first attempt at typing in four days.'
 description: 'Ice under snow at the end of the driveway, and my first attempt at typing in four days.'
 date: '2010-02-14T03:10:00+00:00'
-dsq_thread_id:
-    - '390233978'
 category: "personal"
 tags: ["health", "family"]
 redirect_from:

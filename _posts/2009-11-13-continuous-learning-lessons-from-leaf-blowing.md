@@ -9,7 +9,7 @@ redirect_from:
   - /continuous-learning-lessons-from-leaf-blowing/
 ---
 
-Funny how something as simple as teaching your daughter to use a leaf blower can reinforce and confirm ideas about learning any new skill. This last week my daughter saw me “playing” with a leaf blower and showed some real interest in trying it out herself. What happened next would drive some classic/corporate staff development / training people crazy, or more accurately what we **<u>didn’t</u>** do. We …
+Funny how something as simple as teaching your daughter to use a leaf blower can reinforce and confirm ideas about learning any new skill. This last week my daughter saw me “playing” with a leaf blower and showed some real interest in trying it out herself. What happened next would drive some classic/corporate staff development / training people crazy, or more accurately what we **didn’t** do. We …
 
 - Didn’t go get my daughter leaf blower manual and have her read through it (and have a written test for her afterwards).
 - Didn’t tell her to go Google “Leaf Blowing” and see what other people trying to leaf-blow had done

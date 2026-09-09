@@ -3,8 +3,6 @@ title: 'One Month of No Fast Food or Drive Thru'
 excerpt: 'One month without a drive thru, made public so someone will ridicule me if I slip.'
 description: 'One month without a drive thru, made public so someone will ridicule me if I slip.'
 date: '2010-03-10T08:45:22+00:00'
-dsq_thread_id:
-    - '367525287'
 category: "personal"
 tags: ["health", "thinking"]
 redirect_from:

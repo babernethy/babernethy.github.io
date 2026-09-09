@@ -3,8 +3,6 @@ title: 'Silverlight Kata: IFS Fractals: Full Solution'
 excerpt: 'The finished fractal kata - full source, a live demo, and how the pieces fit together.'
 description: 'The finished fractal kata - full source, a live demo, and how the pieces fit together.'
 date: '2010-02-05T09:23:28+00:00'
-dsq_thread_id:
-    - '477582954'
 category: "development"
 tags: ["silverlight", "development", "science"]
 redirect_from:

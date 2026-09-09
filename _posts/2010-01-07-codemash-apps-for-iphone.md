@@ -3,8 +3,6 @@ title: 'CodeMash Apps for iPhone'
 excerpt: 'CodeMash opened up its schedule as web services and let the community build the apps.'
 description: 'CodeMash opened up its schedule as web services and let the community build the apps.'
 date: '2010-01-07T03:35:23+00:00'
-dsq_thread_id:
-    - '430893019'
 category: "development"
 tags: ["mobile", "development", "presentations"]
 redirect_from:

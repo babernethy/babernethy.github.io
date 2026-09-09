@@ -9,7 +9,7 @@ redirect_from:
   - /first-lego-league-regional-robotics-competition/
 ---
 
-I spent most of Saturday at the [regional](http://blog.mlive.com/grpress/2007/12/student_inventors_compete_in_g.html "regional&nbsp;") [FIRST Lego League Robotics](http://www.usfirst.org/what/fll/default.aspx?id=390) competition in *Grandville (pics).* (link is no longer active) It is a competition of 9-14 year old kids who have spent 8-12 weeks working on Lego robotics programs (and much much more) to solve the *yearly theme* (link is no longer active) called “Power Puzzle” and *related missions* (link is no longer active).
+I spent most of Saturday at the [regional](http://blog.mlive.com/grpress/2007/12/student_inventors_compete_in_g.html "regional") [FIRST Lego League Robotics](http://www.usfirst.org/what/fll/default.aspx?id=390) competition in *Grandville (pics).* (link is no longer active) It is a competition of 9-14 year old kids who have spent 8-12 weeks working on Lego robotics programs (and much much more) to solve the *yearly theme* (link is no longer active) called “Power Puzzle” and *related missions* (link is no longer active).
 
 While Legos and Robots would certainly be more than enough, the actual robot performance is only a quarter of the total possible scores. They had to do a project (this year an energy audit of a building – lots of work), present it to the community and then also at the competition. They have an activity and interview to determine how well they work together as a team. And they have technical interviews to determine what they have learned about the theme (this year – energy conservation and alternative energy), building and programming robots, and to make sure all the work was done by the team and not the adult coaches and mentors.
 

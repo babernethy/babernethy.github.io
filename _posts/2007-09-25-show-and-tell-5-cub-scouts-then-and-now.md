@@ -3,8 +3,6 @@ title: 'Show and Tell #5: Cub Scouts &#8211; Then and Now'
 excerpt: 'Cub Scout books from 1962 and 2004 side by side - how little changed, and what actually did.'
 description: 'Cub Scout books from 1962 and 2004 side by side - how little changed, and what actually did.'
 date: '2007-09-25T20:21:01+00:00'
-dsq_thread_id:
-    - '577464436'
 category: "personal"
 tags: ["family", "education"]
 redirect_from:

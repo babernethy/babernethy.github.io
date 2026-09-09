@@ -3,8 +3,6 @@ title: 'Howtoons &#8211; The Infamous Marshmallow Shooter'
 excerpt: 'Five PVC marshmallow shooters built in ten minutes, at about $1.60 each.'
 description: 'Five PVC marshmallow shooters built in ten minutes, at about $1.60 each.'
 date: '2007-09-04T08:57:42+00:00'
-dsq_thread_id:
-    - '486958667'
 category: "science"
 tags: ["science", "family", "fun"]
 redirect_from:

@@ -7,8 +7,7 @@ Guidance for Claude Code when working in this repository.
 The source for **bruceabernethy.com** — a Jekyll blog using the
 [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) theme (skin:
 `dirt`), deployed to GitHub Pages. Roughly 234 posts spanning 2007–present; the
-older ones were migrated from WordPress (many still carry a `dsq_thread_id`
-front-matter key from that era).
+older ones were migrated from WordPress.
 
 ## Local development
 
@@ -108,7 +107,7 @@ The theme is a gem, but several files shadow it. Check here before assuming
 behavior comes from upstream:
 
 - `_layouts/` — `posts.html` (year-grouped archive that excludes the `links`
-  category), `tagpage.html`, `category2.html`, `home.html`, `post_old.html`
+  category), `tagpage.html`, `category2.html`, `home.html`
 - `_includes/` — `archive2-single.html`, `breadcrumbs.html`
 - `assets/css/main.scss` — skin import and color variables
 
@@ -125,7 +124,6 @@ behavior comes from upstream:
   not a fix: the theme's Sass is `@import`-based throughout, so a real migration
   means waiting for minimal-mistakes to ship modules, or vendoring and rewriting
   its ~40 partials. Revisit before Dart Sass 3.0, which will break the build.
-- `/categories/links/` is declared by both `_pages/links.md` and
-  `_categories/links.html`. Jekyll silently picks one with no warning.
-- `_config.yml` declares four collections (`recipes`, `pets`, `portfolio`,
-  `category`) that are empty and unused.
+- `/categories/links/` is served by `_pages/links.md`. A rival
+  `_categories/links.html` used to sit alongside it; since `_categories` was
+  never a declared collection, Jekyll ignored the directory outright. Removed.

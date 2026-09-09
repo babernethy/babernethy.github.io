@@ -3,8 +3,6 @@ title: 'Mouse Mischief: Multiple Mouse Support in PowerPoint with the MultiPoint
 excerpt: 'Multiple mice in one PowerPoint, no programming required - a Saturday morning worth spending.'
 description: 'Multiple mice in one PowerPoint, no programming required - a Saturday morning worth spending.'
 date: '2010-02-06T04:15:05+00:00'
-dsq_thread_id:
-    - '360728409'
 category: "tech"
 tags: ["microsoft", "education", "presentations"]
 redirect_from:

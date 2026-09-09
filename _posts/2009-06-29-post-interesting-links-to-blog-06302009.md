@@ -32,7 +32,7 @@ redirect_from:
     May be a way to try out the Sugar / XO OS on a netbook.
     
     [tags](http://www.diigo.com/cloud/babernethy): [no\_tag](http://www.diigo.com/user/babernethy/no_tag)
-- [Diigo – Web Highlighter and Sticky Notes, Social Bookmarking and Annotation, Social Information Network!](http://www.diigo.com/index)<span class="diigo-link-opts"> – [Annotated](http://www.diigo.com/annotated?uid=457150&url=http%3A%2F%2Fwww.diigo.com%2Findex)</span>
+- [Diigo – Web Highlighter and Sticky Notes, Social Bookmarking and Annotation, Social Information Network!](http://www.diigo.com/index) – [Annotated](http://www.diigo.com/annotated?uid=457150&url=http%3A%2F%2Fwww.diigo.com%2Findex)
     
     Interesting tool for finding and sharing links
     

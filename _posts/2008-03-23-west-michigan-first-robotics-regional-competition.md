@@ -3,8 +3,6 @@ title: 'West Michigan FIRST Robotics Regional Competition'
 excerpt: 'A Saturday in the pits at the FIRST Robotics regional, plus my first YouTube video.'
 description: 'A Saturday in the pits at the FIRST Robotics regional, plus my first YouTube video.'
 date: '2008-03-23T23:54:01+00:00'
-dsq_thread_id:
-    - '566546077'
 category: "science"
 tags: ["robotics", "education", "family"]
 redirect_from:

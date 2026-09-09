@@ -3,8 +3,6 @@ title: '2008 Retrospective'
 excerpt: 'A Shuttle launch, two puppies, an ankle fusion, and the least hi-tech gadget of the year.'
 description: 'A Shuttle launch, two puppies, an ankle fusion, and the least hi-tech gadget of the year.'
 date: '2009-01-02T03:08:00+00:00'
-dsq_thread_id:
-    - '556945924'
 category: "personal"
 tags: ["family", "thinking"]
 redirect_from:

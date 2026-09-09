@@ -3,8 +3,6 @@ title: 'Wii Physics &#8211; Measure your 0-60 time with a Wiimote'
 excerpt: 'The Wii remote as a cheap 3-axis accelerometer - measuring G forces and your 0-60 time.'
 description: 'The Wii remote as a cheap 3-axis accelerometer - measuring G forces and your 0-60 time.'
 date: '2007-07-30T08:53:00+00:00'
-dsq_thread_id:
-    - '372502883'
 header:
   teaser: /assets/images/wii-acceleration.png
 category: "physics"
@@ -21,7 +19,7 @@ tags: ["physics", "science", "fun"]
 
 ![Image](/assets/images/wii-acceleration.png)
 
-<div style="background-color: #fff">## Measure your 0-60 time with a Wiimote 
+## Measure your 0-60 time with a Wiimote
 
 Here's how you can use the Wiimote's built-in accelerometers to measure your ride's G forces and 0-60 time:
 

@@ -3,8 +3,6 @@ title: 'Reason #458 People Don&rsquo;t Like Computers'
 excerpt: 'Search results that found plenty and showed me none, then asked if I was satisfied.'
 description: 'Search results that found plenty and showed me none, then asked if I was satisfied.'
 date: '2008-09-16T02:17:44+00:00'
-dsq_thread_id:
-    - '357928629'
 category: "ui"
 tags: ["ui", "development", "fun"]
 redirect_from:
