@@ -3,8 +3,6 @@ title: 'Silverlight Kata: IFS Fractals: The MessageBus'
 date: '2010-02-05T03:20:13+00:00'
 dsq_thread_id:
     - '518626049'
-et_enqueued_post_fonts:
-    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
 category: "development"
 tags: ["silverlight", "development"]
 redirect_from:
@@ -45,86 +43,86 @@ So we’ll add two more Messages: (1) AddIFSControl (to add the new IFSControls 
 
 So our messages end up looking like this …
 
-<div class="wlWriterEditableSmartContent" id="scid:57F11A72-B0E5-49c7-9094-E3A15BD5B5E6:82471b43-0e86-481b-b65c-f91d35aef3bc" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">```
-<span style="color: #0000FF;">using</span><span style="color: #000000;"> Microsoft.Practices.Composite.Presentation.Events;
+```csharp
+using Microsoft.Practices.Composite.Presentation.Events;
 
-</span><span style="color: #0000FF;">public</span><span style="color: #000000;"> </span><span style="color: #0000FF;">class</span><span style="color: #000000;"> Messages
+public class Messages
 {
-   </span><span style="color: #0000FF;">public</span><span style="color: #000000;"> </span><span style="color: #0000FF;">class</span><span style="color: #000000;"> Iterate : CompositePresentationEvent</span><span style="color: #000000;"><</span><span style="color: #0000FF;">bool</span><span style="color: #000000;">></span><span style="color: #000000;"> { }
-   </span><span style="color: #0000FF;">public</span><span style="color: #000000;"> </span><span style="color: #0000FF;">class</span><span style="color: #000000;"> AddIFSControl : CompositePresentationEvent</span><span style="color: #000000;"><</span><span style="color: #000000;">IFSControl</span><span style="color: #000000;">></span><span style="color: #000000;"> { }
-   </span><span style="color: #0000FF;">public</span><span style="color: #000000;"> </span><span style="color: #0000FF;">class</span><span style="color: #000000;"> RemoveIFSControl : CompositePresentationEvent</span><span style="color: #000000;"><</span><span style="color: #000000;">IFSControl</span><span style="color: #000000;">></span><span style="color: #000000;"> { }
-}</span>
+   public class Iterate : CompositePresentationEvent<bool> { }
+   public class AddIFSControl : CompositePresentationEvent<IFSControl> { }
+   public class RemoveIFSControl : CompositePresentationEvent<IFSControl> { }
+}
 ```
 
-</div>The CompositePresentationEvent is a generic class that takes a strongly typed object. In the case of the “Iterate” message, there really isn’t a type we need to send up (there is no data payload that is needed to process the “Iterate” message). In the case of the AddIFSControl and RemoveIFSControl messages, we will send along the IFSControls themselves in order to be processed.
+The CompositePresentationEvent is a generic class that takes a strongly typed object. In the case of the “Iterate” message, there really isn’t a type we need to send up (there is no data payload that is needed to process the “Iterate” message). In the case of the AddIFSControl and RemoveIFSControl messages, we will send along the IFSControls themselves in order to be processed.
 
 ## Where is the MessageBus?
 
 For this application, it is easiest to implement the MessageBus at the highest point possible in the Application itself. So in our App.xaml.cs file we just add this …
 
-<div class="wlWriterEditableSmartContent" id="scid:57F11A72-B0E5-49c7-9094-E3A15BD5B5E6:65584126-c1d4-4361-a9a9-6b93442bcc4b" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">```
-<span style="color: #0000FF;">using</span><span style="color: #000000;"> Microsoft.Practices.Composite.Events;
+```csharp
+using Microsoft.Practices.Composite.Events;
 
-</span><span style="color: #0000FF;">public</span><span style="color: #000000;"> </span><span style="color: #0000FF;">partial</span><span style="color: #000000;"> </span><span style="color: #0000FF;">class</span><span style="color: #000000;"> App : Application
+public partial class App : Application
 {
-   </span><span style="color: #0000FF;">public</span><span style="color: #000000;"> </span><span style="color: #0000FF;">static</span><span style="color: #000000;"> IEventAggregator MessageBus </span><span style="color: #000000;">=</span><span style="color: #000000;"> </span><span style="color: #0000FF;">new</span><span style="color: #000000;"> EventAggregator();</span>
+   public static IEventAggregator MessageBus = new EventAggregator();
 ```
 
-</div>Really that is all it takes to set up the MessageBus.
+Really that is all it takes to set up the MessageBus.
 
 ## Publishing the Messages
 
 So, now how do we wire up the Button to publish the iterate event. In the codebehind of the MainPage (or ViewModel if you’ve wired it up) we can add code something like this.
 
-<div class="wlWriterEditableSmartContent" id="scid:57F11A72-B0E5-49c7-9094-E3A15BD5B5E6:d2a7e539-e085-4d33-8c6d-37c67e1ba746" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">```
-<span style="color: #0000FF;">private</span><span style="color: #000000;"> </span><span style="color: #0000FF;">void</span><span style="color: #000000;"> Button_Click(</span><span style="color: #0000FF;">object</span><span style="color: #000000;"> sender, RoutedEventArgs e)
+```csharp
+private void Button_Click(object sender, RoutedEventArgs e)
 {
-  App.MessageBus.GetEvent</span><span style="color: #000000;"><</span><span style="color: #000000;">Messages.Iterate</span><span style="color: #000000;">></span><span style="color: #000000;">().Publish(</span><span style="color: #0000FF;">true</span><span style="color: #000000;">);
-}</span>
+  App.MessageBus.GetEvent<Messages.Iterate>().Publish(true);
+}
 ```
 
-</div>It is important to notice that there is nothing special
+It is important to notice that there is nothing special
 
 about the “Button” itself – we aren’t using any of its events or properties to do this work or propagate this message. You could just as easily set up a DispatherTimer and have it call “Iterate” every 60 seconds or so …
 
-<div class="wlWriterEditableSmartContent" id="scid:57F11A72-B0E5-49c7-9094-E3A15BD5B5E6:be4ba3f2-1f25-4d7a-83d9-ddf92c449350" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">```
-<span style="color: #0000FF;">void</span><span style="color: #000000;"> IterateMe_Tick(</span><span style="color: #0000FF;">object</span><span style="color: #000000;"> sender, EventArgs e)
+```csharp
+void IterateMe_Tick(object sender, EventArgs e)
 {
-  App.MessageBus.GetEvent</span><span style="color: #000000;"><</span><span style="color: #000000;">Messages.Iterate</span><span style="color: #000000;">></span><span style="color: #000000;">().Publish(</span><span style="color: #0000FF;">true</span><span style="color: #000000;">);
-}</span>
+  App.MessageBus.GetEvent<Messages.Iterate>().Publish(true);
+}
 ```
 
-</div>## Subscribing to the Messages
+## Subscribing to the Messages
 
 So now we need to add code to the IFSContentControls to Subscribe to the Iterate Message.
 
-<div class="wlWriterEditableSmartContent" id="scid:57F11A72-B0E5-49c7-9094-E3A15BD5B5E6:16d1743b-bd7c-47dc-a037-7958344a813e" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">```
-<span style="color: #0000FF;">public</span><span style="color: #000000;"> IFSControl()
+```csharp
+public IFSControl()
 {
-  App.MessageBus.GetEvent</span><span style="color: #000000;"><</span><span style="color: #000000;">Messages.Iterate</span><span style="color: #000000;">></span><span style="color: #000000;">().Subscribe(DoIteration, </span><span style="color: #0000FF;">true</span><span style="color: #000000;">);</span>
+  App.MessageBus.GetEvent<Messages.Iterate>().Subscribe(DoIteration, true);
 ```
 
-</div>To wire this up we need to create a public method that takes the same payload as the message itself – in this case, Iterate sends a boolean. So we need a public method that takes a boolean.
+To wire this up we need to create a public method that takes the same payload as the message itself – in this case, Iterate sends a boolean. So we need a public method that takes a boolean.
 
-<div class="wlWriterEditableSmartContent" id="scid:57F11A72-B0E5-49c7-9094-E3A15BD5B5E6:838eb017-78f4-40a7-8e50-d9496400cf94" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">```
-<span style="color: #0000FF;">private</span><span style="color: #000000;"> </span><span style="color: #0000FF;">void</span><span style="color: #000000;"> DoIteration(</span><span style="color: #0000FF;">bool</span><span style="color: #000000;"> isTrue)
+```csharp
+private void DoIteration(bool isTrue)
 {
-  </span><span style="color: #0000FF;">foreach</span><span style="color: #000000;"> (var ifst </span><span style="color: #0000FF;">in</span><span style="color: #000000;"> IFSTransforms.Transforms)
+  foreach (var ifst in IFSTransforms.Transforms)
   {
-      var newControl </span><span style="color: #000000;">=</span><span style="color: #000000;"> </span><span style="color: #0000FF;">new</span><span style="color: #000000;"> IFSControl
+      var newControl = new IFSControl
       {
-          Content </span><span style="color: #000000;">=</span><span style="color: #000000;"> Copy(</span><span style="color: #0000FF;">this</span><span style="color: #000000;">),
-          IFSTransforms </span><span style="color: #000000;">=</span><span style="color: #000000;"> </span><span style="color: #0000FF;">this</span><span style="color: #000000;">.IFSTransforms,
-          RenderTransform </span><span style="color: #000000;">=</span><span style="color: #000000;"> ifst.IFSTransformGroup
+          Content = Copy(this),
+          IFSTransforms = this.IFSTransforms,
+          RenderTransform = ifst.IFSTransformGroup
       };
-      App.MessageBus.GetEvent</span><span style="color: #000000;"><</span><span style="color: #000000;">Messages.AddIFSControl</span><span style="color: #000000;">></span><span style="color: #000000;">().Publish(newControl);
+      App.MessageBus.GetEvent<Messages.AddIFSControl>().Publish(newControl);
   }
-  App.MessageBus.GetEvent</span><span style="color: #000000;"><</span><span style="color: #000000;">Messages.Iterate</span><span style="color: #000000;">></span><span style="color: #000000;">().Unsubscribe(DoIteration);
-  App.MessageBus.GetEvent</span><span style="color: #000000;"><</span><span style="color: #000000;">Messages.RemoveIFSControl</span><span style="color: #000000;">></span><span style="color: #000000;">().Publish(</span><span style="color: #0000FF;">this</span><span style="color: #000000;">);
-}</span>
+  App.MessageBus.GetEvent<Messages.Iterate>().Unsubscribe(DoIteration);
+  App.MessageBus.GetEvent<Messages.RemoveIFSControl>().Publish(this);
+}
 ```
 
-</div>So IFSControl is now set up to Subscribe to the Iterate event – it will then call DoIteration() when it receives the message. DoIteration() will iterate through all the different transforms, create a new IFSControl which is a clone/copy of the current control, and then Publish the AddIFSControl message with the new control as the payload. In our example this will happen three times for each iteration, so three new controls will be sent in messages.
+So IFSControl is now set up to Subscribe to the Iterate event – it will then call DoIteration() when it receives the message. DoIteration() will iterate through all the different transforms, create a new IFSControl which is a clone/copy of the current control, and then Publish the AddIFSControl message with the new control as the payload. In our example this will happen three times for each iteration, so three new controls will be sent in messages.
 
 The last two lines are interesting as well. Once the new controls are created it is time for the current control to request that it be removed from the container – it has done its work and it is time to move on. First we Unsubscribe from the DoIteration Message (always good to not leave loose ends) and then Publish the RemoveIFSControl message with “this” as the payload (i.e., the current control). It is thus requesting to be removed from the container.
 
@@ -132,53 +130,53 @@ The last two lines are interesting as well. Once the new controls are created it
 
 In this example the DataContext of our MainPage will be a class called the IFSStageViewModel. This class encapsulates all the information and logic that will be needed for the user interface of our application.
 
-<div class="wlWriterEditableSmartContent" id="scid:57F11A72-B0E5-49c7-9094-E3A15BD5B5E6:2d53ebce-4a6e-4a98-82fc-79386831ffac" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">```
-<span style="color: #0000FF;">public</span><span style="color: #000000;"> </span><span style="color: #0000FF;">class</span><span style="color: #000000;"> IFSStageViewModel : INotifyPropertyChanged
+```csharp
+public class IFSStageViewModel : INotifyPropertyChanged
 {
-   </span><span style="color: #0000FF;">public</span><span style="color: #000000;"> Canvas Stage {</span><span style="color: #0000FF;">get</span><span style="color: #000000;">;</span><span style="color: #0000FF;">set</span><span style="color: #000000;">;}
+   public Canvas Stage {get;set;}
 
-   </span><span style="color: #0000FF;">public</span><span style="color: #000000;"> </span><span style="color: #0000FF;">int</span><span style="color: #000000;"> NumStageItems
+   public int NumStageItems
    {
-       </span><span style="color: #0000FF;">get</span><span style="color: #000000;"> { </span><span style="color: #0000FF;">return</span><span style="color: #000000;"> Stage </span><span style="color: #000000;">!=</span><span style="color: #000000;"> </span><span style="color: #0000FF;">null</span><span style="color: #000000;"> </span><span style="color: #000000;">?</span><span style="color: #000000;"> Stage.Children.Count : </span><span style="color: #800080;">0</span><span style="color: #000000;">;  }
+       get { return Stage != null ? Stage.Children.Count : 0;  }
    }
 
-   </span><span style="color: #0000FF;">public</span><span style="color: #000000;"> IFSStageViewModel()
+   public IFSStageViewModel()
    {
-       App.MessageBus.GetEvent</span><span style="color: #000000;"><</span><span style="color: #000000;">Messages.AddIFSControl</span><span style="color: #000000;">></span><span style="color: #000000;">().Subscribe(AddIFSControl, </span><span style="color: #0000FF;">true</span><span style="color: #000000;">);
-       App.MessageBus.GetEvent</span><span style="color: #000000;"><</span><span style="color: #000000;">Messages.RemoveIFSControl</span><span style="color: #000000;">></span><span style="color: #000000;">().Subscribe(RemoveIFSControl, </span><span style="color: #0000FF;">true</span><span style="color: #000000;">);
-       App.MessageBus.GetEvent</span><span style="color: #000000;"><</span><span style="color: #000000;">Messages.Iterate</span><span style="color: #000000;">></span><span style="color: #000000;">().Subscribe(Iterate, </span><span style="color: #0000FF;">true</span><span style="color: #000000;">);
+       App.MessageBus.GetEvent<Messages.AddIFSControl>().Subscribe(AddIFSControl, true);
+       App.MessageBus.GetEvent<Messages.RemoveIFSControl>().Subscribe(RemoveIFSControl, true);
+       App.MessageBus.GetEvent<Messages.Iterate>().Subscribe(Iterate, true);
    }
 
-   </span><span style="color: #0000FF;">public</span><span style="color: #000000;"> </span><span style="color: #0000FF;">void</span><span style="color: #000000;"> Iterate(</span><span style="color: #0000FF;">bool</span><span style="color: #000000;"> isIteration)
+   public void Iterate(bool isIteration)
    {
-       OnPropertyChanged(</span><span style="color: #800000;">"</span><span style="color: #800000;">NumStageItems</span><span style="color: #800000;">"</span><span style="color: #000000;">);
+       OnPropertyChanged("NumStageItems");
    }
 
-   </span><span style="color: #0000FF;">public</span><span style="color: #000000;"> </span><span style="color: #0000FF;">void</span><span style="color: #000000;"> AddIFSControl(IFSControl newIFS)
+   public void AddIFSControl(IFSControl newIFS)
    {
        Stage.Children.Add(newIFS);
    }
 
-   </span><span style="color: #0000FF;">public</span><span style="color: #000000;"> </span><span style="color: #0000FF;">void</span><span style="color: #000000;"> RemoveIFSControl(IFSControl oldIFS)
+   public void RemoveIFSControl(IFSControl oldIFS)
    {
        Stage.Children.Remove(oldIFS);
    }
 
-   </span><span style="color: #0000FF;">protected</span><span style="color: #000000;"> </span><span style="color: #0000FF;">virtual</span><span style="color: #000000;"> </span><span style="color: #0000FF;">void</span><span style="color: #000000;"> OnPropertyChanged(</span><span style="color: #0000FF;">string</span><span style="color: #000000;"> propertyName)
+   protected virtual void OnPropertyChanged(string propertyName)
    {
-       </span><span style="color: #0000FF;">if</span><span style="color: #000000;"> (</span><span style="color: #0000FF;">string</span><span style="color: #000000;">.IsNullOrEmpty(propertyName)) </span><span style="color: #0000FF;">return</span><span style="color: #000000;">;
+       if (string.IsNullOrEmpty(propertyName)) return;
 
-       </span><span style="color: #0000FF;">if</span><span style="color: #000000;"> (PropertyChanged </span><span style="color: #000000;">!=</span><span style="color: #000000;"> </span><span style="color: #0000FF;">null</span><span style="color: #000000;">)
+       if (PropertyChanged != null)
        {
-           PropertyChanged(</span><span style="color: #0000FF;">this</span><span style="color: #000000;">, </span><span style="color: #0000FF;">new</span><span style="color: #000000;"> PropertyChangedEventArgs(propertyName));
+           PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
        }
    }
 
-   </span><span style="color: #0000FF;">public</span><span style="color: #000000;"> </span><span style="color: #0000FF;">event</span><span style="color: #000000;"> PropertyChangedEventHandler PropertyChanged;
-}</span>
+   public event PropertyChangedEventHandler PropertyChanged;
+}
 ```
 
-</div>It starts with a XAML Canvas called “Stage” which will be assigned to the Canvas on the MainPage where we want the fractal to appear. There is also an integer called NumStageItems – this will be bound to a TextBlock to simply display the current number of IFSContentControls are currently contained in the “Stage”.
+It starts with a XAML Canvas called “Stage” which will be assigned to the Canvas on the MainPage where we want the fractal to appear. There is also an integer called NumStageItems – this will be bound to a TextBlock to simply display the current number of IFSContentControls are currently contained in the “Stage”.
 
 In the constructor you will see that three different Messages are subscribed to – that is, all three Messages that we have defined.
 

@@ -3,8 +3,6 @@ title: 'Silverlight Kata: IFS Fractals with TransformGroup and MessageBus'
 date: '2010-02-01T02:36:23+00:00'
 dsq_thread_id:
     - '384044579'
-et_enqueued_post_fonts:
-    - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
 image: /wp-content/uploads/2010/02/fractal_it7_thumb.png
 category: "development"
 tags: ["silverlight", "development", "science"]
@@ -54,33 +52,75 @@ Actually, this should be far easier to do in Silverlight than in previous platfo
 
 So “Iteration 0” will be easy (just a Rectangle).
 
-<div class="wlWriterEditableSmartContent" id="scid:57F11A72-B0E5-49c7-9094-E3A15BD5B5E6:45b099f2-6155-4188-925f-f438c1edbe75" style="margin: 0px; display: inline; float: none; padding: 0px;">```
-<span style="color: #0000ff;"><</span><span style="color: #800000;">Rectangle </span><span style="color: #ff0000;">Fill</span><span style="color: #0000ff;">="Red"</span><span style="color: #ff0000;"> Height</span><span style="color: #0000ff;">="400"</span><span style="color: #ff0000;"> Width</span><span style="color: #0000ff;">="400"</span><span style="color: #0000ff;">/></span>
+```xml
+<Rectangle Fill="Red" Height="400" Width="400"/>
 ```
 
-</div>Now we could create a rectangle with half the height, width, and translate it in XAML, but we want to be able to automate this, so perhaps there is a better way.
+Now we could create a rectangle with half the height, width, and translate it in XAML, but we want to be able to automate this, so perhaps there is a better way.
 
-<div class="wlWriterEditableSmartContent" id="scid:57F11A72-B0E5-49c7-9094-E3A15BD5B5E6:b219750e-5ecf-45c8-9e30-054f6336197d" style="margin: 0px; display: inline; float: none; padding: 0px;">```
-<span style="color: #0000ff;"><</span><span style="color: #800000;">Rectangle </span><span style="color: #ff0000;">Fill</span><span style="color: #0000ff;">="Blue"</span><span style="color: #ff0000;"> Height</span><span style="color: #0000ff;">="400"</span><span style="color: #ff0000;"> Width</span><span style="color: #0000ff;">="400"</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"><</span><span style="color: #800000;">Rectangle.RenderTransform</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"><</span><span style="color: #800000;">TransformGroup</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"><</span><span style="color: #800000;">ScaleTransform </span><span style="color: #ff0000;">ScaleX</span><span style="color: #0000ff;">=".5"</span><span style="color: #ff0000;"> ScaleY</span><span style="color: #0000ff;">=".5"</span><span style="color: #0000ff;">/></span><span style="color: #0000ff;"><</span><span style="color: #800000;">RotateTransform </span><span style="color: #ff0000;">Angle</span><span style="color: #0000ff;">="0"</span><span style="color: #0000ff;">/></span><span style="color: #0000ff;"><</span><span style="color: #800000;">TranslateTransform </span><span style="color: #ff0000;">X</span><span style="color: #0000ff;">="0"</span><span style="color: #ff0000;"> Y</span><span style="color: #0000ff;">="0"</span><span style="color: #0000ff;">/></span><span style="color: #0000ff;"></</span><span style="color: #800000;">TransformGroup</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"></</span><span style="color: #800000;">Rectangle.RenderTransform</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"></</span><span style="color: #800000;">Rectangle</span><span style="color: #0000ff;">></span>
+```xml
+<Rectangle Fill="Blue" Height="400" Width="400">
+  <Rectangle.RenderTransform>
+    <TransformGroup>
+      <ScaleTransform ScaleX=".5" ScaleY=".5"/>
+      <RotateTransform Angle="0"/>
+      <TranslateTransform X="0" Y="0"/>
+    </TransformGroup>
+  </Rectangle.RenderTransform>
+</Rectangle>
 ```
 
-</div>We can take the original Rectangle and use the RenderTransform to handle all of the scaling, rotating, and translating of the Rectangle. This works pretty well and is starting to get promising. What would the other two “rules” look like?
+We can take the original Rectangle and use the RenderTransform to handle all of the scaling, rotating, and translating of the Rectangle. This works pretty well and is starting to get promising. What would the other two “rules” look like?
 
-<div class="wlWriterEditableSmartContent" id="scid:57F11A72-B0E5-49c7-9094-E3A15BD5B5E6:5e26f68d-40be-405a-87c3-0c26ae924d30" style="margin: 0px; display: inline; float: none; padding: 0px;">```
-<span style="color: #0000ff;"><</span><span style="color: #800000;">Rectangle </span><span style="color: #ff0000;">Fill</span><span style="color: #0000ff;">="LightBlue"</span><span style="color: #ff0000;"> Height</span><span style="color: #0000ff;">="400"</span><span style="color: #ff0000;"> Width</span><span style="color: #0000ff;">="400"</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"><</span><span style="color: #800000;">Rectangle.RenderTransform</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"><</span><span style="color: #800000;">TransformGroup</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"><</span><span style="color: #800000;">ScaleTransform </span><span style="color: #ff0000;">ScaleX</span><span style="color: #0000ff;">=".5"</span><span style="color: #ff0000;"> ScaleY</span><span style="color: #0000ff;">=".5"</span><span style="color: #0000ff;">/></span><span style="color: #0000ff;"><</span><span style="color: #800000;">RotateTransform </span><span style="color: #ff0000;">Angle</span><span style="color: #0000ff;">="0"</span><span style="color: #0000ff;">/></span><span style="color: #0000ff;"><</span><span style="color: #800000;">TranslateTransform </span><span style="color: #ff0000;">X</span><span style="color: #0000ff;">="200"</span><span style="color: #ff0000;"> Y</span><span style="color: #0000ff;">="0"</span><span style="color: #0000ff;">/></span><span style="color: #0000ff;"></</span><span style="color: #800000;">TransformGroup</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"></</span><span style="color: #800000;">Rectangle.RenderTransform</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"></</span><span style="color: #800000;">Rectangle</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"><</span><span style="color: #800000;">Rectangle </span><span style="color: #ff0000;">Fill</span><span style="color: #0000ff;">="AliceBlue"</span><span style="color: #ff0000;"> Height</span><span style="color: #0000ff;">="400"</span><span style="color: #ff0000;"> Width</span><span style="color: #0000ff;">="400"</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"><</span><span style="color: #800000;">Rectangle.RenderTransform</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"><</span><span style="color: #800000;">TransformGroup</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"><</span><span style="color: #800000;">ScaleTransform </span><span style="color: #ff0000;">ScaleX</span><span style="color: #0000ff;">=".5"</span><span style="color: #ff0000;"> ScaleY</span><span style="color: #0000ff;">=".5"</span><span style="color: #0000ff;">/></span><span style="color: #0000ff;"><</span><span style="color: #800000;">RotateTransform </span><span style="color: #ff0000;">Angle</span><span style="color: #0000ff;">="0"</span><span style="color: #0000ff;">/></span><span style="color: #0000ff;"><</span><span style="color: #800000;">TranslateTransform </span><span style="color: #ff0000;">X</span><span style="color: #0000ff;">="100"</span><span style="color: #ff0000;"> Y</span><span style="color: #0000ff;">="200"</span><span style="color: #0000ff;">/></span><span style="color: #0000ff;"></</span><span style="color: #800000;">TransformGroup</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"></</span><span style="color: #800000;">Rectangle.RenderTransform</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"></</span><span style="color: #800000;">Rectangle</span><span style="color: #0000ff;">></span>
+```xml
+<Rectangle Fill="LightBlue" Height="400" Width="400">
+  <Rectangle.RenderTransform>
+    <TransformGroup>
+      <ScaleTransform ScaleX=".5" ScaleY=".5"/>
+      <RotateTransform Angle="0"/>
+      <TranslateTransform X="200" Y="0"/>
+    </TransformGroup>
+  </Rectangle.RenderTransform>
+</Rectangle>
+<Rectangle Fill="AliceBlue" Height="400" Width="400">
+  <Rectangle.RenderTransform>
+    <TransformGroup>
+      <ScaleTransform ScaleX=".5" ScaleY=".5"/>
+      <RotateTransform Angle="0"/>
+      <TranslateTransform X="100" Y="200"/>
+    </TransformGroup>
+  </Rectangle.RenderTransform>
+</Rectangle>
 ```
 
-</div>But now we have a problem. This works well for Iteration 1, but not for subsequent Iterations. We need to be able to do transformations on top of existing transformations (on top of other existing transformations, etc.). Rectangle alone will not get us there.
+But now we have a problem. This works well for Iteration 1, but not for subsequent Iterations. We need to be able to do transformations on top of existing transformations (on top of other existing transformations, etc.). Rectangle alone will not get us there.
 
 What is a very simple XAML object that can contain another object? The ContentControl is just such a basic object. Its basic job is to contain one other object (which itself could contain other objects), and it just so happens to also inherit from UIElement, which means it has RenderTransform as well. What does this mean.
 
 It means that we can do something like this …
 
-<div class="wlWriterEditableSmartContent" id="scid:57F11A72-B0E5-49c7-9094-E3A15BD5B5E6:941370a3-96db-4311-8ded-d3297704e43b" style="margin: 0px; display: inline; float: none; padding: 0px;">```
-<span style="color: #0000ff;"><</span><span style="color: #800000;">ContentControl</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"><</span><span style="color: #800000;">ContentControl.RenderTransform</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"><</span><span style="color: #800000;">TransformGroup</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"><</span><span style="color: #800000;">ScaleTransform </span><span style="color: #ff0000;">ScaleX</span><span style="color: #0000ff;">=".5"</span><span style="color: #ff0000;"> ScaleY</span><span style="color: #0000ff;">=".5"</span><span style="color: #0000ff;">/></span><span style="color: #0000ff;"><</span><span style="color: #800000;">RotateTransform </span><span style="color: #ff0000;">Angle</span><span style="color: #0000ff;">="0"</span><span style="color: #0000ff;">/></span><span style="color: #0000ff;"><</span><span style="color: #800000;">TranslateTransform </span><span style="color: #ff0000;">X</span><span style="color: #0000ff;">="0"</span><span style="color: #ff0000;"> Y</span><span style="color: #0000ff;">="0"</span><span style="color: #0000ff;">/></span><span style="color: #0000ff;"></</span><span style="color: #800000;">TransformGroup</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"></</span><span style="color: #800000;">ContentControl.RenderTransform</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"><</span><span style="color: #800000;">Rectangle </span><span style="color: #ff0000;">Fill</span><span style="color: #0000ff;">="Green"</span><span style="color: #ff0000;"> Height</span><span style="color: #0000ff;">="400"</span><span style="color: #ff0000;"> Width</span><span style="color: #0000ff;">="400"</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"><</span><span style="color: #800000;">Rectangle.RenderTransform</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"><</span><span style="color: #800000;">TransformGroup</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"><</span><span style="color: #800000;">ScaleTransform </span><span style="color: #ff0000;">ScaleX</span><span style="color: #0000ff;">=".5"</span><span style="color: #ff0000;"> ScaleY</span><span style="color: #0000ff;">=".5"</span><span style="color: #0000ff;">/></span><span style="color: #0000ff;"><</span><span style="color: #800000;">RotateTransform </span><span style="color: #ff0000;">Angle</span><span style="color: #0000ff;">="0"</span><span style="color: #0000ff;">/></span><span style="color: #0000ff;"><</span><span style="color: #800000;">TranslateTransform </span><span style="color: #ff0000;">X</span><span style="color: #0000ff;">="0"</span><span style="color: #ff0000;"> Y</span><span style="color: #0000ff;">="0"</span><span style="color: #0000ff;">/></span><span style="color: #0000ff;"></</span><span style="color: #800000;">TransformGroup</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"></</span><span style="color: #800000;">Rectangle.RenderTransform</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"></</span><span style="color: #800000;">Rectangle</span><span style="color: #0000ff;">></span><span style="color: #0000ff;"></</span><span style="color: #800000;">ContentControl</span><span style="color: #0000ff;">></span>
+```xml
+<ContentControl>
+  <ContentControl.RenderTransform>
+    <TransformGroup>
+      <ScaleTransform ScaleX=".5" ScaleY=".5"/>
+      <RotateTransform Angle="0"/>
+      <TranslateTransform X="0" Y="0"/>
+    </TransformGroup>
+  </ContentControl.RenderTransform>
+  <Rectangle Fill="Green" Height="400" Width="400">
+    <Rectangle.RenderTransform>
+      <TransformGroup>
+        <ScaleTransform ScaleX=".5" ScaleY=".5"/>
+        <RotateTransform Angle="0"/>
+        <TranslateTransform X="0" Y="0"/>
+      </TransformGroup>
+    </Rectangle.RenderTransform>
+  </Rectangle>
+</ContentControl>
 ```
 
-</div>… which, if you look at it, is the first rule in Iteration 2. That is, apply the first rule to an object that already had the first rule already applied to it. Now we’ll get a rectangle that is half the size of a half-sized rectangle (25%) and hasn’t rotated or moved from the origin at (0,0).
+… which, if you look at it, is the first rule in Iteration 2. That is, apply the first rule to an object that already had the first rule already applied to it. Now we’ll get a rectangle that is half the size of a half-sized rectangle (25%) and hasn’t rotated or moved from the origin at (0,0).
 
 \[End of Part 1\]
 
