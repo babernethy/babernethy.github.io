@@ -17,7 +17,7 @@ Over the 4th of July weekend I saw a guy selling Kubb sets at a craft show for $
 
 ## Instructions
 
-Here is a pic and a *PDF of the basic instructions* *{missing-file:kubb.pdf}* for what we did.
+Here is a pic and a [PDF of the basic instructions](https://web.archive.org/web/20121030152549/http://blog.bruceabernethy.com/mirror/kubb.pdf) (archived copy) for what we did.
 
 ![KubbPlans](/assets/images/KubbPlans.png "KubbPlans")
 
