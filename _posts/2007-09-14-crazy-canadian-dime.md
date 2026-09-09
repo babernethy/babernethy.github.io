@@ -1,8 +1,6 @@
 ---
 title: 'Crazy Canadian Dime'
 date: '2007-09-14T15:53:09+00:00'
-dsq_thread_id:
-    - '360445124'
 category: "personal"
 tags: ["fun", "family"]
 redirect_from:

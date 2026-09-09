@@ -1,8 +1,6 @@
 ---
 title: 'Silverlight Certification Test &#8211; Passed'
 date: '2011-07-12T15:33:54+00:00'
-dsq_thread_id:
-    - '357240483'
 header:
   teaser: /assets/images/70506.png
 category: "development"

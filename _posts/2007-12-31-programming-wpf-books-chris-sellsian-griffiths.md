@@ -1,8 +1,6 @@
 ---
 title: 'Programming WPF: Books: Chris Sells,Ian Griffiths'
 date: '2007-12-31T02:10:44+00:00'
-dsq_thread_id:
-    - ''
 category: "development"
 tags: ["books", "microsoft", "development"]
 redirect_from:

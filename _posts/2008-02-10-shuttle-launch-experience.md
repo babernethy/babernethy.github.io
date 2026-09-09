@@ -1,8 +1,6 @@
 ---
 title: 'Shuttle Launch Experience'
 date: '2008-02-10T14:26:45+00:00'
-dsq_thread_id:
-    - '385271084'
 category: "science"
 tags: ["space", "family", "science"]
 redirect_from:

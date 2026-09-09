@@ -1,8 +1,6 @@
 ---
 title: 'Homemade Kubb Set Plans and Report'
 date: '2009-07-18T04:32:00+00:00'
-dsq_thread_id:
-    - '360365647'
 category: "personal"
 tags: ["games", "family", "home"]
 redirect_from:

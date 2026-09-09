@@ -1,8 +1,6 @@
 ---
 title: 'Cool Tool: Tourist Remover'
 date: '2007-12-05T08:17:07+00:00'
-dsq_thread_id:
-    - '615291644'
 category: "tech"
 tags: ["tech", "fun"]
 redirect_from:

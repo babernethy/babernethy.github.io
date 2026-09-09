@@ -1,8 +1,6 @@
 ---
 title: 'PC ProSchools of Grand Rapids'
 date: '2008-01-02T02:48:29+00:00'
-dsq_thread_id:
-    - ''
 category: "jobs"
 tags: ["education", "development", "jobs"]
 redirect_from:

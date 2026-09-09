@@ -1,8 +1,6 @@
 ---
 title: 'Rebooting the blog in WordPress'
 date: '2011-06-30T18:21:49+00:00'
-dsq_thread_id:
-    - '448831577'
 header:
   teaser: /assets/images/be2wp.png
 category: "blog"

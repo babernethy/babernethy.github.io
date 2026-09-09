@@ -1,8 +1,6 @@
 ---
 title: 'Lessons Learned: Craftsmen and artists of all types have a lot in common'
 date: '2010-04-19T01:41:44+00:00'
-dsq_thread_id:
-    - '362174284'
 category: "jobs"
 tags: ["art", "inspiration", "thinking"]
 redirect_from:

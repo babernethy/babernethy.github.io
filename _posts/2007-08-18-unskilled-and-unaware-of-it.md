@@ -1,7 +1,5 @@
 ---
 title: 'Unskilled and Unaware of It'
-dsq_thread_id:
-    - '360363618'
 excerpt: 'How knowing less about a skill or topic gives the impression that you know much more than you really do.'
 description: 'How knowing less about a skill or topic gives the impression that you know much more than you really do.'
 comments: true

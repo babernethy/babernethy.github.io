@@ -1,8 +1,6 @@
 ---
 title: 'Made in America: By Robots'
 date: '2007-10-31T07:40:00+00:00'
-dsq_thread_id:
-    - '413933266'
 category: "tech"
 tags: ["robotics", "jobs", "thinking"]
 redirect_from:

@@ -1,8 +1,6 @@
 ---
 title: 'Book Review: Think and Make It Happen'
 date: '2010-03-12T03:38:37+00:00'
-dsq_thread_id:
-    - '397876534'
 category: "personal"
 tags: ["books", "thinking"]
 redirect_from:

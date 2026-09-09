@@ -1,8 +1,6 @@
 ---
 title: 'Reason #458 People Don&rsquo;t Like Computers'
 date: '2008-09-16T02:17:44+00:00'
-dsq_thread_id:
-    - '357928629'
 category: "ui"
 tags: ["ui", "development", "fun"]
 redirect_from:

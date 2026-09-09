@@ -1,8 +1,6 @@
 ---
 title: 'West Michigan FIRST Robotics Regional Competition'
 date: '2008-03-23T23:54:01+00:00'
-dsq_thread_id:
-    - '566546077'
 category: "science"
 tags: ["robotics", "education", "family"]
 redirect_from:

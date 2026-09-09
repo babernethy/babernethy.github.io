@@ -7,8 +7,7 @@ Guidance for Claude Code when working in this repository.
 The source for **bruceabernethy.com** — a Jekyll blog using the
 [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) theme (skin:
 `dirt`), deployed to GitHub Pages. Roughly 234 posts spanning 2007–present; the
-older ones were migrated from WordPress (many still carry a `dsq_thread_id`
-front-matter key from that era).
+older ones were migrated from WordPress.
 
 ## Local development
 
@@ -93,11 +92,6 @@ served by `jekyll-redirect-from`. **Never remove or change a `redirect_from:`
 entry** — it is the only thing keeping 19 years of inbound links alive. If you
 change a post's `category`, add the old path to its `redirect_from:` list
 rather than replacing it.
-
-`dsq_thread_id` survives on 62 posts. Comments are giscus (keyed on
-`discussion_term: pathname`), so Jekyll never reads it — but it is the only
-join key back to the old Disqus threads if those comments are ever imported.
-Kept deliberately; do not sweep it.
 
 ## Theme overrides
 

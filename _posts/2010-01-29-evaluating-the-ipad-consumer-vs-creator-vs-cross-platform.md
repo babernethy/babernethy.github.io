@@ -1,8 +1,6 @@
 ---
 title: 'Evaluating the iPad: Consumer vs. Creator vs. Cross Platform'
 date: '2010-01-29T05:14:45+00:00'
-dsq_thread_id:
-    - '594659970'
 category: "tech"
 tags: ["mobile", "hardware", "thinking"]
 redirect_from:

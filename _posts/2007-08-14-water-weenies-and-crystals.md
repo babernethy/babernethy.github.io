@@ -1,8 +1,6 @@
 ---
 title: 'Water Weenies and Crystals'
 date: '2007-08-14T17:26:03+00:00'
-dsq_thread_id:
-    - '556312906'
 category: "physics"
 tags: ["physics", "fun", "family"]
 ---

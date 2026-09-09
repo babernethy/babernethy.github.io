@@ -41,7 +41,7 @@ Jekyll has great support for Themes and Templates and Extensions - and the commu
 
 Minimal Mistakes is also designed to be nicely extendable by implementing a model where the stylesheets Saas/SCSS/CSS are really easy to customize.  In a very similar way you can use the templates that come with the theme, but it is easy to update or change one or more if you want to do something more (or less).
 
-It also is designed, up front, to work with blog comment services (e.g. Disqus) and analytics (e.g. Google Analytics) frameworks - and all are optional, but work wihtout having to add additional extensions.
+It also is designed, up front, to work with blog comment services (e.g. giscus) and analytics (e.g. Google Analytics) frameworks - and all are optional, but work wihtout having to add additional extensions.
 
 ## WordPress to Jekyll
 

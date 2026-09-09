@@ -1,8 +1,6 @@
 ---
 title: 'Success in drying out waterlogged Laptop'
 date: '2009-10-14T03:32:56+00:00'
-dsq_thread_id:
-    - '390918783'
 category: "tech"
 tags: ["hardware", "family"]
 redirect_from:

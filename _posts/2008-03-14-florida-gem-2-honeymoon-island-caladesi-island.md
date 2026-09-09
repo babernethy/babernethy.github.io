@@ -1,8 +1,6 @@
 ---
 title: 'Florida Gem #2 &#8211; Honeymoon Island / Caladesi Island'
 date: '2008-03-14T03:51:48+00:00'
-dsq_thread_id:
-    - '378724941'
 category: "personal"
 tags: ["family", "nature"]
 redirect_from:

@@ -1,8 +1,6 @@
 ---
 title: 'Losing 70 pounds'
 date: '2011-07-13T22:04:10+00:00'
-dsq_thread_id:
-    - '357916058'
 header:
   teaser: /assets/images/weightScale.jpg
 category: "personal"

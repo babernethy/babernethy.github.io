@@ -1,8 +1,6 @@
 ---
 title: 'Howtoons &#8211; The Infamous Marshmallow Shooter'
 date: '2007-09-04T08:57:42+00:00'
-dsq_thread_id:
-    - '486958667'
 category: "science"
 tags: ["science", "family", "fun"]
 redirect_from:

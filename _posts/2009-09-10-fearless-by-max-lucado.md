@@ -1,8 +1,6 @@
 ---
 title: 'Fearless by Max Lucado'
 date: '2009-09-10T01:13:09+00:00'
-dsq_thread_id:
-    - '476034746'
 category: "personal"
 tags: ["books", "inspiration"]
 redirect_from:

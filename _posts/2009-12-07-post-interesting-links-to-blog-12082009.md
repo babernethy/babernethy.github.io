@@ -1,8 +1,6 @@
 ---
 title: 'Post Interesting Links to Blog 12/08/2009'
 date: '2009-12-07T17:30:35+00:00'
-dsq_thread_id:
-    - '548673663'
 category: "links"
 tags: ["general"]
 redirect_from:

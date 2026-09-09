@@ -1,8 +1,6 @@
 ---
 title: 'CodeMash Apps for iPhone'
 date: '2010-01-07T03:35:23+00:00'
-dsq_thread_id:
-    - '430893019'
 category: "development"
 tags: ["mobile", "development", "presentations"]
 redirect_from:

@@ -1,8 +1,6 @@
 ---
 title: 'EBook Innovations Needed'
 date: '2011-08-15T10:17:31+00:00'
-dsq_thread_id:
-    - '386794223'
 header:
   teaser: /assets/images/ebboki1.png
 category: "tech"

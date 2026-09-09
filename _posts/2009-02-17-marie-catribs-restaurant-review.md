@@ -1,8 +1,6 @@
 ---
 title: 'Marie Catrib&#8217;s Restaurant Review'
 date: '2009-02-17T03:15:00+00:00'
-dsq_thread_id:
-    - '357989571'
 category: "personal"
 tags: ["family", "fun"]
 redirect_from:

@@ -1,8 +1,6 @@
 ---
 title: 'Science Museum &#8211; Launchpad Online &#8211; Launchball'
 date: '2007-11-26T22:50:12+00:00'
-dsq_thread_id:
-    - '418896384'
 category: "science"
 tags: ["games", "science", "education"]
 redirect_from:

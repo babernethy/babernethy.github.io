@@ -1,8 +1,6 @@
 ---
 title: 'Tribot Sumo Test #1 &#8211; WallBot'
 date: '2008-01-15T23:39:05+00:00'
-dsq_thread_id:
-    - '566546083'
 category: "science"
 tags: ["robotics", "family", "development"]
 redirect_from:

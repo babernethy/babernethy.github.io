@@ -1,8 +1,6 @@
 ---
 title: 'iPad Hands-On Impressions'
 date: '2010-04-05T05:11:56+00:00'
-dsq_thread_id:
-    - '445545076'
 category: "tech"
 tags: ["mobile", "hardware", "ui"]
 redirect_from:

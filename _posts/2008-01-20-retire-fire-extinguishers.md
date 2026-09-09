@@ -1,8 +1,6 @@
 ---
 title: 'Retire Fire Extinguishers'
 date: '2008-01-20T00:02:14+00:00'
-dsq_thread_id:
-    - '566546076'
 category: "personal"
 tags: ["home"]
 redirect_from:

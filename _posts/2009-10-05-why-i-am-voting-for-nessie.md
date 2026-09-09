@@ -1,8 +1,6 @@
 ---
 title: 'Why I am voting for Nessie'
 date: '2009-10-05T03:37:03+00:00'
-dsq_thread_id:
-    - '392034917'
 category: "personal"
 tags: ["art", "family", "fun"]
 redirect_from:

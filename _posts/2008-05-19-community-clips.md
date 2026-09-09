@@ -1,8 +1,6 @@
 ---
 title: 'Community Clips'
 date: '2008-05-19T05:26:47+00:00'
-dsq_thread_id:
-    - '558048262'
 category: "tech"
 tags: ["tech", "microsoft", "presentations"]
 redirect_from:

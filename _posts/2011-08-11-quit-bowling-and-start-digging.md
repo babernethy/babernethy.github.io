@@ -1,8 +1,6 @@
 ---
 title: 'Quit Bowling, and Start Digging Ditches – WCAGLS Day 1'
 date: '2011-08-11T23:23:28+00:00'
-dsq_thread_id:
-    - '383707285'
 header:
   teaser: /assets/images/wcagls.jpg
 category: "jobs"

@@ -1,8 +1,6 @@
 ---
 title: 'Candyland, LCR, and Warstorm'
 date: '2010-03-19T06:10:58+00:00'
-dsq_thread_id:
-    - '370711971'
 category: "personal"
 tags: ["games", "family", "thinking"]
 redirect_from:

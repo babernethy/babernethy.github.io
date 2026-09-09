@@ -1,8 +1,6 @@
 ---
 title: 'Maker Faire Detroit 2011'
 date: '2011-08-01T14:13:51+00:00'
-dsq_thread_id:
-    - ''
 header:
   teaser: /assets/images/mf_det11_badge_200x200.jpg
 category: "science"

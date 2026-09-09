@@ -1,8 +1,6 @@
 ---
 title: 'Silverlight Kata: IFS Fractals: The MessageBus'
 date: '2010-02-05T03:20:13+00:00'
-dsq_thread_id:
-    - '518626049'
 category: "development"
 tags: ["silverlight", "development"]
 redirect_from:

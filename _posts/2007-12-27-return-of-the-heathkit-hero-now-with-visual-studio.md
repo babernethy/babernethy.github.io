@@ -1,8 +1,6 @@
 ---
 title: 'Return of the Heathkit HERO &#8211; now with Visual Studio'
 date: '2007-12-27T14:25:52+00:00'
-dsq_thread_id:
-    - '461350222'
 category: "science"
 tags: ["robotics", "microsoft", "hardware"]
 redirect_from:

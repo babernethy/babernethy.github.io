@@ -1,8 +1,6 @@
 ---
 title: 'If you have to work in a cube &#8230;'
 date: '2007-08-28T11:46:25+00:00'
-dsq_thread_id:
-    - '360438958'
 category: "jobs"
 tags: ["jobs", "design"]
 redirect_from:

@@ -1,7 +1,5 @@
 ---
 title: 'The Dreyfus Model of Skills Acquisition'
-dsq_thread_id:
-    - '360364531'
 excerpt: 'The skill levels people go through - from Advanced Beginner, to Competent, to Expert, and Master.'
 description: 'The skill levels people go through - from Advanced Beginner, to Competent, to Expert, and Master.'
 comments: true

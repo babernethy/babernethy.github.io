@@ -1,8 +1,6 @@
 ---
 title: 'Crystal Experiment &#8211; Take 1'
 date: '2007-08-17T05:49:01+00:00'
-dsq_thread_id:
-    - '359219875'
 category: "science"
 tags: ["science", "family"]
 redirect_from:

@@ -1,8 +1,6 @@
 ---
 title: 'What would make a good/great Netbook?'
 date: '2008-12-24T05:26:15+00:00'
-dsq_thread_id:
-    - '362526208'
 category: "tech"
 tags: ["hardware", "education"]
 redirect_from:

@@ -1,8 +1,6 @@
 ---
 title: 'Programming for Today’s Kids'
 date: '2009-08-04T05:56:41+00:00'
-dsq_thread_id:
-    - '412681961'
 header:
   teaser: /assets/images/smallbasic.png
 category: "development"

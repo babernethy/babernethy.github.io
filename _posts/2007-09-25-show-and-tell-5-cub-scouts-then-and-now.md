@@ -1,8 +1,6 @@
 ---
 title: 'Show and Tell #5: Cub Scouts &#8211; Then and Now'
 date: '2007-09-25T20:21:01+00:00'
-dsq_thread_id:
-    - '577464436'
 category: "personal"
 tags: ["family", "education"]
 redirect_from:

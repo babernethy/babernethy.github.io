@@ -1,8 +1,6 @@
 ---
 title: 'The Joy of Tech comic&#8230; laughter is the best tech support.'
 date: '2007-11-27T22:52:35+00:00'
-dsq_thread_id:
-    - '556990590'
 category: "tech"
 tags: ["education", "fun", "thinking"]
 redirect_from:

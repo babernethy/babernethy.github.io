@@ -1,8 +1,6 @@
 ---
 title: 'Collection/Addiction #2: Games'
 date: '2007-08-29T08:32:01+00:00'
-dsq_thread_id:
-    - '436590861'
 category: "personal"
 tags: ["games", "family"]
 redirect_from:
