@@ -1,8 +1,8 @@
 ---
 title: 'Laptop vs. Desktop for Development'
-category: 'development'
-tags: ['development', 'developer']
 toc: true
+category: "development"
+tags: ["development", "hardware"]
 ---
 
 I have spent the last 15+ years going back and forth between laptops and desktop machines for work and development.My first laptop was in 1991, a PowerBook 100.It was so drastically underpowered (and had a pretty ugly passive matrix screen, a smaller keyboard, and only 8 Mb of RAM) that I gave it up in under 6 months.Fast forward to 2007 and it seems like the same issues exist when choosing to use a laptop or desktop – screen size/quality, keyboard/mouse, and storage.Since I’ve just gone from using a pretty beefy laptop full time to using a well-equipped desktop full time, I thought I’d share just a few insights on pros and cons of both.

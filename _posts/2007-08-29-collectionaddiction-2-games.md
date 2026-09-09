@@ -5,6 +5,10 @@ dsq_thread_id:
     - '436590861'
 et_enqueued_post_fonts:
     - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
+category: "personal"
+tags: ["games", "family"]
+redirect_from:
+  - /collectionaddiction-2-games/
 ---
 
 [![game_tubs](/assets/images/game_tubs_thumb_1.jpg)](/assets/images/game_tubs_1.jpg) Now on to games – I love games, I love playing games – games that involve two or more players. A game you play by yourself is really more of a “puzzle”, skill builder, or simulation. And while I have played games that use a single player, I lose interest very quickly when other “real people” are not involved. There is nothing wrong with “solitaire” style games, *Suduko* or word puzzles, or Rubik’s Cubes but I like multiplayer games where you are face-to-face.

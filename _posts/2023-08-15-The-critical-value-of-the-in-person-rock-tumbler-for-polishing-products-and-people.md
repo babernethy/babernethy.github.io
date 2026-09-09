@@ -5,6 +5,10 @@ title: >-
 description: >-
   One of the ongoing debates of our time is remote work versus in-person versus
   a hybrid approach.
+category: "jobs"
+tags: ["leadership", "jobs", "thinking"]
+redirect_from:
+  - /The-critical-value-of-the-in-person-rock-tumbler-for-polishing-products-and-people/
 ---
 
 ![Image](/assets/images/1__bC2j8o1WTJauxaK7kgzIqw.png)

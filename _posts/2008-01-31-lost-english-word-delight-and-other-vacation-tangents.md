@@ -3,6 +3,10 @@ title: 'Lost English word &#8211; &quot;delight&quot; (and other vacation tangen
 date: '2008-01-31T14:12:48+00:00'
 et_enqueued_post_fonts:
     - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
+category: "personal"
+tags: ["thinking", "family"]
+redirect_from:
+  - /lost-english-word-delight-and-other-vacation-tangents/
 ---
 
 When was the last time you heard someone say, in real life, that something "delighted" them, or it was "delightful". If you are like me it has not happened in recent memory. But the word seems to keep coming up on vacation so I’ve been thinking a lot about it.

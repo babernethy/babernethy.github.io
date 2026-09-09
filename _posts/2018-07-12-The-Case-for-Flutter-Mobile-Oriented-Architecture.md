@@ -1,8 +1,10 @@
 ---
 title: The Case for Flutter — Mobile-Oriented Architecture
 description: This is the second post in a series on “The Case for Flutter”
-categories: []
-keywords: []
+category: "development"
+tags: ["flutter", "mobile", "development"]
+redirect_from:
+  - /The-Case-for-Flutter-Mobile-Oriented-Architecture/
 ---
 
 ![Image](/assets/images/1__8Vnv9__PqjUdC5jGiDh8ghQ.png)

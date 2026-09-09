@@ -1,6 +1,10 @@
 ---
 title: 'Dell Latitude 2100 “kidbook” &#8211; Detailed First Impressions and Tips'
 date: '2009-06-22T23:51:00+00:00'
+category: "tech"
+tags: ["hardware", "education"]
+redirect_from:
+  - /dell-latitude-2100-e2809ckidbooke2809d-detailed-first-impressions-and-tips/
 ---
 
 ## Kidbook vs. Netbook

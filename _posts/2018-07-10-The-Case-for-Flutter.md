@@ -3,8 +3,10 @@ title: The Case for Flutter
 description: >-
   I am really encouraged by the feedback and ongoing questions and conversations
   after my talk a few weeks ago on my investigations into…
-categories: []
-keywords: []
+category: "development"
+tags: ["flutter", "mobile", "development"]
+redirect_from:
+  - /The-Case-for-Flutter/
 ---
 
 ![Image](/assets/images/1__s3sUODGF4kYwbMUbgulPPA.png)

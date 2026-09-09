@@ -1,7 +1,10 @@
 ---
 title: 'Flutter Talk Links'
 date: '2018-06-22T20:12:21+00:00'
-tags: development presentations flutter
+category: "development"
+tags: ["flutter", "development", "presentations"]
+redirect_from:
+  - /flutter-talk-links-2/
 ---
 
 ## Links from handouts at Introduction to Flutter talk at THAT Conference 2018

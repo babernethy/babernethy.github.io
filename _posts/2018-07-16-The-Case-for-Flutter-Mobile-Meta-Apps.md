@@ -1,8 +1,10 @@
 ---
 title: The Case for Flutter — Mobile Meta Apps
 description: This is the third post in a series on “The Case for Flutter”
-categories: []
-keywords: []
+category: "development"
+tags: ["flutter", "mobile", "development"]
+redirect_from:
+  - /The-Case-for-Flutter-Mobile-Meta-Apps/
 ---
 
 ![Image](/assets/images/1__8Vnv9__PqjUdC5jGiDh8ghQ.png)

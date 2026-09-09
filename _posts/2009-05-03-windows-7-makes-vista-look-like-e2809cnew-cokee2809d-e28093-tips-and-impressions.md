@@ -1,6 +1,10 @@
 ---
 title: 'Windows 7 Makes Vista Look Like “New Coke” – Tips and Impressions'
 date: '2009-05-03T23:18:16+00:00'
+category: "tech"
+tags: ["microsoft", "hardware"]
+redirect_from:
+  - /windows-7-makes-vista-look-like-e2809cnew-cokee2809d-e28093-tips-and-impressions/
 ---
 
 Since Windows 7 was released to developers last week I have installed it on my two personal machines – laptop and desktop. In the short time I have used it in both environments I have been so pleased with it that it is worth noting. But I realized that most of the features and performance that have been so welcome, are mostly because of the corresponding disappointment with Vista. My overall impressions follow – technical tips for those installing the Release Candidate are at the end.

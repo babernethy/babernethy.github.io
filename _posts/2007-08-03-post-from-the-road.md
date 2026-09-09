@@ -1,10 +1,10 @@
 ---
 title: 'Post from the Road'
 date: '2007-08-03T02:04:00+00:00'
-category: blog
-tags: ["blog", "mobile"]
 header:
   teaser: /assets/images/jottlogo.jpg
+category: "blog"
+tags: ["blog", "mobile"]
 ---
 
 I just want to see if I can actually do a blog post using [Jott](https://geekestateblog.com/jott-the-new-way-of-texting-emailing-and-blogging/), let's see if this works.

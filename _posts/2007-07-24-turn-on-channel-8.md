@@ -1,7 +1,10 @@
 ---
 title: 'Turn On Channel 8'
 date: '2007-07-24T18:40:00+00:00'
-categories: [learning, microsoft]
+category: "tech"
+tags: ["microsoft", "education"]
+redirect_from:
+  - /learning/microsoft/turn-on-channel-8/
 ---
 
 *This could end up being a really great site – Microsoft has been really going after the student developer and releasing a lot of good tools (e.g. Express versions, Code4Fun) – Bruce*

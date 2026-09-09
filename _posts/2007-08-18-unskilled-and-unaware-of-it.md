@@ -4,13 +4,13 @@ dsq_thread_id:
     - '360363618'
 excerpt: 'How knowing less about a skill or topic gives the impression that you know much more than you really do.'
 description: 'How knowing less about a skill or topic gives the impression that you know much more than you really do.'
-category: 'jobs'
-tags: [ 'popular', 'jobs', 'thinking']
 comments: true
 toc: true
 header:
   teaser: /assets/images/unskilled-key-image.png
   tagline: 'How knowing less about a skill or topic gives the impression that you know much more than you really do.'
+category: "jobs"
+tags: ["popular", "jobs", "thinking"]
 ---
 
 # Unskilled and Unware of It

@@ -3,6 +3,10 @@ title: 'New Scientist: The Santa Delusion'
 date: '2008-01-03T00:15:44+00:00'
 et_enqueued_post_fonts:
     - 'a:2:{s:6:"family";a:3:{s:12:"et-gf-roboto";s:91:"Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic";s:22:"et-gf-roboto-condensed";s:59:"Roboto+Condensed:300,300italic,regular,italic,700,700italic";s:17:"et-gf-roboto-slab";s:51:"Roboto+Slab:100,200,300,regular,500,600,700,800,900";}s:6:"subset";a:7:{i:0;s:9:"latin-ext";i:1;s:5:"greek";i:2;s:9:"greek-ext";i:3;s:10:"vietnamese";i:4;s:8:"cyrillic";i:5;s:5:"latin";i:6;s:12:"cyrillic-ext";}}'
+category: "personal"
+tags: ["family", "thinking"]
+redirect_from:
+  - /new-scientist-the-santa-delusion/
 ---
 
 A friend (who shall remain nameless) sent a link to an article after we had several discussions this season about Christmas and Santa (yes we both have kids). If you still believe (or find the whole discussion about the issue(s) tedious) then come back tomorrow. I hate reading blog posts and articles like this, and can’t believe I wrote one, but when ideas get stuck in my head they need some way to get out or my head will explode.

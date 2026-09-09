@@ -2,13 +2,13 @@
 title: "MCP Security Framework - June 2025 Updates"
 excerpt: "MCP Security, Authentication, Authorization, Best Practices, updated June 2025"
 description: "MCP Security Framework - June 2025 Updates"
-category: "ai"
-tags: ["ai", "dev", "security"]
 comments: true
 toc: true
 header:
   teaser: /assets/images/ai-mcp-june-2025-header.png
   tagline: "MCP Security Framework - June 2025 Updates"
+category: "ai"
+tags: ["ai", "development", "security"]
 ---
 
 ![Image](/assets/images/ai-mcp-june-2025-header.png)
