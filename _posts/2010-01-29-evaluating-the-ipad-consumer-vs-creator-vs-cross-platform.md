@@ -29,7 +29,7 @@ I think my confusion and disappointment with the iPad came because I didn’t kn
 
 ## Consumer vs. Creator
 
-But I am not the “average user” intended for this device, which I can understand. The sad thing is that the apparent target user for the iPad is focused 95% on being a <u>consumer</u> and maybe 5% on being a <u>creator</u>. If you want to buy music on the iPad you are fine. If you want to compose or record music then you’ll need another device. If you want to read a book or magazine you are fine, if you want to write a non-trivial amount of text you will need another device or an awkward docking station. If you want to use a bunch of other people’s applications that are accepted through the App Store vetting process, then you are fine. If you want to write your own applications you will need another device.
+But I am not the “average user” intended for this device, which I can understand. The sad thing is that the apparent target user for the iPad is focused 95% on being a *consumer* and maybe 5% on being a *creator*. If you want to buy music on the iPad you are fine. If you want to compose or record music then you’ll need another device. If you want to read a book or magazine you are fine, if you want to write a non-trivial amount of text you will need another device or an awkward docking station. If you want to use a bunch of other people’s applications that are accepted through the App Store vetting process, then you are fine. If you want to write your own applications you will need another device.
 
 ## Selling to Paying Clients
 

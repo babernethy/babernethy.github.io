@@ -25,14 +25,14 @@ This study was prepared initially for the Air Force Office of Scientific Researc
 
 To keep this to as few words as possible, Dreyfus identifies five to seven stages of learning a new skill or domain:
 
-<div style="padding-bottom: 25px; margin-left: 35px">- Novice,
+- Novice,
 - Advanced Beginner,
 - Competent,
 - Proficient,
 - Expert, and
 - Master.
 
-</div>I don’t know about you but I find that many people use terms like “Competent” and “Expert” in describing their skills but really have no objective model for putting them in one category or another. Some people move themselves from not knowing anything about a particular skill up to “Competent” just by reading a book about the topic. Others call themselves an “Expert” after completing one project using a particular skill or technology. I am reminded of an episode of “Monk” where the detective Adrian Monk is going on a boat and someone asks him if he can swim. He says he knows how to swim, and even produces a card from his wallet certifying him as a swimmer (from a correspondence course), but also admits he has never actually been in the water to try out his skills but thinks he’ll do fine. Some people are that way with technology and other domains where they have studied it in books and on the Internet but have never really “done” real-world things to use what they have learned. You learn by doing things, you don’t (can’t) really learn before you do something.
+I don’t know about you but I find that many people use terms like “Competent” and “Expert” in describing their skills but really have no objective model for putting them in one category or another. Some people move themselves from not knowing anything about a particular skill up to “Competent” just by reading a book about the topic. Others call themselves an “Expert” after completing one project using a particular skill or technology. I am reminded of an episode of “Monk” where the detective Adrian Monk is going on a boat and someone asks him if he can swim. He says he knows how to swim, and even produces a card from his wallet certifying him as a swimmer (from a correspondence course), but also admits he has never actually been in the water to try out his skills but thinks he’ll do fine. Some people are that way with technology and other domains where they have studied it in books and on the Internet but have never really “done” real-world things to use what they have learned. You learn by doing things, you don’t (can’t) really learn before you do something.
 
 What this model does is two important things: (1) helps better define what these stages of learning mean and (2) explains a workable model for moving people from one stage to the next.
 
@@ -40,9 +40,9 @@ Briefly, the stages:
 
 ## **Novice**
 
-A novice is all about following <u>rules</u> – specific rules, without context or modification. You don’t need to “think” you just need to “do”. A rule is absolute, and must never be violated. The main thing to do here is to get experience following directions and doing the new skill. You can follow the instructions on a box of cake mix and hopefully produce a decent cake. All you are responsible for is following directions.
+A novice is all about following *rules* – specific rules, without context or modification. You don’t need to “think” you just need to “do”. A rule is absolute, and must never be violated. The main thing to do here is to get experience following directions and doing the new skill. You can follow the instructions on a box of cake mix and hopefully produce a decent cake. All you are responsible for is following directions.
 
-“To improve, the novice needs monitoring, either by self-observation or instructional <u>feedback</u>, so as to bring his behavior more and more completely into conformity with the rule.”
+“To improve, the novice needs monitoring, either by self-observation or instructional *feedback*, so as to bring his behavior more and more completely into conformity with the rule.”
 
 ## **Advanced Beginner**
 
@@ -50,21 +50,21 @@ Still rules based, but rules start to have situational conditions. In one situat
 
 ## **Competent**
 
-You realize that your skill or domain is more complex than a series of rules and branches. You start to see patterns and principles (or <u>aspects</u>) rather than a discrete set of rules – rules become “rules of thumb”. You are lead more by your experience and active decision-making than by strictly following rules. What is developed now are <u>guidelines</u> that help direct competent individuals at a higher level. You now are accountable for your decisions as you are not following the strict rules and context of the previous stages. You’ve made a lot of cakes and have a number of recipes. When asked to make a cake of a different type you pull from experience the best way to put a new cake together. If the new cake doesn’t work out, you are responsible. This is the critical tipping point for most people when learning a new skill – and why most people never really become “competent” in most things they learn. Here you either need to decide to just “follow the rules” or spend the time to get fully involved with and take responsibility.
+You realize that your skill or domain is more complex than a series of rules and branches. You start to see patterns and principles (or *aspects*) rather than a discrete set of rules – rules become “rules of thumb”. You are lead more by your experience and active decision-making than by strictly following rules. What is developed now are *guidelines* that help direct competent individuals at a higher level. You now are accountable for your decisions as you are not following the strict rules and context of the previous stages. You’ve made a lot of cakes and have a number of recipes. When asked to make a cake of a different type you pull from experience the best way to put a new cake together. If the new cake doesn’t work out, you are responsible. This is the critical tipping point for most people when learning a new skill – and why most people never really become “competent” in most things they learn. Here you either need to decide to just “follow the rules” or spend the time to get fully involved with and take responsibility.
 
-“Competence comes only after <u>considerable experience</u> actually coping <u>with real situations</u> …”
+“Competence comes only after *considerable experience* actually coping *with real situations* …”
 
 ## **Proficient**
 
-At this point your understanding of your skill or domain has become more of an <u>instinct</u> or <u>intuition</u>. You will do and try things because it just seems like the right thing to do (and you will most often be right). Instead of a discrete set of different parts you can perceive a complete system. A large amount of real-world experience will show you that there are often multiple competing solutions to a specific problem and you have a “gut feeling” about which is correct. “Calculation and rational analysis seem to disappear”. Will quickly know “what” needs to be done and then formulate how to do it.
+At this point your understanding of your skill or domain has become more of an *instinct* or *intuition*. You will do and try things because it just seems like the right thing to do (and you will most often be right). Instead of a discrete set of different parts you can perceive a complete system. A large amount of real-world experience will show you that there are often multiple competing solutions to a specific problem and you have a “gut feeling” about which is correct. “Calculation and rational analysis seem to disappear”. Will quickly know “what” needs to be done and then formulate how to do it.
 
-Proficiency is developed by exposure to a “<u>wide variety</u> of typical <u>whole situations</u>.”
+Proficiency is developed by exposure to a “*wide variety* of typical *whole situations*.”
 
 ## **Expert** 
 
 At this point you are not solving problems or making conscious decisions about things, you just “do” and it works. “Optimal performance becomes second nature.” People may ask you why you decided to do things “that way” and you may not know how to explain to them the 10 steps necessary to get from “A” to “B” because to you it was really just one step. Forcing an expert to detail the steps necessary before proceeding will often cause them to fail or second-guess. Here you think of grandma getting up at 6:00am and making biscuits from scratch for many, many years. She doesn’t measure, time, or probably even think about baking – she just does it, and it works. Very few people will attain this level in a particular skill or domain. Some estimates say 10-15 years in a particular area is required.
 
-An Expert has experience that “is so vast that normally each specific situation immediately dictates an <u>intuitively appropriate action</u>.”
+An Expert has experience that “is so vast that normally each specific situation immediately dictates an *intuitively appropriate action*.”
 
 ## **Master** 
 

@@ -19,7 +19,7 @@ tags: ["physics", "science", "fun"]
 
 ![Image](/assets/images/wii-acceleration.png)
 
-<div style="background-color: #fff">## Measure your 0-60 time with a Wiimote 
+## Measure your 0-60 time with a Wiimote
 
 Here's how you can use the Wiimote's built-in accelerometers to measure your ride's G forces and 0-60 time:
 

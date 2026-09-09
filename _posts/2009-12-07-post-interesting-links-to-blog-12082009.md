@@ -14,6 +14,6 @@ redirect_from:
     [tags](http://www.diigo.com/cloud/babernethy): [no\_tag](http://www.diigo.com/user/babernethy/no_tag)
     
     
-    - <div class="diigoContent"><div class="diigoContentInner">**GMAC**</div></div>
+    - **GMAC**
 
 Posted from [Diigo](http://www.diigo.com). The rest of my [favorite links](http://www.diigo.com/user/babernethy) are here.

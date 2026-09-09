@@ -9,7 +9,9 @@ redirect_from:
   - /why-i-am-voting-for-nessie/
 ---
 
-<div style="margin: 15px; float: right">*{missing-embed:Flickr slideshow — legacy Flash slideshow API retired}*</div>My family has had a great time at ArtPrize these last few weeks visiting as many of the different venues and artists as possible. The final vote is upon us this week and I feel strongly enough about one of the top 10 that I am going to make my intended vote public and let others know why.
+*{missing-embed:Flickr slideshow — legacy Flash slideshow API retired}*
+
+My family has had a great time at ArtPrize these last few weeks visiting as many of the different venues and artists as possible. The final vote is upon us this week and I feel strongly enough about one of the top 10 that I am going to make my intended vote public and let others know why.
 
 First, full disclosure, I am a full 50% Scottish, have been to Loch Ness, and have seriously considered the matter of whether there is or has been a Plesiosaurish orphan in the deep waters (not fully decided either way). Beyond this heritage, I have no other connections with the artists themselves or any of the others or the contest.
 

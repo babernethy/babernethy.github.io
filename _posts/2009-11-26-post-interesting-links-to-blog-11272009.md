@@ -14,6 +14,6 @@ redirect_from:
     [tags](http://www.diigo.com/cloud/babernethy): [no\_tag](http://www.diigo.com/user/babernethy/no_tag)
     
     
-    - <div class="diigoContent"><div class="diigoContentInner"><span class="style53">Catan Portable Edition</span><span class="style54">™</span></div></div>
+    - Catan Portable Edition™
 
 Posted from [Diigo](http://www.diigo.com). The rest of my [favorite links](http://www.diigo.com/user/babernethy) are here.

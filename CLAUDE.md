@@ -94,13 +94,18 @@ entry** — it is the only thing keeping 19 years of inbound links alive. If you
 change a post's `category`, add the old path to its `redirect_from:` list
 rather than replacing it.
 
+`dsq_thread_id` survives on 62 posts. Comments are giscus (keyed on
+`discussion_term: pathname`), so Jekyll never reads it — but it is the only
+join key back to the old Disqus threads if those comments are ever imported.
+Kept deliberately; do not sweep it.
+
 ## Theme overrides
 
 The theme is a gem, but several files shadow it. Check here before assuming
 behavior comes from upstream:
 
 - `_layouts/` — `posts.html` (year-grouped archive that excludes the `links`
-  category), `tagpage.html`, `category2.html`, `home.html`, `post_old.html`
+  category), `tagpage.html`, `category2.html`, `home.html`
 - `_includes/` — `archive2-single.html`, `breadcrumbs.html`
 - `assets/css/main.scss` — skin import and color variables
 
@@ -113,7 +118,6 @@ behavior comes from upstream:
 - `assets/css/main.scss` uses Sass `@import` and the global `mix()` function.
   Both are removed in Dart Sass 3.0 and currently emit deprecation warnings on
   every build.
-- `/categories/links/` is declared by both `_pages/links.md` and
-  `_categories/links.html`. Jekyll silently picks one with no warning.
-- `_config.yml` declares four collections (`recipes`, `pets`, `portfolio`,
-  `category`) that are empty and unused.
+- `/categories/links/` is served by `_pages/links.md`. A rival
+  `_categories/links.html` used to sit alongside it; since `_categories` was
+  never a declared collection, Jekyll ignored the directory outright. Removed.

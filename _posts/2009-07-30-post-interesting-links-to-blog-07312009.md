@@ -12,6 +12,6 @@ redirect_from:
     [tags](http://www.diigo.com/cloud/babernethy): [no\_tag](http://www.diigo.com/user/babernethy/no_tag)
     
     
-    - <div class="content"><span class="entry-content" done10="23" done14="23" done16="23" done18="23">GRSM is tomorrow, 12pm @ the GRCF building. @[spearia](http://twitter.com/spearia) is presenting. Take some time, learn in the small groups after the presentation</span></div>
+    - GRSM is tomorrow, 12pm @ the GRCF building. @[spearia](http://twitter.com/spearia) is presenting. Take some time, learn in the small groups after the presentation
 
 Posted from [Diigo](http://www.diigo.com). The rest of my [favorite links](http://www.diigo.com/user/babernethy) are here.
