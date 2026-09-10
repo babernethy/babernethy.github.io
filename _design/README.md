@@ -19,6 +19,21 @@ lays them out on a pan/zoom canvas and groups them into pages.
 | `QuoteStudies.dc.html` | three pull-quote treatments; "tinted panel" was chosen |
 | `FieldNotes*.dc.html` | the direction that was **not** chosen, kept for reference |
 
+## Affinity sources
+
+The `.af` files are Affinity Designer documents — the vector sources for
+hand-made post graphics, exported to SVG/PNG under `assets/images/`.
+
+| file | for |
+| --- | --- |
+| `razor_header.af` | header art for the Hanlon's razor post |
+| `dreyfus-confidence-competence.af` | Dreyfus confidence/competence graphic |
+
+Keep these here rather than in `_drafts/`. Jekyll parses *every* file in
+`_drafts/` as a document and dies on binary with "invalid byte sequence in
+UTF-8" — and only under `--drafts`, so a plain `jekyll build` looks fine while
+local preview is broken. Affinity's `*~lock~` files are gitignored.
+
 ## Live canvas
 
 https://claude.ai/code/artifact/1d72cba9-bef1-443a-8f64-44bb96814679

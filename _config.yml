@@ -127,6 +127,8 @@ exclude:
   - bin
   - _design
   - _templates
+  - "*.af"
+  - "*~lock~"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor

@@ -12,3 +12,6 @@ vendor/
 # Design canvas build output (regenerable; sources in _design/*.dc.html)
 _design/*.html
 !_design/*.dc.html
+
+# Affinity leaves these behind next to an open document
+*~lock~
