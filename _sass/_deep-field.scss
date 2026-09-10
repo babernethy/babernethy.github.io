@@ -30,6 +30,14 @@
   --df-quote-text  : #312a7a;
   --df-quote-mark  : #a06316;
 
+  /* Quoted material panels. Deliberately NOT --df-surface: code blocks own
+     that token, and a quote tinted the same as a code block reads as neither.
+     The panel carries a little accent hue and the rule carries the accent
+     outright, so the card separates from the ground at a glance. */
+  --df-quote-panel      : #e0dbf5;
+  --df-quote-panel-rule : #5f52cf;
+  --df-quote-panel-edge : #c0b8e4;
+
   --df-measure     : 62ch;   /* ~700px at 20px Literata */
 }
 
@@ -49,6 +57,13 @@
     --df-quote-bg    : #252042;
     --df-quote-text  : #cfc9ff;
     --df-quote-mark  : #e0a458;
+
+    /* #1e1c29 (surface) over #14131c (ground) was a 1.2:1 step — the panel
+       edge was invisible at reading distance. This is roughly a 1.9:1 step,
+       plus a lit edge and an accent rule to draw the boundary. */
+    --df-quote-panel      : #241f3b;
+    --df-quote-panel-rule : #8d8df3;
+    --df-quote-panel-edge : #3b3560;
   }
 }
 
@@ -211,9 +226,11 @@ a {
 
 .page__content blockquote {
   margin: 1.6em 0;
-  padding: 0.9em 1.2em;
-  background-color: var(--df-surface);
-  border-left: 3px solid var(--df-rule);
+  padding: 1em 1.35em;
+  background-color: var(--df-quote-panel);
+  border: 1px solid var(--df-quote-panel-edge);
+  border-left: 4px solid var(--df-quote-panel-rule);
+  border-radius: 3px;
   color: var(--df-text);
   font-style: normal;
 
@@ -226,6 +243,16 @@ a {
   > :last-child {
     margin-bottom: 0;
   }
+
+  /* Nested quotes sit on the panel, not on the ground, so they need to step
+     the other way — no second panel, just the rule. */
+  blockquote {
+    background-color: transparent;
+    border: 0;
+    border-left: 3px solid var(--df-quote-panel-rule);
+    border-radius: 0;
+    padding: 0 0 0 1.1em;
+  }
 }
 
 .page__content blockquote.pull-quote {
@@ -233,7 +260,8 @@ a {
   margin: 2em 0;
   padding: 1.5em 1.7em 1.5em 3.9em;
   background-color: var(--df-quote-bg);
-  border-left: 3px solid var(--df-quote-mark);
+  border: 0;
+  border-left: 4px solid var(--df-quote-mark);
   border-radius: 3px;
 
   &::before {

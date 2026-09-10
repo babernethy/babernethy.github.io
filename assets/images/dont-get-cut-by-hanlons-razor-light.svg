@@ -1,26 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 848 394" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <rect x="0" y="0" width="847.206" height="393.187" style="fill:white;"/>
-    <g transform="matrix(1,0,0,1,-26,31)">
-        <path d="M82.206,115.34L82.206,275.99L272,247.64L463.643,150.082L653,115.34L842.206,83.84L842.206,33L652.206,77.54L249.306,232.54" style="fill:rgb(117,117,117);stroke:black;stroke-width:5.33px;"/>
+<svg width="100%" height="100%" viewBox="0 0 800 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect x="0" y="0" width="805" height="400" style="fill:rgb(233,231,246);"/>
+    <g transform="matrix(0.734211,0,0,0.734211,60.643449,71.619354)">
+        <path d="M82.206,115.34L82.206,275.99L272,247.64L463.643,150.082L249.306,232.54" style="fill:rgb(74,69,96);stroke:black;stroke-width:7.26px;"/>
     </g>
-    <g transform="matrix(1,0,0,1,-26,31)">
-        <path d="M249.306,232L82.206,115.34L82.206,275.99" style="fill:rgb(117,117,117);stroke:black;stroke-width:5.33px;"/>
+    <g transform="matrix(0.734211,0,0,0.734211,60.643449,71.619354)">
+        <path d="M249.306,232L82.206,115.34L82.206,275.99" style="fill:rgb(74,69,96);stroke:black;stroke-width:7.26px;"/>
     </g>
-    <g transform="matrix(1,0,-0,1,-73.740695,-10.463802)">
-        <text x="202.217px" y="117.84px" style="font-family:'BayatersRegularDemo', 'Bayaters RegularDemo';font-size:32px;">Don&apos;t Get Cut B<tspan x="472.137px " y="117.84px ">y</tspan></text>
+    <g transform="matrix(0.734211,0,0,0.734211,60.643449,71.619354)">
+        <path d="M82.206,115.34L82.206,51L129,146L82.206,115.34Z" style="fill:rgb(160,99,22);stroke:black;stroke-width:7.26px;"/>
+    </g>
+    <g transform="matrix(1.005225,0,0,1.011744,-3.547698,-1.125618)">
+        <path d="M679,95.848L539.5,128.55L402.5,181L542,142.303L679,134L679,95.848Z" style="fill:rgb(91,79,199);stroke:black;stroke-width:5.29px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+    </g>
+    <g transform="matrix(1,0,-0,1,-48.624577,-47.583711)">
+        <text x="202.217px" y="117.84px" style="font-family:'BayatersRegularDemo', 'Bayaters RegularDemo';font-size:32px;stroke:rgb(160,99,22);stroke-width:0.53px;stroke-linecap:butt;stroke-miterlimit:2;">Don&apos;t Get Cut B<tspan x="472.137px " y="117.84px ">y</tspan></text>
         <g transform="matrix(32,0,0,32,473.192749,165.583802)">
         </g>
-        <text x="222.377px" y="165.584px" style="font-family:'BayatersRegularDemo', 'Bayaters RegularDemo';font-size:32px;">Hanl<tspan x="297.993px " y="165.584px ">o</tspan>n&apos;s Raz<tspan x="432.425px " y="165.584px ">o</tspan>r</text>
+        <text x="222.377px" y="165.584px" style="font-family:'BayatersRegularDemo', 'Bayaters RegularDemo';font-size:32px;stroke:rgb(160,99,22);stroke-width:0.53px;stroke-linecap:butt;stroke-miterlimit:2;">Hanl<tspan x="297.993px " y="165.584px ">o</tspan>n&apos;s Raz<tspan x="432.425px " y="165.584px ">o</tspan>r</text>
     </g>
-    <g transform="matrix(1,0,0,1,194.915563,116.75346)">
-        <text x="238.609px" y="117.84px" style="font-family:'BayatersRegularDemo', 'Bayaters RegularDemo';font-size:32px;">Let Dreyfus, Dunning,</text>
+    <g transform="matrix(1,0,0,1,84.455251,145.230201)">
+        <text x="238.609px" y="117.84px" style="font-family:'BayatersRegularDemo', 'Bayaters RegularDemo';font-size:32px;stroke:rgb(63,37,179);stroke-width:0.47px;stroke-linecap:butt;stroke-miterlimit:2;">Let Dreyfus, Dunning,</text>
         <g transform="matrix(32,0,0,32,595.888749,165.583802)">
         </g>
-        <text x="238.609px" y="165.584px" style="font-family:'BayatersRegularDemo', 'Bayaters RegularDemo';font-size:32px;">and Kruger guide y<tspan x="553.425px " y="165.584px ">o</tspan>u</text>
-    </g>
-    <g transform="matrix(1,0,0,1,-26,31)">
-        <path d="M82.206,115.34L82.206,51L129,146L82.206,115.34Z" style="fill:rgb(255,0,64);stroke:black;stroke-width:5.33px;"/>
+        <text x="238.609px" y="165.584px" style="font-family:'BayatersRegularDemo', 'Bayaters RegularDemo';font-size:32px;stroke:rgb(63,37,179);stroke-width:0.47px;stroke-linecap:butt;stroke-miterlimit:2;">and Kruger guide y<tspan x="553.425px " y="165.584px ">o</tspan>u</text>
     </g>
 </svg>

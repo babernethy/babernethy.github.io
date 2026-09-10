@@ -8,7 +8,7 @@ comments: true
 toc: true
 header:
   teaser: /assets/images/dont-get-cut-by-hanlons-razor-light.svg
-  tagline: "Hanlon's Razor tells us not to assume malice. Dreyfus, Dunning, and Kruger tell us what to assume instead."
+  tagline: "Hanlon's Razor tells us not to assume malice. Dreyfus, Dunning, and Kruger guide us towards what to assume instead."
 ---
 
 <picture>
@@ -16,25 +16,33 @@ header:
   <img src="/assets/images/dont-get-cut-by-hanlons-razor-light.svg" alt="A straight razor whose blade is the gap between the competence and confidence curves.">
 </picture>
 
-You are in a meeting when someone makes a confident statement about a complicated problem.
+You are having a discussion with a group of people when someone makes a quite confident statement about a complicated problem.
 
-They have the answer. They may even seem surprised that everyone else cannot see it. Yet the people who have lived with the problem the longest are hesitant. They qualify their answers, identify exceptions, and ask for more information.
+They have the answer, in some detail, they may have a lot of right-sounding terms, some more content to back it up (maybe even a sharp presentation), and sound quite confident about their position. They may even seem surprised (or even upset) if everyone else does not see their point clearly after their first explanation.
+
+Yet, around the room, some people who have lived with the problem the longest seem hesitant. They qualify their answers, ask questions, identify exceptions, and ask for more information.
 
 Who sounds more credible?
 
-Too often, we confuse confidence with competence. The person who speaks decisively sounds knowledgeable, while the person who sees five possible failure modes sounds uncertain. When the discussion becomes tense, we may go further and assign motives: *They are being difficult. They are protecting their territory. They do not care about the outcome. They are deliberately slowing us down.*
+> Too often, we confuse Confidence with Competence
+
+It is very easy to confuse confidence with competence. A person who speaks decisively, convincingly, and passionately, sounds knowledgeable. While the person who sees five possible failure modes, and asks a number of questions, or asks for additional detail and information, sounds uncertain.
+
+When the discussion becomes tense, we may go further and assign motives: *They are being difficult. They are protecting their territory. They do not care about the outcome. They don't understand. They are deliberately slowing us down.*
 
 That is where Hanlon's Razor can cut us.
 
-Hanlon's Razor asks us not to attribute to malice what error, ignorance, or misunderstanding adequately explains. It is usually credited to a Robert J. Hanlon, by way of a joke book, which is a fitting origin for a rule of thumb rather than a law. It is a useful corrective, but it is not enough by itself. Telling someone what *not* to assume leaves the more important question open: what should we assume instead?
+Hanlon's Razor asks us not to attribute to malice what error, ignorance, or misunderstanding adequately explains. It is usually credited to a Robert J. Hanlon, by way of a joke book, which makes it a "rule of thumb" rather than a law. It is a useful idea to remember, but it is not enough by itself. Telling someone what *not* to assume leaves the more important question open: what should we assume instead?
 
-If we combine the razor with the Dreyfus model of skill acquisition, the Dunning–Kruger research on self-assessment, and a concept I call the **Razor Gap**, we get a more useful answer.
+> Telling someone what *not* to assume leaves the more important question open: what *should* we assume instead?
+
+If we combine "the razor" with the Dreyfus model of skill acquisition, the Dunning–Kruger research on self-assessment, and mapping this together and finding something I'd like to call the **Razor Gap**, we get a more useful answer.
 
 The goal is not to diagnose or label people. It is to become slower to judge motives, more curious about capability, and more honest about our own certainty.
 
-These ideas have been with me for a long time. In 2007, I wrote about [the Dreyfus model of skill acquisition]({% post_url 2007-08-18-the-dreyfus-model-of-skills-acquisition %}) and then about Kruger and Dunning's paper, ["Unskilled and Unaware of It"]({% post_url 2007-08-18-unskilled-and-unaware-of-it %}). Even then, I was asking what happens when someone at the novice end of a skill believes they are much farther along. Nearly two decades later, after many more software projects, architecture decisions, mentoring conversations, and difficult meetings, I find myself returning to the same question — but with a greater appreciation for what the mismatch does to everyone else in the room.
+| Background: These ideas have been with me for a long time. In 2007, I wrote about [the "Dreyfus Model of Skill Acquisition"]({% post_url 2007-08-18-the-dreyfus-model-of-skills-acquisition %}) and then about Kruger and Dunning's paper, ["Unskilled and Unaware of It"]({% post_url 2007-08-18-unskilled-and-unaware-of-it %}). A few decades later it seems like AI has amplified the issue, and coming across "The Razor Gap" as a way to illustrate this seems like a good way to communicate it.
 
-## Three ideas and one razor
+## Three ideas and one Razor
 
 ### Dreyfus: competence develops through stages
 
@@ -44,7 +52,11 @@ Dreyfus and Dreyfus describe the underlying movement this way:
 
 > "as the student becomes skilled, he depends less on abstract principles and more on concrete experience."[^1]
 
-A novice depends heavily on rules and instructions. An advanced beginner starts recognizing recurring situations but may struggle to decide which details matter. A competent practitioner can plan, prioritize, and accept responsibility for choices. A proficient practitioner sees situations more holistically. An expert recognizes meaningful patterns and responds fluidly, while still slowing down when the situation is unfamiliar or anomalous.
+* A **Novice** depends heavily on rules and instructions.
+* An **Advanced Beginner** starts recognizing recurring situations but may struggle to decide which details matter.
+* A **Competent** practitioner can plan, prioritize, and accept responsibility for choices.
+* A **Proficient** practitioner sees situations more holistically.
+* An **Expert** recognizes meaningful patterns and responds fluidly, while still slowing down when the situation is unfamiliar or anomalous.
 
 This is not simply the accumulation of more facts. Expertise changes how a person sees the problem. What appeared to be one straightforward decision becomes a network of context, tradeoffs, precedents, and consequences.
 
@@ -58,23 +70,36 @@ There is an important caution here. The famous internet curve — with its drama
 
 The durable insight is simpler: our ability to judge our own competence is imperfect, and it is least reliable exactly when we lack the context to see our own mistakes.
 
-### The Razor Gap: confidence relative to competence
+### "The Razor Gap": confidence relative to competence
 
-The Dreyfus model describes the development of competence. Dunning and Kruger explored the accuracy of self-assessment. I use **the Razor Gap** as a visual metaphor connecting those ideas:
+The Dreyfus model describes the development of **Competence**. Dunning and Kruger explored the accuracy of self-assessment or **Confidence**. I use **the Razor Gap** as a visual metaphor connecting those ideas:
 
-> **Razor Gap (Δ) = expressed confidence − demonstrated competence**
+> **Razor Gap (Δ) = expressed Confidence − demonstrated Competence**
 
-This is not a new scientific measure or a replacement for either model. It is a practical name for the space that opens when demonstrated competence and expressed confidence do not align. Like the gap between a razor's blade and its safety bar, a wider opening allows a more aggressive — and more damaging — cut.
+This isn't "scientific" measurements but more of a mental model and a practical name for that space or gap that opens when there is a "miscalibration" between someone's demonstrable competence and their self-assessed confidence.  The wider this "Razor Gap" the more the distortion of reality exists for the person and this is potentially very damaging for them or those around them.
 
 ![A conceptual line chart of competence and confidence across the five Dreyfus stages, with the space between them shaded as the Razor Gap.](/assets/images/dreyfus-confidence-competence.svg)
 
-*Figure 1. Competence rises through the Dreyfus stages while confidence follows a less direct path. The shading takes the color of whichever line is on top, so it shows which way the gap runs without implying that either direction is the healthy one. The curves and gaps are illustrative, not measured values.*
+*p.s. It's kind of cool that the graph, when I looked at it closely, kind of looks like a "shaving razor"*
 
-When the gap is positive, confidence exceeds competence. When it is near zero, the two are aligned. When it is negative, competence exceeds expressed confidence.
+* When the gap is **positive**, confidence exceeds competence - *you may think you know (much) more than you do.*
+* When it is **near zero**, the two are aligned - *this would really be ideal.*
+* When it is **negative**, competence exceeds expressed confidence - *a wealth of knowledge and/or experience may lead to hesitancy.*
 
-Notice that neither direction is automatically the problem. A large positive gap can make an inexperienced person reckless. A large negative gap can keep a capable person silent, which is its own kind of failure — the room loses the one perspective it most needed. The goal is **calibrated confidence**: enough to act, enough humility to see uncertainty, and enough self-awareness to know when another perspective is needed.
+Note that neither direction is automatically "the problem." A large positive gap can make an inexperienced person reckless. A large negative gap can keep a capable person silent, which is its own kind of failure — the room loses the perspective it most needed.
 
-In my illustration, the novice begins with a wide positive gap. The advanced beginner's confidence drops as the landscape becomes visible. Confidence and competence align around the competent stage. The proficient and expert stages show a modest negative gap — not because experts lack confidence, but because they understand boundary conditions and can see how much remains uncertain.
+The goal is **Calibrated Confidence**: enough to act, enough humility to see uncertainty, and enough self-awareness to know when another perspective is needed.
+
+In my illustration/graph ...
+
+* the **Novice** begins with a wide positive gap.
+* The **Advanced Beginner's** confidence drops as the details becomes visible.
+* Confidence and competence align around the **Competent** stage.
+* The **Proficient** and **Expert** stages show a modest negative gap — not because experts lack confidence, but because they understand many details, have experiences, and understand boundary conditions - this helps them to see how much remains uncertain.
+
+> AI is amplifying or "sharpening" the "Novice Razor Gap" - meaning that someone can get much more information more quickly about a topic, problem, or domain early on now - AND feel much more confident about that information (because, "hey, it came from an AI") - the red "blade" on the left of the chart.
+>
+> All of this, while still being still very early on the curve of competence, learning, and actual skill acquisition and knowledge about a particular topic or domain.
 
 That is a pattern I have observed, not a claim that every person follows the same path.
 

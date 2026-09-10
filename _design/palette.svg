@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1356" height="1318" viewBox="0 0 1356 1318">
+  <title>Deep Field colour tokens</title>
+  <rect width="1356" height="1318" fill="#ffffff"/>
+  <text x="40" y="46" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#635e75" letter-spacing="0.16em">DEEP FIELD — COLOUR TOKENS</text>
+  <text x="40" y="74" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1b1926">bruceabernethy.com — generated from _sass/_deep-field.scss</text>
+  <g><rect x="40" y="96" width="620" height="1148" fill="#f4f3fa"/>
+  <text x="72" y="142" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#635e75" letter-spacing="0.16em">LIGHT</text>
+  <text x="72" y="178" font-family="Instrument Serif, Times New Roman, Georgia, serif" font-size="30" font-weight="400" fill="#1b1926">Deep Field</text>
+  <line x1="72" y1="194" x2="628" y2="194" stroke="#d9d5ec" stroke-width="1"/>
+  <rect x="72" y="216.0" width="128" height="52" fill="#f4f3fa" stroke="#d9d5ec" stroke-width="1"/>
+  <text x="220" y="234" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1b1926">Ground</text>
+  <text x="220" y="251" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#635e75">page background</text>
+  <text x="628" y="234" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#1b1926" text-anchor="end">#F4F3FA</text>
+  <text x="628" y="251" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#635e75" text-anchor="end">244, 243, 250</text>
+  <rect x="72" y="284.0" width="128" height="52" fill="#efedfa" stroke="#d9d5ec" stroke-width="1"/>
+  <text x="220" y="302" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1b1926">Ground tint</text>
+  <text x="220" y="319" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#635e75">banded sections, teaser cards</text>
+  <text x="628" y="302" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#1b1926" text-anchor="end">#EFEDFA</text>
+  <text x="628" y="319" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#635e75" text-anchor="end">239, 237, 250</text>
+  <rect x="72" y="352.0" width="128" height="52" fill="#e9e7f6" stroke="#d9d5ec" stroke-width="1"/>
+  <text x="220" y="370" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1b1926">Surface</text>
+  <text x="220" y="387" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#635e75">raised panels, nav overflow</text>
+  <text x="628" y="370" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#1b1926" text-anchor="end">#E9E7F6</text>
+  <text x="628" y="387" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#635e75" text-anchor="end">233, 231, 246</text>
+  <rect x="72" y="420.0" width="128" height="52" fill="#1b1926" stroke="#d9d5ec" stroke-width="1"/>
+  <text x="220" y="438" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1b1926">Text</text>
+  <text x="220" y="455" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#635e75">body copy</text>
+  <text x="628" y="438" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#1b1926" text-anchor="end">#1B1926</text>
+  <text x="628" y="455" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#635e75" text-anchor="end">27, 25, 38</text>
+  <rect x="72" y="488.0" width="128" height="52" fill="#635e75" stroke="#d9d5ec" stroke-width="1"/>
+  <text x="220" y="506" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1b1926">Text dim</text>
+  <text x="220" y="523" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#635e75">meta, captions, secondary</text>
+  <text x="628" y="506" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#1b1926" text-anchor="end">#635E75</text>
+  <text x="628" y="523" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#635e75" text-anchor="end">99, 94, 117</text>
+  <rect x="72" y="556.0" width="128" height="52" fill="#d9d5ec" stroke="#d9d5ec" stroke-width="1"/>
+  <text x="220" y="574" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1b1926">Rule</text>
+  <text x="220" y="591" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#635e75">hairlines, borders, dividers</text>
+  <text x="628" y="574" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#1b1926" text-anchor="end">#D9D5EC</text>
+  <text x="628" y="591" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#635e75" text-anchor="end">217, 213, 236</text>
+  <rect x="72" y="624.0" width="128" height="52" fill="#5b4fc7" stroke="#d9d5ec" stroke-width="1"/>
+  <text x="220" y="642" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1b1926">Accent</text>
+  <text x="220" y="659" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#635e75">prose links, primary mark</text>
+  <text x="628" y="642" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#1b1926" text-anchor="end">#5B4FC7</text>
+  <text x="628" y="659" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#635e75" text-anchor="end">91, 79, 199</text>
+  <rect x="72" y="692.0" width="128" height="52" fill="#8f5c14" stroke="#d9d5ec" stroke-width="1"/>
+  <text x="220" y="710" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1b1926">Accent 2</text>
+  <text x="220" y="727" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#635e75">links-tier only, never his own writing</text>
+  <text x="628" y="710" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#1b1926" text-anchor="end">#8F5C14</text>
+  <text x="628" y="727" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#635e75" text-anchor="end">143, 92, 20</text>
+  <rect x="72" y="760.0" width="128" height="52" fill="#4a4560" stroke="#d9d5ec" stroke-width="1"/>
+  <text x="220" y="778" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1b1926">Nav</text>
+  <text x="220" y="795" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#635e75">masthead links</text>
+  <text x="628" y="778" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#1b1926" text-anchor="end">#4A4560</text>
+  <text x="628" y="795" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#635e75" text-anchor="end">74, 69, 96</text>
+  <rect x="72" y="828.0" width="128" height="52" fill="#e4e0fa" stroke="#d9d5ec" stroke-width="1"/>
+  <text x="220" y="846" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1b1926">Quote bg</text>
+  <text x="220" y="863" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#635e75">pull-quote tinted panel</text>
+  <text x="628" y="846" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#1b1926" text-anchor="end">#E4E0FA</text>
+  <text x="628" y="863" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#635e75" text-anchor="end">228, 224, 250</text>
+  <rect x="72" y="896.0" width="128" height="52" fill="#312a7a" stroke="#d9d5ec" stroke-width="1"/>
+  <text x="220" y="914" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1b1926">Quote text</text>
+  <text x="220" y="931" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#635e75">pull-quote copy</text>
+  <text x="628" y="914" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#1b1926" text-anchor="end">#312A7A</text>
+  <text x="628" y="931" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#635e75" text-anchor="end">49, 42, 122</text>
+  <rect x="72" y="964.0" width="128" height="52" fill="#a06316" stroke="#d9d5ec" stroke-width="1"/>
+  <text x="220" y="982" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1b1926">Quote mark</text>
+  <text x="220" y="999" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#635e75">pull-quote glyph</text>
+  <text x="628" y="982" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#1b1926" text-anchor="end">#A06316</text>
+  <text x="628" y="999" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#635e75" text-anchor="end">160, 99, 22</text>
+  <rect x="72" y="1032" width="556" height="162" fill="#efedfa" stroke="#d9d5ec" stroke-width="1"/>
+  <text x="92" y="1064" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="10" font-weight="500" fill="#635e75" letter-spacing="0.16em">IN CONTEXT</text>
+  <text x="92" y="1092" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#1b1926">Body copy sets over the ground, <tspan fill="#5b4fc7" font-weight="500">a prose link</tspan> inside it.</text>
+  <text x="92" y="1112" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#635e75">Meta and captions sit dim. Nav is its own tone.</text>
+  <rect x="92" y="1128" width="516" height="54" fill="#e4e0fa"/>
+  <rect x="92" y="1128" width="3" height="54" fill="#5b4fc7"/>
+  <text x="110" y="1158" font-family="Georgia, serif" font-size="30" font-weight="400" fill="#a06316">“</text>
+  <text x="132" y="1152" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#312a7a">The tinted panel, not a bar or a rule.</text>
+  <text x="132" y="1171" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#8f5c14">Accent 2 marks the links tier only.</text>
+  </g>
+  <g><rect x="696" y="96" width="620" height="1148" fill="#14131c"/>
+  <text x="728" y="142" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#8b8599" letter-spacing="0.16em">DARK</text>
+  <text x="728" y="178" font-family="Instrument Serif, Times New Roman, Georgia, serif" font-size="30" font-weight="400" fill="#e9e5dd">Deep Field</text>
+  <line x1="728" y1="194" x2="1284" y2="194" stroke="#2e2b3d" stroke-width="1"/>
+  <rect x="728" y="216.0" width="128" height="52" fill="#14131c" stroke="#2e2b3d" stroke-width="1"/>
+  <text x="876" y="234" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9e5dd">Ground</text>
+  <text x="876" y="251" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#8b8599">page background</text>
+  <text x="1284" y="234" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#e9e5dd" text-anchor="end">#14131C</text>
+  <text x="1284" y="251" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#8b8599" text-anchor="end">20, 19, 28</text>
+  <rect x="728" y="284.0" width="128" height="52" fill="#191826" stroke="#2e2b3d" stroke-width="1"/>
+  <text x="876" y="302" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9e5dd">Ground tint</text>
+  <text x="876" y="319" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#8b8599">banded sections, teaser cards</text>
+  <text x="1284" y="302" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#e9e5dd" text-anchor="end">#191826</text>
+  <text x="1284" y="319" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#8b8599" text-anchor="end">25, 24, 38</text>
+  <rect x="728" y="352.0" width="128" height="52" fill="#1e1c29" stroke="#2e2b3d" stroke-width="1"/>
+  <text x="876" y="370" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9e5dd">Surface</text>
+  <text x="876" y="387" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#8b8599">raised panels, nav overflow</text>
+  <text x="1284" y="370" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#e9e5dd" text-anchor="end">#1E1C29</text>
+  <text x="1284" y="387" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#8b8599" text-anchor="end">30, 28, 41</text>
+  <rect x="728" y="420.0" width="128" height="52" fill="#e9e5dd" stroke="#2e2b3d" stroke-width="1"/>
+  <text x="876" y="438" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9e5dd">Text</text>
+  <text x="876" y="455" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#8b8599">body copy</text>
+  <text x="1284" y="438" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#e9e5dd" text-anchor="end">#E9E5DD</text>
+  <text x="1284" y="455" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#8b8599" text-anchor="end">233, 229, 221</text>
+  <rect x="728" y="488.0" width="128" height="52" fill="#8b8599" stroke="#2e2b3d" stroke-width="1"/>
+  <text x="876" y="506" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9e5dd">Text dim</text>
+  <text x="876" y="523" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#8b8599">meta, captions, secondary</text>
+  <text x="1284" y="506" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#e9e5dd" text-anchor="end">#8B8599</text>
+  <text x="1284" y="523" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#8b8599" text-anchor="end">139, 133, 153</text>
+  <rect x="728" y="556.0" width="128" height="52" fill="#2e2b3d" stroke="#2e2b3d" stroke-width="1"/>
+  <text x="876" y="574" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9e5dd">Rule</text>
+  <text x="876" y="591" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#8b8599">hairlines, borders, dividers</text>
+  <text x="1284" y="574" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#e9e5dd" text-anchor="end">#2E2B3D</text>
+  <text x="1284" y="591" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#8b8599" text-anchor="end">46, 43, 61</text>
+  <rect x="728" y="624.0" width="128" height="52" fill="#8d8df3" stroke="#2e2b3d" stroke-width="1"/>
+  <text x="876" y="642" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9e5dd">Accent</text>
+  <text x="876" y="659" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#8b8599">prose links, primary mark</text>
+  <text x="1284" y="642" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#e9e5dd" text-anchor="end">#8D8DF3</text>
+  <text x="1284" y="659" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#8b8599" text-anchor="end">141, 141, 243</text>
+  <rect x="728" y="692.0" width="128" height="52" fill="#e0a458" stroke="#2e2b3d" stroke-width="1"/>
+  <text x="876" y="710" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9e5dd">Accent 2</text>
+  <text x="876" y="727" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#8b8599">links-tier only, never his own writing</text>
+  <text x="1284" y="710" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#e9e5dd" text-anchor="end">#E0A458</text>
+  <text x="1284" y="727" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#8b8599" text-anchor="end">224, 164, 88</text>
+  <rect x="728" y="760.0" width="128" height="52" fill="#a9a3b8" stroke="#2e2b3d" stroke-width="1"/>
+  <text x="876" y="778" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9e5dd">Nav</text>
+  <text x="876" y="795" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#8b8599">masthead links</text>
+  <text x="1284" y="778" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#e9e5dd" text-anchor="end">#A9A3B8</text>
+  <text x="1284" y="795" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#8b8599" text-anchor="end">169, 163, 184</text>
+  <rect x="728" y="828.0" width="128" height="52" fill="#252042" stroke="#2e2b3d" stroke-width="1"/>
+  <text x="876" y="846" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9e5dd">Quote bg</text>
+  <text x="876" y="863" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#8b8599">pull-quote tinted panel</text>
+  <text x="1284" y="846" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#e9e5dd" text-anchor="end">#252042</text>
+  <text x="1284" y="863" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#8b8599" text-anchor="end">37, 32, 66</text>
+  <rect x="728" y="896.0" width="128" height="52" fill="#cfc9ff" stroke="#2e2b3d" stroke-width="1"/>
+  <text x="876" y="914" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9e5dd">Quote text</text>
+  <text x="876" y="931" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#8b8599">pull-quote copy</text>
+  <text x="1284" y="914" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#e9e5dd" text-anchor="end">#CFC9FF</text>
+  <text x="1284" y="931" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#8b8599" text-anchor="end">207, 201, 255</text>
+  <rect x="728" y="964.0" width="128" height="52" fill="#e0a458" stroke="#2e2b3d" stroke-width="1"/>
+  <text x="876" y="982" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9e5dd">Quote mark</text>
+  <text x="876" y="999" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#8b8599">pull-quote glyph</text>
+  <text x="1284" y="982" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#e9e5dd" text-anchor="end">#E0A458</text>
+  <text x="1284" y="999" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#8b8599" text-anchor="end">224, 164, 88</text>
+  <rect x="728" y="1032" width="556" height="162" fill="#191826" stroke="#2e2b3d" stroke-width="1"/>
+  <text x="748" y="1064" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="10" font-weight="500" fill="#8b8599" letter-spacing="0.16em">IN CONTEXT</text>
+  <text x="748" y="1092" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" fill="#e9e5dd">Body copy sets over the ground, <tspan fill="#8d8df3" font-weight="500">a prose link</tspan> inside it.</text>
+  <text x="748" y="1112" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#8b8599">Meta and captions sit dim. Nav is its own tone.</text>
+  <rect x="748" y="1128" width="516" height="54" fill="#252042"/>
+  <rect x="748" y="1128" width="3" height="54" fill="#8d8df3"/>
+  <text x="766" y="1158" font-family="Georgia, serif" font-size="30" font-weight="400" fill="#e0a458">“</text>
+  <text x="788" y="1152" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#cfc9ff">The tinted panel, not a bar or a rule.</text>
+  <text x="788" y="1171" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#e0a458">Accent 2 marks the links tier only.</text>
+  </g>
+  <text x="40" y="1276" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#635e75">Twelve roles, redefined once for dark. Eyedrop the chips — every fill is flat, 100% opacity, no gradient or blend.</text>
+  <text x="40" y="1294" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#635e75">Type: Instrument Serif (display) · Literata (body) · JetBrains Mono (meta). Regenerate: python3 bin/gen-palette-svg.py</text>
+</svg>
