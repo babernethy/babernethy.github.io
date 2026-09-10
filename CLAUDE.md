@@ -11,9 +11,17 @@ older ones were migrated from WordPress.
 
 ## Local development
 
-Ruby is pinned by `.ruby-version` (3.4.10) and activated automatically by
-`chruby` on `cd` into the repo. If `ruby -v` reports the system 2.6.10, the
-chruby hook in `~/.zshrc` did not load — open a new shell.
+Ruby is pinned by `.ruby-version` (3.4.10). Which version manager honours that
+pin differs per machine — the MacBook Pro uses `chruby`, the Mac mini uses
+`rbenv` — so don't assume one. Bundler is pinned by `BUNDLED WITH` in
+`Gemfile.lock` (4.0.15); `gem install bundler -v 4.0.15` if `bundle -v`
+disagrees.
+
+If `ruby -v` does not report 3.4.10, the pin is not being applied. Check which
+manager owns `which ruby`, then install 3.4.10 under *that* one — `rbenv install
+3.4.10` (run `brew upgrade ruby-build` first if the version is not offered), or
+`ruby-install ruby 3.4.10` for chruby. Opening a new shell fixes it only when
+the manager already has 3.4.10 built.
 
 ```bash
 bundle install              # first time, or after a Gemfile change
