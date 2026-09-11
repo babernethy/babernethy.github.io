@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "jekyll",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": [
+        "-lc",
+        "source /opt/homebrew/opt/chruby/share/chruby/chruby.sh && chruby ruby-3.4.10 && bundle exec jekyll serve --drafts --port 4000"
+      ],
+      "port": 4000
+    }
+  ]
+}

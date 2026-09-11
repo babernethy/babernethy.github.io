@@ -1,24 +1,28 @@
 ---
 title: "Don't Get Cut by Hanlon's Razor"
-excerpt: "Hanlon's Razor tells us not to assume malice. Dreyfus, Dunning, and Kruger tell us what to assume instead."
-description: "Hanlon's Razor tells us not to assume malice. Dreyfus, Dunning, and Kruger tell us what to assume instead."
+excerpt: "Hanlon's Razor tells us not to assume malice. Dreyfus, Dunning, and Kruger guide us towards what to assume instead."
+description: "Hanlon's Razor tells us not to assume malice. Dreyfus, Dunning, and Kruger guide us towards what to assume instead."
 category: "jobs"
 tags: ["leadership", "thinking", "jobs"]
 comments: true
 toc: true
 header:
-  teaser: /assets/images/dont-get-cut-by-hanlons-razor-light.svg
+  teaser: /assets/images/dont-get-cut-by-hanlons-razor-light.png
   tagline: "Hanlon's Razor tells us not to assume malice. Dreyfus, Dunning, and Kruger guide us towards what to assume instead."
 ---
 
 <picture>
-  <source srcset="/assets/images/dont-get-cut-by-hanlons-razor-dark.svg" media="(prefers-color-scheme: dark)">
-  <img src="/assets/images/dont-get-cut-by-hanlons-razor-light.svg" alt="A straight razor whose blade is the gap between the competence and confidence curves.">
+  <source
+    srcset="{{ '/assets/images/dont-get-cut-by-hanlons-razor-dark.svg' | relative_url }}"
+    media="(prefers-color-scheme: dark)">
+  <img
+    src="{{ '/assets/images/dont-get-cut-by-hanlons-razor-light.svg' | relative_url }}"
+    alt="Illustration of Hanlon's Razor and the Razor Gap">
 </picture>
 
 You are having a discussion with a group of people when someone makes a quite confident statement about a complicated problem.
 
-They have the answer, in some detail, they may have a lot of right-sounding terms, some more content to back it up (maybe even a sharp presentation), and sound quite confident about their position. They may even seem surprised (or even upset) if everyone else does not see their point clearly after their first explanation.
+They have the answer, in some detail, they may have a lot of right-sounding terms, some more content to back it up (maybe even a sharp presentation), and exhibit confidence about their position. They may even seem surprised (or even upset) if everyone else does not see their point clearly after their first explanation.
 
 Yet, around the room, some people who have lived with the problem the longest seem hesitant. They qualify their answers, ask questions, identify exceptions, and ask for more information.
 
@@ -26,57 +30,69 @@ Who sounds more credible?
 
 > Too often, we confuse Confidence with Competence
 
-It is very easy to confuse confidence with competence. A person who speaks decisively, convincingly, and passionately, sounds knowledgeable. While the person who sees five possible failure modes, and asks a number of questions, or asks for additional detail and information, sounds uncertain.
+It is very easy to confuse confidence with competence. A person who speaks decisively, convincingly, and passionately, sounds knowledgeable. While the person who sees five possible areas of failure, and asks a number of questions, or wants additional detail and information - they can sound uncertain.
 
-When the discussion becomes tense, we may go further and assign motives: *They are being difficult. They are protecting their territory. They do not care about the outcome. They don't understand. They are deliberately slowing us down.*
+When the discussion becomes tense, we may go further and start to assign motives: *They are being difficult. They are protecting their territory. They do not care about the outcome. They don't understand. They are deliberately slowing us down.*
 
 That is where Hanlon's Razor can cut us.
 
-Hanlon's Razor asks us not to attribute to malice what error, ignorance, or misunderstanding adequately explains. It is usually credited to a Robert J. Hanlon, by way of a joke book, which makes it a "rule of thumb" rather than a law. It is a useful idea to remember, but it is not enough by itself. Telling someone what *not* to assume leaves the more important question open: what should we assume instead?
+Hanlon's Razor asks us not to attribute to malice what error, ignorance, or misunderstanding adequately explains. It is a useful idea to remember, but it is not enough by itself. Telling someone what *not* to assume leaves the more important question open: what should we assume instead?
 
 > Telling someone what *not* to assume leaves the more important question open: what *should* we assume instead?
 
-If we combine "the razor" with the Dreyfus model of skill acquisition, the Dunning–Kruger research on self-assessment, and mapping this together and finding something I'd like to call the **Razor Gap**, we get a more useful answer.
-
-The goal is not to diagnose or label people. It is to become slower to judge motives, more curious about capability, and more honest about our own certainty.
-
-| Background: These ideas have been with me for a long time. In 2007, I wrote about [the "Dreyfus Model of Skill Acquisition"]({% post_url 2007-08-18-the-dreyfus-model-of-skills-acquisition %}) and then about Kruger and Dunning's paper, ["Unskilled and Unaware of It"]({% post_url 2007-08-18-unskilled-and-unaware-of-it %}). A few decades later it seems like AI has amplified the issue, and coming across "The Razor Gap" as a way to illustrate this seems like a good way to communicate it.
+If we combine "the Razor" with the [Dreyfus Model of Skill Acquisition]({% post_url 2007-08-18-the-dreyfus-model-of-skills-acquisition %})  and the [Dunning–Kruger Research on Self-Assessment]({% post_url 2007-08-18-unskilled-and-unaware-of-it %}), and map them together into something I'd like to call the **Razor Gap**, we get a more useful answer.
 
 ## Three ideas and one Razor
 
-### Dreyfus: competence develops through stages
+Let's quickly review the other two models and ideas and then pull them together.
 
-The Dreyfus model describes skill acquisition as a progression through five stages: **novice, advanced beginner, competent, proficient, and expert**.[^1]
+### Dreyfus and Dreyfus: Competence develops through Stages
+
+The Dreyfus model describes skill acquisition as a progression through five stages: **Novice, Advanced Beginner, Competent, Proficient, and Expert**.
 
 Dreyfus and Dreyfus describe the underlying movement this way:
 
-> "as the student becomes skilled, he depends less on abstract principles and more on concrete experience."[^1]
+* A **Novice** follows rules built on features they can recognize without any experience of the domain.
+* An **Advanced Beginner** starts recognizing recurring situations, but treats everything they notice as equally important.
+* A **Competent** practitioner works from experience-based patterns, commits to a plan, and owns the outcome.
+* A **Proficient** practitioner sees whole situations and, perhaps for the first time, which parts of them matter most. They still reason their way to a response.
+* An **Expert** no longer reasons it out. The situation itself suggests the action. There is a aspect of now natural instinct and intuition that has developed here now.  
+  * These are the people now writing the rules for the earlier stages.
+  * There is no "shortcut" to Expert and it requires a lot of time working in the domain (this is also where some of the "10,000 hours" (4-5 years) concepts come from)
+  * **Note:** there are, arguably, no (or very few), **"AI Experts"** out there in specific areas in 2026 (and if you think there/you are - keep reading).
 
-* A **Novice** depends heavily on rules and instructions.
-* An **Advanced Beginner** starts recognizing recurring situations but may struggle to decide which details matter.
-* A **Competent** practitioner can plan, prioritize, and accept responsibility for choices.
-* A **Proficient** practitioner sees situations more holistically.
-* An **Expert** recognizes meaningful patterns and responds fluidly, while still slowing down when the situation is unfamiliar or anomalous.
+The Dreyfuses describe four mental functions, each of which flips exactly once, from a more basic to a more advanced form, as skill develops:
 
-This is not simply the accumulation of more facts. Expertise changes how a person sees the problem. What appeared to be one straightforward decision becomes a network of context, tradeoffs, precedents, and consequences.
+| | Novice | Advanced Beginner | Competent | Proficient | Expert | 
+|---|---|---|---|---|---|
+| **Recollection** | Non-situational | Situational | Situational | Situational | Situational |
+| **Recognition** | Decomposed | Decomposed | Holistic | Holistic | Holistic |
+| **Decision** | Analytical | Analytical | Analytical | Intuitive | Intuitive |
+| **Awareness** | Monitoring | Monitoring | Monitoring | Monitoring | Absorbed |
 
-### Dunning and Kruger: self-assessment can be poorly calibrated
+Each stage is not simply the accumulation of more facts. Expertise changes how a person sees the problem. What appeared to be one straightforward decision becomes a more complex combination of context, tradeoffs, precedents, and consequences.
+
+### Dunning and Kruger: Self-Assessment can be poorly calibrated
 
 The original Dunning–Kruger studies found that low performers often substantially overestimated their performance. One proposed explanation is metacognitive: some of the knowledge required to perform well is also required to recognize what good performance looks like. As Kruger and Dunning put it:
 
 > "the skills that engender competence in a particular domain are often the very same skills necessary to evaluate competence in that domain"[^2]
 
-There is an important caution here. The famous internet curve — with its dramatic peak, crash, and gradual recovery — is not a graph produced by Dunning and Kruger. The size and interpretation of the effect are also debated, including whether part of the observed pattern can be explained statistically.[^3] I use the rise-and-fall shape in my illustration as a **storytelling model**, not as a precise scientific curve.
+Over-simplified our ability to judge our own competence is imperfect, and it is least reliable exactly when we lack the context to see our own mistakes.
 
-The durable insight is simpler: our ability to judge our own competence is imperfect, and it is least reliable exactly when we lack the context to see our own mistakes.
+When you are first learning about a new domain or skill, you can quickly go deep and have a over-inflated self-assessment about your actual knowledge about the topic (and again, this can now be amplified by using AI to speed learning about a topic as that can hyper-focus and over-refine materials that strip out the nuance and complexity for the sake of brevity and efficiency (but still give a sense of complete coverage)).
+
+> A person may feel like they know a significant amount about AI after studying about it for 6 months or so. Whereas, someone who has been using ML/AI and related technologies for 4,5,10 years may have many concerns and caveats about particular implementations and expected outcomes.
 
 ### "The Razor Gap": confidence relative to competence
 
-The Dreyfus model describes the development of **Competence**. Dunning and Kruger explored the accuracy of self-assessment or **Confidence**. I use **the Razor Gap** as a visual metaphor connecting those ideas:
+Now hopefully something that can be helpful to pull this all together.
+
+The Dreyfus model describes the development of **Competence**. Dunning and Kruger explored the accuracy of self-assessment or **Confidence**. I will use the term **Razor Gap** as a visual metaphor connecting those ideas:
 
 > **Razor Gap (Δ) = expressed Confidence − demonstrated Competence**
 
-This isn't "scientific" measurements but more of a mental model and a practical name for that space or gap that opens when there is a "miscalibration" between someone's demonstrable competence and their self-assessed confidence.  The wider this "Razor Gap" the more the distortion of reality exists for the person and this is potentially very damaging for them or those around them.
+This isn't a scientific measurement, but more of a mental model and a practical name for that space or gap that opens when there is a "miscalibration" between someone's demonstrable competence and their self-assessed confidence. The wider this "Razor Gap" the more the distortion of reality exists for the person and this is potentially very damaging for them or those around them.
 
 ![A conceptual line chart of competence and confidence across the five Dreyfus stages, with the space between them shaded as the Razor Gap.](/assets/images/dreyfus-confidence-competence.svg)
 
@@ -90,10 +106,10 @@ Note that neither direction is automatically "the problem." A large positive gap
 
 The goal is **Calibrated Confidence**: enough to act, enough humility to see uncertainty, and enough self-awareness to know when another perspective is needed.
 
-In my illustration/graph ...
+In the illustration/graph ...
 
-* the **Novice** begins with a wide positive gap.
-* The **Advanced Beginner's** confidence drops as the details becomes visible.
+* the **Novice** begins with a wide positive gap - a little knowledge or skill can be a dangerous thing
+* The **Advanced Beginner's** confidence drops as the wealth of details become visible.
 * Confidence and competence align around the **Competent** stage.
 * The **Proficient** and **Expert** stages show a modest negative gap — not because experts lack confidence, but because they understand many details, have experiences, and understand boundary conditions - this helps them to see how much remains uncertain.
 
@@ -101,17 +117,22 @@ In my illustration/graph ...
 >
 > All of this, while still being still very early on the curve of competence, learning, and actual skill acquisition and knowledge about a particular topic or domain.
 
-That is a pattern I have observed, not a claim that every person follows the same path.
+*Note: This is a pattern that many (including myself) have observed, but clearly not a claim that every person follows the same path.*
 
-## How Hanlon's Razor cuts the wrong thing
+## How Hanlon's Razor could cut the wrong thing
 
-Imagine a discussion at SWIVEL about retrying a failed instant payment.
+Imagine a meeting where someone proposes putting an AI assistant in front of customers.
 
-Someone new to the domain might say, "If it fails, retry it. That is what retries are for." The statement is simple, confident, and not obviously irrational. In most systems, it would even be correct.
+Someone new to the technology makes the case: "It already answers these
+questions better than our help pages do. Let's let it handle the common ones." The statement is simple, confident, and not obviously wrong. Done carefully, it might even be right.
 
-Someone with deeper payments experience starts asking questions. Did the request fail before submission, or did the response disappear afterward? Could the payment already have been accepted? Is the operation idempotent? What do the network rules permit? How will duplicate risk, settlement, posting, and reconciliation be handled?
+But another person, who has actually put one of these in front of real customers starts asking questions instead.
 
-The expert's answer sounds less decisive because the expert can see more of the system. The hesitation *is* the expertise. But hesitation is not what a room under time pressure rewards.
+The first questions might be about the answers themselves. What does it do when it does not know? Say so, or guess? Where is it reading our policy from, and who updates that when the policy changes? If it tells a customer we offer something we do not, are we bound by what it said? Whose name is on that answer? Ours, or the vendor's?
+
+Then the harder issues, about how we would ever know. Nobody files a ticket to report a confident answer, they act on it, and we hear about it weeks later, from somewhere else, if at all. And when we say it answers better than our help pages ... better on which questions, judged by who/how?  The ones we thought to test, or the ones people actually ask at eleven at night when something has already gone wrong?
+
+The second answer sounds less decisive because that person can see more of the system. The hesitation *is* the expertise. But hesitation is not what a room under time pressure rewards.
 
 Several bad assumptions can now enter the conversation:
 
@@ -185,7 +206,7 @@ Try using distinct language:
 - "I am confident about X but uncertain about Y."
 - "I have not worked directly in this part of the domain."
 
-This is especially valuable in software architecture, where the same person can be an expert in distributed systems and a novice in payment-network operations during a single conversation.
+This is especially valuable right now, when the same person can be a genuine expert in their own field and a complete novice in the tool they are being asked to adopt — sometimes within a single sentence.
 
 ### Treat discomfort as information
 
@@ -197,7 +218,7 @@ Curiosity is what helps us stay in that uncomfortable stage long enough to grow 
 
 ### Make updating visible
 
-When new evidence changes your position, say so plainly: "I was assuming the timeout meant the payment failed. I now understand the outcome may be unknown, so I am changing my recommendation."
+When new evidence changes your position, say so plainly: "I was assuming the assistant would tell us when it was not sure. I have now watched it answer confidently either way, so I am changing my recommendation."
 
 That is not losing a debate. It is demonstrating calibration — and narrowing the Razor Gap in public, where it does the most good.
 
@@ -205,7 +226,7 @@ That is not losing a debate. It is demonstrating calibration — and narrowing t
 
 The Dreyfus stages are not a hierarchy of human worth. Dunning–Kruger is not a sophisticated way to call someone stupid. Hanlon's Razor is not permission to ignore harmful patterns.
 
-We are all novices somewhere, and we occupy different stages within the same project. The expert in application architecture may be the advanced beginner in compliance. The payments expert may be the novice in observability. Healthy collaboration begins when people can contribute expertise without pretending it is universal.
+We are all novices somewhere, and we occupy different stages within the same project. The expert in the craft may be the advanced beginner in the regulation that now governs it. The expert in the tool may be the novice in the work it is being pointed at. Healthy collaboration begins when people can contribute expertise without pretending it is universal.
 
 ## A short Razor Gap check
 
@@ -232,4 +253,5 @@ The next time a conversation becomes tense, pause before deciding what another p
 
 [^1]: Stuart E. Dreyfus and Hubert L. Dreyfus, "[A Five-Stage Model of the Mental Activities Involved in Directed Skill Acquisition](/assets/mirror/dreyfus-model.pdf)," Operations Research Center, University of California, Berkeley, February 1980.
 [^2]: Justin Kruger and David Dunning, "[Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments](https://doi.org/10.1037/0022-3514.77.6.1121)," *Journal of Personality and Social Psychology* 77, no. 6 (1999): 1121–1134. ([mirror, 498KB](/assets/mirror/1999-kruger.pdf))
+[^4]: Hubert L. Dreyfus and Stuart E. Dreyfus, *Mind Over Machine: The Power of Human Intuition and Expertise in the Era of the Computer* (New York: Free Press, 1986). The familiar five-stage list, including "advanced beginner," is the formulation from this later work rather than the 1980 report.
 [^3]: For examples of the methodological debate, see Gilles E. Gignac and Marcin Zajenkowski, "[The Dunning–Kruger Effect Is (Mostly) a Statistical Artefact](https://research-repository.uwa.edu.au/en/publications/the-dunning-kruger-effect-is-mostly-a-statistical-artefact-valid-/)," *Intelligence* 80 (2020), and Jan R. Magnus and Nikita Peresetsky, "[A Statistical Explanation of the Dunning–Kruger Effect](https://pmc.ncbi.nlm.nih.gov/articles/PMC8992690/)," *Frontiers in Psychology* 13 (2022).

@@ -1338,3 +1338,32 @@ body::before {
     pointer-events: none;
   }
 }
+
+/* --------------------------------------------------------------------------
+   Tables
+
+   The theme bakes the header band at compile time: `thead` takes
+   $border-color and `th` sets no colour of its own, so the dark rendering
+   put cream text on a light lavender band at roughly 1.2:1. The band, the
+   header edge and the cell rules all move onto tokens.
+
+   --df-rule is the same value the theme was already using for the band, so
+   the light rendering keeps the header it had; the cell rules go from a
+   baked mid-grey to the same token, which reads a little quieter in light
+   and stops them glaring in dark.
+   -------------------------------------------------------------------------- */
+
+.page__content {
+  thead {
+    background-color: var(--df-rule);
+    border-bottom: 2px solid var(--df-text-dim);
+  }
+
+  th {
+    color: var(--df-text);
+  }
+
+  td {
+    border-bottom: 1px solid var(--df-rule);
+  }
+}
