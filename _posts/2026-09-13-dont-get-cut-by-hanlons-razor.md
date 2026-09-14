@@ -94,7 +94,7 @@ When you are first learning about a new domain or skill, you can quickly go deep
 
 The Dreyfus model describes the development of **Competence**. Dunning and Kruger explored the accuracy of self-assessment or **Confidence**. I will use the term **Razor Gap** as a visual metaphor connecting those ideas:
 
-![A conceptual line chart of competence and confidence across the five Dreyfus stages, with the space between them shaded as the Razor Gap.](/assets/images/dreyfus-confidence-competence.svg)
+![A conceptual line chart of competence and confidence across the five Dreyfus stages, with the space between them shaded as the Razor Gap.](/assets/images/dreyfus-confidence-competence-dark.png)
 
 If you squint, the shape looks like a straight razor: a wide blade on the left where confidence runs ahead of competence, tapering toward the handle as the two converge. So I call the space between the lines the **Razor Gap**:
 
