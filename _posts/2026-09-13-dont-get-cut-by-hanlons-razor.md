@@ -42,6 +42,8 @@ Hanlon's Razor asks us not to attribute to malice what error, ignorance, or misu
 
 If we combine Hanlon's Razor with the [Dreyfus Model of Skill Acquisition]({% post_url 2007-08-18-the-dreyfus-model-of-skills-acquisition %})  and the [Dunning–Kruger Research on Self-Assessment]({% post_url 2007-08-18-unskilled-and-unaware-of-it %}), and map them together into something I'd like to call the **Razor Gap**, we get a more useful answer.
 
+*Note: The links above are to articles describing these models in much more detail, and in fact with links to copies of the original source material for both.  In the two decades or more since these have come out popular retellings and updates and interpretations of both often talk more than the originals (including the summarized and adaptations below).*
+
 ## Three ideas and one Razor
 
 ![razor bullet](/assets/images/mini_razor.svg){: width="76px"}
